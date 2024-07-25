@@ -1,0 +1,939 @@
+ID,Name_lang
+1,The Gladiator
+41,Dal'Rend's Arms
+65,Spider's Kiss
+81,The Postmaster
+121,Cadaverous Garb
+122,Necropile Raiment
+123,Bloodmail Regalia
+124,Deathbone Guardian
+141,Volcanic Armor
+142,Stormshroud Armor
+143,Devilsaur Armor
+144,Ironfeather Armor
+161,Defias Leather
+162,Embrace of the Viper
+163,Chain of the Scarlet Crusade
+181,Magister's Regalia
+182,Vestments of the Devout
+183,Dreadmist Raiment
+184,Shadowcraft Armor
+185,Wildheart Raiment
+186,Beaststalker Armor
+187,The Elements
+188,Lightforge Armor
+189,Battlegear of Valor
+201,Arcanist Regalia
+202,Vestments of Prophecy
+203,Felheart Raiment
+204,Nightslayer Armor
+205,Cenarion Raiment
+206,Giantstalker Armor
+207,The Earthfury
+208,Lawbringer Armor
+209,Battlegear of Might
+210,Netherwind Regalia
+211,Vestments of Transcendence
+212,Nemesis Raiment
+213,Bloodfang Armor
+214,Stormrage Raiment
+215,Dragonstalker Armor
+216,The Ten Storms
+217,Judgment Armor
+218,Battlegear of Wrath
+221,Garb of Thero-shan
+241,Shard of the Gods
+261,Spirit of Eskhandar
+281,Champion's Battlegear
+282,Lieutenant Commander's Battlegear
+301,Champion's Earthshaker
+321,Imperial Plate
+341,Champion's Regalia
+342,Champion's Raiment
+343,Lieutenant Commander's Regalia
+344,Lieutenant Commander's Raiment
+345,Champion's Threads
+346,Lieutenant Commander's Threads
+347,Champion's Vestments
+348,Lieutenant Commander's Vestments
+361,Champion's Pursuit
+362,Lieutenant Commander's Pursuit
+381,Lieutenant Commander's Sanctuary
+382,Champion's Sanctuary
+383,Warlord's Battlegear
+384,Field Marshal's Battlegear
+386,Warlord's Earthshaker
+387,Warlord's Regalia
+388,Field Marshal's Regalia
+389,Field Marshal's Raiment
+390,Warlord's Raiment
+391,Warlord's Threads
+392,Field Marshal's Threads
+393,Warlord's Vestments
+394,Field Marshal's Vestments
+395,Field Marshal's Pursuit
+396,Warlord's Pursuit
+397,Field Marshal's Sanctuary
+398,Warlord's Sanctuary
+401,Lieutenant Commander's Aegis
+402,Field Marshal's Aegis
+421,Bloodvine Garb
+441,Primal Batskin
+442,Blood Tiger Harness
+443,Bloodsoul Embrace
+444,The Darksoul
+461,The Twin Blades of Hakkari
+462,Zanzil's Concentration
+463,Primal Blessing
+464,Overlord's Resolution
+465,Prayer of the Primal
+466,Major Mojo Infusion
+467,The Highlander's Resolution
+468,The Highlander's Resolve
+469,The Highlander's Determination
+470,The Highlander's Fortitude
+471,The Highlander's Purpose
+472,The Highlander's Will
+473,The Highlander's Intent
+474,Vindicator's Battlegear
+475,Freethinker's Armor
+476,Augur's Regalia
+477,Predator's Armor
+478,Madcap's Outfit
+479,Haruspex's Garb
+480,Confessor's Raiment
+481,Demoniac's Threads
+482,Illusionist's Attire
+483,The Defiler's Determination
+484,The Defiler's Fortitude
+485,The Defiler's Intent
+486,The Defiler's Purpose
+487,The Defiler's Resolution
+488,The Defiler's Will
+489,Black Dragon Mail
+490,Green Dragon Mail
+491,Blue Dragon Mail
+492,Twilight Trappings
+493,Genesis Raiment
+494,Symbols of Unending Life
+495,Battlegear of Unyielding Strength
+496,Conqueror's Battlegear
+497,Deathdealer's Embrace
+498,Emblems of Veiled Shadows
+499,Doomcaller's Attire
+500,Implements of Unspoken Names
+501,Stormcaller's Garb
+502,Gift of the Gathering Storm
+503,Enigma Vestments
+504,Trappings of Vaulted Secrets
+505,Avenger's Battlegear
+506,Battlegear of Eternal Justice
+507,Garments of the Oracle
+508,Finery of Infinite Wisdom
+509,Striker's Garb
+510,Trappings of the Unseen Path
+511,Battlegear of Heroism
+512,Darkmantle Armor
+513,Feralheart Raiment
+514,Vestments of the Virtuous
+515,Beastmaster Armor
+516,Soulforge Armor
+517,Sorcerer's Regalia
+518,Deathmist Raiment
+519,The Five Thunders
+520,Ironweave Battlesuit
+521,Dreamwalker Raiment
+522,Champion's Guard
+523,Dreadnaught's Battlegear
+524,Bonescythe Armor
+525,Vestments of Faith
+526,Frostfire Regalia
+527,The Earthshatterer
+528,Redemption Armor
+529,Plagueheart Raiment
+530,Cryptstalker Armor
+533,Battlegear of Undead Slaying
+534,Undead Slayer's Armor
+535,Garb of the Undead Slayer
+536,Regalia of Undead Cleansing
+537,Champion's Battlearmor
+538,Champion's Stormcaller
+539,Champion's Refuge
+540,Champion's Investiture
+541,Champion's Dreadgear
+542,Champion's Arcanum
+543,Champion's Pursuance
+544,Lieutenant Commander's Redoubt
+545,Lieutenant Commander's Battlearmor
+546,Lieutenant Commander's Arcanum
+547,Lieutenant Commander's Dreadgear
+548,Lieutenant Commander's Guard
+549,Lieutenant Commander's Investiture
+550,Lieutenant Commander's Pursuance
+551,Lieutenant Commander's Refuge
+552,Wrath of Spellfire
+553,Shadow's Embrace
+554,Primal Mooncloth
+555,Netherweave Vestments
+556,Imbued Netherweave
+557,Soulcloth Embrace
+558,Arcanoweave Vestments
+559,Spellstrike Infusion
+560,Fel Iron Plate
+561,Fel Iron Chain
+562,Adamantite Battlegear
+563,Enchanted Adamantite Armor
+564,Flame Guard
+565,Khorium Ward
+566,Burning Rage
+567,Gladiator's Battlegear
+568,Gladiator's Dreadgear
+569,Faith in Felsteel
+570,The Unyielding
+571,Whitemend Wisdom
+572,Battlecast Garb
+573,Fel Skin
+574,Strength of the Clefthoof
+575,Felstalker Armor
+576,Fury of the Nether
+577,Gladiator's Vestments
+578,Gladiator's Earthshaker
+579,Gladiator's Regalia
+580,Gladiator's Thunderfist
+581,Gladiator's Raiment
+582,Gladiator's Aegis
+583,Gladiator's Vindication
+584,Gladiator's Sanctuary
+585,Gladiator's Wildhide
+586,Gladiator's Pursuit
+587,High Warlord's Aegis
+588,High Warlord's Battlegear
+589,Grand Marshal's Aegis
+590,Grand Marshal's Battlegear
+591,Grand Marshal's Dreadgear
+592,High Warlord's Dreadgear
+593,Grand Marshal's Earthshaker
+594,High Warlord's Earthshaker
+595,Grand Marshal's Pursuit
+596,High Warlord's Pursuit
+597,Grand Marshal's Raiment
+598,High Warlord's Raiment
+599,Grand Marshal's Regalia
+600,High Warlord's Regalia
+601,Grand Marshal's Sanctuary
+602,High Warlord's Sanctuary
+603,Grand Marshal's Thunderfist
+604,High Warlord's Thunderfist
+605,Grand Marshal's Vestments
+606,High Warlord's Vestments
+607,Grand Marshal's Vindication
+608,High Warlord's Vindication
+609,Grand Marshal's Wildhide
+610,High Warlord's Wildhide
+611,Felscale Armor
+612,Scaled Draenic Armor
+613,Thick Draenic Armor
+614,Wild Draenish Armor
+615,Gladiator's Felshroud
+616,Netherscale Armor
+617,Netherstrike Armor
+618,Windhawk Armor
+619,Primal Intent
+620,Assassination Armor
+621,Netherblade
+622,Deathmantle
+623,Righteous Armor
+624,Justicar Raiment
+625,Justicar Armor
+626,Justicar Battlegear
+627,Crystalforge Raiment
+628,Crystalforge Armor
+629,Crystalforge Battlegear
+630,Tidefury Raiment
+631,Cyclone Raiment
+632,Cyclone Regalia
+633,Cyclone Harness
+634,Cataclysm Raiment
+635,Cataclysm Regalia
+636,Cataclysm Harness
+637,Moonglade Raiment
+638,Malorne Raiment
+639,Malorne Regalia
+640,Malorne Harness
+641,Nordrassil Harness
+642,Nordrassil Raiment
+643,Nordrassil Regalia
+644,Oblivion Raiment
+645,Voidheart Raiment
+646,Corruptor Raiment
+647,Incanter's Regalia
+648,Aldor Regalia
+649,Tirisfal Regalia
+650,Beast Lord Armor
+651,Demon Stalker Armor
+652,Rift Stalker Armor
+653,Bold Armor
+654,Warbringer Armor
+655,Warbringer Battlegear
+656,Destroyer Armor
+657,Destroyer Battlegear
+658,Mana-Etched Regalia
+659,Wastewalker Armor
+660,Desolation Battlegear
+661,Doomplate Battlegear
+662,Hallowed Raiment
+663,Incarnate Raiment
+664,Incarnate Regalia
+665,Avatar Raiment
+666,Avatar Regalia
+667,The Twin Stars
+668,Slayer's Armor
+669,Gronnstalker's Armor
+670,Malefic Raiment
+671,Tempest Regalia
+672,Onslaught Battlegear
+673,Onslaught Armor
+674,Absolution Regalia
+675,Vestments of Absolution
+676,Thunderheart Harness
+677,Thunderheart Regalia
+678,Thunderheart Raiment
+679,Lightbringer Armor
+680,Lightbringer Battlegear
+681,Lightbringer Raiment
+682,Skyshatter Harness
+683,Skyshatter Raiment
+684,Skyshatter Regalia
+685,Gladiator's Refuge
+686,Gladiator's Wartide
+687,Gladiator's Investiture
+688,Grand Marshal's Refuge
+689,High Warlord's Refuge
+690,Gladiator's Redemption
+691,Grand Marshal's Investiture
+692,High Warlord's Investiture
+693,Grand Marshal's Redemption
+694,High Warlord's Redemption
+695,Grand Marshal's Wartide
+696,High Warlord's Wartide
+697,Champion's Redoubt
+698,Warlord's Aegis
+699,The Twin Blades of Azzinoth
+700,Merciless Gladiator's Aegis
+701,Merciless Gladiator's Battlegear
+702,Merciless Gladiator's Dreadgear
+703,Merciless Gladiator's Earthshaker
+704,Merciless Gladiator's Felshroud
+705,Merciless Gladiator's Investiture
+706,Merciless Gladiator's Pursuit
+707,Merciless Gladiator's Raiment
+708,Merciless Gladiator's Redemption
+709,Merciless Gladiator's Refuge
+710,Merciless Gladiator's Regalia
+711,Merciless Gladiator's Sanctuary
+712,Merciless Gladiator's Thunderfist
+713,Merciless Gladiator's Vestments
+714,Merciless Gladiator's Vindication
+715,Merciless Gladiator's Wartide
+716,Merciless Gladiator's Wildhide
+717,Field Marshal's Earthshaker
+718,Lieutenant Commander's Earthshaker
+719,The Fists of Fury
+720,Vengeful Gladiator's Refuge
+721,Vengeful Gladiator's Sanctuary
+722,Vengeful Gladiator's Wildhide
+723,Vengeful Gladiator's Pursuit
+724,Vengeful Gladiator's Regalia
+725,Vengeful Gladiator's Redemption
+726,Vengeful Gladiator's Vindication
+727,Vengeful Gladiator's Aegis
+728,Vengeful Gladiator's Investiture
+729,Vengeful Gladiator's Raiment
+730,Vengeful Gladiator's Vestments
+731,Vengeful Gladiator's Wartide
+732,Vengeful Gladiator's Earthshaker
+733,Vengeful Gladiator's Thunderfist
+734,Vengeful Gladiator's Dreadgear
+735,Vengeful Gladiator's Felshroud
+736,Vengeful Gladiator's Battlegear
+737,Latro's Flurry
+738,Dreadweave Battlegear
+739,Mooncloth Battlegear
+740,Satin Battlegear
+741,Evoker's Silk Battlegear
+742,Dragonhide Battlegear
+743,Wyrmhide Battlegear
+744,Kodohide Battlegear
+745,Opportunist's Battlegear
+746,Seer's Mail Battlegear
+747,Seer's Ringmail Battlegear
+748,Seer's Linked Battlegear
+749,Stalker's Chain Battlegear
+750,Savage Plate Battlegear
+751,Crusader's Ornamented Battlegear
+752,Crusader's Scaled Battlegear
+754,Borean Embrace
+755,Nerubian Hive
+756,Frostscale Binding
+757,Iceborne Embrace
+759,Raine's Revenge
+760,Gladiator's Dreadplate
+761,Winter Garb
+762,Brewfest Garb
+763,Frostwoven Power
+764,Duskweaver
+765,Gladiator's Battlegear
+766,Gladiator's Vindication
+767,Gladiator's Redemption
+768,Gladiator's Desecration
+769,Gladiator's Thunderfist
+770,Gladiator's Earthshaker
+771,Gladiator's Wartide
+772,Gladiator's Pursuit
+773,Gladiator's Refuge
+774,Gladiator's Wildhide
+775,Gladiator's Sanctuary
+776,Gladiator's Vestments
+777,Gladiator's Investiture
+778,Gladiator's Raiment
+779,Gladiator's Regalia
+780,Gladiator's Felshroud
+781,Blessed Regalia of Undead Cleansing
+782,Undead Slayer's Blessed Armor
+783,Blessed Garb of the Undead Slayer
+784,Blessed Battlegear of Undead Slaying
+785,Midsummer Reveler
+787,Dreadnaught Plate
+788,Dreadnaught Battlegear
+789,Redemption Battlegear
+790,Redemption Regalia
+791,Redemption Plate
+792,Scourgeborne Battlegear
+793,Scourgeborne Plate
+794,Cryptstalker Battlegear
+795,Earthshatter Battlegear
+796,Earthshatter Garb
+797,Earthshatter Regalia
+798,Dreamwalker Battlegear
+799,Dreamwalker Regalia
+800,Dreamwalker Garb
+801,Bonescythe Battlegear
+802,Plagueheart Garb
+803,Frostfire Garb
+804,Regalia of Faith
+805,Garb of Faith
+812,Spring Tuxedo
+813,Eviscerator's Battlegear
+814,Ornate Saronite Battlegear
+815,Overcaster Battlegear
+816,Savage Saronite Battlegear
+817,Stormhide Battlegear
+818,Swiftarrow Battlegear
+819,Frostsavage Battlegear
+820,Aegis Battlegear
+821,Aegis Plate
+822,Aegis Regalia
+823,Worldbreaker Battlegear
+824,Worldbreaker Garb
+825,Worldbreaker Regalia
+826,Terrorblade Battlegear
+827,Nightsong Battlegear
+828,Nightsong Garb
+829,Nightsong Regalia
+830,Siegebreaker Battlegear
+831,Siegebreaker Plate
+832,Sanctification Garb
+833,Sanctification Regalia
+834,Darkruned Battlegear
+835,Darkruned Plate
+836,Kirin Tor Garb
+837,Deathbringer Garb
+838,Scourgestalker Battlegear
+842,Awesome Party Ensemble
+843,Khadgar's Regalia
+844,Sunstrider's Regalia
+845,Gul'dan's Regalia
+846,Kel'Thuzad's Regalia
+847,Velen's Raiment
+848,Zabra's Raiment
+849,Velen's Regalia
+850,Zabra's Regalia
+851,Malfurion's Garb
+852,Runetotem's Garb
+853,Malfurion's Regalia
+854,Runetotem's Regalia
+855,Malfurion's Battlegear
+856,Runetotem's Battlegear
+857,VanCleef's Battlegear
+858,Garona's Battlegear
+859,Windrunner's Battlegear
+860,Windrunner's Pursuit
+861,Nobundo's Garb
+862,Thrall's Garb
+863,Thrall's Regalia
+864,Nobundo's Regalia
+865,Nobundo's Battlegear
+866,Thrall's Battlegear
+867,Wrynn's Battlegear
+868,Hellscream's Battlegear
+869,Wrynn's Plate
+870,Hellscream's Plate
+871,Thassarian's Battlegear
+872,Koltira's Battlegear
+873,Thassarian's Plate
+874,Koltira's Plate
+875,Turalyon's Garb
+876,Liadrin's Garb
+877,Turalyon's Battlegear
+878,Liadrin's Battlegear
+879,Turalyon's Plate
+880,Liadrin's Plate
+881,Purified Shard of the Gods
+882,Shiny Shard of the Gods
+883,Bloodmage's Regalia
+884,Dark Coven's Regalia
+885,Crimson Acolyte's Raiment
+886,Crimson Acolyte's Regalia
+887,Lasherweave Garb
+888,Lasherweave Regalia
+889,Lasherweave Battlegear
+890,Shadowblade's Battlegear
+891,Ahn'Kahar Blood Hunter's Battlegear
+892,Frost Witch's Garb
+893,Frost Witch's Regalia
+894,Frost Witch's Battlegear
+895,Ymirjar Lord's Battlegear
+896,Ymirjar Lord's Plate
+897,Scourgelord's Battlegear
+898,Scourgelord's Plate
+899,Lightsworn Garb
+900,Lightsworn Battlegear
+901,Lightsworn Plate
+908,The Defiler's Resolve
+909,Gladiator's Battlegear
+910,Gladiator's Felshroud
+911,Gladiator's Thunderfist
+912,Gladiator's Earthshaker
+913,Gladiator's Wartide
+914,Gladiator's Vestments
+915,Gladiator's Raiment
+916,Gladiator's Investiture
+917,Gladiator's Vindication
+918,Gladiator's Redemption
+919,Gladiator's Regalia
+920,Gladiator's Pursuit
+921,Gladiator's Wildhide
+922,Gladiator's Sanctuary
+923,Gladiator's Refuge
+924,Gladiator's Desecration
+925,Magma Plated Battlegear
+926,Magma Plated Battlearmor
+927,Stormrider's Battlegarb
+928,Stormrider's Vestments
+929,Stormrider's Regalia
+930,Lightning-Charged Battlegear
+931,Firelord's Vestments
+932,Reinforced Sapphirium Battleplate
+933,Reinforced Sapphirium Regalia
+934,Reinforced Sapphirium Battlearmor
+935,Mercurial Vestments
+936,Mercurial Regalia
+937,Wind Dancer's Regalia
+938,Vestments of the Raging Elements
+939,Battlegear of the Raging Elements
+940,Regalia of the Raging Elements
+941,Shadowflame Regalia
+942,Earthen Warplate
+943,Earthen Battleplate
+944,Spiritmender
+945,Deathspeaker
+949,The Dark Brand
+950,The Big Wave
+951,Agony and Torment
+963,Bloodthirsty Pyrium
+964,Bloodthirsty Ornate Pyrium
+965,Bloodthirsty Leather
+966,Bloodthirsty Wyrmhide
+967,Bloodthirsty Dragonscale
+968,Bloodthirsty Charscale
+969,Bloodthirsty Embersilk
+970,Bloodthirsty Fireweave
+1000,Elementium Deathplate Battlegear
+1001,Elementium Deathplate Battlearmor
+1002,Obsidian Arborweave Battlegarb
+1003,Obsidian Arborweave Regalia
+1004,Obsidian Arborweave Vestments
+1005,Flamewaker's Battlegear
+1006,Vestments of the Dark Phoenix
+1007,Firehawk Robes of Conflagration
+1008,Balespider's Burning Vestments
+1009,Vestments of the Cleansing Flame
+1010,Regalia of the Cleansing Flame
+1011,Regalia of Immolation
+1012,Battleplate of Immolation
+1013,Battlearmor of Immolation
+1014,Volcanic Vestments
+1015,Volcanic Battlegear
+1016,Volcanic Regalia
+1017,Molten Giant Warplate
+1018,Molten Giant Battleplate
+1056,Necrotic Boneplate Armor
+1057,Necrotic Boneplate Battlegear
+1058,Deep Earth Battlegarb
+1059,Deep Earth Regalia
+1060,Deep Earth Vestments
+1061,Wyrmstalker Battlegear
+1062,Time Lord's Regalia
+1063,Regalia of Radiant Glory
+1064,Battleplate of Radiant Glory
+1065,Armor of Radiant Glory
+1066,Vestments of Dying Light
+1067,Regalia of Dying Light
+1068,Blackfang Battleweave
+1069,Spiritwalker's Vestments
+1070,Spiritwalker's Regalia
+1071,Spiritwalker's Battlegear
+1072,Vestments of the Faceless Shroud
+1073,Colossal Dragonplate Battlegear
+1074,Colossal Dragonplate Armor
+1087,Fangs of the Father
+1088,Maw of Oblivion
+1089,Jaws of Retribution
+1104,Gladiator's Desecration
+1105,Gladiator's Refuge
+1106,Gladiator's Sanctuary
+1107,Gladiator's Wildhide
+1108,Gladiator's Pursuit
+1109,Gladiator's Regalia
+1110,Gladiator's Redemption
+1111,Gladiator's Vindication
+1112,Gladiator's Investiture
+1113,Gladiator's Vestments
+1114,Gladiator's Wartide
+1115,Gladiator's Earthshaker
+1116,Gladiator's Thunderfist
+1117,Gladiator's Felshroud
+1118,Gladiator's Battlegear
+1119,Gladiator's Copperskin
+1120,Gladiator's Ironskin
+1121,Contender's Defense
+1123,Battlegear of the Lost Catacomb
+1124,Plate of the Lost Catacomb
+1125,Vestments of the Eternal Blossom
+1126,Regalia of the Eternal Blossom
+1127,Battlegear of the Eternal Blossom
+1128,Armor of the Eternal Blossom
+1129,Yaungol Slayer Battlegear
+1130,Regalia of the Burning Scroll
+1131,Vestments of the Red Crane
+1132,Battlegear of the Red Crane
+1133,Armor of the Red Crane
+1134,White Tiger Vestments
+1135,White Tiger Battlegear
+1136,White Tiger Plate
+1137,Vestments of the Guardian Serpent
+1138,Regalia of the Guardian Serpent
+1139,Battlegear of the Thousandfold Blades
+1140,Vestments of the Firebird
+1141,Regalia of the Firebird
+1142,Battlegear of the Firebird
+1143,Sha-Skin Regalia
+1144,Battleplate of Resounding Rings
+1145,Plate of Resounding Rings
+1146,Gladiator's Raiment
+1147,Tradition of Cooking
+1151,Plate of the All-Consuming Maw
+1152,Battleplate of the All-Consuming Maw
+1153,Battlegear of the Haunted Forest
+1154,Vestments of the Haunted Forest
+1155,Regalia of the Haunted Forest
+1156,Armor of the Haunted Forest
+1157,Battlegear of the Saurok Stalker
+1158,Regalia of the Chromatic Hydra
+1159,Fire-Charm Battlegear
+1160,Fire-Charm Vestments
+1161,Fire-Charm Armor
+1162,Battlegear of the Lightning Emperor
+1163,Vestments of the Lightning Emperor
+1164,Plate of the Lightning Emperor
+1165,Vestments of the Exorcist
+1166,Regalia of the Exorcist
+1167,Nine-Tail Battlegear
+1168,Vestments of the Witch Doctor
+1169,Battlegear of the Witch Doctor
+1170,Regalia of the Witch Doctor
+1171,Regalia of the Thousandfold Hells
+1172,Battleplate of the Last Mogu
+1173,Plate of the Last Mogu
+1179,Plate of the Prehistoric Marauder
+1180,Battleplate of the Prehistoric Marauder
+1181,Regalia of the Horned Nightmare
+1182,Celestial Harmony Regalia
+1183,Celestial Harmony Battlegear
+1184,Celestial Harmony Vestment
+1185,Barbed Assassin Battlegear
+1186,Regalia of Ternion Glory
+1187,Vestments of Ternion Glory
+1188,Plate of Winged Triumph
+1189,Vestments of Winged Triumph
+1190,Battlegear of Winged Triumph
+1191,Armor of Seven Sacred Seals
+1192,Vestments of Seven Sacred Seals
+1193,Battlegear of Seven Sacred Seals
+1194,Chronomancer Regalia
+1195,Battlegear of the Unblinking Vigil
+1196,Armor of the Shattered Vale
+1197,Regalia of the Shattered Vale
+1198,Vestments of the Shattered Vale
+1199,Battlegear of the Shattered Vale
+1200,Battleplate of Cyclopean Dread
+1201,Plate of Cyclopean Dread
+1203,Gladiator's Distinction
+1219,6.0 test set
+1220,Gladiator's Desecration
+1221,Gladiator's Sanctuary
+1222,Gladiator's Pursuit
+1223,Gladiator's Regalia
+1224,Gladiator's Ironskin
+1225,Gladiator's Vindication
+1226,Gladiator's Investiture
+1227,Gladiator's Vestments
+1228,Gladiator's Wartide
+1229,Gladiator's Felshroud
+1230,Gladiator's Battlegear
+1231,Gladiator's Distinction
+1233,Living Wood Battlegear
+1234,Ogreskull Boneplate Battlegear
+1235,Arcanoshatter Regalia
+1236,Rylakstalker's Battlegear
+1237,Battlegear of the Somber Gaze
+1238,Battlegear of Guiding Light
+1239,Soul Priest's Raiment
+1240,Poisoner's Battlegear
+1241,Windspeaker's Regalia
+1242,Blackhand's Battlegear
+1243,Shadow Council's Garb
+1244,Might of the Warsong
+1245,Blacksteel Battleplate
+1246,Ashlink Armor
+1247,Sootfur Garb
+1248,Ebonflame Raiment
+1249,Demongaze Armor
+1250,Oathclaw Wargarb
+1251,Raiment of the Arcanic Conclave
+1252,Battlewrap of the Hurricane's Eye
+1253,Battlegear of the Savage Hunt
+1254,Watch of the Ceaseless Vigil
+1255,Attire of Piety
+1256,Felblade Armor
+1257,Embrace of the Living Mountain
+1258,Battlegear of Iron Wrath
+1259,Deathrattle Regalia
+1260,Felfume Raiment
+1261,Ironpelt Armor
+1262,Rancorbite Battlegear
+1263,Demonbreaker Wargear
+1265,Test [do not translate]
+1266,Illidari Slayer
+1267,Fel Infusion
+1268,The Scale's Embrace
+1269,Deathlord's Battleplate
+1270,Battlegear of the Shattered Abyss
+1271,Dreamgrove Raiment
+1272,Guise of the Unseen Path
+1273,Vesture of Tirisgarde
+1274,Grandmaster's Finery
+1275,Battleplate of the Silver Hand
+1276,Regalia of the High Priest
+1277,Battlegear of the Uncrowned
+1278,Raiment of the Farseer
+1279,Vestments of the Black Harvest
+1280,Battlelord's Plate
+1281,Dreadwyrm Battleplate
+1282,Vestment of Second Sight
+1283,Garb of the Astral Warden
+1284,Eagletalon Battlegear
+1285,Regalia of Everburning Knowledge
+1286,Vestments of Enveloped Dissonance
+1287,Battleplate of the Highlord
+1288,Vestments of the Purifier
+1289,Doomblade Battlegear
+1290,Regalia of Shackled Elements
+1291,Legacy of Azj'Aqir
+1292,Warplate of the Obsidian Aspect
+1293,March of the Legion
+1294,Journey Through Time
+1295,Nightwell Arcanum
+1296,Jacin's Ruse
+1297,Traitor's Oath
+1298,Fortitude of the Nightborne
+1299,Burden of Power
+1301,Gravewarden Armaments
+1302,Demonbane Armor
+1303,Stormheart Raiment
+1304,Wildstalker Armor
+1305,Regalia of the Arcane Tempest
+1306,Xuen's Battlegear
+1307,Radiant Lightbringer Armor
+1308,Vestments of Blind Absolution
+1309,Fanged Slayer's Armor
+1310,Regalia of the Skybreaker
+1311,Diabolic Raiment
+1312,Titanic Onslaught Armor
+1319,Juggernaut Battlegear
+1320,Grim Inquisitor's Regalia
+1321,Garb of Venerated Spirits
+1322,Regalia of the Dashing Scoundrel
+1323,Gilded Seraph's Raiment
+1324,Light's Vanguard Battleplate
+1325,Chi-Ji's Battlegear
+1326,Runebound Regalia
+1327,Serpentstalker Guise
+1328,Bearmantle Battlegear
+1329,Felreaper Vestments
+1330,Dreadwake Armor
+1331,Velen's Lament
+1332,Umbra-Weaver's Portent
+1333,Tailwind Regalia
+1334,Sea Sisters' Cunning
+1335,Venombite Garb
+1336,Thundercrash Armor
+1337,Sandstorm Plate
+1338,Frenzied Battleplate
+1439,Waycrest Legacy
+1440,Brain Trust
+1442,Gift of the Loa
+1443,Keepsakes of the Resolute Commandant
+1449,Azshara's Garments
+1452,Titanic Empowerment
+1454,Hack and Gore
+1455,Regalia of Fabled Adventurers
+1456,The Mail Courier
+1457,Hack and Gore
+1458,Gladiator's Distinction
+1459,Vestments of the Selfless
+1460,Rationale of Maldraxxus
+1461,Faewoven Regalia
+1462,Soulbreaker's Ebony Vestments
+1463,Inscrutable Exile's Garb
+1466,Garb of the Selfless
+1467,Chain of the Selfless
+1468,Vestments of the Selfless
+1475,Guile of Maldraxxus
+1476,Alacrity of Maldraxxus
+1477,Authority of Maldraxxus
+1478,Oakheart Raiment
+1479,Runewarden's Guise
+1480,Queensguard Warbark
+1481,Ebony Death Shroud Armor
+1482,Fearstalker's Ebony Battlegear
+1483,Dread Sentinel's Ebony Battleplate
+1496,Soulblade Shadowhide
+1497,Godstalker's Battlegear
+1498,Luminous Chevalier's Gallantry
+1499,Theurgic Starspeaker's Regalia
+1500,The First Eidolon's Soulsteel
+1501,Mercurial Punisher's Painweave
+1502,Tapestry of the Fixed Stars
+1503,Erudite Occultist's Vestments
+1504,Garb of the Grand Upwelling
+1505,Habiliments of the Empyrean
+1506,Armaments of the Infinite Infantry
+1507,Shroud of the Demon Star
+1508,Ripped Secrets
+1509,Playful Spirit's Fur
+1510,Horizon Strider's Garments
+1511,Drakebreaker's Garb
+1512,Drakebreaker's Battlegear
+1513,Drakebreaker's Vestments
+1514,Drakebreaker's Armor
+1515,Woven Chronocloth
+1516,Azureweave Vestments
+1520,Dragon Rider's Gear
+1521,Drape of Raging Tempests
+1523,Shroud of Raging Tempests
+1524,Scales of Raging Tempests
+1525,Armor of Raging Tempests
+1526,Haunted Frostbrood Remains
+1527,Skybound Avenger's Flightwear
+1528,Lost Landcaller's Vesture
+1529,Stormwing Harrier's Camouflage
+1530,Scales of the Awakened
+1531,Bindings of the Crystal Scholar
+1532,Wrappings of the Waking Fist
+1533,Virtuous Silver Cataphract
+1534,Draconic Hierophant's Finery
+1535,Vault Delver's Toolkit
+1536,Elements of Infused Earth
+1537,Scalesworn Cultist's Habit
+1538,Stones of the Walking Mountain
+1539,Might of the Drogbar
+1540,Lingering Phantom's Encasement
+1541,Kinslayer's Burdens
+1542,Strands of the Autumn Blaze
+1543,Legacy of Obsidian Secrets
+1544,Ashen Predator's Scaleform
+1545,Underlight Conjurer's Brilliance
+1546,Fangs of the Vermillion Forge
+1547,Heartfire Sentinel's Authority
+1548,The Furnace Seraph's Verdict
+1549,Lurking Specter's Shadeweave
+1550,Runes of the Cinderwolf
+1551,Sinister Savant's Cursethreads
+1552,Irons of the Onyx Crucible
+1553,Scalewarden's Garments
+1554,Scalewarden's Chainmail
+1555,Scalewarden's Battlegear
+1556,Scalewarden's Armaments
+1557,Risen Nightmare's Gravemantle
+1558,Screaming Torchfiend's Brutality
+1559,Benevolent Embersage's Guidance
+1560,Werynkeeper's Timeless Vigil
+1561,Blazing Dreamstalker's Trophies
+1562,Wayward Chronomancer's Clockwork
+1563,Mystic Heron's Discipline
+1564,Zealous Pyreknight's Ardor
+1565,Blessings of Lunar Communion
+1566,Lucid Shadewalker's Silence
+1567,Vision of the Greatwolf Outcast
+1568,Devout Ashdevil's Pactweave
+1569,Molten Vanguard's Mortarplate
+1572,Hellbloom Armaments
+1573,Hellbloom Chainmail
+1574,Hellbloom Battlegear
+1575,Hellbloom Garments
+1594,Scales of the Awakened
+1595,Stormwing Harrier's Camouflage
+1596,Wrappings of the Waking Fist
+1597,Strands of the Autumn Blaze
+1598,Heartfire Sentinel's Authority
+1599,The Furnace Seraph's Verdict
+1600,Lurking Specter's Shadeweave
+1601,Sinister Savant's Cursethreads
+1602,Irons of the Onyx Crucible
+1603,Risen Nightmare's Gravemantle
+1604,Screaming Torchfiend's Brutality
+1605,Wayward Chronomancer's Clockwork
+1606,Vision of the Greatwolf Outcast
+1611,Embrace of the Cinderbee
+1612,Fury of the Storm Rook
+1613,Ky'veza's Cruel Implements
+1614,Draconic Warmonger's Armor
+1615,Draconic Warmonger's Chainmail
+1616,Draconic Warmonger's Vestments
+1617,Draconic Warmonger's Garb
+1683,Woven Dawn
+1684,Warsculptor's Masterwork
+1685,Rites of the Hexflame Coven
+1686,Waves of the Forgotten Reservoir
+1687,K'areshi Phantom's Bindings
+1688,Shards of Living Luster
+1689,Entombed Seraph's Radiance
+1690,Gatecrasher's Fortitude
+1691,Sparks of Violet Rebirth
+1692,Lightless Scavenger's Necessities
+1693,Destroyer's Scarred Wards
+1694,Mane of the Greatlynx
+1695,Husk of the Hypogeal Nemesis
+1696,Exhumed Centurion's Relics
+1697,Woven Dusk

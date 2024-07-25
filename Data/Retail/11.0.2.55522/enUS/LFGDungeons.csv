@@ -1,0 +1,1478 @@
+ID,Name_lang,Description_lang
+1,Wailing Caverns,
+2,Scholomance,
+4,Ragefire Chasm,
+6,Deadmines,
+8,Shadowfang Keep,
+10,Blackfathom Deeps,
+12,Stormwind Stockade,
+14,Gnomeregan,
+16,Razorfen Kraul,
+20,Razorfen Downs,
+22,Uldaman,
+24,Zul'Farrak,
+26,Maraudon - Foulspore Cavern,
+28,Sunken Temple,
+30,Blackrock Depths - Detention Block,
+32,Lower Blackrock Spire,
+34,Dire Maul - Warpwood Quarter,
+36,Dire Maul - Capital Gardens,
+38,Dire Maul - Gordok Commons,
+40,Stratholme - Main Gate,
+46,Onyxia's Lair,
+48,Molten Core,
+50,Blackwing Lair,
+58,Elwynn Forest,
+60,Westfall,
+62,Duskwood,
+64,Dun Morogh,
+66,Loch Modan,
+68,Wetlands,
+70,Stranglethorn Vale,
+72,Blasted Lands,
+74,Swamp of Sorrows,
+76,Redridge Mountains,
+78,Burning Steppes,
+80,Searing Gorge,
+82,Badlands,
+84,Arathi Highlands,
+86,Hillsbrad Foothills,
+88,Hinterlands,
+90,Western Plaguelands,
+92,Eastern Plaguelands,
+94,Tirisfal Glades,
+96,Silverpine Forest,
+98,Alterac Mountains,
+100,Durotar,
+102,Mulgore,
+104,The Barrens,
+106,Stonetalon Mountains,
+108,Thousand Needles,
+110,Desolace,
+112,Feralas,
+114,Dustwallow Marsh,
+116,Tanaris,
+118,Un'Goro Crater,
+120,Silithus,
+122,Teldrassil,
+124,Darkshore,
+126,Ashenvale,
+128,Felwood,
+130,Azshara,
+132,Winterspring,
+136,Hellfire Ramparts,
+137,Blood Furnace,
+138,Shattered Halls,
+140,Slave Pens,
+146,Underbog,
+147,The Steamvault,
+148,Mana-Tombs,
+149,Auchenai Crypts,
+150,Sethekk Halls,
+151,Shadow Labyrinth,
+152,Hellfire Peninsula,
+153,Zangarmarsh,
+154,Terokkar Forest,
+155,Nagrand,
+156,Shadowmoon Valley,
+157,Blade's Edge Mountains,
+158,Netherstorm,
+159,Naxxramas,
+160,Ahn'Qiraj Ruins,
+161,Ahn'Qiraj Temple,
+163,Scarlet Halls,
+164,Scarlet Monastery,
+166,Eversong Woods,
+167,Azuremyst Isle,
+168,Ghostlands,
+169,Bloodmyst Isle,
+170,The Escape from Durnholde,
+171,Opening of the Dark Portal,
+172,The Mechanar,
+173,The Botanica,
+174,The Arcatraz,
+175,Karazhan,
+176,Magtheridon's Lair,
+177,Gruul's Lair,
+178,Auchenai Crypts,
+179,Mana-Tombs,
+180,Sethekk Halls,
+181,Shadow Labyrinth,
+182,Opening of the Dark Portal,
+183,The Escape from Durnholde,
+184,Slave Pens,
+185,The Steamvault,
+186,Underbog,
+187,Blood Furnace,
+188,Hellfire Ramparts,
+189,Shattered Halls,
+190,The Arcatraz,
+191,The Botanica,
+192,The Mechanar,
+193,Tempest Keep,
+194,Serpentshrine Cavern,
+195,Hyjal Past,
+196,Black Temple,
+198,Magisters' Terrace,
+199,The Sunwell,
+200,Isle of Quel'Danas,
+201,Magisters' Terrace,
+202,Utgarde Keep,
+203,Utgarde Pinnacle,
+204,Azjol-Nerub,
+205,Utgarde Pinnacle,
+206,The Oculus,
+207,Halls of Lightning,
+208,Halls of Stone,
+209,The Culling of Stratholme,
+210,The Culling of Stratholme,
+211,The Oculus,
+212,Halls of Lightning,
+213,Halls of Stone,
+214,Drak'Tharon Keep,
+215,Drak'Tharon Keep,
+216,Gundrak,
+217,Gundrak,
+218,Ahn'kahet: The Old Kingdom,
+219,Ahn'kahet: The Old Kingdom,
+220,Violet Hold,
+221,Violet Hold,
+223,The Eye of Eternity,
+224,The Obsidian Sanctum,
+225,The Nexus,
+226,The Nexus,
+227,Naxxramas,
+228,Borean Tundra,
+229,Howling Fjord,
+230,Grizzly Hills,
+231,Dragonblight,
+232,Wintergrasp,
+233,Zul'Drak,
+234,Sholazar Basin,
+235,The Storm Peaks,
+236,Icecrown,
+237,The Eye of Eternity,
+238,The Obsidian Sanctum,
+239,Vault of Archavon,
+240,Vault of Archavon,
+241,Azjol-Nerub,
+242,Utgarde Keep,
+243,Ulduar,
+244,Ulduar,
+245,Trial of the Champion,
+246,Trial of the Crusader,
+247,Trial of the Grand Crusader,
+248,Trial of the Crusader,
+249,Trial of the Champion,
+250,Trial of the Grand Crusader,
+251,The Forge of Souls,
+252,The Forge of Souls,
+253,Pit of Saron,
+254,Pit of Saron,
+255,Halls of Reflection,
+256,Halls of Reflection,
+257,Onyxia's Lair,
+258,Random Classic Dungeon,
+259,Random Burning Crusade Dungeon,
+260,Random Burning Crusade Heroic,
+261,Random Lich King Dungeon,
+262,Random Lich King Heroic,
+272,Maraudon - The Wicked Grotto,
+273,Maraudon - Earth Song Falls,
+274,Stratholme - Service Entrance,
+276,Blackrock Depths - Upper City,
+279,Icecrown Citadel,
+280,Icecrown Citadel,
+285,The Headless Horseman,Defeat the mad Headless Horseman before he burns down every last settlement in Azeroth.
+286,The Frost Lord Ahune,"Defeat Ahune, the Frost Lord, before he fully manifests in Azeroth and puts an end to Summer forever."
+287,Coren Direbrew,Defeat the jealous Coren Direbrew to stop his incessant attacks upon the Brewfest festivities.
+288,The Crown Chemical Co.,"Defeat the insidious undead apothecaries of the Crown Chemical Co. before they unleash their newest, horrific plague."
+293,Ruby Sanctum,
+294,Ruby Sanctum,
+296,Grand Ambassador Flamelash,Defeat Grand Ambassador Flamelash in Blackrock Depths.
+297,Crown Princess Theradras,Defeat Crown Princess Theradras and her Twilight's Hammer associates in Maraudon.
+298,Kai'ju Gahz'rilla,Defeat Kai'ju Gahz'rilla and her worshipers in Zul'Farrak.
+299,Prince Sarsarun,"Defeat Prince Sarsarun, Herald of Al'Akir, in the Ruins of Ahn'Qiraj."
+300,Random Cataclysm Dungeon,
+301,Random Cataclysm Heroic,
+302,Throne of the Tides,
+303,Blackrock Caverns,
+304,Grim Batol,
+305,Halls of Origination,
+306,Kai'ju Gahz'rilla,Defeat Kai'ju Gahz'rilla and her worshipers in Zul'Farrak.
+307,The Stonecore,
+308,Grand Ambassador Flamelash,Defeat Grand Ambassador Flamelash in Blackrock Depths.
+309,Crown Princess Theradras,Defeat Crown Princess Theradras and her Twilight's Hammer associates in Maraudon.
+310,Prince Sarsarun,"Defeat Prince Sarsarun, Herald of Al'Akir, in the Ruins of Ahn'Qiraj."
+311,The Vortex Pinnacle,
+312,Lost City of the Tol'vir,
+313,Blackwing Descent,
+314,Blackwing Descent,
+315,The Bastion of Twilight,
+316,The Bastion of Twilight,
+317,Throne of the Four Winds,
+318,Throne of the Four Winds,
+319,The Vortex Pinnacle,
+320,The Stonecore,
+321,Halls of Origination,
+322,Grim Batol,
+323,Blackrock Caverns,
+324,Throne of the Tides,
+325,Lost City of the Tol'vir,
+326,Deadmines,
+327,Shadowfang Keep,
+328,Baradin Hold,
+329,Baradin Hold,
+330,Upper Blackrock Spire,
+334,Zul'Gurub,
+340,Zul'Aman,
+358,10v10 Rated Battleground,
+361,Firelands,
+362,Firelands,
+416,The Siege of Wyrmrest Temple,Deathwing seeks to destroy Wyrmrest Temple and end the lives of the Dragon Aspects and Thrall.
+417,Fall of Deathwing,"Deathwing must be destroyed, or all is lost."
+434,Random Hour of Twilight Heroic,
+435,End Time,
+437,Well of Eternity,
+439,Hour of Twilight,
+447,Dragon Soul,
+448,Dragon Soul,
+462,Random Mists of Pandaria Heroic,
+463,Random Mists of Pandaria Dungeon,
+464,Temple of the Jade Serpent,
+465,Stormstout Brewery,
+466,Shado-Pan Monastery,
+467,Mogu'shan Palace,
+468,Temple of the Jade Serpent,
+469,Stormstout Brewery,
+470,Shado-Pan Monastery,
+471,Gate of the Setting Sun,
+472,Scholomance,
+473,Scarlet Halls,
+474,Scarlet Monastery,
+492,Greenstone Village,
+493,Random Mists of Pandaria Scenario,
+499,Unga Ingoo,Rescue Jungle Brew from the evil clutches of the hozen pirates of Unga Ingoo.
+504,Crypt of Forgotten Kings,Investigate an ancient mogu crypt that has become infested by the Sha.
+511,Arena of Annihilation,
+517,A Brewing Storm,Craft brew with lightning and save the monastery from a rampaging saurok.
+519,Mogu'shan Palace,
+526,Terrace of Endless Spring,"The Sha of Fear has fled to this tranquil haven to recover, corrupting the pure waters with its tainted blood."
+527,Guardians of Mogu'shan,"Long dormant, this ancient archive of the mogu has awakened, as have its protectors. Danger and mystery await within...."
+528,The Vault of Mysteries,"Buried deep in the mountainside, the heart of the ancient mogu repository holds a secret that may threaten all of Azeroth."
+529,The Dread Approach,"Spurred on by the Klaxxi, the time has come to assault the heart of the mantid empire."
+530,Nightmare of Shek'zeer,"The mantid Empress, consumed by paranoia and twisted by the Sha of Fear, rules from her seat deep within the Heart of Fear."
+531,Mogu'shan Vaults,
+532,Mogu'shan Vaults,
+533,Heart of Fear,
+534,Heart of Fear,
+535,Terrace of Endless Spring,
+536,Terrace of Endless Spring,
+537,Assault on Zan'vess,Break the defenses of Zan'vess and recover the invaluable Mantid weapons.
+539,Brewmoon Festival,
+542,Theramore's Fall,
+543,Theramore's Fall,Lend aid to the citizens who yet remain in the destroyed remains of Theramore.
+554,Siege of Niuzao Temple,
+566,Theramore's Fall,Lend aid to the citizens who yet remain in the destroyed remains of Theramore.
+567,Theramore's Fall,
+586,Dagger in the Dark,Escort Vol'jin to discover the secrets that lie within a Saurok-infested cave.
+588,Battle on the High Seas,Help the Alliance fend off enemy forces in the midst of a battle for naval supremacy on the High Seas.
+589,A Little Patience,[PH] Patience Description
+590,Lion's Landing,Defend Lion's Landing from a reinforced Horde assault!
+593,Assault on Zan'vess,Break the defenses of Zan'vess and recover the invaluable Mantid weapons.
+594,Pursuing the Black Harvest,Follow the trail of the Council of the Black Harvest into the heart of the Black Temple.
+595,Domination Point,Defend Domination Point from a reinforced Lion's Landing assault!
+602,Tear Down This Wall!,
+603,Stormsea Landing,
+604,Assault on Zeb'tula,Assault the troll town of Zeb'tula to gain a foothold on the Isle of the Thunder King.
+606,To the Skies!,
+607,The Fall of Shan Bu,It is time to take down Shan Bu and cripple the Thunder King's forces.
+608,Tear Down This Wall!,
+610,Last Stand of the Zandalari,The forces of the Zandalari have rallied in the ruins surrounding the Thunder King's island citadel.
+611,Forgotten Depths,"Beneath the foundations of the Throne of Thunder lie vast caverns, teeming with ancient horrors."
+612,Halls of Flesh-Shaping,"In the horrific chambers beneath Lei Shen's citadel, the mogu conducted terrible experiments into reshaping life."
+613,Pinnacle of Storms,"From within his inner sanctum, the risen Thunder King plots the return of the great mogu empire."
+615,The Thunder Forge,Work with Wrathion to discover the secrets of the Lightning Forge.
+616,Dagger in the Dark,Escort Vol'jin to discover the secrets that lie within a Saurok-infested cave.
+617,Assault on Shaol'mara,Assault the troll town of Shaol'mara to gain a foothold on the Isle of the Thunder King.
+618,To the Skies!,
+619,A Little Patience,[PH] Patience Description
+620,Troves of the Thunder King,Loot as much as you can before the Thunder King's forces arrive.
+621,The Fall of Shan Bu,It is time to take down Shan Bu and cripple the Thunder King's forces.
+624,Dark Heart of Pandaria,Grizzle Gearslip and his goblins have uncovered something terrifying in the Vale of Eternal Blossoms.
+625,The Secrets of Ragefire,
+630,Siege of Niuzao Temple,
+631,Gate of the Setting Sun,
+633,Throne of Thunder,
+634,Throne of Thunder,
+637,Blood in the Snow,
+639,A Brewing Storm,Craft brew with lightning and save the monastery from a rampaging saurok.
+640,Proving Grounds: White Tiger Temple,Test your mettle against a variety of challenges.
+641,Random Mists of Pandaria Heroic Scenario,
+646,Blood in the Snow,
+647,Dark Heart of Pandaria,Grizzle Gearslip and his goblins have uncovered something terrifying in the Vale of Eternal Blossoms.
+648,Crypt of Forgotten Kings,Investigate an ancient mogu crypt that has become infested by the Sha.
+649,The Secrets of Ragefire,
+652,Battle on the High Seas,Help the Horde fend off enemy forces in the midst of a battle for naval supremacy on the High Seas.
+654,Battle on the High Seas,Help the Horde fend off enemy forces in the midst of a battle for naval supremacy on the High Seas.
+655,Battle on the High Seas,Help the Alliance fend off enemy forces in the midst of a battle for naval supremacy on the High Seas.
+658,Proving Grounds,Proving Grounds
+701,Celestial Tournament,Defeat the greatest tamers of Pandaria.
+714,Siege of Orgrimmar,
+715,Siege of Orgrimmar,
+716,Vale of Eternal Sorrows,"Venture through the scarred Vale of Eternal Blossoms, exploring unearthed mogu ruins to discover the source of the destruction."
+717,Gates of Retribution,"War has come to the gates of Orgrimmar, as Alliance forces and the Darkspear Rebellion seek revenge against Garrosh Hellscream."
+724,The Underhold,"Within a secret Kor'kron base carved into the sweltering caverns beneath Orgrimmar, Garrosh is assembling his ultimate army."
+725,Downfall,"Wielding the dark power that lay dormant beneath Pandaria, Garrosh seeks to bring a new order to Azeroth. He must be stopped!"
+744,Random Timewalking Dungeon (Burning Crusade),
+745,Finding the Secret Ingredient,Work with Sungshin Ironpaw to discover the secret ingredient of the Lin family's Secret Ingredient Soup.
+749,Noodle Time,Work with Sungshin Ironpaw to discover the secret ingredient of the Lin family's Secret Ingredient Soup.
+750,The Purge of Grommar,
+755,The Purge of Grommar,
+765,Iron Horde Naval Base,
+766,Siege of Orgrimmar,
+767,Ordos,
+768,Celestials,
+770,Bonetown Scenario,
+775,The Battle of Thunder Pass,
+778,The Battle For Shattrath,
+779,Skyreach,
+780,Skyreach,
+783,Shadowmoon Burial Grounds,
+784,Shadowmoon Burial Grounds,
+787,Bloodmaul Slag Mines,
+788,Random Warlords of Draenor Dungeon,
+789,Random Warlords of Draenor Heroic,
+790,Greenstone Village,
+791,Unga Ingoo,Rescue Jungle Brew from the evil clutches of the hozen pirates of Unga Ingoo.
+792,Crypt of Forgotten Kings,Investigate an ancient mogu crypt that has become infested by the Sha.
+793,Arena of Annihilation,
+794,A Brewing Storm,Craft brew with lightning and save the monastery from a rampaging saurok.
+795,Assault on Zan'vess,Break the defenses of Zan'vess and recover the invaluable Mantid weapons.
+796,Brewmoon Festival,
+797,Theramore's Fall,Lend aid to the citizens who yet remain in the destroyed remains of Theramore.
+798,Theramore's Fall,
+799,Dagger in the Dark,Escort Vol'jin to discover the secrets that lie within a Saurok-infested cave.
+800,Battle on the High Seas,Help the Alliance fend off enemy forces in the midst of a battle for naval supremacy on the High Seas.
+801,A Little Patience,
+802,Lion's Landing,Defend Lion's Landing from a reinforced Horde assault!
+803,Assault on Zan'vess,Break the defenses of Zan'vess and recover the invaluable Mantid weapons.
+804,Domination Point,Defend Domination Point from a reinforced Lion's Landing assault!
+805,Dagger in the Dark,Escort Vol'jin to discover the secrets that lie within a Saurok-infested cave.
+806,A Little Patience,[PH] Patience Description
+807,Dark Heart of Pandaria,Grizzle Gearslip and his goblins have uncovered something terrifying in the Vale of Eternal Blossoms.
+808,The Secrets of Ragefire,
+809,Blood in the Snow,
+810,A Brewing Storm,Craft brew with lightning and save the monastery from a rampaging saurok.
+811,Blood in the Snow,
+812,Dark Heart of Pandaria,Grizzle Gearslip and his goblins have uncovered something terrifying in the Vale of Eternal Blossoms.
+813,Crypt of Forgotten Kings,Investigate an ancient mogu crypt that has become infested by the Sha.
+814,The Secrets of Ragefire,
+815,Battle on the High Seas,Help the Horde fend off enemy forces in the midst of a battle for naval supremacy on the High Seas.
+816,Battle on the High Seas,Help the Horde fend off enemy forces in the midst of a battle for naval supremacy on the High Seas.
+817,Battle on the High Seas,Help the Alliance fend off enemy forces in the midst of a battle for naval supremacy on the High Seas.
+818,Defense of Karabor,Defense of Karabor
+819,Fate of Karabor,Fate of Karabor
+820,Auchindoun,
+821,Iron Docks,
+822,Grimrail Depot,
+823,Blackhand's Crucible,"Atop the Blackrock Foundry, Warlord Blackhand oversees his clan's ancestral home amidst searing heat that only he can bear."
+824,The Everbloom,
+828,Upper Blackrock Spire,"The Ironmarch vanguard has set up a base of operations in Blackrock Spire, and must be stopped!"
+830,Guardians of Mogu'shan,"Long dormant, this ancient archive of the mogu has awakened, as have its protectors. Danger and mystery await within...."
+831,The Vault of Mysteries,"Buried deep in the mountainside, the heart of the ancient mogu repository holds a secret that may threaten all of Azeroth."
+832,The Dread Approach,"Spurred on by the Klaxxi, the time has come to assault the heart of the mantid empire."
+833,Nightmare of Shek'zeer,"The mantid Empress, consumed by paranoia and twisted by the Sha of Fear, rules from her seat deep within the Heart of Fear."
+834,Terrace of Endless Spring,"The Sha of Fear has fled to this tranquil haven to recover, corrupting the pure waters with its tainted blood."
+835,Last Stand of the Zandalari,The forces of the Zandalari have rallied in the ruins surrounding the Thunder King's island citadel.
+836,Forgotten Depths,"Beneath the foundations of the Throne of Thunder lie vast caverns, teeming with ancient horrors."
+837,Halls of Flesh-Shaping,"In the horrific chambers beneath Lei Shen's citadel, the mogu conducted terrible experiments into reshaping life."
+838,Pinnacle of Storms,"From within his inner sanctum, the risen Thunder King plots the return of the great mogu empire."
+839,Vale of Eternal Sorrows,"Venture through the scarred Vale of Eternal Blossoms, exploring unearthed mogu ruins to discover the source of the destruction."
+840,Gates of Retribution,"War has come to the gates of Orgrimmar, as Alliance forces and the Darkspear Rebellion seek revenge against Garrosh Hellscream."
+841,The Underhold,"Within a secret Kor'kron base carved into the sweltering caverns beneath Orgrimmar, Garrosh is assembling his ultimate army."
+842,Downfall,"Wielding the dark power that lay dormant beneath Pandaria, Garrosh seeks to bring a new order to Azeroth. He must be stopped!"
+843,The Siege of Wyrmrest Temple,Deathwing seeks to destroy Wyrmrest Temple and end the lives of the Dragon Aspects and Thrall.
+844,Fall of Deathwing,"Deathwing must be destroyed, or all is lost."
+845,Auchindoun,
+846,The Black Forge,"Deep within the Blackrock Foundry, brutal and giant creatures temper and forge the machinery of war for the Iron Horde."
+847,Slagworks,"Only the unnatural heat of the Foundry furnace can smelt the Blackrock ore, essential to the might of the Iron Horde."
+848,Iron Assembly,The extent of the Iron Horde's arms and armaments is a terrible sight to behold.
+849,Walled City,"As ogres and Iron Horde leaders gather for a spectacle in the great arena of Highmaul, a destructive plot roils in the shadows."
+850,Arcane Sanctum,Only a select few have seen the inside of the Gorthenon atop Highmaul; rumors abound of strange relics and sorcery within.
+851,Imperator's Rise,"Atop Highmaul, Imperator Mar'gok works to unlock ancient secrets so that ogres may reclaim their birthright as lords of Draenor."
+855,The Might of the Alliance,
+856,The Might of the Horde,
+857,Iron Docks,
+858,Grimrail Depot,
+859,Bloodmaul Slag Mines,
+860,Upper Blackrock Spire,
+866,The Everbloom,
+870,The Trial of Faith,The Trial of Faith
+878,Gorgrond Finale,Gorgrond Finale
+888,The Coliseum,The Coliseum
+895,Highmaul,
+896,Highmaul,
+897,Highmaul,
+898,Blackrock Foundry,
+899,Blackrock Foundry,
+900,Blackrock Foundry,
+906,The Legend of The Ashbringer,You have embarked on a mission to rescue Highlord Tirion Fordring in the Broken Shore.
+907,Edge of Reality,
+908,The Battle for Broken Shore,
+932,Tides of Glory,
+969,Greymane's Gambit,
+982,Hellbreach,"Before the gates of Hellfire Citadel, fel-infused siege engines and monstrous beasts stand ready for an assault on Azeroth."
+983,Halls of Blood,"Kilrogg was first to accept Gul'dan's twisted offer, but many orcs followed. Bloodthirsty and savage, they await in these halls."
+984,Bastion of Shadows,"With Gul'dan's ascent to power, the Sargerei and other members of the Shadow Council now work openly in service of the Legion."
+985,Destructor's Rise,"Atop the spires of the Citadel, demonic champions ready themselves, as Gul'dan begins a dark ritual...."
+986,The Black Gate,"On the grounds of the ruined Dark Portal, Archimonde himself comes forth to ensure that the Legion's plans do not fail."
+987,Hellfire Citadel,
+988,Hellfire Citadel,
+989,Hellfire Citadel,
+990,Temple of Elune,Temple of Elune
+995,Random Timewalking Dungeon (Wrath of the Lich King),
+998,The Splintered Fleet,
+1003,The Everbloom,
+1004,Upper Blackrock Spire,
+1005,Bloodmaul Slag Mines,
+1006,Grimrail Depot,
+1007,Iron Docks,
+1008,Auchindoun,
+1009,Shadowmoon Burial Grounds,
+1010,Skyreach,
+1011,The Arcatraz,
+1012,Opening of the Dark Portal,
+1013,Mana-Tombs,
+1014,Shattered Halls,
+1015,Slave Pens,
+1016,Ahn'kahet: The Old Kingdom,
+1017,Gundrak,
+1018,Halls of Lightning,
+1019,The Nexus,
+1020,Utgarde Pinnacle,
+1021,zzOLDThe Twinblades of the Deceiver,You are leading an elite force of demon hunters on a hunt to obtain the Warglaives of Kil'Jaeden.
+1022,The Blades of the Fallen Prince,You have been summoned to Icecrown to build a weapon of great power.
+1027,Test Scenario Faction Criteria,
+1028,Legacy of the Icebreaker,You have arrived at the tomb island of Magnar Icebreaker to discover his legacy.
+1030,7.0 Artifacts - Sub Rog - Acquisition - Demonic Portal World,"You've arrived in the portal world holding Sargeras' Hound, Malchezath, to slay him and obtain his fangs."
+1043,Vault of the Wardens,
+1044,Vault of the Wardens,
+1045,Random Legion Dungeon,
+1046,Random Legion Heroic,
+1059,The Fleshripper's Harvest,You have traveled to Niskara in search of a demonic weapon of great power.
+1060,Serenity's End,The masters of the monk temple at the Peak of Serenety have called for a gathering to discuss the threat of the Burning Legion.
+1065,Cleansing of the Deep,Pursue the foul demon Geth'xun through the Maelstrom and purify the realm of earth.
+1090,Boost 2.0 R&D,Boost 2.0 R&D
+1094,Mardum Scenario,
+1127,Ashran,
+1132,Apocalypse Scenario,
+1143,The Frost and the Flame,"You have entered Icecrown to recover the fabled runeblade, Felo'melorn."
+1145,The Thundering Heavens,"You have traveled to the Skywall, realm of the wind elementals, in search of the legendary Fists of the Heavens."
+1146,Random Timewalking Dungeon (Cataclysm),
+1147,The Vortex Pinnacle,
+1148,The Stonecore,
+1149,Grim Batol,
+1150,Throne of the Tides,
+1151,Lost City of the Tol'vir,
+1152,End Time,
+1153,Pit of Saron,
+1154,Magisters' Terrace,
+1162,Legacy of the Windrunners,"You have traveled to Niskara, homeworld of the Legion Inquisition."
+1163,[TEST] Conditional Shores,
+1164,The Underlight,You are attempting to deal with the aquatic disturbance off the coast of Val'sharah.
+1165,The Twinblades of the Deceiver,You are leading an elite force of demon hunters on a hunt to slay Varedis Felsoul in his Legion stronghold in Suramar.
+1166,The Aldrachi Warblades,"You are closing in on Caria Felsoul, wielder of the infamous Aldrachi Warblades."
+1167,The Dread Admiral,You and Fleet Admiral Tethys have located the Dread Admiral Eliza's fleet off the coast of Azsuna.
+1168,The Emperor's Promise,The Shado-Pan urgently need help liberating a powerful artifact from the clutches of the Burning Legion.
+1170,Ursoc's Lair,You have traveled the Emerald Dream to Ursoc's Lair in search of the claws of the Bear God.
+1171,The Frozen Throne,You have been summoned to Icecrown by the Lich King.
+1172,The Violet Hold,You must interrogate Taldath the Destroyer for information on Varedis' whereabouts.
+1173,The Dark Riders,"You have found the secret lair of the Dark Riders, but their leader must be defeated for you to claim the artifact."
+1174,Eye of Azshara,
+1175,Eye of Azshara,
+1176,Challenge of Valor,Havi offers aid against the Legion if you prove your valor on the Broken Shore.
+1178,The Spear in Shadow,"Apata has found the location of the Talonclaw, guarded by an ancient enemy. Kill the monster and take back the spear."
+1183,Dreadscar Scenario,
+1184,Dreadscar Finale Scenario,
+1185,Deadwind Harvester Scenario,
+1186,Scythe of Elune Scenario,
+1187,The Forge of the Guardian,
+1189,The Arcway,
+1190,The Arcway,
+1191,Maw of Souls,
+1192,Maw of Souls,
+1193,Halls of Valor,
+1194,Halls of Valor,
+1195,A Ring Reforged,"After the disastrous events at the Broken Shore, the world's shaman convene an emergency meeting at the very heart of Azeroth."
+1200,The Dark Riders,"You have found the secret lair of the Dark Riders, but their leader must be defeated for you to claim the artifact."
+1201,Darkheart Thicket,
+1202,Darkheart Thicket,
+1203,The Dark Riders,"You have found the secret lair of the Dark Riders, but their leader must be defeated for you to claim the artifact."
+1204,Black Rook Hold,
+1205,Black Rook Hold,
+1206,Neltharion's Lair,
+1207,Neltharion's Lair,
+1208,Assault on Violet Hold,
+1209,Assault on Violet Hold,
+1214,Maelstrom Titan Scenario,
+1215,The Frozen Throne,Someone has forgotten to loot something of incredible importance from the Lich King.
+1221,Where the Hammer Falls,Venture into the forgotten corridors of Deepholm to retrieve the Doomhammer from a demonic foe.
+1222,The Voice of Thunder,The powerful Fist of Ra-Den awaits any who can prove to the White Tiger that they are mighty enough to wield it.
+1227,Cleansing the Mother Tree,"You and Lyessa Bloomwatcher have traveled to the base of Nordrassil to cleanse G'Hanir, the Mother Tree of its corruption."
+1228,The Nexus Vault,
+1229,The Dark Queen and the Sea,"Return to the Throne of Tides to track down a powerful relic of ages past: Sharas'dal, Scepter of the Tides."
+1234,Thunder of the Titans,"You have traveled to Shield's Rest, an island that holds ancient vrykul tombs."
+1240,Shadowgore Citadel,You must infiltrate Akaari Shadowgore's fortress and take the Fangs of the Devourer from her corpse.
+1241,The Nexus Vault,
+1242,Claiming the Truthguard,Inside a tomb of ancient vrykul kings lies a shrine to Tyr. Enter it and find the Truthguard.
+1243,Return of the Light,"You have traveled to the shattered world of Niskara in search of the legendary crystalline staff, T'uure."
+1248,Secrets of Ulduar,You tread within the ancient titan city of Ulduar.
+1249,[DNT] The Silver Hand,[DNT] Holy Paladin Acquisition
+1250,Dark Whispers,You have traveled to this demon infested valley in search of the Skull of the Man'ari.
+1251,The Creator's Workshop,Mimiron has called you to the Spark of Imagination in Ulduar to plan your next move.
+1252,Never Hunt Alone,
+1279,On The Prowl,"You have traveled to this ancient ruin in search of Verstok Darkbough, who fled from Ashamane's Fall with the Fangs of Ashamane."
+1280,The Mage Hunter,Ebonchill is in the hands of a power eredar mage hunter. Attract his attention with a powerful ritual and turn the tables on him
+1281,The Unseen Blade,The Veiled Hand has infiltrated Stormwind and plans to summon the Legion directly into the city.
+1286,Confrontation at the Black Temple,Convince Akama to stand by your side in the war against the Burning Legion.
+1287,Darkbough,"To cleanse the Nightmare, the brave must ascend the great tree Shaladrassil, where the veil of dreams is thinnest."
+1288,Tormented Guardians,"The Nightmare's sway is greatest over those closest to nature, clouding the minds of her stalwart protectors with fear and rage."
+1289,Rift of Aln,"Deep within this dark and formless expanse, where reality shifts and the senses deceive, the Nightmare Lord awaits."
+1290,Arcing Aqueducts,"An undersea passage offers access to the foundations of the Nightwell itself, but forgotten terrors await within."
+1291,Royal Athenaeum,The palatial grounds of the Nighthold stand as the pinnacle of a culture thoroughly shaped - and twisted - by magic.
+1292,Nightspire,"For Grand Magistrix Elisande, who mortgaged her people's future in a dark bargain with the Legion, a day of reckoning comes."
+1293,Betrayer's Rise,"Atop the Nighthold, the warlock Gul'dan arrives at the purpose for which his Legion masters sent him to Azeroth. Destiny awaits."
+1294,Confrontation at the Black Temple,Convince Akama to stand by your side in the war against the Burning Legion.
+1295,Rescue Koltira,Rescue Koltira.
+1296,The Oculus,Follow Archmage Vargoth into the Oculus.
+1297,The Violet Hold,Defeat Hakkar the Houndmaster within the Violet Hold.
+1298,The Serpent and the Demon,"You have arrived at the Jade Temple to seek out the former staff of the Monkey King, Fu Zan."
+1299,Battle for the Exodar,
+1304,The Invasion of Niskara,Send a message to the Burning Legion by invading Niskara and putting an end once and for all to Caria and Varedis Felsoul.
+1305,The Invasion of Niskara,Send a message to the Burning Legion by invading Niskara and putting an end once and for all to Caria and Varedis Felsoul.
+1306,The Collapse,Fight alongside your army of withered and make your way into the Collapse.
+1307,Tideskorn Harbor Acquisition Scenarios - JMC,Testing if a generic LFG record is all I need.
+1308,Tirisfal Glades Acquisition Scenarios - JMC,Generic LFG Record for Scenarios.
+1309,Shield's Rest Acquisition Scenarios - JMC,Generic LFG Record for Scenarios.
+1310,The Fate of Hodir,
+1311,Ulduar Warrior Scenario,You tread within the ancient titan city of Ulduar.
+1312,An Eye for a Scepter,"Disguised as Jergosh, join the Shadow Council's hunt for the Eye of Dalaran in Tol Barad."
+1317,The Fourth Horseman,Raise the Fourth Horseman.
+1318,Court of Stars,
+1319,Court of Stars,
+1320,Light's Hope Chapel,Slaughter Light's Hope Chapel.
+1321,All In,Sabotage the Nightflow Conduit.
+1326,The Defense of Netherlight Temple,Defend Netherlight Temple against Lord Balnazzar's invasion.
+1345,The Defense of Netherlight Temple,Defend Netherlight Temple against Lord Balnazzar's invasion.
+1346,Destiny Unfulfilled,You must fulfill your destiny.
+1347,Karazhan - Quest for the Pillars,Return to the tower of Karazhan to seek the clues to the Pillars of Creation.
+1348,The Emerald Nightmare,
+1349,The Emerald Nightmare,
+1350,The Emerald Nightmare,
+1351,The Nighthold,
+1352,The Nighthold,
+1353,The Nighthold,
+1354,Illidan Origins: Ravencrest's Legacy,
+1359,Blackhand's Crucible,"Atop the Blackrock Foundry, Warlord Blackhand oversees his clan's ancestral home amidst searing heat that only he can bear."
+1360,The Black Forge,"Deep within the Blackrock Foundry, brutal and giant creatures temper and forge the machinery of war for the Iron Horde."
+1361,Slagworks,"Only the unnatural heat of the Foundry furnace can smelt the Blackrock ore, essential to the might of the Iron Horde."
+1362,Iron Assembly,The extent of the Iron Horde's arms and armaments is a terrible sight to behold.
+1363,Walled City,"As ogres and Iron Horde leaders gather for a spectacle in the great arena of Highmaul, a destructive plot roils in the shadows."
+1364,Arcane Sanctum,Only a select few have seen the inside of the Gorthenon atop Highmaul; rumors abound of strange relics and sorcery within.
+1365,Imperator's Rise,"Atop Highmaul, Imperator Mar'gok works to unlock ancient secrets so that ogres may reclaim their birthright as lords of Draenor."
+1366,Hellbreach,"Before the gates of Hellfire Citadel, fel-infused siege engines and monstrous beasts stand ready for an assault on Azeroth."
+1367,Halls of Blood,"Kilrogg was first to accept Gul'dan's twisted offer, but many orcs followed. Bloodthirsty and savage, they await in these halls."
+1368,Bastion of Shadows,"With Gul'dan's ascent to power, the Sargerei and other members of the Shadow Council now work openly in service of the Legion."
+1369,Destructor's Rise,"Atop the spires of the Citadel, demonic champions ready themselves, as Gul'dan begins a dark ritual...."
+1370,The Black Gate,"On the grounds of the ruined Dark Portal, Archimonde himself comes forth to ensure that the Legion's plans do not fail."
+1371,Priest Order Formation - JMC,Priest Order Formation
+1372,Illidan Origins: Great Dark Beyond,
+1381,[DNT] Blade in Twilight,[DNT] - Shadow Priest Acquisition
+1382,[DNT] Sword of Kings,[DNT] - Arms Warrior Acquisition
+1383,[DNT] Hunter of Heroes,[DNT] Fury Warrior Acquisition
+1384,[DNT] Spear in the Shadow,[DNT] Surv Hunter Acquisition
+1404,Breaching the Sanctum,The time has come to attack the Sanctum of Order and enter the Palace from below.
+1405,Sieging of Suramar,The time has come to lead your forces into a full frontal attack on Suramar City itself.
+1406,The Archmage's Reckoning,It is time to bring Archmage Xylem to justice once and for all.
+1411,Trial of Valor,"Face the final test of the titan keeper Odyn, then descent into the depths of Helheim to defeat Helya once and for all!"
+1416,Imminent Launch,Thermaplugg's missile must be stopped!
+1417,The Imp Mother's Den,Fight the Imp Mother to get special powers.
+1422,Fel Hammer Demon Hunter Scenario,The Fel Hammer is under attack. Defend it!
+1423,The Eye of Eternity,You are attempting to reign in the elements contained in the three disc fragments of the mage class mount.
+1428,Shado-Pan Showdown,
+1429,War of the Ancients,
+1430,Wailing Critters,Defeat the deviate critters that have overtaken the Wailing Caverns.
+1431,Panic At The Brewery - Monk Scenario,Stop the Legion attack on Stormstout Brewery!
+1436,7.2 Broken Shore Intro - Legion Command Ship (KMS),
+1437,Trial of Valor,
+1438,Trial of Valor,
+1439,Trial of Valor,
+1440,Kruul's Intentions,You must stop Kruul before he reaches full strength!
+1445,Feltotem's Fall,Stop Tugar Bloodtotem and his Fel Worms from bringing down the mountain.
+1446,The God-Queen's Fury,Sigryn must be stopped before she confronts Odyn.
+1447,The Sunken Vault,Claim a gift from the Titans deep beneath the waves.
+1452,Thwarting the Twins,Raest has tapped into the Twisting Nether to give him god-like powers. He must be stopped.
+1453,Random Timewalking Dungeon (Mists of Pandaria),
+1458,Stratholme,You're gathering holy water and finding the location of Rivendare's mount.
+1459,Turn Back the Tides: Val'sharah,
+1464,Gate of the Setting Sun,
+1465,Siege of Niuzao Temple,
+1466,Stormstout Brewery,
+1467,Mogu'shan Palace,
+1468,Shado-Pan Monastery,
+1469,Temple of the Jade Serpent,
+1470,The Assault on Broken Shore,
+1471,The End of the Risen Threat,[temp]Find the Risen General and put an end to him.
+1472,Turn Back the Tides: Stormheim,
+1473,Halls of Valor,You're entering a tournament held by Odyn to prove who's the strongest warrior in the land.
+1474,Upper Return to Karazhan,
+1475,Lower Return to Karazhan,
+1480,Turn Back the Tides: Azsuna,
+1481,The Coldridge Cataclysm,
+1482,Deadmines: Pet Edition,Defeat the mysterious creatures that have taken residence in the Deadmines.
+1483,Night of the Wilds,Engage in the Eternal Hunt.
+1488,Cathedral of Eternal Night,
+1489,The Wrathsteed of Xoroth,Lure out and defeat Arax'ath to claim the Wrathsteed.
+1490,Turn Back the Tides: Highmountain,
+1491,Gnomeregan,Defeat the mysterious creatures that have taken residence in Gnomeregan.
+1492,Defense of Aviana,Defend the Shrine of Aviana from the Legion assault.
+1493,Felwing Ledge,You are attempting to bring a Wild Felwing under your control through force.
+1494,The Gates of Hell,"After weeks of hard-fought battle, Azeroth's heroes at last enter the dark Tomb, but the Legion has been preparing as well..."
+1495,Wailing Halls,"The lower reaches of the one-time Temple of Elune have been sealed away for generations, spawning unthinkable horrors."
+1496,Chamber of the Avatar,"Aegwynn sealed away the defeated Avatar of Sargeras deep beneath the Tomb, but that fearsome husk now begins to stir...."
+1497,Deceiver's Fall,"In the depths of the Tomb of Sargeras, Kil'jaeden appears cornered at last. Or are we just playing into the Deceiver's hands?"
+1498,Azeroth's Warning,Magni has beckoned you to Sholazar basin with an urgent message.
+1499,The Throne of the Four Winds,You're here to make the Lords of the Winds swear allegiance to Thunderaan.
+1500,Akazamzarak's Hat,Find out what's happening in Akazamzarak's Hat.
+1501,You Can't Take the Sky from Me,"Hunt down Infazzar the Shade, and retrieve the Idol of Aviana."
+1502,Ruby Sanctum,Infiltrate the Ruby Sanctum.
+1507,The Lost Glacier,Locate the bones of the fallen dragon and raise them in undeath.
+1508,AI Test WSG,It's Warsong Gulch!
+1515,Trial of Style,It's the Trial of Style! Flaunt your transmog skills to win first place!
+1520,The Arcatraz,
+1525,Tomb of Sargeras,
+1526,Tomb of Sargeras,
+1527,Tomb of Sargeras,
+1533,Timewalking Raid: Black Temple,
+1534,The Deaths of Chromie,Help Chromie rescue her future self from a mysterious assailant.
+1535,Seat of the Triumvirate,
+1583,Endless Halls,Traverse the maze that is the Endless Halls.
+1588,Warfront Prototype,Destroy the Horde!
+1610,Light's Breach,"The Legion musters its forces against the Light's incursion, defying those who dare besiege Antorus."
+1611,Forbidden Descent,"From deep within its stronghold, the immortal army advances upon countless worlds... and seeks to claim the Dark Titan's prize."
+1612,Hope's End,Only the most devoted--or the most vile--may tread so close to the heart of the Legion's power.
+1613,Seat of the Pantheon,"Forces that shape the cosmos. Sights too wondrous for mortal eyes. Come forth, heroes, and behold eternity's end."
+1614,Expedition to Crescent Isle,Head out for adventure on Crescent Isle.
+1615,Battle for Stromgarde,Assault and destroy the Alliance in their newly reconstructed fortification of Stromgarde Keep.
+1616,Telogrus Rift,
+1617,Invasion Point: Cen'gar,
+1618,Invasion Point: Naigtal,
+1619,Invasion Point: Sangua,
+1620,Invasion Point: Aurinor,
+1621,Invasion Point: Val,
+1622,Invasion Point: Bonich,
+1628,Greater Invasion Point: Matron Folnuna,
+1629,Greater Invasion Point: Pit Lord Vilemus,
+1630,Greater Invasion Point: Sotanathor,
+1631,Greater Invasion Point: Occularus,
+1632,Greater Invasion Point: Inquisitor Meto,
+1633,Greater Invasion Point: Mistress Alluradel,
+1634,The Nightborne,
+1635,Invasion Point: Rekindling,
+1640,"Antorus, the Burning Throne",
+1641,"Antorus, the Burning Throne",
+1642,"Antorus, the Burning Throne",
+1643,Forge of Aeons,
+1648,The Sunwell,
+1661,[TEST] PvE Battleground,
+1668,Atal'Dazar,
+1669,Atal'Dazar,
+1670,Random Dungeon (Battle for Azeroth),
+1671,Random Heroic (Battle for Azeroth),
+1672,Freehold,
+1677,Timewalking Raid: Ulduar,
+1686,A Dark Place,Save Uuna.
+1687,Un'gol Ruins,Head out for adventure on Un'gol Ruins.
+1688,Strike Back!,You have embarked on a mission to stop the repeated bounties on your head.
+1694,Temple of Sethraliss,
+1695,Temple of Sethraliss,
+1700,Siege of Boralus,
+1702,The Stormwind Extraction,Warchief Sylvanas Windrunner asked you to retrieve an important package from the Stormwind Stockades.
+1703,For Zandalar!,The time has come to launch an offensive to retake the Zandalari capital.
+1704,Freehold,
+1705,Waycrest Manor,
+1706,Waycrest Manor,
+1707,The MOTHERLODE!!,
+1708,The MOTHERLODE!!,
+1710,Shrine of the Storm,
+1711,The Underrot,
+1712,The Underrot,
+1713,Tol Dagor,
+1714,Tol Dagor,
+1723,The Rotting Mire,Head out for adventure on The Rotting Mire.
+1724,Verdant Wilds,Head out for adventure on Verdant Wilds.
+1725,Skittering Hollow,Head out for adventure on Skittering Hollow.
+1726,Island Expeditions,Head out for adventure on an Island Expedition!
+1731,Halls of Containment,The doors of this ancient titan research facility open for the first time in millennia. What remains of the horrors sealed away?
+1732,Crimson Descent,"The remnants of old experiments gone awry litter the lower halls of Uldir, as a dark power stirs within the depths."
+1733,Heart of Corruption,"In foul pits, far beneath the halls of Uldir, the source of the corruption that has befallen Zandalar awaits."
+1734,The Dread Chain,Head out for adventure on The Dread Chain.
+1735,The Whispering Reef,Head out for adventure on The Whispering Reef.
+1736,Island Expeditions,Head out for adventure on an Island Expedition!
+1737,Island Expeditions,Head out for adventure on an Island Expedition!
+1738,Un'gol Ruins,Head out for adventure on Un'gol Ruins.
+1739,Un'gol Ruins,Head out for adventure on Un'gol Ruins.
+1740,The Whispering Reef,Head out for adventure on The Whispering Reef.
+1741,The Dread Chain,Head out for adventure on The Dread Chain.
+1742,Skittering Hollow,Head out for adventure on Skittering Hollow.
+1743,Verdant Wilds,Head out for adventure on Verdant Wilds.
+1744,The Rotting Mire,Head out for adventure on The Rotting Mire.
+1745,The Rotting Mire,Head out for adventure on The Rotting Mire.
+1746,Verdant Wilds,Head out for adventure on Verdant Wilds.
+1747,Skittering Hollow,Head out for adventure on Skittering Hollow.
+1748,The Dread Chain,Head out for adventure on The Dread Chain.
+1749,The Whispering Reef,Head out for adventure on The Whispering Reef.
+1750,The Molten Cay,Head out for adventure on The Molten Cay.
+1751,The Molten Cay,Head out for adventure on The Dread Chain.
+1752,The Molten Cay,Head out for adventure on The Molten Cay.
+1753,"Thros, the Blighted Lands",Something something death realm.
+1758,The Battle for Lordaeron,Join King Anduin in the fight for Lordaeron Keep.
+1759,The Battle for Lordaeron,Join Warchief Sylvanas Windrunner in the battle for Lordaeron Keep.
+1760,Battle for Stromgarde,Assault and destroy the Horde in their newly constructed fortification of Ar'gorok.
+1761,Un'gol Ruins,Head out for adventure on Un'gol Ruins.
+1762,Island Expeditions,Head out for adventure on an Island Expedition!
+1763,Verdant Wilds,Head out for adventure on Verdant Wilds.
+1764,The Rotting Mire,Head out for adventure on The Rotting Mire.
+1765,The Molten Cay,Head out for adventure on The Molten Cay.
+1766,The Dread Chain,Head out for adventure on The Dread Chain.
+1767,Skittering Hollow,Head out for adventure on Skittering Hollow.
+1768,Uncharted Island,A large amount of Azerite has been detected out in the Great Sea!
+1769,Dark Iron Dwarf - Blackrock Depths,
+1771,Mag'har Orc - Gorgrond,
+1774,Shrine of the Storm,
+1785,Kings' Rest,
+1887,Uldir,
+1888,Uldir,
+1889,Uldir,
+1890,Mag'har Orc - Siege of Orgrimmar,
+1891,Random Island Expeditions Mythic,Head out for adventure on an Island Expedition!
+1892,Dark Iron Dwarf - Molten Core,
+1893,Dark Iron Dwarf - Firelands,
+1901,The Battle for Darkshore,Rally beside your forces and push forth to reclaim Darkshore for the Alliance.
+1902,The Battle for Darkshore,Rally beside your forces and push forth to reclaim Darkshore for the Horde.
+1905,Ulduar - 8.1 Dwarf Heritage Armor,You tread within the ancient titan city of Ulduar.
+1906,The Sunwell - Heritage Armor,
+1907,Tyrande's Ascension,
+1908,The Whispering Reef,Head out for adventure on The Whispering Reef.
+1909,Zandalari Treasury,Gold. Gems. Probable doom.
+1910,8.1 Darkspear - Icecrown - The Frozen Throne (ZTO),Help the Spirit of Vol'jin confront the Lich King.
+1911,Escape from Tol Dagor,Tol Dagor Breakout
+1912,Darkbough,"To cleanse the Nightmare, the brave must ascend the great tree Shaladrassil, where the veil of dreams is thinnest."
+1913,Seat of the Pantheon,"Forces that shape the cosmos. Sights too wondrous for mortal eyes. Come forth, heroes, and behold eternity's end."
+1914,Hope's End,Only the most devoted--or the most vile--may tread so close to the heart of the Legion's power.
+1915,Forbidden Descent,"From deep within its stronghold, the immortal army advances upon countless worlds... and seeks to claim the Dark Titan's prize."
+1916,Light's Breach,"The Legion musters its forces against the Light's incursion, defying those who dare besiege Antorus."
+1917,Deceiver's Fall,"In the depths of the Tomb of Sargeras, Kil'jaeden appears cornered at last. Or are we just playing into the Deceiver's hands?"
+1918,Chamber of the Avatar,"Aegwynn sealed away the defeated Avatar of Sargeras deep beneath the Tomb, but that fearsome husk now begins to stir...."
+1919,Wailing Halls,"The lower reaches of the one-time Temple of Elune have been sealed away for generations, spawning unthinkable horrors."
+1920,The Gates of Hell,"After weeks of hard-fought battle, Azeroth's heroes at last enter the dark Tomb, but the Legion has been preparing as well..."
+1921,Trial of Valor,"Face the final test of the titan keeper Odyn, then descent into the depths of Helheim to defeat Helya once and for all!"
+1922,Betrayer's Rise,"Atop the Nighthold, the warlock Gul'dan arrives at the purpose for which his Legion masters sent him to Azeroth. Destiny awaits."
+1923,Nightspire,"For Grand Magistrix Elisande, who mortgaged her people's future in a dark bargain with the Legion, a day of reckoning comes."
+1924,Royal Athenaeum,The palatial grounds of the Nighthold stand as the pinnacle of a culture thoroughly shaped - and twisted - by magic.
+1925,Arcing Aqueducts,"An undersea passage offers access to the foundations of the Nightwell itself, but forgotten terrors await within."
+1926,Rift of Aln,"Deep within this dark and formless expanse, where reality shifts and the senses deceive, the Nightmare Lord awaits."
+1927,Tormented Guardians,"The Nightmare's sway is greatest over those closest to nature, clouding the minds of her stalwart protectors with fear and rage."
+1928,Havenswood,Head out for adventure on Havenswood.
+1929,Havenswood,Head out for adventure on Havenswood.
+1930,Havenswood,Head out for adventure on Havenswood.
+1931,Havenswood,Head out for adventure on Havenswood.
+1932,Jorundall,Head out for adventure on Jorundall.
+1933,Jorundall,Head out for adventure on Jorundall.
+1934,Jorundall,Head out for adventure on Jorundall.
+1935,Jorundall,Head out for adventure on Jorundall.
+1940,Gnomeregan - Heritage,
+1941,Halls of Stone Scenario,
+1942,Battle of Dazar'alor,
+1943,Battle of Dazar'alor,
+1944,Battle of Dazar'alor,
+1945,Siege of Dazar'alor,"With the bulk of Rastakhan's forces lured into Nazmir, the time has come to storm the city."
+1946,Empire's Fall,"Ancient treasures lie deep within the halls of the palace. But beware, for they are guarded by the wrath of the loa."
+1947,Might of the Alliance,Witness the Horde's savagery as they strike at the valiant heroes of the Alliance.
+1948,Defense of Dazar'alor,"The city faces a cowardly Alliance attack, and the Horde's brave champions are the only ones who can break the siege."
+1949,Death's Bargain,Witness King Rastakhan's defiant stand against the bloodthirsty Alliance invaders.
+1950,Victory or Death,"King Rastakhan has been slain, and those responsible must be brought to justice before they can escape."
+1951,Crucible of Storms,Delve into the chambers beneath Stormsong Valley to uncover the source of the shadow spreading across the land.
+1952,Crucible of Storms,
+1953,Crucible of Storms,
+1954,Crucible of Storms,
+1955,9.0 Maw Prototype - Sartharion's Lair,
+1956,9.0 Maw Prototype - Aurinor,
+1957,9.0 Maw Prototype - Obsidian Dragonshrine,
+1958,9.0 Maw Prototype - Ruby Sanctum,
+1959,Mulgore - 8.2 Tauren Heritage Armor,You have entered the spirit realm.
+1960,8.1.5 Magni - Uldir,Magni and Brann venture into Uldir to meet MOTHER.
+1961,The Prison of Ink,You are engaging in a trial to earn a blood contract.
+1962,Tradewind & Crow: Dreamgrove Detectives,
+1963,"Torghast, Tower of the Damned",Fight your way to the top of Torghast.
+1964,Stratholme - Pet Dungeon,Defeat the mysterious creatures that have taken residence in Stratholme.
+1965,The Creator's Workshop,Mimiron has called you to the Spark of Imagination in Ulduar to reform Hati.
+1966,Arathi Basin Comp Stomp,"- Capture objectives
+- Slay enemies
+- Win"
+1971,Random Timewalking Dungeon (Warlords of Draenor),
+1972,The Everbloom,
+1973,Bloodmaul Slag Mines,
+1974,Iron Docks,
+1975,Auchindoun,
+1976,Shadowmoon Burial Grounds,
+1977,Skyreach,
+1982,Battle for Stromgarde (Heroic),Assault and destroy the Alliance in their newly reconstructed fortification of Stromgarde Keep.
+1983,Snowblossom Village,Head out for adventure on Snowblossom Village.
+1984,Crestfall,Head out for adventure on Crestfall.
+1985,Crestfall,Head out for adventure on Crestfall.
+1986,Crestfall,Head out for adventure on Crestfall.
+1987,Crestfall,Head out for adventure on Crestfall.
+1988,Snowblossom Village,Head out for adventure on Snowblossom Village.
+1989,Snowblossom Village,Head out for adventure on Snowblossom Village.
+1990,Snowblossom Village,Head out for adventure on Snowblossom Village.
+1991,8.2 Heart - Emerald Dreamway,The green dragonflight is under attack by the Void.
+1992,Essence of the Red Dragon,
+1993,Horrific Vision of Stormwind,
+1994,Gilneas - Heritage Armor,
+1995,Horrific Vision of Orgrimmar,
+1997,Baine Scenario (Alliance),Save Baine Bloodhoof from being executed.
+1998,Baine Scenario (Loyalist),Save Baine Bloodhoof from being executed.
+1999,Memento of the Dark Rangers,Old hatred take a new form within the Scarlet Halls.
+2000,8.2 Heart - The Maelstrom,A new wound has appeared at the Maelstrom.
+2001,Essence of Eternity,
+2002,Baine Scenario (Normal),Save Baine Bloodhoof from being executed.
+2003,The Dragon's Spine,
+2004,Memories of Azeroth: Burning Crusade,
+2005,The Halls of Origination,
+2006,Operation: Mechagon,
+2007,Battle for Stromgarde (Heroic),Assault and destroy the Horde in their newly constructed fortification of Ar'gorok.
+2008,8.2.5 Wrathion - Karazhan Catacombs,Searching for the Black Prince has led to this hideout. But will N'Zoth's agents find him first?
+2009,The Grand Reception,The dangers of Nazjatar were merely preamble. Breach the palace gates and descend into Azshara's deadly domain.
+2010,Depths of the Devoted,"Azshara's most valued retainers are as deadly as they are loyal. To face the queen, one must first face her court."
+2011,The Circle of Stars,"Every path has led to her... to him. Prove worthy of the waking dream. Drown! Drown, and let all eyes be opened!"
+2012,The Engine of Nalak'sha,
+2013,8.3 Heart - Temple of the Jade Serpent,Chromie has uncovered massive time distortions within the Temple of the Jade Serpent. Could it be another Essence?
+2014,The Eternal Palace,
+2015,The Eternal Palace,
+2016,The Eternal Palace,
+2017,Memories of Azeroth: Wrath of the Lich King,
+2018,Memories of Azeroth: Cataclysm,
+2019,The Halls of Origination,
+2020,The Halls of Origination,Stop the Amathet from activating the Origination Protocol.
+2021,Blackwing Descent,The whispers call.
+2022,8.3 Heritage - Goblin - Crapopolis Scenario (KMS),Gallywix has taken over the streets of Crapopolis.
+2023,The Halls of Origination,Discover the source of corruption.
+2024,Teeming Island Expeditions,Head out for adventure on an Island Expedition!
+2025,Havenswood,Head out for adventure on Havenswood.
+2026,Timewalking Raid: Firelands,
+2027,Operation: Mechagon - Junkyard,
+2028,Operation: Mechagon - Workshop,
+2029,Vale of Eternal Twilight,"Whispers of N'Zoth invade the safest of sanctuaries, including one's mind."
+2030,The Master of Lies,The time has come to strike at Sire Denathrius while he is not expecting it.
+2031,The Battle for Darkshore (Heroic),Rally beside your forces and push forth to reclaim Darkshore for the Horde.
+2032,The Battle for Darkshore (Heroic),Rally beside your forces and push forth to reclaim Darkshore for the Alliance.
+2033,"Ny'alotha, the Waking City",
+2034,"Ny'alotha, the Waking City",
+2035,"Ny'alotha, the Waking City",
+2036,Vision of Destiny,"From his dark throne, N'Zoth concocts visions of a future where Azeroth has fallen, and none are left to resist his empire."
+2037,Halls of Devotion,"Within their black halls, N'Zoth's devoted perform profane rituals to bring about the end of the world."
+2038,Gift of Flesh,"Buried deep within a fissure of twisted flesh, Il'gynoth's corruption continues to spread from this realm into the next."
+2039,The Waking Dream,"Deep within his monument of filth, lies the corruptor, and the final confrontation that will determine the fate of Azeroth."
+2040,Blackrock Depths - Pet Dungeon,Confront the Shadowy Figures in their base of operations!
+2041,Jorundall,Head out for adventure on Jorundall.
+2042,Vision of the Twisting Sands,"Whispers of N'Zoth invade the safest of sanctuaries, including one's mind."
+2043,Darkmaul Citadel,
+2044,Chamber of Heart,
+2045,End of the Dream,Experience the fall of the Dreamer.
+2046,9.0 Bastion - Campaign - Ch 02 - Redridge (JLW),
+2047,Maldraxxus - Narrative Finale,
+2049,Battle for Tirna Glayn,Defend Tirna Glayn and its inhabitants from the Possessed.
+2050,The Path of Totality,Retrace the memories of Caregiver Selenis and her path to becoming a Night Warrior.
+2054,Teeming Island Expeditions,Head out for adventure on an Island Expedition!
+2055,Havenswood,Head out for adventure on Havenswood.
+2056,Jorundall,Head out for adventure on Jorundall.
+2057,Crestfall,Head out for adventure on Crestfall.
+2058,Verdant Wilds,Head out for adventure on Verdant Wilds.
+2059,The Recovery of Tyrande Whisperwind,
+2061,The Greater Good,
+2062,Plaguefall,
+2063,The Ember Court,
+2064,Castle Nathria Scenario,
+2065,Assault on the House of Rituals,
+2067,9.0 Ardenweald - Garden - Enter,Generic LFG Record for Scenarios.
+2068,Battle for the Grove of Awakening,Defeat the invasion at the Grove of Awakening.
+2069,Plaguefall,
+2070,The Necrotic Wake,
+2071,The Necrotic Wake,
+2072,Mists of Tirna Scithe,
+2073,Mists of Tirna Scithe,
+2074,Halls of Atonement,
+2075,Halls of Atonement,
+2076,Spires of Ascension,
+2077,Spires of Ascension,
+2078,Theater of Pain,
+2079,Theater of Pain,
+2080,De Other Side,
+2081,De Other Side,
+2082,Sanguine Depths,
+2083,Sanguine Depths,
+2084,Path of Ascension,Aid your soulbinds in proving themselves in the Path of Ascension.
+2085,The Medallion of Dominion,Obtain the Medallion of Dominion from Kel'Thuzad.
+2086,Random Dungeon (Shadowlands),
+2087,Random Heroic (Shadowlands),
+2088,The Ember Court,
+2089,Path of Ascension (Tutorial),Aid your soulbinds in proving themselves in the Path of Ascension.
+2090,The Leeching Vaults,"Like an open wound, anima bleeds from Castle Nathria's vaults. The hemorrhaging must be stopped before Revendreth is drained."
+2091,Reliquary of Opulence,"With the aristocracy reveling in victory, heroes must crash their party and dismantle their power base."
+2092,Blood from Stone,"Denathrius's Stone Legion Generals lie in wait, preparing a trap that will destroy the rebellion once and for all."
+2093,Castle Nathria,
+2094,Castle Nathria,
+2095,Castle Nathria,
+2096,An Audience with Arrogance,Denathrius eagerly awaits the heroes in his tower for the final confrontation to decide the fate of Revendreth.
+2097,Path's End,A devourer threatens to destroy the Path of Ascension!
+2098,"Torghast, Tower of the Damned - Runecarver",Fight your way to the top of Torghast.
+2099,"Torghast, Tower of the Damned",Fight your way to the top of Torghast.
+2100,Torghast: Skoldus Hall (Layer 1),Fight your way to the top of Torghast.
+2101,Torghast: The Fracture Chambers (Layer 1),Fight your way to the top of Torghast.
+2102,Torghast: The Soulforges (Layer 1),Fight your way to the top of Torghast.
+2103,Torghast: Coldheart Interstitia (Layer 1),Fight your way to the top of Torghast.
+2104,Torghast: Mort'regar (Layer 1),Fight your way to the top of Torghast.
+2105,Torghast: The Upper Reaches (Layer 1),Fight your way to the top of Torghast.
+2106,"Torghast, Twisting Corridors (Layer 1)",Fight your way to the top of Torghast.
+2107,Atal'Dazar,
+2108,De Other Side,
+2109,Halls of Atonement,
+2110,Mists of Tirna Scithe,
+2111,Plaguefall,
+2112,Sanguine Depths,
+2113,Spires of Ascension,
+2114,The Necrotic Wake,
+2115,Theater of Pain,
+2116,Sanguine Depths,
+2117,Sanguine Depths,
+2118,De Other Side,
+2119,Halls of Atonement,
+2120,Mists of Tirna Scithe,
+2121,Plaguefall,
+2122,Spires of Ascension,
+2123,The Necrotic Wake,
+2124,Theater of Pain,
+2125,"Torghast, Tower of the Damned",Fight your way to the top of Torghast.
+2126,"Torghast, Tower of the Damned",Search for Jaina.
+2127,"Torghast, Tower of the Damned",Search for Jaina.
+2128,Torghast: Skoldus Hall (Layer 2),Fight your way to the top of Torghast.
+2129,Torghast: Skoldus Hall (Layer 3),Fight your way to the top of Torghast.
+2130,Torghast: Skoldus Hall (Layer 4),Fight your way to the top of Torghast.
+2131,Torghast: Skoldus Hall (Layer 5),Fight your way to the top of Torghast.
+2132,Torghast: Skoldus Hall (Layer 6),Fight your way to the top of Torghast.
+2133,Torghast: Skoldus Hall (Layer 7),Fight your way to the top of Torghast.
+2134,Torghast: Skoldus Hall (Layer 8),Fight your way to the top of Torghast.
+2135,Torghast: The Fracture Chambers (Layer 2),Fight your way to the top of Torghast.
+2136,Torghast: The Fracture Chambers (Layer 3),Fight your way to the top of Torghast.
+2137,Torghast: The Fracture Chambers (Layer 4),Fight your way to the top of Torghast.
+2138,Torghast: The Fracture Chambers (Layer 5),Fight your way to the top of Torghast.
+2139,Torghast: The Fracture Chambers (Layer 6),Fight your way to the top of Torghast.
+2140,Torghast: The Fracture Chambers (Layer 7),Fight your way to the top of Torghast.
+2141,Torghast: The Fracture Chambers (Layer 8),Fight your way to the top of Torghast.
+2142,Torghast: The Soulforges (Layer 2),Fight your way to the top of Torghast.
+2143,Torghast: The Soulforges (Layer 3),Fight your way to the top of Torghast.
+2144,Torghast: The Soulforges (Layer 4),Fight your way to the top of Torghast.
+2145,Torghast: The Soulforges (Layer 5),Fight your way to the top of Torghast.
+2146,Torghast: The Soulforges (Layer 6),Fight your way to the top of Torghast.
+2147,Torghast: The Soulforges (Layer 7),Fight your way to the top of Torghast.
+2148,Torghast: The Soulforges (Layer 8),Fight your way to the top of Torghast.
+2149,Torghast: Coldheart Interstitia (Layer 2),Fight your way to the top of Torghast.
+2150,Torghast: Coldheart Interstitia (Layer 3),Fight your way to the top of Torghast.
+2151,Torghast: Coldheart Interstitia (Layer 4),Fight your way to the top of Torghast.
+2152,Torghast: Coldheart Interstitia (Layer 5),Fight your way to the top of Torghast.
+2153,Torghast: Coldheart Interstitia (Layer 6),Fight your way to the top of Torghast.
+2154,Torghast: Coldheart Interstitia (Layer 7),Fight your way to the top of Torghast.
+2155,Torghast: Coldheart Interstitia (Layer 8),Fight your way to the top of Torghast.
+2156,Torghast: Mort'regar (Layer 2),Fight your way to the top of Torghast.
+2157,Torghast: Mort'regar (Layer 3),Fight your way to the top of Torghast.
+2158,Torghast: Mort'regar (Layer 4),Fight your way to the top of Torghast.
+2159,Torghast: Mort'regar (Layer 5),Fight your way to the top of Torghast.
+2160,Torghast: Mort'regar (Layer 6),Fight your way to the top of Torghast.
+2161,Torghast: Mort'regar (Layer 7),Fight your way to the top of Torghast.
+2162,Torghast: Mort'regar (Layer 8),Fight your way to the top of Torghast.
+2163,Torghast: The Upper Reaches (Layer 2),Fight your way to the top of Torghast.
+2164,Torghast: The Upper Reaches (Layer 3),Fight your way to the top of Torghast.
+2165,Torghast: The Upper Reaches (Layer 4),Fight your way to the top of Torghast.
+2166,Torghast: The Upper Reaches (Layer 5),Fight your way to the top of Torghast.
+2167,Torghast: The Upper Reaches (Layer 6),Fight your way to the top of Torghast.
+2168,Torghast: The Upper Reaches (Layer 7),Fight your way to the top of Torghast.
+2169,Torghast: The Upper Reaches (Layer 8),Fight your way to the top of Torghast.
+2170,"Torghast, Twisting Corridors (Layer 2)",Fight your way to the top of Torghast.
+2171,"Torghast, Twisting Corridors (Layer 3)",Fight your way to the top of Torghast.
+2172,"Torghast, Twisting Corridors (Layer 4)",Fight your way to the top of Torghast.
+2173,"Torghast, Twisting Corridors (Layer 5)",Fight your way to the top of Torghast.
+2174,"Torghast, Twisting Corridors (Layer 6)",Fight your way to the top of Torghast.
+2175,"Torghast, Twisting Corridors (Layer 7)",Fight your way to the top of Torghast.
+2176,"Torghast, Twisting Corridors (Layer 8)",Fight your way to the top of Torghast.
+2177,Atal'Dazar,
+2178,Freehold,
+2180,Torghast: Adamant Vaults (Layer 1),Fight your way to the top of Torghast.
+2181,Torghast: Adamant Vaults (Layer 2),Fight your way to the top of Torghast.
+2182,Torghast: Adamant Vaults (Layer 3),Fight your way to the top of Torghast.
+2183,Torghast: Adamant Vaults (Layer 4),Fight your way to the top of Torghast.
+2184,Torghast: Adamant Vaults (Layer 5),Fight your way to the top of Torghast.
+2185,Torghast: Adamant Vaults (Layer 6),Fight your way to the top of Torghast.
+2186,Torghast: Adamant Vaults (Layer 7),Fight your way to the top of Torghast.
+2187,Torghast: Adamant Vaults (Layer 8),Fight your way to the top of Torghast.
+2188,Torghast: Forgotten Catacombs (Layer 4),Fight your way to the top of Torghast.
+2190,The Battle of Ardenweald,
+2193,9.1 Campaign - Bastion - Ch 7 - 03 - Stratholme (JLW),
+2194,9.1 Campaign - Bastion - Ch 7 - 05 - Andorhal (JLW),
+2195,"Torghast, Tower of the Damned",Fight your way to the top of Torghast.
+2196,The Primus Returns,
+2197,Torghast: Skoldus Hall (Layer 9),Fight your way to the top of Torghast.
+2198,Torghast: Skoldus Hall (Layer 10),Fight your way to the top of Torghast.
+2199,Torghast: Skoldus Hall (Layer 11),Fight your way to the top of Torghast.
+2200,Torghast: Skoldus Hall (Layer 12),Fight your way to the top of Torghast.
+2201,Torghast: The Fracture Chambers (Layer 9),Fight your way to the top of Torghast.
+2202,Torghast: The Fracture Chambers (Layer 10),Fight your way to the top of Torghast.
+2203,Torghast: The Fracture Chambers (Layer 11),Fight your way to the top of Torghast.
+2204,Torghast: The Fracture Chambers (Layer 12),Fight your way to the top of Torghast.
+2205,Torghast: The Soulforges (Layer 9),Fight your way to the top of Torghast.
+2206,Torghast: The Soulforges (Layer 10),Fight your way to the top of Torghast.
+2207,Torghast: The Soulforges (Layer 11),Fight your way to the top of Torghast.
+2208,Torghast: The Soulforges (Layer 12),Fight your way to the top of Torghast.
+2209,Torghast: Coldheart Interstitia (Layer 9),Fight your way to the top of Torghast.
+2210,Torghast: Coldheart Interstitia (Layer 10),Fight your way to the top of Torghast.
+2211,Torghast: Coldheart Interstitia (Layer 11),Fight your way to the top of Torghast.
+2212,Torghast: Coldheart Interstitia (Layer 12),Fight your way to the top of Torghast.
+2213,Torghast: Mort'regar (Layer 9),Fight your way to the top of Torghast.
+2214,Torghast: Mort'regar (Layer 10),Fight your way to the top of Torghast.
+2215,Torghast: Mort'regar (Layer 11),Fight your way to the top of Torghast.
+2216,Torghast: Mort'regar (Layer 12),Fight your way to the top of Torghast.
+2217,Torghast: The Upper Reaches (Layer 9),Fight your way to the top of Torghast.
+2218,Torghast: The Upper Reaches (Layer 10),Fight your way to the top of Torghast.
+2219,Torghast: The Upper Reaches (Layer 11),Fight your way to the top of Torghast.
+2220,Torghast: The Upper Reaches (Layer 12),Fight your way to the top of Torghast.
+2221,The Jailer's Vanguard,The Jailer's vanguard stands ready to repel any attack. Their lines must be broken to breach the Jailer's sanctum.
+2222,The Dark Bastille,Screams of the tormented fuel the Jailer's army. End their suffering and deprive the Maw of its most precious resource.
+2223,Shackles of Fate,The soul river ends at the tower's peak. Destroy those feeding off it to free the countless souls deprived of their afterlife.
+2224,The Reckoning,"Atop the Tower, Sylvanas Windrunner awaits. Here, the final confrontation for the fate of the cosmos will take place."
+2225,"Tazavesh, the Veiled Market",
+2226,Sanctum of Domination,
+2227,Sanctum of Domination,
+2228,Sanctum of Domination,
+2229,Torghast: The Jailer's Gauntlet (Layer 1),Fight your way to the top of Torghast.
+2230,Torghast: The Jailer's Gauntlet (Layer 8),Fight your way to the top of Torghast.
+2231,Torghast: Skoldus Hall (Threads of Fate),Fight your way to the top of Torghast.
+2232,Torghast: The Fracture Chambers (Threads of Fate),Fight your way to the top of Torghast.
+2233,Torghast: The Soulforges (Threads of Fate),Fight your way to the top of Torghast.
+2234,Torghast: Coldheart Interstitia (Threads of Fate),Fight your way to the top of Torghast.
+2235,Torghast: Mort'regar (Threads of Fate),Fight your way to the top of Torghast.
+2236,Torghast: The Upper Reaches (Threads of Fate),Fight your way to the top of Torghast.
+2237,Torghast: New 1 (Layer 1),Fight your way to the top of Torghast.
+2238,Crestfall,Head out for adventure on Crestfall.
+2239,The Molten Cay,Head out for adventure on The Molten Cay.
+2240,Island Expeditions - Private Tour,Head out for adventure on an Island Expedition!
+2241,Verdant Wilds,Head out for adventure on Verdant Wilds.
+2242,The Whispering Reef,Head out for adventure on The Whispering Reef.
+2243,Jorundall,Head out for adventure on Jorundall.
+2244,Un'gol Ruins,Head out for adventure on Un'gol Ruins.
+2245,Snowblossom Village,Head out for adventure on Snowblossom Village.
+2246,Havenswood,Head out for adventure on Havenswood.
+2247,Skittering Hollow,Head out for adventure on Skittering Hollow.
+2248,The Dread Chain,Head out for adventure on The Dread Chain.
+2249,The Rotting Mire,Head out for adventure on The Rotting Mire.
+2250,Island Expeditions - Private Tour,Head out for adventure on an Island Expedition!
+2251,Island Expeditions - Private Tour,Head out for adventure on an Island Expedition!
+2252,The Rotting Mire,Head out for adventure on The Rotting Mire.
+2253,Skittering Hollow,Head out for adventure on Skittering Hollow.
+2254,Snowblossom Village,Head out for adventure on Snowblossom Village.
+2255,Havenswood,Head out for adventure on Havenswood.
+2256,Crestfall,Head out for adventure on Crestfall.
+2257,Verdant Wilds,Head out for adventure on Verdant Wilds.
+2258,The Molten Cay,Head out for adventure on The Dread Chain.
+2259,Un'gol Ruins,Head out for adventure on Un'gol Ruins.
+2260,The Whispering Reef,Head out for adventure on The Whispering Reef.
+2261,The Dread Chain,Head out for adventure on The Dread Chain.
+2262,Jorundall,Head out for adventure on Jorundall.
+2263,The Whispering Reef,Head out for adventure on The Whispering Reef.
+2264,Jorundall,Head out for adventure on Jorundall.
+2265,Crestfall,Head out for adventure on Crestfall.
+2266,Un'gol Ruins,Head out for adventure on Un'gol Ruins.
+2267,Snowblossom Village,Head out for adventure on Snowblossom Village.
+2268,Havenswood,Head out for adventure on Havenswood.
+2269,The Molten Cay,Head out for adventure on The Molten Cay.
+2270,Skittering Hollow,Head out for adventure on Skittering Hollow.
+2271,The Dread Chain,Head out for adventure on The Dread Chain.
+2272,The Rotting Mire,Head out for adventure on The Rotting Mire.
+2273,Verdant Wilds,Head out for adventure on Verdant Wilds.
+2274,Random Timewalking Dungeon (Legion),
+2275,Black Rook Hold,
+2276,Eye of Azshara,
+2277,Darkheart Thicket,
+2278,Vault of the Wardens,
+2279,Neltharion's Lair,
+2280,Court of Stars,
+2281,Path of the Primus,You have arrived to the Cruicible at the request of the Primus.
+2282,Torghast: The Jailer's Gauntlet (Layer 2),Fight your way to the top of Torghast.
+2283,Torghast: The Jailer's Gauntlet (Layer 3),Fight your way to the top of Torghast.
+2284,Torghast: The Jailer's Gauntlet (Layer 4),Fight your way to the top of Torghast.
+2285,Torghast: The Jailer's Gauntlet (Layer 5),Fight your way to the top of Torghast.
+2286,Torghast: The Jailer's Gauntlet (Layer 6),Fight your way to the top of Torghast.
+2287,Torghast: The Jailer's Gauntlet (Layer 7),Fight your way to the top of Torghast.
+2288,Sepulcher of the First Ones,
+2289,Sepulcher of the First Ones,
+2290,Sepulcher of the First Ones,
+2291,Cornerstone of Creation,"Lihuvim fights a losing battle against domination. Unless saved, the keeper's power will become the Jailer's."
+2292,Ephemeral Plains,"The essence of creation is being devoured. If left unchecked, reality will collapse."
+2293,Domination's Grasp,Zovaal's greatest followers have destroyed millions of civilations. Will they now unmake the universe?
+2294,The Grand Design,"The Jailer sits on the cusp of ultimate victory. Unless stopped, the cosmos will succumb to his power."
+2295,Torghast: Skoldus Hall (Layer 13),Fight your way to the top of Torghast.
+2296,Torghast: Skoldus Hall (Layer 14),Fight your way to the top of Torghast.
+2297,Torghast: Skoldus Hall (Layer 15),Fight your way to the top of Torghast.
+2298,Torghast: Skoldus Hall (Layer 16),Fight your way to the top of Torghast.
+2299,Torghast: The Fracture Chambers (Layer 13),Fight your way to the top of Torghast.
+2300,Torghast: The Fracture Chambers (Layer 14),Fight your way to the top of Torghast.
+2301,Torghast: The Fracture Chambers (Layer 15),Fight your way to the top of Torghast.
+2302,Torghast: The Fracture Chambers (Layer 16),Fight your way to the top of Torghast.
+2303,Torghast: The Soulforges (Layer 13),Fight your way to the top of Torghast.
+2304,Torghast: The Soulforges (Layer 14),Fight your way to the top of Torghast.
+2305,Torghast: The Soulforges (Layer 15),Fight your way to the top of Torghast.
+2306,Torghast: The Soulforges (Layer 16),Fight your way to the top of Torghast.
+2307,Torghast: Coldheart Interstitia (Layer 13),Fight your way to the top of Torghast.
+2308,Torghast: Coldheart Interstitia (Layer 14),Fight your way to the top of Torghast.
+2309,Torghast: Coldheart Interstitia (Layer 15),Fight your way to the top of Torghast.
+2310,Torghast: Coldheart Interstitia (Layer 16),Fight your way to the top of Torghast.
+2311,Torghast: Mort'regar (Layer 13),Fight your way to the top of Torghast.
+2312,Torghast: Mort'regar (Layer 14),Fight your way to the top of Torghast.
+2313,Torghast: Mort'regar (Layer 15),Fight your way to the top of Torghast.
+2314,Torghast: Mort'regar (Layer 16),Fight your way to the top of Torghast.
+2315,Torghast: The Upper Reaches (Layer 13),Fight your way to the top of Torghast.
+2316,Torghast: The Upper Reaches (Layer 14),Fight your way to the top of Torghast.
+2317,Torghast: The Upper Reaches (Layer 15),Fight your way to the top of Torghast.
+2318,Torghast: The Upper Reaches (Layer 16),Fight your way to the top of Torghast.
+2319,Grimrail Depot,
+2320,Scholomance,
+2321,Blackrock Caverns,
+2322,The Forge of Souls,
+2323,Utgarde Keep,
+2324,Azjol-Nerub,
+2325,The Botanica,
+2326,Blood Furnace,
+2327,Underbog,
+2328,Torghast: The Jailer's Gauntlet (Layer 9),Fight your way to the top of Torghast.
+2329,Tazavesh: Streets of Wonder,
+2330,Tazavesh: So'leah's Gambit,
+2331,10.0 Waking Shore - Black Dragon Citadel - Scenario (MDE),Obsidian Citadel
+2332,The Azure Vault,
+2333,The Azure Vault,
+2334,The Azure Vault,
+2335,The Azure Vault,
+2337,The Leeching Vaults,"Like an open wound, anima bleeds from Castle Nathria's vaults. The hemorrhaging must be stopped before Revendreth is drained."
+2338,Reliquary of Opulence,"With the aristocracy reveling in victory, heroes must crash their party and dismantle their power base."
+2339,Blood from Stone,"Denathrius's Stone Legion Generals lie in wait, preparing a trap that will destroy the rebellion once and for all."
+2340,An Audience with Arrogance,Denathrius eagerly awaits the heroes in his tower for the final confrontation to decide the fate of Revendreth.
+2341,The Jailer's Vanguard,The Jailer's vanguard stands ready to repel any attack. Their lines must be broken to breach the Jailer's sanctum.
+2342,The Dark Bastille,Screams of the tormented fuel the Jailer's army. End their suffering and deprive the Maw of its most precious resource.
+2343,Shackles of Fate,The soul river ends at the tower's peak. Destroy those feeding off it to free the countless souls deprived of their afterlife.
+2344,The Reckoning,"Atop the Tower, Sylvanas Windrunner awaits. Here, the final confrontation for the fate of the cosmos will take place."
+2345,Cornerstone of Creation,"Lihuvim fights a losing battle against domination. Unless saved, the keeper's power will become the Jailer's."
+2346,Ephemeral Plains,"The essence of creation is being devoured. If left unchecked, reality will collapse."
+2347,Domination's Grasp,Zovaal's greatest followers have destroyed millions of civilations. Will they now unmake the universe?
+2348,The Grand Design,"The Jailer sits on the cusp of ultimate victory. Unless stopped, the cosmos will succumb to his power."
+2349,Emerald Dreamway,
+2350,Random Dungeon (Dragonflight),
+2351,Random Heroic (Dragonflight),
+2352,Uldaman: Legacy of Tyr,
+2353,Uldaman: Legacy of Tyr,
+2354,Uldaman: Legacy of Tyr,
+2355,Uldaman: Legacy of Tyr,
+2356,Neltharus,
+2357,Neltharus,
+2358,Neltharus,
+2359,Neltharus,
+2360,Ruby Life Pools,
+2361,Ruby Life Pools,
+2362,Brackenhide Hollow,
+2363,Brackenhide Hollow,
+2364,Halls of Infusion,
+2365,Halls of Infusion,
+2366,Algeth'ar Academy,
+2367,Algeth'ar Academy,
+2368,The Nokhud Offensive,
+2369,The Nokhud Offensive,
+2370,The Primal Bulwark,The Primal Council bolsters their defenses within the mountain. Their ranks must be broken to stop the Incarnates' release.
+2371,Caverns of Infusion,Kurog Grimtotem prepares to unleash monstrous elementals to bring about the destruction of any who oppose him.
+2372,Fury of the Storm,"Raszageth's fury threatens to destroy her siblings' prison. If she succeeds, the Incarnates will wreak havoc across Azeroth."
+2375,Ruby Life Pools,
+2376,Ruby Life Pools,
+2377,The Nokhud Offensive,
+2378,The Nokhud Offensive,
+2379,Brackenhide Hollow,
+2380,Brackenhide Hollow,
+2381,Halls of Infusion,
+2382,Halls of Infusion,
+2383,Algeth'ar Academy,
+2384,Algeth'ar Academy,
+2385,Uldaman: Legacy of Tyr,
+2386,Tyr's Fall,
+2387,The Old Frostwolf,
+2388,Vault of the Incarnates,
+2389,Vault of the Incarnates,
+2390,Vault of the Incarnates,
+2391,The Last Conflict,
+2392,10.1 UG - Campaign - Ch01 - Breaking Ground (JSS),10.1 UG - Campaign - Ch 01 - C - Scenario (JSS)
+2395,10.1 Underground - Campaign - Ch06 - Port to Aberrus (SMART),10.1 Underground - Campaign - Ch06 - Scenario (SMART)
+2397,Deathwing's Final Moment,
+2398,Shane's Test Scenario,
+2399,Discarded Works,"Neglected for millenia, Neltharion's creations have twisted into something monstrous."
+2400,Fury of Giants,The Zaqali warband has launched a devastating assault on the crucible in order to destroy anything in their path.
+2401,Neltharion's Shadow,"Something stirs in the dark... it once corrupted the Earth-Warder, and now it is eager to claim new victims."
+2402,Edge of the Void,"Sarkareth stands at the edge of the abyss, seeking to harness Neltharion's power and claim the former Earth-Warder's legacy."
+2403,"Aberrus, the Shadowed Crucible",
+2404,"Aberrus, the Shadowed Crucible",
+2405,"Aberrus, the Shadowed Crucible",
+2406,11.0 Delves - Prototype - 01,
+2407,11.0 Delves - Prototype - 02,
+2408,Time Rift: Azmerloth,
+2409,Time Rift: Azmourne,
+2410,11.0 Delves - Prototype - 03,
+2411,The Leeching Vaults,"Like an open wound, anima bleeds from Castle Nathria's vaults. The hemorrhaging must be stopped before Revendreth is drained."
+2412,Reliquary of Opulence,"With the aristocracy reveling in victory, heroes must crash their party and dismantle their power base."
+2413,Blood from Stone,"Denathrius's Stone Legion Generals lie in wait, preparing a trap that will destroy the rebellion once and for all."
+2414,An Audience with Arrogance,Denathrius eagerly awaits the heroes in his tower for the final confrontation to decide the fate of Revendreth.
+2415,The Jailer's Vanguard,The Jailer's vanguard stands ready to repel any attack. Their lines must be broken to breach the Jailer's sanctum.
+2416,The Dark Bastille,Screams of the tormented fuel the Jailer's army. End their suffering and deprive the Maw of its most precious resource.
+2417,Shackles of Fate,The soul river ends at the tower's peak. Destroy those feeding off it to free the countless souls deprived of their afterlife.
+2418,The Reckoning,"Atop the Tower, Sylvanas Windrunner awaits. Here, the final confrontation for the fate of the cosmos will take place."
+2419,Cornerstone of Creation,"Lihuvim fights a losing battle against domination. Unless saved, the keeper's power will become the Jailer's."
+2420,Ephemeral Plains,"The essence of creation is being devoured. If left unchecked, reality will collapse."
+2421,Domination's Grasp,Zovaal's greatest followers have destroyed millions of civilations. Will they now unmake the universe?
+2422,The Grand Design,"The Jailer sits on the cusp of ultimate victory. Unless stopped, the cosmos will succumb to his power."
+2423,10.2 Dream - Local - Misfit Dragons - Halls of Valor (KRB),
+2424,11.0 Delves - Prototype - 04,
+2425,Time Rift: Ulderoth,
+2426,Time Rift: Azewrath,
+2427,Time Rift: Azq'roth,
+2428,Time Rift: The Warlands,
+2429,Time Rift: A.Z.E.R.O.T.H.,
+2430,Dawn of the Infinite,
+2431,Dawn of the Infinite: Galakrond's Fall,
+2432,Dawn of the Infinite: Murozond's Rise,
+2433,A Hero's Resolve,
+2434,Retrieving the Disc,
+2436,Ruby Life Pools,
+2437,Fungal Folly,
+2438,The Final Beacon,
+2439,Brackenhide Hollow,
+2440,Neltharus,
+2442,The Nokhud Offensive,
+2443,Kriegval's Rest,
+2444,Halls of Infusion,
+2464,Algeth'ar Academy,
+2465,Uldaman: Legacy of Tyr,
+2466,Incarnate's Wake,"Smolderon has forced his way into the Emerald Dream. If left unchecked, his forces will burn everything in their path."
+2467,The Viridian Weave,"Nymue weaves the mesmerizing patterns of the Emerald Dream. Our intrusion has distrupted the weave, and we will be dealt with."
+2468,Molten Incursion,"Larodar, twisted by flame, seeks to bathe the Emerald Dream in fire. If successful, everything will be reduced to ash."
+2469,Fate of Amirdrassil,Fyrakk has reached the heart of Amirdrassil and threatens to consume its power for his own.
+2484,10.2.5 - VS Mode - LFG Dungeon (OJF),
+2498,The Azure Vault,
+2499,The Hall of Awakening,"11.0 Z02 - Campaign - Ch3, Scenario - Halls of Awakening (MPK)"
+2500,The Waterworks,
+2501,"New Candle, New Hope",11.0 Z02 - Campaign - Ch01 - Scenario - Lost Mines (DTM)
+2502,"Amirdrassil, the Dream's Hope",
+2503,"Amirdrassil, the Dream's Hope",
+2504,"Amirdrassil, the Dream's Hope",
+2507,The Dread Pit,
+2508,Nightfall Sanctum,
+2509,Mycomancer Cavern,
+2510,The Sinkhole (Flooded),
+2511,Skittering Breach,
+2512,Zekvir's Lair,
+2513,Tak-Rethan Abyss (Flooded),
+2514,The Spiral Weave,
+2516,Random Dungeon (The War Within),
+2517,Random Heroic (The War Within),
+2518,Darkflame Cleft,
+2519,Darkflame Cleft,
+2520,Darkflame Cleft,
+2521,Darkflame Cleft,
+2522,Earthcrawl Mines,
+2523,The Dawnbreaker,
+2524,The Dawnbreaker,
+2525,The Dawnbreaker,
+2528,Temple of the Jade Serpent,
+2529,Dawn of the Infinite: Galakrond's Fall,
+2530,Dawn of the Infinite: Murozond's Rise,
+2531,11.0 Z5 - Level Up - Ch 3 - Q04 - Escape The Burrows! (JSS),11.0 Z5 - Level Up - Ch 3 - Q04 - SCENARIO - Escape the Burrows (JSS)
+2532,11.0 Z2 - Faction Repeatable - Awakening The Machine (NJS),
+2533,The Underkeep,
+2537,Random Mists of Pandaria Heroic,
+2538,Random Timerunning Dungeon (Mists of Pandaria),
+2539,Random Heroic Timerunning Dungeon (Mists of Pandaria),
+2540,Temple of the Jade Serpent,
+2541,Temple of the Jade Serpent,
+2542,Stormstout Brewery,
+2543,Stormstout Brewery,
+2544,Shado-Pan Monastery,
+2545,Shado-Pan Monastery,
+2546,Siege of Niuzao Temple,
+2547,Siege of Niuzao Temple,
+2548,Gate of the Setting Sun,
+2549,Gate of the Setting Sun,
+2550,Mogu'shan Palace,
+2551,Mogu'shan Palace,
+2552,Scarlet Halls,
+2553,Scarlet Halls,
+2554,Scarlet Monastery,
+2555,Scarlet Monastery,
+2556,Scholomance,
+2557,Scholomance,
+2558,Random Timerunning Scenario (Mists of Pandaria),
+2559,Random Heroic Timerunning Scenario (Mists of Pandaria),
+2560,Greenstone Village,
+2561,Unga Ingoo,Rescue Jungle Brew from the evil clutches of the hozen pirates of Unga Ingoo.
+2562,A Brewing Storm,Craft brew with lightning and save the monastery from a rampaging saurok.
+2563,A Brewing Storm,Craft brew with lightning and save the monastery from a rampaging saurok.
+2564,Arena of Annihilation,
+2565,Brewmoon Festival,
+2566,Crypt of Forgotten Kings,Investigate an ancient mogu crypt that has become infested by the Sha.
+2567,Crypt of Forgotten Kings,Investigate an ancient mogu crypt that has become infested by the Sha.
+2568,Assault on Zan'vess,Break the defenses of Zan'vess and recover the invaluable Mantid weapons.
+2569,Dagger in the Dark,Escort Vol'jin to discover the secrets that lie within a Saurok-infested cave.
+2570,Dagger in the Dark,Escort Vol'jin to discover the secrets that lie within a Saurok-infested cave.
+2572,A Little Patience,
+2573,A Little Patience,[PH] Patience Description
+2574,Domination Point,Defend Domination Point from a reinforced Lion's Landing assault!
+2575,Battle on the High Seas,Help the Alliance fend off enemy forces in the midst of a battle for naval supremacy on the High Seas.
+2576,Battle on the High Seas,Help the Horde fend off enemy forces in the midst of a battle for naval supremacy on the High Seas.
+2577,Battle on the High Seas,Help the Horde fend off enemy forces in the midst of a battle for naval supremacy on the High Seas.
+2578,Battle on the High Seas,Help the Alliance fend off enemy forces in the midst of a battle for naval supremacy on the High Seas.
+2579,Theramore's Fall,Lend aid to the citizens who yet remain in the destroyed remains of Theramore.
+2580,Theramore's Fall,
+2581,Blood in the Snow,
+2582,Blood in the Snow,
+2583,Dark Heart of Pandaria,Grizzle Gearslip and his goblins have uncovered something terrifying in the Vale of Eternal Blossoms.
+2584,Dark Heart of Pandaria,Grizzle Gearslip and his goblins have uncovered something terrifying in the Vale of Eternal Blossoms.
+2585,The Secrets of Ragefire,
+2586,The Secrets of Ragefire,
+2587,Downfall,"Wielding the dark power that lay dormant beneath Pandaria, Garrosh seeks to bring a new order to Azeroth. He must be stopped!"
+2588,The Underhold,"Within a secret Kor'kron base carved into the sweltering caverns beneath Orgrimmar, Garrosh is assembling his ultimate army."
+2589,Gates of Retribution,"War has come to the gates of Orgrimmar, as Alliance forces and the Darkspear Rebellion seek revenge against Garrosh Hellscream."
+2590,Vale of Eternal Sorrows,"Venture through the scarred Vale of Eternal Blossoms, exploring unearthed mogu ruins to discover the source of the destruction."
+2591,Pinnacle of Storms,"From within his inner sanctum, the risen Thunder King plots the return of the great mogu empire."
+2592,Halls of Flesh-Shaping,"In the horrific chambers beneath Lei Shen's citadel, the mogu conducted terrible experiments into reshaping life."
+2593,Forgotten Depths,"Beneath the foundations of the Throne of Thunder lie vast caverns, teeming with ancient horrors."
+2594,Last Stand of the Zandalari,The forces of the Zandalari have rallied in the ruins surrounding the Thunder King's island citadel.
+2595,Nightmare of Shek'zeer,"The mantid Empress, consumed by paranoia and twisted by the Sha of Fear, rules from her seat deep within the Heart of Fear."
+2596,The Dread Approach,"Spurred on by the Klaxxi, the time has come to assault the heart of the mantid empire."
+2597,The Vault of Mysteries,"Buried deep in the mountainside, the heart of the ancient mogu repository holds a secret that may threaten all of Azeroth."
+2598,Guardians of Mogu'shan,"Long dormant, this ancient archive of the mogu has awakened, as have its protectors. Danger and mystery await within...."
+2599,Terrace of Endless Spring,"The Sha of Fear has fled to this tranquil haven to recover, corrupting the pure waters with its tainted blood."
+2600,Assault on Zan'vess,Break the defenses of Zan'vess and recover the invaluable Mantid weapons.
+2604,"Ara-Kara, City of Echoes",
+2605,"Ara-Kara, City of Echoes",
+2606,"Ara-Kara, City of Echoes",
+2607,"Ara-Kara, City of Echoes",
+2608,Lion's Landing,Defend Lion's Landing from a reinforced Horde assault!
+2609,The Fall of Shan Bu,It is time to take down Shan Bu and cripple the Thunder King's forces.
+2610,To the Skies!,
+2611,Assault on Shaol'mara,Assault the troll town of Shaol'mara to gain a foothold on the Isle of the Thunder King.
+2613,Tear Down This Wall!,
+2614,The Fall of Shan Bu,It is time to take down Shan Bu and cripple the Thunder King's forces.
+2615,To the Skies!,
+2616,Assault on Zeb'tula,Assault the troll town of Zeb'tula to gain a foothold on the Isle of the Thunder King.
+2617,Stormsea Landing,
+2618,Tear Down This Wall!,
+2619,Proving Grounds: White Tiger Temple,Test your mettle against a variety of challenges.
+2620,Troves of the Thunder King,Loot as much as you can before the Thunder King's forces arrive.
+2623,Noodle Time,Work with Sungshin Ironpaw to discover the secret ingredient of the Lin family's Secret Ingredient Soup.
+2624,Finding the Secret Ingredient,Work with Sungshin Ironpaw to discover the secret ingredient of the Lin family's Secret Ingredient Soup.
+2637,The Rookery,
+2642,City of Threads,
+2643,City of Threads,
+2645,Nerub-ar Palace,
+2647,City of Threads,
+2648,City of Threads,
+2649,The Skittering Battlements,Guardians both monstrous and noble guard the festering pits and hanging battlements surrounding Nerub-ar Palace.
+2650,Secrets of Nerub-ar Palace,"Sikron leads the nerubian forces with tactical cunning and precision, dispatching any interlopers that would usurp the queen."
+2651,A Queen's Fall,Queen Ansurek succumbs to her vicious paranoia and delves deeper into dark power to retain control of her empire.
+2652,City of Threads,
+2653,The Rookery,
+2654,"Ara-Kara, City of Echoes",
+2655,Darkflame Cleft,
+2656,The Dawnbreaker,
+2657,The Rookery (Quest),
+2658,The Rookery,
+2659,The Sinkhole,
+2660,Tak-Rethan Abyss,
+2661,A Brewing Storm,Craft brew with lightning and save the monastery from a rampaging saurok.
+2662,Battle on the High Seas,Help the Horde fend off enemy forces in the midst of a battle for naval supremacy on the High Seas.
+2663,Battle on the High Seas,Help the Alliance fend off enemy forces in the midst of a battle for naval supremacy on the High Seas.
+2664,Blood in the Snow,
+2665,Dark Heart of Pandaria,Grizzle Gearslip and his goblins have uncovered something terrifying in the Vale of Eternal Blossoms.
+2666,The Secrets of Ragefire,
+2667,Crypt of Forgotten Kings,Investigate an ancient mogu crypt that has become infested by the Sha.
+2668,Greenstone Village,
+2669,Unga Ingoo,Rescue Jungle Brew from the evil clutches of the hozen pirates of Unga Ingoo.
+2670,A Brewing Storm,Craft brew with lightning and save the monastery from a rampaging saurok.
+2671,Arena of Annihilation,
+2672,Brewmoon Festival,
+2673,Crypt of Forgotten Kings,Investigate an ancient mogu crypt that has become infested by the Sha.
+2674,Assault on Zan'vess,Break the defenses of Zan'vess and recover the invaluable Mantid weapons.
+2675,Dagger in the Dark,Escort Vol'jin to discover the secrets that lie within a Saurok-infested cave.
+2676,Dagger in the Dark,Escort Vol'jin to discover the secrets that lie within a Saurok-infested cave.
+2677,A Little Patience,
+2678,A Little Patience,[PH] Patience Description
+2679,Domination Point,Defend Domination Point from a reinforced Lion's Landing assault!
+2680,Battle on the High Seas,Help the Alliance fend off enemy forces in the midst of a battle for naval supremacy on the High Seas.
+2681,Battle on the High Seas,Help the Horde fend off enemy forces in the midst of a battle for naval supremacy on the High Seas.
+2682,Theramore's Fall,Lend aid to the citizens who yet remain in the destroyed remains of Theramore.
+2683,Theramore's Fall,
+2684,Blood in the Snow,
+2685,Dark Heart of Pandaria,Grizzle Gearslip and his goblins have uncovered something terrifying in the Vale of Eternal Blossoms.
+2686,The Secrets of Ragefire,
+2687,Assault on Zan'vess,Break the defenses of Zan'vess and recover the invaluable Mantid weapons.
+2688,Lion's Landing,Defend Lion's Landing from a reinforced Horde assault!
+2689,Cinderbrew Meadery,
+2690,Cinderbrew Meadery,
+2691,Cinderbrew Meadery,
+2692,Cinderbrew Meadery,
+2693,The Stonevault,
+2694,The Stonevault,
+2695,Priory of the Sacred Flame,
+2696,Priory of the Sacred Flame,
+2697,Priory of the Sacred Flame,
+2698,Priory of the Sacred Flame,
+2699,Priory of the Sacred Flame,
+2700,Cinderbrew Meadery,
+2701,The Stonevault,
+2703,The Primal Bulwark,The Primal Council bolsters their defenses within the mountain. Their ranks must be broken to stop the Incarnates' release.
+2704,Discarded Works,"Neglected for millenia, Neltharion's creations have twisted into something monstrous."
+2705,Caverns of Infusion,Kurog Grimtotem prepares to unleash monstrous elementals to bring about the destruction of any who oppose him.
+2706,Fury of the Storm,"Raszageth's fury threatens to destroy her siblings' prison. If she succeeds, the Incarnates will wreak havoc across Azeroth."
+2707,Fury of Giants,The Zaqali warband has launched a devastating assault on the crucible in order to destroy anything in their path.
+2708,Neltharion's Shadow,"Something stirs in the dark... it once corrupted the Earth-Warder, and now it is eager to claim new victims."
+2709,Edge of the Void,"Sarkareth stands at the edge of the abyss, seeking to harness Neltharion's power and claim the former Earth-Warder's legacy."
+2710,Incarnate's Wake,"Smolderon has forced his way into the Emerald Dream. If left unchecked, his forces will burn everything in their path."
+2711,Molten Incursion,"Larodar, twisted by flame, seeks to bathe the Emerald Dream in fire. If successful, everything will be reduced to ash."
+2712,The Viridian Weave,"Nymue weaves the mesmerizing patterns of the Emerald Dream. Our intrusion has distrupted the weave, and we will be dealt with."
+2713,Fate of Amirdrassil,Fyrakk has reached the heart of Amirdrassil and threatens to consume its power for his own.
+2715,Queen Ansurek,Queen Ansurek succumbs to her vicious paranoia and delves into dark power to retain control of her empire.
+2717,The Rookery,
+2718,The Rookery,
+2719,The Dawnbreaker,
+2720,The Stonevault,
+2721,The Stonevault,
+2722,City of Threads,
+2723,Random Heroic (The War Within: Season 1),
+2724,The Stonevault,
+2725,The Dawnbreaker,
+2726,"Ara-Kara, City of Echoes",
+2727,Mists of Tirna Scithe,
+2728,The Necrotic Wake,
+2729,Siege of Boralus,
+2730,Grim Batol,

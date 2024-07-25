@@ -1,0 +1,32 @@
+ID,Name_lang
+1,Skill
+2,Inspiration
+3,Resourcefulness
+4,Finesse
+5,Deftness
+6,Perception
+7,Crafting Speed
+8,Multicraft
+9,Unlock Reagent Slot (DNT - write manually!)
+10,Inspiration
+11,Resourcefulness
+12,Finesse
+13,Deftness
+14,Perception
+15,Crafting Speed
+16,Multicraft
+17,Deftness
+18,Gather Range Rating (DNT - write manually!)
+19,additional items crafted with Multicraft (DNT - write manually!)
+20,basic reagents gathered from Finesse (DNT - write manually!)
+21,bonus Crafting Skill from Inspiration (DNT - write manually!)
+22,reagents saved from Resourcefulness (DNT - write manually!)
+23,Decrease Difficulty
+24,Increase Difficulty
+25,Modify Skill Gain
+26,Trait Ranks By Points-Modifier Label (DNT)
+27,Ingenuity
+28,reduce concentration cost (DNT - write manually)
+29,Dummy Effect For # Tokenization (DNT)
+30,Ingenuity
+31,Ingenuity Refund Increase (DNT - write manually!)

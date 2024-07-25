@@ -1,0 +1,10 @@
+ID,Name_lang,Description_lang
+1,Inspiration,"You have a $rv% chance to be inspired, crafting this recipe with $csv bonus Skill."
+2,Resourcefulness,You have a $rv% chance to use fewer tradeable reagents.
+3,Finesse,You have a $rv% chance to gather more of the primary reagent found here.
+4,Deftness,Increases your gathering speed.
+5,Perception,Increases your ability to spot rare reagents while gathering.
+6,Crafting Speed,Increases your crafting speed.
+7,Multicraft,You have a $rv% chance to craft additional items.
+8,Ingenuity,"You have a $rv% chance to have an ingenious breakthrough when you Concentrate on a craft, refunding $ev% of Concentration spent."
+9,Gather Range,"Not implemented, bug! (DNT)"

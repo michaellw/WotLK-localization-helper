@@ -1,0 +1,269 @@
+ID,Name_lang
+12,
+16,Modify Item Level - Major
+17,Specify a Secondary Stat
+31,
+46,Modify Item Level - Minor
+47,
+48,
+49,
+50,
+67,Specify a Secondary Stat
+72,Specify a Secondary Stat
+73,Specify a Secondary Stat
+74,Specify a Secondary Stat
+75,Specify a Secondary Stat
+77,Modify Item Level - Minor
+78,Increase Rank
+79,Add Progenitor Enhancement
+80,Test Ore (DNT)
+81,Draconium Ore (DNT)
+82,Primal Molten Alloy (DNT)
+83,Frostfire Alloy (DNT)
+84,Obsidian Seared Alloy (DNT)
+85,Infurious Alloy (DNT)
+86,Just optional reagents w/o quality variation
+87,Just optional reagents with quality variation
+88,Optional reagents with and without quality variation
+89,Test finishing reagent (DNT)
+90,Test finishing reagent Slot (DNT)
+91,Alchemical Catalyst
+92,Lesser Illustrious Insight
+93,Illustrious Insight
+94,Alchemical Catalyst
+98,Hochenblume (DNT)
+99,Writhebark (DNT)
+100,Saxifrage (DNT)
+101,Bubble Poppy (DNT)
+102,Primal Convergent (DNT)
+103,Omnium Draconis (DNT)
+104,Draconic Vial (DNT)
+105,Elemental Potion of Power (DNT)
+106,Phial of Tepid Versatility (DNT)
+107,Phial of Elemental Chaos (DNT)
+108,Potion of Frozen Focus (DNT)
+110,Increase Rank
+111,Infuse with Power
+112,Add Embellishment
+114,Serevite Ore (DNT)
+116,Empower with Training Matrix
+117,Khaz'gorite Ore (DNT)
+123,Add Embellishment
+124,Quenching Fluid
+125,Customize Secondary Stats
+126,Infuse with Power
+128,Queen's Ruby (DNT)
+129,Mystic Sapphire (DNT)
+130,Vibrant Emerald (DNT)
+131,Sundered Onyx (DNT)
+132,Eternity Amber (DNT)
+133,Alexstraszite (DNT)
+134,Malygite (DNT)
+135,Ysemerald (DNT)
+136,Neltharite (DNT)
+137,Nozdorite (DNT)
+138,Illimited Diamond (DNT)
+140,Frameless Lens (DNT)
+142,Glossy Stone (DNT)
+143,Shimmering Clasp (DNT)
+145,Projection Prism (DNT)
+146,Resilient Leather (DNT)
+147,Adamant Scales (DNT)
+148,Dense Hide (DNT)
+149,Lustrous Scaled Hide (DNT)
+150,Stonecrust Hide (DNT)
+151,Mireslush Hide (DNT)
+153,Infurious Hide (DNT)
+155,Earthshine Scales (DNT)
+156,Frostbite Scales (DNT)
+157,Infurious Scales (DNT)
+158,Silken Gemdust (DNT)
+159,Elemental Harmony (DNT)
+169,Vibrant Spellthread (DNT)
+170,Frozen Spellthread (DNT)
+171,Temporal Spellthread (DNT)
+172,Wildercloth Bolt (DNT)
+173,Azureweave Bolt (DNT)
+174,Chronocloth Bolt (DNT)
+175,Vibrant Wildercloth Bolt (DNT)
+176,Infurious Wildercloth Bolt (DNT)
+177,Spool of Wilderthread (DNT)
+178,Add Embellishment
+179,Add Embellishment
+180,Add Embellishment
+181,Embroidery Thread
+182,Polishing Cloth
+183,Add Embellishment
+184,Chain Oil
+185,Curing Agent
+186,Fiery Spirit (DNT)
+189,Empower with Training Matrix
+190,
+192,Finishing Touches
+193,Secret Ingredient
+194,Handful of Serevite Bolts (DNT)
+195,Shock-Spring Coil (DNT)
+196,Everburning Blasting Powder (DNT)
+197,Greased-Up Gears (DNT)
+198,Arclight Capacitor (DNT)
+199,Reinforced Machine Chassis (DNT)
+200,Assorted Safety Fuses (DNT)
+201,Primal Deconstruction Charge (DNT)
+202,Darkmoon Sigil
+203,Refreshing Healing Potion (DNT)
+204,Aerated Mana Potion (DNT)
+205,Potion of Gusts (DNT)
+206,Creature Combustion Canister (DNT)
+207,Draconium Gun Shoes (DNT)
+208,Gravitational Displacer (DNT)
+209,Blazing Ink (DNT)
+210,Cosmic Ink (DNT)
+211,Flourishing Ink (DNT)
+212,Burnished Ink (DNT)
+213,Serene Ink (DNT)
+214,Serene Pigment (DNT)
+215,Flourishing Pigment (DNT)
+216,Blazing Pigment (DNT)
+217,Shimmering Pigment (DNT)
+218,Chilled Rune (DNT)
+219,Runed Writhebark (DNT)
+220,Potion of the Hushed Zephyr (DNT)
+221,Blotting Sand
+222,Customize Crafting Stat
+223,Safety Components
+224,Amplify Secondary Stat
+225,Amplify Secondary Stat
+226,Add Embellishment
+227,Customize Secondary Stats
+230,Spare Parts
+231,Customize Gathering Stat
+232,Customize Crafting Stat
+233,Add Embellishment
+234,Polishing Cloth
+235,Lesser Illustrious Insight
+236,Steelforged Essence
+237,Truesteel Essence
+238,Linkgrease Locksprocket
+239,True Iron Trigger
+240,Burnished Essence
+241,Hexweave Essence
+242,Weapon Crystal
+243,Customize Secondary Stat
+244,Grant PvP Item Level
+245,Grant PvP Item Level
+246,Grant PvP Item Level
+247,Spark
+248,Shadowed Alloy (DNT)
+249,Blotting Sand
+250,Wildercloth Bandage (DNT)
+251,Socket
+252,Socket
+253,Potion of Withering Vitality (DNT)
+255,Competitor's Heraldry
+256,Spark
+257,Mycobloom
+258,Luredrop
+259,Orbinid
+260,Blessing Blossom
+261,Arathor's Spear
+262,Bismuth
+263,Aqirite
+264,Ironclaw Ore
+267,Gilded Vial
+268,Harmonious Horticulture
+269,Stormcharged Leather
+270,Gloom Chitin
+271,Thunderous Hide
+272,Sunless Carapace
+275,Crushed Gemstones
+276,Engraved Gemcutter
+277,Decorative Lens
+278,Marbled Stone
+279,Inverted Prism
+280,Gemdust & Polishing Cloth
+281,Add Embellishment
+282,Amplify Secondary Stat
+283,Customize Secondary Stats
+284,Infuse with Power
+286,Leather Armor
+287,Mail Armor
+288,Deadly Cypher
+289,Quick Cypher
+290,Masterful Cypher
+291,Versatile Cypher
+293,Carapace-Backed Hide
+294,Crystalfused Hide
+295,Writhing Hide
+296,Sporecoated Hide
+297,Leyfused Hide
+298,Deepfury Hide
+299,Storm-Touched Weapon Wrap
+300,Chitin Armor Banding
+301,Storm Dust
+302,Gleaming Shard
+303,Refulgent Crystal
+304,Handful of Bismuth Bolts
+305,Whimsical Wiring
+306,Gyrating Gear
+307,Safety Switch
+308,Chaos Circuit
+309,Entropy Enhancer
+311,Select Safety Component
+312,Add Embellishment
+313,Core Alloy
+314,Charged Alloy
+315,Sanctified Alloy
+316,Ironclaw Alloy
+317,Forge Accessories
+318,Secret Ingredient
+319,Codified Greenwood
+320,Boundless Cipher
+321,Sable Ink
+322,Luredrop Pigment
+323,Apricate Ink
+324,Apricate Pigment
+327,Spool of Duskthread
+328,Spool of Dawnthread
+329,Spool of Weaverthread
+330,Duskcloth Bolt
+331,Dawncloth Bolt
+332,Weavercloth Bolt
+333,Embroidery Thread
+334,Add Embellishment
+335,Add Embellishment
+336,Add Embellishment
+337,Add Embellishment
+338,Add Embellishment
+339,Add Embellishment
+340,Add Embellishment
+341,Add Embellishment
+342,Empower
+343,Customize Crafting Stat
+344,Customize Gathering Stat
+345,Customize Crafting Stat
+346,Artisan's Authenticity
+347,Spare Parts
+348,Potion of the Reborn Cheetah
+349,Algari Healing Potion
+350,Cavedweller's Delight
+351,Tempered Potion
+352,Customize Crafting Stat
+353,Customize Gathering Stat
+354,Artisan's Authenticity
+355,Orbinid Pigment
+356,Blossom Pigment
+357,Exquisite Weavercloth Bolt
+358,Crafted Reagents
+359,Drafting Supplies
+360,Radiant Reagents
+361,Polishing Cloth
+362,Mysterious Concoction
+363,Socket
+364,Socket
+365,Customize Secondary Stats
+366,Infuse with Power
+367,Radiant Reagents
+368,Empower
+369,Forge Accessories
+370,Embroidery Thread
+371,Drafting Supplies

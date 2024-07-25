@@ -1,0 +1,94 @@
+ID,Name_lang,Description_lang,Objective_lang
+1,Test Brawl,Test brawl description.,
+2,Brawl: Southshore vs. Tarren Mill,Team Deathmatch,"- Slay enemy players to earn points
+- Honorable kills increase your rank
+- Higher ranked kills reward more points"
+3,Brawl: Temple of Hotmogu,Orbs of Power,"- Haste increased
+- Movement speed increased
+- Respawn times decreased"
+4,Brawl: Gravity Lapse,Elevated Domination,"- Gravity changes at regular intervals
+- The flag carrier will be weighed down
+- Everyone else will be launched up"
+5,Brawl: Arathi Blizzard,Frosty Domination,"- Capture objectives
+- Visbility is reduced
+- Terrain has frozen"
+6,Brawl: Deepwind Dunk,Dunkball,"- Pick up balls at the mines
+- Bring balls to the enemy base
+- Shoot or dunk the balls"
+7,Brawl: Eye of the Horn,Goat Domination,"- Enjoy your goat mount!
+- Your goat has a knockback
+- Distance strengthens the knockback"
+8,Brawl: Packed House,15v15 Arena,"- Team Deathmatch
+- 15 players per team
+- Last team standing wins"
+9,Brawl: Warsong Scramble,Capture the Flags,"- Each team has multiple flags
+- Capture only requires one flag
+- Grab random buff cubes"
+10,Brawl: Shado-Pan Showdown,5v5 Arena,"- 5v5 Arena
+- Defeat opposing team's Mogu boss to win
+- Collect the summoned chest for a power-up"
+11,Brawl: Deep Six,6v6 Battlegrounds,"- 6 players per team
+- New game modes"
+12,Brawl: Deep Six  - The Battle for Gilneas,6v6 Battlegrounds,"- 6 players per team
+- New game modes"
+13,Brawl: Deep Six  - Warsong Gulch,6v6 Battlegrounds,"- 6 players per team
+- New game modes"
+14,Brawl: Deep Six  - Silvershard Mines,6v6 Battlegrounds,"- 6 players per team
+- New game modes"
+15,Brawl: Deep Six  - Temple of Kotmogu,6v6 Battlegrounds,"- 6 players per team
+- New game modes"
+16,Brawl: Deep Six  - Eye of the Storm,6v6 Battlegrounds,"- 6 players per team
+- New game modes"
+17,Brawl: Cooking: Impossible,Gathering Race,"- Gather ingredients around the farm, and bring them back to your cook
+- First to gather enough ingredients wins!
+- Defeat the opposing faction's Thumper to gain their allegiance"
+18,Brawl: Stocked House,Team Deathmatch,"- Team Deathmatch
+- 3 players per team
+- First two deaths on each team are instantly resurrected"
+19,Seething Shore,Collect Azerite,Large quantities of Azerite has been discovered off the coast of Feralas in a forgotten unexplored island now known as the Seething Shore.
+120,Brawl: Classic Ashran,Endless Epic Battleground,"- The battle in Ashran never ends!
+- Slay the opposing faction's leader and dominate events for rewards
+- Gather Artifact Fragments from creatures and turn-in for buffs for your faction"
+121,Brawl: Comp Stomp,Domination,"- Capture objectives
+- Slay enemies
+- Win"
+122,Wintergrasp,Defend or Assault Wintergrasp,"- Defend the Fortress as Defense
+- Destroy the final wall in the Fortress as Offense"
+123,Brawl: Teeming Island,10 v 10 Island,We're going to need a bigger boat...
+124,Korrak's Revenge,WoW Anniversary Event,"- Experience the Alterac Valley of olde
+- Slay Korrak the Bloodrager and push back the troll invasion!
+- Complete quests and objectives for rewards"
+125,Deepwind Gorge,Capture the objectives,"- Capture and hold the objectives
+- Earn 1500 resources"
+126,Brawl: Korrak's Revenge,Classic Alterac Valley,"- Experience the Alterac Valley of olde
+- Slay Korrak the Bloodrager and push back the troll invasion!
+- Complete quests and objectives for rewards"
+130,Solo Shuffle,Shuffled team arena matches,"- 6 players play 6 rounds of 3v3 Arena
+- Teams are shuffled at the end of each round
+- Solo player queues only"
+132,Solo Shuffle: Enigma Arena,Shuffled team arena matches,"- 6 players play 6 rounds of 3v3 Arena
+- Teams are shuffled at the end of each round
+- Solo player queues only"
+133,Brawl: Deepwind Detonation,Seek & Destroy,"-Pick up bomb at Market
+-Escort bomb to bases
+-Plant and defend"
+136,Brawl: Battleground Blitz,Battleground Blitz,"- Solo queue except Healers can duo queue
+- 8 players per team
+- Battle alongside members of both factions
+- Global mount speed increased
+- Faster game modes"
+137,Brawl: Battleground Blitz - Warsong Gulch,Battleground Blitz,
+138,Brawl: Battleground Blitz - Twin Peaks,Battleground Blitz,
+139,Brawl: Battleground Blitz - Battle for Gilneas,Battleground Blitz,
+140,Brawl: Battleground Blitz - Silvershard Mines,Battleground Blitz,
+141,Brawl: Battleground Blitz - Temple of Kotmogu,Battleground Blitz,
+142,Brawl: Battleground Blitz - Deepwind Gorge,Battleground Blitz,
+143,Brawl: Battleground Blitz - Arathi Basin,Battleground Blitz,
+144,Brawl: Battleground Blitz - Eye of the Storm,Battleground Blitz,
+145,Brawl: The Heat of Battle,3v3 Arena,"- 3v3 Arena
+- Damaging enemy players to low health increases your team's damage dealt
+- Healers receive a Canteen that can be used in combat to restore mana"
+147,Brawl: Battleground Blitz - Deephaul Ravine,Battleground Blitz,
+148,Deephaul Ravine,Deephaul Ravine,"- Capture and hold the mine carts
+- Capture the center gem
+- Earn 1500 resources"

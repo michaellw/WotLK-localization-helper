@@ -1,0 +1,460 @@
+ID,Description_lang
+1,
+2,Guarantee Haste
+4,
+5,Guarantee Critical Strike
+6,Guarantee Versatility
+7,Guarantee Mastery
+8,Set the Item Level to 117 and the Required Level to 55.
+9,Set the Item Level to 168 and the Required Level to 60.
+10,Set the Item Level to 180 and the Required Level to 60.
+11,Set the Item Level to 200.
+17,Flasks last longer
+27,Well Fed lasts longer
+30,Deal Fire damage to enemy
+32,Set the Item Level to $ev1 and the Required Level to $ev2.
+34,Set the Item Level to $ev1 and the Required Level to $ev2.
+36,Set the Item Level to $ev1 and the Required Level to $ev2.
+38,Set the Item Level to $ev1 and the Required Level to $ev2.
+39,Set the Item Level to $ev1 and the Required Level to $ev2.
+58,Reduce falling damage
+59,Slightly increase move speed
+61,Increase swim speed
+62,Deal Frost damage to enemy
+64,Retain Well Fed when slain in Arena or Battleground
+65,Chance to get extra Skill Up when crafting
+66,Add a socket
+67,@spelldesc332950
+68,Completing World Quests increase Primary Stat
+70,Set the Item Level to 129 and the Required Level to 53.
+71,Set the Item Level to 200 and the Required Level to 60.
+72,Set the Item Level to 165 and the Required Level to 57.
+73,Set the Item Level to 165.
+74,Set the Item Level to 54 and the Required Level to 47.
+75,Set the Item Level to 56 and the Required Level to 45.
+76,Set the Item Level to 43 and the Required Level to 35.
+77,Set the Item Level to 33 and the Required Level to 25.
+78,Set the Item Level to 23 and the Required Level to 15.
+79,Set the Item Level to 87 and the Required Level to 50.
+80,Increase the item level by the equivalent of 2 ranks.
+81,"Set the Item Level to 230, the Required Level to 60, and add Unique Equipped: Shadowlands Crafted."
+82,Set the Item Level to 233 and the Required Level to 60.
+83,"Set the Item Level to 262, the Required Level to 60, and add Unique Equipped: Shadowlands Crafted."
+84,Increase the item level by the equivalent of 3 ranks.
+85,"Your abilities have a chance to create an Automa Core near the target, dealing damage and healing."
+86,"Increases Avoidance, and taking damage has a chance to heal you."
+87,You have a chance to acquire extra resources when you kill an enemy that yields experience or honor.
+88,Your abilities have a chance to create a mote nearby. Collect it to gain primary stat for 15 sec.
+89,"Increases Speed, and increases ground mount speed while in the Shadowlands."
+90,"Taking damage builds sparks of power. At 5 stacks, the next attacker is shocked for Cosmic damage."
+91,"When you kill an enemy, your highest secondary stat is increased for 20 sec stacking up to 5 times."
+92,"Increases the duration of Flask, Elixir, and Well Fed effects by 50%."
+93,Set the Item Level to 400 and the Required Level to 70.
+94,
+95,
+96,
+97,
+98,
+99,
+100,
+101,Set base ilevel to 51 (DNT)
+102,Set base ilevel to 60 (DNT)
+103,No Effect on this test finishing reagent (DNT)
+104,No Effect on this test finishing reagent (DNT)
+105,Adorn your armor with thick spikes and add Unique-Equipped: Embellished (2).
+106,
+107,Set the Item Level of a rank 1 recipe to 249.
+109,
+110,
+111,
+112,
+113,
+114,
+115,
+116,
+117,
+118,
+119,
+120,
+121,
+122,
+123,
+124,
+125,
+126,
+127,
+128,
+129,
+130,
+131,
+132,
+133,
+134,
+136,
+137,
+138,
+139,
+140,
+141,
+142,
+144,
+145,
+146,
+148,
+149,
+150,
+151,
+152,
+153,
+154,
+155,Increases Concentration refunded from ingenious breakthroughs by $ev1%.
+156,Increases $en1 by $ev1 and $en2 by $ev2%.
+157,"You are $ev1% more likely to improve at your profession, but Recipe Difficulty is increased by $ev2."
+158,Increases $en1 by $ev1 and $en2 by $ev2.
+159,Increases $en1 by $ev1 and $en2 by $ev2.
+160,Increase the duration of Dragon Isles potions by 50% and add Unique-Equipped: Embellished (2).
+161,Increase duration of Well Fed from Dragon Isles meals by 100% and they now persist through death.
+163,Increases armor by x and reduces durability loss of this armor piece. (DNT)
+164,Increases $en1 by $ev1.
+165,Increases $en1 by $ev1.
+166,Guarantee Critical Strike and Haste.
+168,
+169,
+170,
+171,
+172,
+173,
+174,
+175,
+176,
+177,
+178,
+179,
+180,
+181,
+182,
+183,
+184,
+185,
+186,
+187,
+188,
+189,
+191,
+192,
+193,
+194,
+195,
+196,"You are $ev1% more likely to improve at Inscription, but Recipe Difficulty is increased by $ev2."
+197,Increases Concentration refunded from ingenious breakthroughs by $ev1% and $en2 by $ev2.
+198,
+199,
+200,
+201,
+203,
+204,
+205,"You are $ev1% more likely to improve at Jewelcrafting, but Recipe Difficulty is increased by $ev2."
+206,Increases Concentration refunded from ingenious breakthroughs by $ev1% and $en2 by $ev2.
+207,"You are $ev1% more likely to improve at Tailoring, but Recipe Difficulty is increased by $ev2."
+208,Increases Concentration refunded from ingenious breakthroughs by $ev1% and $en2 by $ev2%.
+209,Increases reagents saved from Resourcefulness by $ev1%.
+210,
+211,
+212,
+213,"While above 90% health, gain Mastery. Also add Unique-Equipped: Embellished (2)."
+214,
+215,Your spells sometimes cause a ripple in time. Also add Unique-Equipped: Embellished (2).
+216,
+217,
+218,
+219,
+220,
+221,
+222,Guarantee Versatility and Haste.
+223,Guarantee Mastery and Haste.
+224,Guarantee Versatility and Mastery.
+225,Guarantee Critical Strike and Mastery.
+226,Guarantee Versatility and Critical Strike.
+227,Physical attacks sometimes deal extra physical damage. Also add Unique-Equipped: Embellished (2).
+228,Infuses the item with the essence of decay. Also add Unique-Equipped: Embellished (2).
+229,
+230,Stuff your recipe with this delicious secret ingredient to increase the number of servings produced.
+232,
+233,Set Item Level based on Crafting Quality (395 - 408).
+234,Set Item Level based on Crafting Quality (408 - 421).
+235,"Set Item Level based on Crafting Quality (330 - 343), add Soulbound and Required Level 64."
+236,"Set Item Level based on Crafting Quality (343 - 356), add Soulbound and Required Level 70."
+237,"Set Item Level based on Crafting Quality (356 - 369), add Soulbound and Required Level 70."
+238,"Set Item Level based on Crafting Quality (369 - 382), add Soulbound and Required Level 70."
+239,Precise cuts ensure perfect portions with nothing going to waste. Gain $ev1 $en1 for this recipe.
+240,A healthy and filling salad ensures there will be some leftovers. Gain $ev1 $en1 for this dish.
+241,
+242,
+243,
+244,
+245,
+246,
+247,
+248,
+249,
+250,
+251,
+252,
+253,
+254,
+255,
+256,
+257,
+258,
+259,
+260,
+261,
+262,
+263,
+264,Replaces Random Stat with Ingenuity.
+265,
+266,
+267,Reduces the likelihood of this device's tinker malfunctioning by 15%. Does not stack with similar specialization bonuses.
+268,Tinkers slotted into this device can no longer catastrophically malfunction.
+269,The tinker slotted within this device will sometimes dislodge the battery instead of malfunctioning.
+270,Allocate the secondary stats of Engineering crafted goggles or bracers to Critical Strike.
+271,Allocate the secondary stats of Engineering crafted goggles or bracers to Haste.
+272,Allocate the secondary stats of Engineering crafted goggles or bracers to Mastery.
+273,Allocate the secondary stats of Engineering crafted goggles or bracers to Versatility.
+274,"You are $ev1% more likely to improve at Engineering, but Recipe Difficulty is increased by $ev2."
+275,Increases your $en1 by $ev1 and $en2 by $ev2.
+276,When you heal you sometimes fire a Healing Dart. Also add Unique-Equipped: Embellished (2).
+278,Replaces Random Stat with Resourcefulness.
+279,Replaces Random Stat with Multicraft.
+280,Replaces Random Stat with Crafting Speed.
+281,Replaces Random Stat with Finesse.
+282,Replaces Random Stat with Perception.
+283,Replaces Random Stat with Deftness.
+284,
+285,
+287,Alters the appearance of a weapon crafted from Draenor Blacksmithing to something more impressive.
+288,Alters the appearance of a weapon crafted from Draenor Blacksmithing to something truly remarkable.
+289,Alters the appearance of armor crafted from Draenor Blacksmithing to something more impressive.
+290,Alters the appearance of armor crafted from Draenor Blacksmithing to something truly remarkable.
+291,Alters the appearance of goggles crafted from Draenor Engineering to something more impressive.
+292,Alters the appearance of goggles crafted from Draenor Engineering to something truly remarkable.
+293,Alters the appearance of guns crafted from Draenor Engineering to something more impressive.
+294,Alters the appearance of guns crafted from Draenor Engineering to something truly remarkable.
+295,Alters the appearance of armor crafted from Draenor Leatherworking to something more impressive.
+296,Alters the appearance of armor crafted from Draenor Leatherworking to something truly remarkable.
+297,Alters the appearance of armor crafted from Draenor Tailoring to something more impressive.
+298,Alters the appearance of armor crafted from Draenor Tailoring to something truly remarkable.
+299,Alters the appearance of weapons crafted from Draenor Inscription to something more impressive.
+300,Alters the appearance of weapons crafted from Draenor Inscription to something truly remarkable.
+302,Grant your crafted equipment a completely imperceivable but totally real improvement.
+303,Increases item level to 450 in Arenas and Battlegrounds.
+304,Increases item level to 450 in Arenas and Battlegrounds.
+305,Increases item level to 450 in Arenas and Battlegrounds.
+306,Increases item level to 437 in Arenas and Battlegrounds.
+307,Increases item level to 437 in Arenas and Battlegrounds.
+308,Increases item level to 437 in Arenas and Battlegrounds.
+309,Set starting Item Level based on Crafting Quality (382-395) and mark as Ingenuity Crafted.
+310,Set starting Item Level based on Crafting Quality (411-424) and mark as Shadowflame Crafted.
+311,"Set Item Level based on Crafting Quality (382 - 395), add Soulbound and Required Level 70."
+312,Set Item Level based on Crafting Quality (395-408).
+313,Set Item Level based on Crafting Quality (424-437).
+314,Set Item Level based on Crafting Quality (408-418).
+315,Set Item Level based on Crafting Quality (434 - 444).
+316,Set Item Level based on Crafting Quality (434-447).
+317,Dealing damage can inflict stacking Shadowflame damage. Also add Unique-Equipped: Embellished (2).
+318,Become empowered when interrupted while not casting. Also add Unique-Equipped: Embellished (2).
+319,Enduring movement impairing effects increases damage. Also add Unique-Equipped: Embellished (2).
+320,
+321,Reduce your fall speed for 10s. Can only be used in the Dragon Isles.
+323,Improve your Dragon Isles Bandages. Can only be used in the Dragon Isles.
+324,
+325,
+326,
+327,
+328,
+329,Set starting Item Level based on Crafting Quality (450-463) and mark as Dream Crafted.
+330,Set Item Level based on Crafting Quality (463-476).
+331,Set Item Level based on Crafting Quality (473-486).
+332,Set Item Level based on Crafting Quality (434-447).
+334,Spells and abilities sometimes provide secondary stats. Also add Unique-Equipped: Embellished (2).
+335,Increases item level to 476 in Arenas and Battlegrounds.
+336,Increases item level to 476 in Arenas and Battlegrounds.
+337,Increases item level to 476 in Arenas and Battlegrounds.
+338,Increases item level to 489 in Arenas and Battlegrounds.
+339,Increases item level to 489 in Arenas and Battlegrounds.
+340,Increases item level to 489 in Arenas and Battlegrounds.
+341,Gain stacking Critical Strike while above 70% health. Also add Unique-Equipped: Embellished (2).
+342,"Certifies crafted equipment for use in PvP battlefields, enabling it to scale to 606 Item Level.|n|nMultiple are required to complete a craft."
+343,"Certifies crafted equipment for use in PvP battlefields, enabling it to scale to 619 Item Level.|n|nMultiple are required to complete a craft."
+344,"Certifies crafted equipment for use in PvP battlefields, enabling it to scale to 632 Item Level.|n|nMultiple are required to complete a craft."
+345,
+346,
+347,"Your healing abilities have the chance to tether you to a friendly ally, granting Versatility for both players based on distance. Also add Unique-Equipped: Embellished (2)."
+348,Mycobloom
+349,Luredrop
+350,Orbinid
+351,Blessing Blossom
+352,Arathor's Spear
+353,Common Ore
+354,Rare Ore 01
+355,Rare Ore 02
+357,Set starting Item Level based on Crafting Quality (584-597) and mark as Omen Crafted.
+358,Set starting Item Level based on Crafting Quality (564-577) and mark as Beginner Crafted.
+359,Set starting Item Level based on Crafting Quality (489-502) and mark as Awakened Crafted.
+360,Increases item level to 528 in Arenas and Battlegrounds.
+361,Increases item level to 528 in Arenas and Battlegrounds.
+362,Increases item level to 528 in Arenas and Battlegrounds.
+363,Increases item level to 515 in Arenas and Battlegrounds.
+364,Increases item level to 515 in Arenas and Battlegrounds.
+365,Increases item level to 515 in Arenas and Battlegrounds.
+366,
+367,Set Item Level based on Crafting Quality (473-486).
+368,Set Item Level based on Crafting Quality (502-515).
+369,Set Item Level based on Crafting Quality (512-525).
+370,Increases item level to 489 in Arenas and Battlegrounds.
+371,Increases item level to 489 in Arenas and Battlegrounds.
+372,Increases item level to 489 in Arenas and Battlegrounds.
+373,Increases item level to 476 in Arenas and Battlegrounds.
+374,Increases item level to 476 in Arenas and Battlegrounds.
+375,Increases item level to 476 in Arenas and Battlegrounds.
+376,
+377,
+378,
+379,
+380,
+381,
+383,
+384,
+385,
+386,
+387,
+388,Increases $en2 by $ev2 and the yield of resourcefulness by $ev1%.
+389,Increases $en1 by $ev1.
+390,Your spells and abilities have a chance to deal elemental damage. The chosen school is based on socketed gems. $@spelldesc437127
+391,$@spelldesc435992 $@spelldesc437127
+392,"When damaged at low health, unleash starlight to shield yourself. The frequency this can occur increases with socketed gems. $@spelldesc437127"
+393,Increases $en1 by $ev1 and your chance to gain a Skill Point by $ev2% when cutting gems.
+394,
+395,
+396,
+397,
+398,
+399,
+400,"Damaging a target has a chance to bless your weapon, increasing your highest secondary stat. The effect slowly fades over time. Also add Unique-Equipped: Embellished (2)."
+401,"Embrace the darkness. Double the effects of your other Nerubian embellished item, positive and negative. Also add Unique-Equipped: Embellished (2)."
+402,
+403,
+404,
+405,
+406,
+407,
+408,
+409,
+410,Storm Dust
+411,Gleaming Shard
+412,Refulgent Crystal
+421,
+422,
+423,
+424,
+425,
+426,
+427,
+428,Add Unique-Equipped: Embellished (2).|n|nImbue your crafted equipment with a portion this Darkmoon Deck's power.
+429,Add Unique-Equipped: Embellished (2).|n|nImbue your crafted equipment with a portion this Darkmoon Deck's power.
+430,Add Unique-Equipped: Embellished (2).|n|nImbue your crafted equipment with a portion this Darkmoon Deck's power.
+431,Add Unique-Equipped: Embellished (2).|n|nImbue your crafted equipment with a portion this Darkmoon Deck's power.
+432,Handful of Bismuth Bolts
+433,Whimsical Wiring
+434,Gyrating Gear
+435,Safety Switch
+436,Chaos Circuit
+437,Entropy Enhancer
+438,Allocate the secondary stat of Engineering crafted goggles or bracers to Critical Strike.
+439,Allocate the secondary stat of Engineering crafted goggles or bracers to Haste.
+440,Allocate the secondary stat of Engineering crafted goggles or bracers to Mastery.
+441,Allocate the secondary stat of Engineering crafted goggles or bracers to Versatility.
+442,Reduces the likelihood of this device's tinker malfunctioning by 15%. Does not stack with similar specialization bonuses.
+443,"Whenever the tinker slotted within this device malfunctions, you have a high chance to redirect the consequences to the nearest enemy player."
+444,$@spelldesc454468
+445,$@spelldesc454455
+446,"Chance to throw a pocket grenade, dealing damage split between enemies. $@spelldesc437127"
+447,"When dropped to low health, scatter mines around you that slow and damage enemies that step on them. $@spelldesc437127"
+448,
+449,DNT does something awesome
+450,DNT does something awesome
+451,DNT does something awesome
+452,DNT does something awesome
+453,DNT does something awesome
+454,DNT does something awesome
+455,You gain $ev1 Ingenuity when crafting consumable items.
+456,You gain $ev1 Multicraft when crafting consumable items.
+457,You gain $ev1 Resourcefulness when crafting consumable items.
+458,DNT does something awesome
+459,DNT does something awesome
+460,Guarantee Versatility and Haste.
+461,Guarantee Mastery and Haste.
+462,Guarantee Critical Strike and Haste.
+463,Guarantee Versatility and Mastery.
+464,Guarantee Critical Strike and Mastery.
+465,Guarantee Versatility and Critical Strike.
+466,DNT does something awesome
+467,DNT does something awesome
+468,DNT does something awesome
+469,DNT does something awesome
+470,Replaces Random Stat with Ingenuity.
+471,Replaces Random Stat with Resourcefulness.
+472,Replaces Random Stat with Multicraft.
+473,Replaces Random Stat with Crafting Speed.
+474,Replaces Random Stat with Finesse.
+475,Replaces Random Stat with Perception.
+476,Replaces Random Stat with Deftness.
+477,
+478,
+479,
+480,
+481,
+482,
+483,"While above 80% health, gain Critical Strike. Also add Unique-Equipped: Embellished (2)."
+484,"While above 80% health, gain Versatility. Also add Unique-Equipped: Embellished (2)."
+486,Multicraft yields $ev1% more when crafting consumable items.
+488,You gain $ev1 Resourcefulness when crafting Khaz Algar Jewelcrafting goods.
+489,Set Item Level based on Crafting Quality (577-590).
+490,Set Item Level based on Crafting Quality (606-619).
+491,Set Item Level based on Crafting Quality (616-629).
+492,You use $ev1% less Concentration when Concentrating on a craft.
+493,You gain $ev1 Multicraft when crafting consumable items.
+494,
+495,Potion of the Reborn Cheetah
+496,Algari Healing Potion
+497,Cavedweller's Delight
+498,Tempered Potion
+499,
+500,
+501,
+502,
+503,
+504,
+505,
+506,You gain $ev1 Ingenuity when crafting consumable items.
+508,You refund an additional $ev1% more reagents when crafting Khaz Algar Tailoring goods.
+510,Finish off your recipe with a spoonful of this secret ingredient to increase the number of servings produced.
+511,Add a dollop of this secret ingredient to increase the number of servings produced.
+512,Increases $en1 by $ev1.
+513,Increases the chance to gain a Skill Point by $ev1%.
+514,
+515,
+516,Increases $en1 by $ev1 for this craft.
+517,Increases $en1 by $ev1 for this craft.
+518,Increases $en1 by $ev1 for this craft.
+519,Increases $en1 by $ev1 for this craft.
+520,Set the Item Level to $ev1 and the Required Level to $ev2. Use alongside Optional Reagents to empower the equipment further.
+521,
+522,
+523,
+524,"Set Item Level based on Crafting Quality (545 - 558), add Soulbound and Required Level 74."
+525,"Set Item Level based on Crafting Quality (561 - 574), add Soulbound and Required Level 80."
+526,Set the Item Level to $ev1 and the Required Level to $ev2.
+527,Increases Resourcefulness by $ev1.
+528,Increases Multicraft by $ev1.
+529,Grant your crafted equipment a completely imperceivable but totally real improvement.

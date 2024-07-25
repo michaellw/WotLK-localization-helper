@@ -1,0 +1,61 @@
+ID,Name_lang
+1,Classic Dungeons
+2,Burning Crusade Normal
+3,Burning Crusade Heroic
+4,Wrath of the Lich King Normal
+5,Wrath of the Lich King Heroic
+6,Classic Raid
+7,Burning Crusade Raid
+8,Wrath of the Lich King Raid (10)
+9,Wrath of the Lich King Raid (25)
+11,World Events
+12,Cataclysm Heroic
+13,Cataclysm Normal
+14,Cataclysm Raid (25)
+15,Cataclysm Raid (10)
+20,Rated Battleground
+33,Hour of Twilight Heroic
+36,Mists of Pandaria Heroic
+37,Mists of Pandaria Normal
+38,Scenarios
+40,Mists of Pandaria Raid (25)
+41,Mists of Pandaria Raid (10)
+43,Heroic Scenarios
+44,Timewalking
+45,Mists of Pandaria Raid (Flex)
+46,Mists of Pandaria World Boss
+47,Warlords of Draenor Normal
+48,Warlords of Draenor Heroic
+49,Warlords of Draenor Raid (Normal)
+50,Warlords of Draenor Raid (Heroic)
+51,Warlords of Draenor Raid (Mythic)
+52,Legion Heroic
+53,Legion Normal
+54,Legion Raid (Normal)
+55,Legion Raid (Heroic)
+56,Legion Raid (Mythic)
+57,Battle for Azeroth Normal
+58,Battle for Azeroth Heroic
+159,Battle for Azeroth Raid (Normal)
+160,Battle for Azeroth Raid (Heroic)
+161,Battle for Azeroth Raid (Mythic)
+162,Battle for Azeroth Mythic
+163,Shadowlands Mythic
+164,Shadowlands Heroic
+165,Shadowlands Normal
+166,Exile's Reach
+167,Shadowlands Raid (Mythic)
+168,Shadowlands Raid (Heroic)
+169,Shadowlands Raid (Normal)
+170,Dragonflight Mythic
+171,Dragonflight Heroic
+172,Dragonflight Normal
+173,Dragonflight Follower
+177,The War Within Normal
+178,The War Within Heroic
+180,Mists of Pandaria Follower
+182,Timerunning Dungeons
+183,Timerunning Heroic Dungeons
+184,Timerunning Scenarios
+185,Timerunning Heroic Scenarios
+186,The War Within Heroic: Season 1

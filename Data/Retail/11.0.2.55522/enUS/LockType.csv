@@ -1,0 +1,87 @@
+ID,Name_lang,ResourceName_lang,Verb_lang
+1,Lockpicking,Locked Items,Pick
+2,Herbalism,Herbs,Gather
+3,Mining,Ore Deposits,Mine
+4,Disarm Trap,Trap,Disarm
+5,Open,Unlocked Items,Open
+6,Treasure (DND),Treasure,
+7,Calcified Elven Gems (DND),Calcified Elven Gems,
+8,Close,Unlocked Items,Close
+9,Arm Trap,Trap,Arm
+10,Quick Open,Unlocked Items,Open
+11,Quick Close,Unlocked Items,Close
+12,Open Tinkering,Unlocked Items,Open
+13,Open Kneeling,Unlocked Items,Open
+14,Open Attacking,Unlocked Items,Open
+15,Gahz'ridian (DND),Gahz'ridian,
+16,Blasting,Locked Items,Blast
+17,PvP Open,Unlocked Items,Open
+18,PvP Close,Unlocked Items,Close
+19,Fishing (DND),Fish,Fish
+20,Inscription,Tomes,Decipher
+21,Open From Vehicle,Unlocked Items,Open
+22,Archaeology,Fragments,Survey
+23,PvP Open Fast,Unlocked Items,Open
+28,Lumber Mill,Timber,Harvest
+29,Skinning,Leather,Skin
+30,Ancient Mana,Mana Deposits,Extract
+31,Warboard,Warboards,Inspect
+32,Herbalism,Herbs,Gather
+33,Herbalism,Herbs,Gather
+34,Herbalism,Herbs,Gather
+35,Herbalism,Herbs,Gather
+36,Herbalism,Herbs,Gather
+37,Herbalism,Herbs,Gather
+38,Herbalism,Herbs,Gather
+39,Herbalism,Herbs,Gather
+40,Mining,Ore Deposits,Mine
+41,Mining,Ore Deposits,Mine
+42,Mining,Ore Deposits,Mine
+43,Mining,Ore Deposits,Mine
+44,Mining,Ore Deposits,Mine
+45,Mining,Ore Deposits,Mine
+46,Mining,Ore Deposits,Mine
+47,Mining,Ore Deposits,Mine
+48,Skinning,Leather,Skin
+149,Open (Locked Inventory Item Opening),Unlocked Items,Open
+150,Foraging,Forage,Forage
+152,Jelly Deposit,Jelly,Gather
+153,Herbalism,Herbs,Gather
+155,Mining,Ore Deposits,Mine
+157,Covenant: Night Fae,Unlocked Items,Open
+158,Covenant: Venthyr,Unlocked Items,Open
+159,Covenant: Kyrian,Unlocked Items,Open
+160,Covenant: Necrolord,Unlocked Items,Open
+161,Profession: Engineering,,Deactivate
+162,Dragon Isles Herbalism,Herbs,Gather
+163,Mining,Ore Deposits,Mine
+166,Herbalism,Herbs,Gather
+167,Mining,Ore Deposits,Mine
+169,Enchanting,Enchanted Items,Disenchant
+170,Dragon Isles Treasures,Treasures,Open
+172,Dragon Isles Alchemy 25,Unlocked Items,Open
+173,Dragon Isles Blacksmithing 25,Unlocked Items,Open
+174,Dragon Isles Enchanting 25,Unlocked Items,Open
+175,Dragon Isles Engineering 25,Unlocked Items,Open
+176,Dragon Isles Herbalism 25,Unlocked Items,Open
+177,Dragon Isles Inscription 25,Unlocked Items,Open
+178,Dragon Isles Jewelcrafting 25,Unlocked Items,Open
+179,Dragon Isles Leatherworking 25,Unlocked Items,Open
+180,Dragon Isles Mining 25,Unlocked Items,Open
+181,Dragon Isles Skinning 25,Unlocked Items,Open
+182,Dragon Isles Tailoring 25,Unlocked Items,Open
+186,Open Kneeling - Plant,Unlocked Items,Picking
+188,Dragon Isles Mining,Ore Deposits,Mine
+193,Khaz Algar Mining,Ore Deposits,Mine
+194,Khaz Algar Herbalism,Herbs,Gather
+195,Khaz Algar Alchemy 25,Unlocked Items,Open
+196,Khaz Algar Blacksmithing 25,Unlocked Items,Open
+197,Khaz Algar Enchanting 25,Unlocked Items,Open
+198,Khaz Algar Engineering 25,Unlocked Items,Open
+199,Khaz Algar Herbalism 25,Unlocked Items,Open
+200,Khaz Algar Inscription 25,Unlocked Items,Open
+201,Khaz Algar Jewelcrafting 25,Unlocked Items,Open
+202,Khaz Algar Leatherworking 25,Unlocked Items,Open
+203,Khaz Algar Mining 25,Unlocked Items,Open
+204,Khaz Algar Skinning 25,Unlocked Items,Open
+205,Khaz Algar Tailoring 25,Unlocked Items,Open

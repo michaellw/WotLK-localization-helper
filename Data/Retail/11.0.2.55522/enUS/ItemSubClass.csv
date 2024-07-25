@@ -1,0 +1,169 @@
+ID,DisplayName_lang,VerboseName_lang
+2,Bag,
+3,Axe,One-Handed Axes
+4,Axe,Two-Handed Axes
+5,Bow,Bows
+6,Gun,Guns
+7,Mace,One-Handed Maces
+8,Mace,Two-Handed Maces
+9,Polearm,Polearms
+10,Sword,One-Handed Swords
+11,Sword,Two-Handed Swords
+12,Warglaives,
+13,Staff,Staves
+14,Bear Claws,Bear Claws
+15,Cat Claws,CatClaws
+16,Fist Weapon,Fist Weapons
+17,Miscellaneous,
+18,Dagger,Daggers
+19,Miscellaneous,
+20,Cloth,Cloth
+21,Leather,Leather
+22,Mail,Mail
+23,Plate,Plate
+24,Cosmetic,Cosmetic
+25,Shield,Shields
+26,Wand(OBSOLETE),
+27,Bolt(OBSOLETE),
+28,Arrow,
+29,Bullet,
+30,Quiver(OBSOLETE),
+31,Bolt(OBSOLETE),
+32,Quiver,
+33,Ammo Pouch,
+34,Thrown,Thrown
+35,Thrown(OBSOLETE),
+36,Intellect,
+37,Trade Goods (OBSOLETE),
+38,Parts,
+39,Explosives (OBSOLETE),
+40,Book,
+41,Leatherworking,
+42,Tailoring,
+43,Explosives and Devices,
+44,Potions,
+45,Elixirs,
+46,Spear,Spears
+47,Money(OBSOLETE),
+48,Head,
+49,Quest,
+50,Reagent,
+51,Permanent,
+52,Junk,
+53,Key,
+54,Lockpick,
+55,Crossbow,Crossbows
+56,Wand,Wands
+57,Fishing Pole,Fishing Poles
+77,Devices (OBSOLETE),
+99,Engineering,
+100,Blacksmithing,
+101,Cooking,
+102,Alchemy,
+103,First Aid,
+104,Enchanting,
+105,Fishing,
+106,Jewelcrafting,
+107,Soul Bag,
+109,Herb Bag,
+110,Enchanting Bag,
+111,Engineering Bag,
+112,Libram,Librams
+113,Idol,Idols
+114,Totem,Totems
+115,Jewelcrafting,
+116,Gem Bag,
+118,Mining Bag,
+119,Agility,
+120,Strength,
+121,Stamina,
+122,Spirit,
+123,Critical Strike,
+124,Mastery,
+125,Haste,
+126,Versatility,
+131,Flasks & Phials,
+132,Scroll (OBSOLETE),
+133,Food & Drink,
+134,Item Enhancement (OBSOLETE),
+135,Bandages,
+136,Other,
+137,Cloth,
+138,Leather,
+139,Metal & Stone,
+140,Cooking,
+141,Herb,
+142,Elemental,
+143,Other,
+144,Reagent,
+145,Companion Pets,
+146,Holiday,
+147,Other,
+148,Enchanting,
+149,Leatherworking Bag,
+150,Materials (OBSOLETE),
+152,Mount,Mount
+153,Warrior,Warrior
+154,Paladin,Paladin
+155,Hunter,Hunter
+156,Rogue,Rogue
+157,Priest,Priest
+158,Shaman,Shaman
+159,Mage,Mage
+160,Warlock,Warlock
+161,Druid,Druid
+162,Death Knight,Death Knight
+163,Item Enchantment (OBSOLETE),
+164,Weapon Enchantment - Obsolete,Weapon Enchantment - Obsolete
+165,Sigil,Sigils
+167,Inscription Bag,
+168,Inscription,Inscription
+169,Other,
+170,Multiple Stats,
+171,Tackle Box,
+173,Relic,
+177,Monk,Monk
+178,BattlePet,BattlePet
+179,Cooking Bag,Cooking Bag
+180,WoW Token,
+181,Keystone,
+183,Demon Hunter,Demon Hunter
+184,Vantus Runes,
+185,Inscription,
+186,Explosives and Devices (OBSOLETE),
+187,Artifact Relic,
+188,Neck,
+189,Shoulder,
+190,Cloak,
+191,Chest,
+192,Wrist,
+193,Hands,
+194,Waist,
+195,Legs,
+196,Feet,
+197,Finger,
+198,Weapon,
+199,Two-Handed Weapon,
+200,Shield/Off-hand,
+201,Misc,
+326,Mount Equipment,
+327,Optional Reagents,
+328,Context Token,
+329,Blacksmithing,
+330,Leatherworking,
+331,Alchemy,
+332,Herbalism,
+333,Cooking,
+334,Mining,
+335,Tailoring,
+336,Engineering,
+337,Enchanting,
+338,Fishing,
+339,Skinning,
+340,Jewelcrafting,
+341,Inscription,
+342,Archaeology,
+343,Finishing Reagents,
+344,Reagent Bag,
+345,Utility Curio,
+346,Combat Curio,
