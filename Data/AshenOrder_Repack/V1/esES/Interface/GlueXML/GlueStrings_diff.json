@@ -1,0 +1,327 @@
+[
+    {
+        "text": "_EDIT_RACE_NOT_ALLOWED",
+        "enUS": "|cffFF0000Not allowed|r\\n\\n|cffFFFFFFYou can only edit your current race",
+        "esES": ""
+    },
+    {
+        "text": "_CHANGE_RACE_NOT_ALLOWED",
+        "enUS": "|cffFF0000Incompatible|r\\n\\n|cffFFFFFFYou cannot change to this race.",
+        "esES": ""
+    },
+    {
+        "text": "_COMPATIBLE_RACE",
+        "enUS": "|cffFFFFFFCompatible race:|n|nYou can change to this race",
+        "esES": ""
+    },
+    {
+        "text": "_HIDE_ALL",
+        "enUS": "Hide All",
+        "esES": ""
+    },
+    {
+        "text": "_ACCOUNT",
+        "enUS": "Account",
+        "esES": ""
+    },
+    {
+        "text": "_DATABASE",
+        "enUS": "Database",
+        "esES": ""
+    },
+    {
+        "text": "_PATREON",
+        "enUS": "Patreon",
+        "esES": ""
+    },
+    {
+        "text": "_SHOW_HIDE_NAME",
+        "enUS": "Show/Hide Name",
+        "esES": ""
+    },
+    {
+        "text": "_RACE_INFO_PANDAREN",
+        "enUS": "In a time not long after the Battle of Mount Hyjal, a curious Pandaren brewmaster named Bao Mistpaw was experimenting with a mystical brew. Seeking to capture the essence of balance, he added a rare herb whispered to hold the secrets of time.\\n\\nThe brew exploded, opening a portal that hurled Bao and several other Pandaren into the heart of Orgrimmar. The orcs, still rebuilding after the Third War, were initially suspicious but soon warmed to these honorable, brew-loving newcomers.\\n\\nThrall, intrigued by their wisdom and martial prowess, offered the Pandaren a place within the Horde. The Pandaren, drawn to the Horde's raw strength and unity, pledged their allegiance.\\n\\nJoin the Horde as a Pandaren and embrace the unexpected twist of fate that binds your destiny with the orcs, trolls, and tauren. Bring your wisdom, courage, and, of course, your love for a good brew to the front lines. In Azeroth, the most extraordinary allies can be found in the most unlikely places!",
+        "esES": ""
+    },
+    {
+        "text": "_RACE_INFO_DEMON_HUNTER1",
+        "enUS": "In the twisted reaches of Outland, a rebellious sect of Blood Elves, once loyal to the Illidari, have dared to defy their dark masters. Infused with the insidious blood of demons, their very being thrums with fel magic, a power as corrupting as it is potent. Eyes aflame with demonic energy, they have turned from the Illidari's cruel path to seek redemption and purpose. Now aligned with the Horde, these renegade Illidari Blood Elves wield their forbidden might not as a weapon of destruction, but as a tool of liberation. They dance on the edge of darkness, embracing the fel within while fighting for honor and a brighter future. Join them, champion of the Horde, and let their rebellion fuel your own. Learn the secrets of the fel, master the art of demonic warfare, and forge a legacy that will burn bright across the annals of history. ",
+        "esES": ""
+    },
+    {
+        "text": "_RACE_INFO_VOID_ELF",
+        "enUS": "Void Elves, once High Elves, were transformed by the enigmatic power of the Void. When High Priestess Aquila Empyrean discovered the secrets of the Void, she approached it with reverence, ensuring its power was harnessed with the Light as a guiding force. Under her guidance, the Void Elves learned to walk the delicate balance between the Light and Void, ensuring they wielded its power without succumbing to its potentially corrupting nature. Exiled for their unique practices, the Void Elves found sanctuary within the Alliance, becoming invaluable assets with their unparalleled mastery over the Void's dark energies.",
+        "esES": ""
+    },
+    {
+        "text": "_RACE_INFO_LIGHTFORGED",
+        "enUS": "A remarkable group of Draenei known as the Lightforged has emerged after the Shattering. Infused with the holy power of the Naaru, they seek to join the Alliance and bring their unique abilities to bear against Azeroth's enemies. Led by Lady Aesreth, they undergo a transformative ritual within the Exodar, their bodies glowing with the power of the Light. Filled with purpose, they embark on a diplomatic mission to Stormwind, aiming to prove their worth to the Alliance leaders. Through valor, healing, and unwavering dedication, they earn the trust of the Alliance commanders and are granted a home within Stormwind. Join the Lightforged Draenei in their journey to be beacons of hope, fighting for the Alliance and illuminating a path to victory in the face of darkness.",
+        "esES": ""
+    },
+    {
+        "text": "_RACE_INFO_VULPERA",
+        "enUS": "From the sands of the desolate deserts of Uldum, a new race emerges - the cunning Vulpera. These small, anthropomorphic foxes, known for their resourcefulness and survival skills, have long made their home amidst the harsh conditions of the desert. But with the ever-growing threat of the Lich King's scourge looming over Azeroth, the Vulpera have sought new allies to aid them in their fight for survival. Rumors of the Horde's exploits against the Lich King have reached the ears of the Vulpera, and they have decided to seek shelter and support among the Horde ranks. Drawing upon their expertise in scavenging and engineering, the Vulpera offer their unique talents to the Horde as they venture into the frozen lands of Northrend. As the Horde's newest allies, the Vulpera bring their sharp wit, quick reflexes, and unparalleled knowledge of the desert to the fight against the Lich King. Their agility and adaptability make them formidable allies in battle, and their affinity for technology and invention brings a fresh perspective to the Horde's war effort. Now, standing shoulder-to-shoulder with their Horde comrades, the Vulpera are ready to face the icy dangers of Northrend, aid in the defeat of the Lich King, and secure their place as a proud and resourceful race within the Horde.",
+        "esES": ""
+    },
+    {
+        "text": "_RACE_INFO_HIGH_ELF",
+        "enUS": "The Quel'dorei, descendants of the noble Highborne, have a rich history intertwined with Azeroth's arcane energies. The fall of the Sunwell marked a dark chapter for them, with many succumbing to new allegiances. Amidst this turmoil, High Priestess Aquila Empyrean emerged as a beacon of hope. Her unwavering stance against Lor'themar Theron led to her exile from Quel’Thalas. Undeterred, Aquila established the Exiled Enclave, a sanctuary for those committed to preserving the true essence and traditions of the her people.",
+        "esES": ""
+    },
+    {
+        "text": "_RACE_INFO_DEMON_HUNTER0",
+        "enUS": "Once bound to darkness, a group of Illidari Night Elves have severed their ties to their masters and now seek redemption within the Alliance. These formidable demon hunters, infused with fel magic and tainted by demon blood, have turned their harrowing powers against their former allies. Their eyes, alight with otherworldly energy, see beyond mere mortals' understanding, and their blades, steeped in chaos, cut through both flesh and spirit. The Alliance, recognizing the strength and potential within these tormented souls, offers them a path to atonement. By their newfound oath, the Illidari Night Elves pledge to harness their arts to protect Azeroth, even as they wrestle with the shadows that cling to their very souls. The road ahead is perilous, filled with echoes of a forbidden past, but it also holds the promise of redemption. Will you embrace the darkness to serve the greater good? Will you wield the very weapons of your enemies to safeguard your allies? The path of the Illidari awaits you, hero.",
+        "esES": ""
+    },
+    {
+        "text": "_RACE_INFO_WORGEN",
+        "enUS": "Rumors have been spreading across Azeroth about the mysterious kingdom of Gilneas, now that the Greymane Wall has finally been opened. Adventurers are curious about the secretive nation, and many are eager to explore its lands and potentially form alliances. The Gilneans, having dealt with the Worgen infection, are also seeking allies to help them secure their kingdom and face future threats.",
+        "esES": ""
+    },
+    {
+        "text": "_RACE_INFO_GOBLIN",
+        "enUS": "Once embroiled in devastating wars among the Goblin cartels, the Steam Weedle Cartel sought a new beginning. Instead of fleeing to Northrend, they chose to settle on a nearby island close to Orgrimmar and forge trade relations with the orcs, ultimately joining the Horde.With their keen business acumen and shrewd negotiation skills, the SteamWeedle Goblins quickly established themselves as savvy merchants within the Horde. They brought their expertise in commerce and innovation to bear, providing valuable resources, weapons, and technological marvels to aid the Horde in their campaign against the Lich King. As they navigated the challenges of the frozen Northrend, the SteamWeedle Goblins proved their worth, using their ingenuity and entrepreneurial spirit to gain favor among the Horde leadership. They quickly became known for their unique blend of Goblin cunning and Horde loyalty, earning them a respected place within the Horde forces. While the SteamWeedle Cartel may have once been embroiled in internal conflicts, their decision to join the Horde has brought them new opportunities for profit and influence. As they continue to trade, innovate, and contribute to the Horde's efforts in the Wrath of the Lich King, the SteamWeedle Goblins are determined to make their mark on Azeroth's history as skilled merchants and loyal members of the Horde.",
+        "esES": ""
+    },
+    {
+        "text": "_RACE_INFO_EREDAR",
+        "enUS": "Within the depths of Argus, a group of Man'ari Eredar led by Vortaria, a wise and charismatic leader, felt a growing unease with the Burning Legion's path of destruction. Yearning for redemption, they broke free from the Legion's grasp. Escaping to Azeroth, they sought solace and purpose within the Horde. Their arrival in Orgrimmar was met with suspicion, but Warchief Thrall granted them a chance to prove their intentions. Through perilous missions against the Legion, the Eredar warriors demonstrated their unwavering dedication to the Horde's cause. As trust and respect grew, the Horde embraced them as allies. Now, the Man'ari Eredar stand united with their new allies, symbolizing redemption, hope, and unity within the Horde. Join their journey of atonement and protection against the Burning Legion's threat.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_LIGHTFORGED1",
+        "enUS": "- Reduces Holy damage taken by 5% and increases holy damage dealt by 3%.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_LIGHTFORGED2",
+        "enUS": "- Increases critical strike damage by 3% with all spells for you and all party members within 30 yards.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_LIGHTFORGED3",
+        "enUS": "- Places a protecting hand on party or raid member to transfer 3% of damage taken by them to you.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_LIGHTFORGED4",
+        "enUS": "- Recive 5% more healing from all sources.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_HIGH_ELF1",
+        "enUS": "- Resistance to arcane damage.%",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_HIGH_ELF2",
+        "enUS": "- Increased expertise.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_HIGH_ELF3",
+        "enUS": "- Increases your damage done with spells by 2% and allows 8% of your mana regeneration to continue while casting",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_HIGH_ELF4",
+        "enUS": "- Enchanting ability increaced by 15",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_HIGH_ELF5",
+        "enUS": "- Regenerate 32% of your health and mana over 8 seconds.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_VOID_ELF1",
+        "enUS": "- Deal increased shadow damage and take less shadow damage.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_VOID_ELF2",
+        "enUS": "- Damage and Healing increased by 5% for 12sec",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_VOID_ELF3",
+        "enUS": "- Tear a rift in space to teleport you through the rift",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_VOID_ELF4",
+        "enUS": "- Launches a series of Void Bolts dealing massive damage to targets and nearby allies. Priest only.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_PANDAREN1",
+        "enUS": "- Work in progress!",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_PANDAREN2",
+        "enUS": "- Work in progress!",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_PANDAREN3",
+        "enUS": "- Work in progress!",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_DEMON_HUNTER1",
+        "enUS": "- Rush forward, incinerating anything your path",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_DEMON_HUNTER2",
+        "enUS": "- Brand an enemy with demonic symbol dealing 180% fire damage and reducing the damage they deal by 30% for 8 seconds.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_DEMON_HUNTER3",
+        "enUS": "- Increased damage done against demons.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_DEMON_HUNTER4",
+        "enUS": "- Imprison a demon, beast or humanoid for 15 sec.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_DEMON_HUNTER5",
+        "enUS": "- Movement speed increased by haste.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_VULPERA1",
+        "enUS": "- Pull from a bag of tricks to use on a target enemy.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_VULPERA2",
+        "enUS": "- Reistant to Fire damage.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_VULPERA3",
+        "enUS": "- Make a Camp, restoring you and your party's health and saving your location for 15 minutes.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_VULPERA4",
+        "enUS": "- Reduces the duration of all movment impairing effects by 15% and increases movment speed by 3%",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_VULPERA5",
+        "enUS": "- Return to your camp location.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_GOBLIN1",
+        "enUS": "- Alchemy skill increased by 15.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_GOBLIN2",
+        "enUS": "- Snatch an additional 5% of all gold looted.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_GOBLIN3",
+        "enUS": "- Calls, Gobber allowing bank acess for 1 minute.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_GOBLIN4",
+        "enUS": "- Rocket Jump",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_GOBLIN5",
+        "enUS": "- Lounches your belt rockets at an enemy, dealing fire damage.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_GOBLIN6",
+        "enUS": "- Cash in on 1% increase to attack and casting speed.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_EREDAR1",
+        "enUS": "- Explode with the power of fel magic and infuse yourself with energy, increasing all stats by 3% for 20 seconds.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_EREDAR2",
+        "enUS": "- Jewelcrafting skill increased by 5%.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_EREDAR3",
+        "enUS": "- Unleash a volatile explosion of fel fire.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_EREDAR4",
+        "enUS": "- Stamina increased by 5%",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_EREDAR5",
+        "enUS": "- Increace damage done with all spells and attacks by 1% for all party members.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_WORGEN1",
+        "enUS": "- Reistant to Shadow and Nature damage.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_WORGEN2",
+        "enUS": "- Activate darkflight. speed increased by 40% for 10 sec.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_WORGEN3",
+        "enUS": "- Skinning skill increased by 15.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_WORGEN4",
+        "enUS": "- Change between Human and Worgen form.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_WORGEN5",
+        "enUS": "- Increases critical strike chance by 3%.",
+        "esES": ""
+    },
+    {
+        "text": "_ABILITY_INFO_WORGEN6",
+        "enUS": "- Let loose a Startling Roar, breaking allies out of snares, crowd-control, and stunning effects.",
+        "esES": ""
+    },
+    {
+        "text": "VX_SERVERLIST_SERVER_SELECTION",
+        "enUS": "Server selection",
+        "esES": "Selección de servidor"
+    },
+    {
+        "text": "VX_SERVERLIST_SERVER_NAME",
+        "enUS": "Server Name",
+        "esES": "Nombre del servidor"
+    },
+    {
+        "text": "VX_SERVERLIST_SERVER_DESCRIPTION",
+        "enUS": "Server Description",
+        "esES": "Descripción del servidor"
+    },
+    {
+        "text": "VX_FORCE_LOGIN",
+        "enUS": "Fast Login",
+        "esES": "Inicio de sesión rápido"
+    }
+]

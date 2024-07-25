@@ -1,0 +1,65 @@
+[
+    {
+        "text": "DEFAULT_STAT5_TOOLTIP",
+        "enUS_retail": "Increases Health Regeneration by %d Per Second while not in combat",
+        "zhCN_retail": "在非战斗状态下，使你的生命值回复速度提高每秒%d点",
+        "enUS": "Increases Health Regeneration by %d Per Second while not in combat.|nIncreases liklihood of Item and Enchant proc effects.",
+        "zhCN": ""
+    },
+    {
+        "text": "ENTER_CODE",
+        "enUS_retail": "Please enter code:",
+        "zhCN_retail": "请输入电子兑换券号码：",
+        "enUS": "Please enter a value:",
+        "zhCN": ""
+    },
+    {
+        "text": "ERR_INVALID_PROMOTION_CODE",
+        "enUS_retail": "Couldn't validate code, please try again.",
+        "zhCN_retail": "无法验证号码，请重试。",
+        "enUS": "Couldn't validate value, please try again.",
+        "zhCN": ""
+    },
+    {
+        "text": "ERR_ITEM_MAX_COUNT_EQUIPPED_SOCKETED",
+        "enUS_retail": "You have the maximum number of those gems socketed into equipped items.",
+        "zhCN_retail": "你在已装备的物品中镶嵌的该类宝石数量已达上限。",
+        "enUS": "You have already equipped the maximum number of items of this type.",
+        "zhCN": ""
+    },
+    {
+        "text": "GLYPH_SLOT_TOOLTIP3",
+        "enUS_retail": "Unlocked at level 50.",
+        "zhCN_retail": "达到50级后解锁。",
+        "enUS": "Unlocked at level 35.",
+        "zhCN": "达到35级后解锁。"
+    },
+    {
+        "text": "GLYPH_SLOT_TOOLTIP4",
+        "enUS_retail": "Unlocked at level 30.",
+        "zhCN_retail": "达到30级后解锁。",
+        "enUS": "Unlocked at level 20.",
+        "zhCN": "达到20级后解锁。"
+    },
+    {
+        "text": "GLYPH_SLOT_TOOLTIP5",
+        "enUS_retail": "Unlocked at level 70.",
+        "zhCN_retail": "达到70级后解锁。",
+        "enUS": "Unlocked at level 45.",
+        "zhCN": "达到45级后解锁。"
+    },
+    {
+        "text": "GLYPH_SLOT_TOOLTIP6",
+        "enUS_retail": "Unlocked at level 80.",
+        "zhCN_retail": "达到80级后解锁。",
+        "enUS": "Unlocked at level 60.",
+        "zhCN": "达到60级后解锁。"
+    },
+    {
+        "text": "ITEM_SPELL_TRIGGER_ONPROC",
+        "enUS_retail": "Chance on hit:",
+        "zhCN_retail": "击中时可能：",
+        "enUS": "Chance on physical hit:",
+        "zhCN": ""
+    }
+]

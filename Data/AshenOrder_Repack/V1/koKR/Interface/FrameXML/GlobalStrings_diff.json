@@ -1,0 +1,65 @@
+[
+    {
+        "text": "DEFAULT_STAT5_TOOLTIP",
+        "enUS_retail": "Increases Health Regeneration by %d Per Second while not in combat",
+        "koKR_retail": "매초당 생명력 회복량 %d만큼 증가 (전투 중이 아닐 때)",
+        "enUS": "Increases Health Regeneration by %d Per Second while not in combat.|nIncreases liklihood of Item and Enchant proc effects.",
+        "koKR": ""
+    },
+    {
+        "text": "ENTER_CODE",
+        "enUS_retail": "Please enter code:",
+        "koKR_retail": "코드를 입력해주세요:",
+        "enUS": "Please enter a value:",
+        "koKR": ""
+    },
+    {
+        "text": "ERR_INVALID_PROMOTION_CODE",
+        "enUS_retail": "Couldn't validate code, please try again.",
+        "koKR_retail": "입력하신 코드가 올바르지 않습니다. 다시 입력해 주시기 바랍니다.",
+        "enUS": "Couldn't validate value, please try again.",
+        "koKR": ""
+    },
+    {
+        "text": "ERR_ITEM_MAX_COUNT_EQUIPPED_SOCKETED",
+        "enUS_retail": "You have the maximum number of those gems socketed into equipped items.",
+        "koKR_retail": "장비한 아이템에 장착한 해당 보석의 개수가 한도를 초과하였습니다.",
+        "enUS": "You have already equipped the maximum number of items of this type.",
+        "koKR": ""
+    },
+    {
+        "text": "GLYPH_SLOT_TOOLTIP3",
+        "enUS_retail": "Unlocked at level 50.",
+        "koKR_retail": "50 레벨에 잠금이 해제됩니다.",
+        "enUS": "Unlocked at level 35.",
+        "koKR": "35 레벨에 잠금이 해제됩니다."
+    },
+    {
+        "text": "GLYPH_SLOT_TOOLTIP4",
+        "enUS_retail": "Unlocked at level 30.",
+        "koKR_retail": "30 레벨에 잠금이 해제됩니다.",
+        "enUS": "Unlocked at level 20.",
+        "koKR": "20 레벨에 잠금이 해제됩니다."
+    },
+    {
+        "text": "GLYPH_SLOT_TOOLTIP5",
+        "enUS_retail": "Unlocked at level 70.",
+        "koKR_retail": "70 레벨에 잠금이 해제됩니다.",
+        "enUS": "Unlocked at level 45.",
+        "koKR": "45 레벨에 잠금이 해제됩니다."
+    },
+    {
+        "text": "GLYPH_SLOT_TOOLTIP6",
+        "enUS_retail": "Unlocked at level 80.",
+        "koKR_retail": "80 레벨에 잠금이 해제됩니다.",
+        "enUS": "Unlocked at level 60.",
+        "koKR": "60 레벨에 잠금이 해제됩니다."
+    },
+    {
+        "text": "ITEM_SPELL_TRIGGER_ONPROC",
+        "enUS_retail": "Chance on hit:",
+        "koKR_retail": "발동 효과:",
+        "enUS": "Chance on physical hit:",
+        "koKR": ""
+    }
+]

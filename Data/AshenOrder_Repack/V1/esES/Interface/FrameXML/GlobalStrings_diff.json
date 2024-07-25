@@ -1,0 +1,65 @@
+[
+    {
+        "text": "DEFAULT_STAT5_TOOLTIP",
+        "enUS_retail": "Increases Health Regeneration by %d Per Second while not in combat",
+        "esES_retail": "Aumenta la regeneración de salud %d p. cada segundo mientras no luches.",
+        "enUS": "Increases Health Regeneration by %d Per Second while not in combat.|nIncreases liklihood of Item and Enchant proc effects.",
+        "esES": ""
+    },
+    {
+        "text": "ENTER_CODE",
+        "enUS_retail": "Please enter code:",
+        "esES_retail": "Escribe el código:",
+        "enUS": "Please enter a value:",
+        "esES": ""
+    },
+    {
+        "text": "ERR_INVALID_PROMOTION_CODE",
+        "enUS_retail": "Couldn't validate code, please try again.",
+        "esES_retail": "El código no se ha podido validar. Vuelve a intentarlo.",
+        "enUS": "Couldn't validate value, please try again.",
+        "esES": ""
+    },
+    {
+        "text": "ERR_ITEM_MAX_COUNT_EQUIPPED_SOCKETED",
+        "enUS_retail": "You have the maximum number of those gems socketed into equipped items.",
+        "esES_retail": "Ya has introducido el número máximo permitido de esas gemas en los objetos que tienes equipados.",
+        "enUS": "You have already equipped the maximum number of items of this type.",
+        "esES": ""
+    },
+    {
+        "text": "GLYPH_SLOT_TOOLTIP3",
+        "enUS_retail": "Unlocked at level 50.",
+        "esES_retail": "Nivel 50 para desbloquear.",
+        "enUS": "Unlocked at level 35.",
+        "esES": "Nivel 35 para desbloquear."
+    },
+    {
+        "text": "GLYPH_SLOT_TOOLTIP4",
+        "enUS_retail": "Unlocked at level 30.",
+        "esES_retail": "Nivel 30 para desbloquear.",
+        "enUS": "Unlocked at level 20.",
+        "esES": "Nivel 20 para desbloquear."
+    },
+    {
+        "text": "GLYPH_SLOT_TOOLTIP5",
+        "enUS_retail": "Unlocked at level 70.",
+        "esES_retail": "Nivel 70 para desbloquear.",
+        "enUS": "Unlocked at level 45.",
+        "esES": "Nivel 45 para desbloquear."
+    },
+    {
+        "text": "GLYPH_SLOT_TOOLTIP6",
+        "enUS_retail": "Unlocked at level 80.",
+        "esES_retail": "Nivel 80 para desbloquear.",
+        "enUS": "Unlocked at level 60.",
+        "esES": "Nivel 60 para desbloquear."
+    },
+    {
+        "text": "ITEM_SPELL_TRIGGER_ONPROC",
+        "enUS_retail": "Chance on hit:",
+        "esES_retail": "Probabilidad al acertar:",
+        "enUS": "Chance on physical hit:",
+        "esES": ""
+    }
+]

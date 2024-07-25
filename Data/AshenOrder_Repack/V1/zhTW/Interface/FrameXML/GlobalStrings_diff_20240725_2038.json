@@ -1,0 +1,65 @@
+[
+    {
+        "text": "DEFAULT_STAT5_TOOLTIP",
+        "enUS_retail": "Increases Health Regeneration by %d Per Second while not in combat",
+        "zhTW_retail": "提高非戰鬥時恢復的生命力每秒%d點",
+        "enUS": "Increases Health Regeneration by %d Per Second while not in combat.|nIncreases liklihood of Item and Enchant proc effects.",
+        "zhTW": ""
+    },
+    {
+        "text": "ENTER_CODE",
+        "enUS_retail": "Please enter code:",
+        "zhTW_retail": "請輸入驗證碼:",
+        "enUS": "Please enter a value:",
+        "zhTW": ""
+    },
+    {
+        "text": "ERR_INVALID_PROMOTION_CODE",
+        "enUS_retail": "Couldn't validate code, please try again.",
+        "zhTW_retail": "驗證無效，請再試一次。",
+        "enUS": "Couldn't validate value, please try again.",
+        "zhTW": ""
+    },
+    {
+        "text": "ERR_ITEM_MAX_COUNT_EQUIPPED_SOCKETED",
+        "enUS_retail": "You have the maximum number of those gems socketed into equipped items.",
+        "zhTW_retail": "此種寶石於裝備物品的鑲嵌數量已達上限。",
+        "enUS": "You have already equipped the maximum number of items of this type.",
+        "zhTW": ""
+    },
+    {
+        "text": "GLYPH_SLOT_TOOLTIP3",
+        "enUS_retail": "Unlocked at level 50.",
+        "zhTW_retail": "達到50級後解鎖。",
+        "enUS": "Unlocked at level 35.",
+        "zhTW": "達到35級後解鎖。"
+    },
+    {
+        "text": "GLYPH_SLOT_TOOLTIP4",
+        "enUS_retail": "Unlocked at level 30.",
+        "zhTW_retail": "達到30級後解鎖。",
+        "enUS": "Unlocked at level 20.",
+        "zhTW": "達到20級後解鎖。"
+    },
+    {
+        "text": "GLYPH_SLOT_TOOLTIP5",
+        "enUS_retail": "Unlocked at level 70.",
+        "zhTW_retail": "達到70級後解鎖。",
+        "enUS": "Unlocked at level 45.",
+        "zhTW": "達到45級後解鎖。"
+    },
+    {
+        "text": "GLYPH_SLOT_TOOLTIP6",
+        "enUS_retail": "Unlocked at level 80.",
+        "zhTW_retail": "達到80級後解鎖。",
+        "enUS": "Unlocked at level 60.",
+        "zhTW": "達到60級後解鎖。"
+    },
+    {
+        "text": "ITEM_SPELL_TRIGGER_ONPROC",
+        "enUS_retail": "Chance on hit:",
+        "zhTW_retail": "擊中時可能:",
+        "enUS": "Chance on physical hit:",
+        "zhTW": ""
+    }
+]

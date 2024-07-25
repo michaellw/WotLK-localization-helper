@@ -1,0 +1,65 @@
+[
+    {
+        "text": "DEFAULT_STAT5_TOOLTIP",
+        "enUS_retail": "Increases Health Regeneration by %d Per Second while not in combat",
+        "deDE_retail": "Regeneriert außerhalb des Kampfes %d Gesundheit pro Sekunde.",
+        "enUS": "Increases Health Regeneration by %d Per Second while not in combat.|nIncreases liklihood of Item and Enchant proc effects.",
+        "deDE": ""
+    },
+    {
+        "text": "ENTER_CODE",
+        "enUS_retail": "Please enter code:",
+        "deDE_retail": "Bitte Schlüssel eingeben:",
+        "enUS": "Please enter a value:",
+        "deDE": ""
+    },
+    {
+        "text": "ERR_INVALID_PROMOTION_CODE",
+        "enUS_retail": "Couldn't validate code, please try again.",
+        "deDE_retail": "Schlüssel konnte nicht überprüft werden. Bitte versuchen Sie es noch einmal.",
+        "enUS": "Couldn't validate value, please try again.",
+        "deDE": ""
+    },
+    {
+        "text": "ERR_ITEM_MAX_COUNT_EQUIPPED_SOCKETED",
+        "enUS_retail": "You have the maximum number of those gems socketed into equipped items.",
+        "deDE_retail": "Ihr habt bereits die maximal mögliche Anzahl dieser Edelsteine in Euren angelegten Gegenständen gesockelt.",
+        "enUS": "You have already equipped the maximum number of items of this type.",
+        "deDE": ""
+    },
+    {
+        "text": "GLYPH_SLOT_TOOLTIP3",
+        "enUS_retail": "Unlocked at level 50.",
+        "deDE_retail": "Wird mit Stufe 50 freigeschaltet.",
+        "enUS": "Unlocked at level 35.",
+        "deDE": "Wird mit Stufe 35 freigeschaltet."
+    },
+    {
+        "text": "GLYPH_SLOT_TOOLTIP4",
+        "enUS_retail": "Unlocked at level 30.",
+        "deDE_retail": "Wird mit Stufe 30 freigeschaltet.",
+        "enUS": "Unlocked at level 20.",
+        "deDE": "Wird mit Stufe 20 freigeschaltet."
+    },
+    {
+        "text": "GLYPH_SLOT_TOOLTIP5",
+        "enUS_retail": "Unlocked at level 70.",
+        "deDE_retail": "Wird mit Stufe 70 freigeschaltet.",
+        "enUS": "Unlocked at level 45.",
+        "deDE": "Wird mit Stufe 45 freigeschaltet."
+    },
+    {
+        "text": "GLYPH_SLOT_TOOLTIP6",
+        "enUS_retail": "Unlocked at level 80.",
+        "deDE_retail": "Wird mit Stufe 80 freigeschaltet.",
+        "enUS": "Unlocked at level 60.",
+        "deDE": "Wird mit Stufe 60 freigeschaltet."
+    },
+    {
+        "text": "ITEM_SPELL_TRIGGER_ONPROC",
+        "enUS_retail": "Chance on hit:",
+        "deDE_retail": "Trefferchance:",
+        "enUS": "Chance on physical hit:",
+        "deDE": ""
+    }
+]

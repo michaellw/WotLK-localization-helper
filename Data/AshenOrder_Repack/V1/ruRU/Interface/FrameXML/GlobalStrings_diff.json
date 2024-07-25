@@ -1,0 +1,65 @@
+[
+    {
+        "text": "DEFAULT_STAT5_TOOLTIP",
+        "enUS_retail": "Increases Health Regeneration by %d Per Second while not in combat",
+        "ruRU_retail": "Скорость восполнения здоровья увеличена на %d в секунду (вне боя).",
+        "enUS": "Increases Health Regeneration by %d Per Second while not in combat.|nIncreases liklihood of Item and Enchant proc effects.",
+        "ruRU": ""
+    },
+    {
+        "text": "ENTER_CODE",
+        "enUS_retail": "Please enter code:",
+        "ruRU_retail": "Пожалуйста, введите код:",
+        "enUS": "Please enter a value:",
+        "ruRU": ""
+    },
+    {
+        "text": "ERR_INVALID_PROMOTION_CODE",
+        "enUS_retail": "Couldn't validate code, please try again.",
+        "ruRU_retail": "Не удалось проверить код. Пожалуйста, попробуйте еще раз.",
+        "enUS": "Couldn't validate value, please try again.",
+        "ruRU": ""
+    },
+    {
+        "text": "ERR_ITEM_MAX_COUNT_EQUIPPED_SOCKETED",
+        "enUS_retail": "You have the maximum number of those gems socketed into equipped items.",
+        "ruRU_retail": "На предметах вашей экипировки уже имеется максимально возможное количество таких самоцветов.",
+        "enUS": "You have already equipped the maximum number of items of this type.",
+        "ruRU": ""
+    },
+    {
+        "text": "GLYPH_SLOT_TOOLTIP3",
+        "enUS_retail": "Unlocked at level 50.",
+        "ruRU_retail": "Требуется 50-й уровень",
+        "enUS": "Unlocked at level 35.",
+        "ruRU": "Требуется 35-й уровень"
+    },
+    {
+        "text": "GLYPH_SLOT_TOOLTIP4",
+        "enUS_retail": "Unlocked at level 30.",
+        "ruRU_retail": "Требуется 30-й уровень",
+        "enUS": "Unlocked at level 20.",
+        "ruRU": "Требуется 20-й уровень"
+    },
+    {
+        "text": "GLYPH_SLOT_TOOLTIP5",
+        "enUS_retail": "Unlocked at level 70.",
+        "ruRU_retail": "Требуется 70-й уровень",
+        "enUS": "Unlocked at level 45.",
+        "ruRU": "Требуется 45-й уровень"
+    },
+    {
+        "text": "GLYPH_SLOT_TOOLTIP6",
+        "enUS_retail": "Unlocked at level 80.",
+        "ruRU_retail": "Требуется 80-й уровень",
+        "enUS": "Unlocked at level 60.",
+        "ruRU": "Требуется 60-й уровень"
+    },
+    {
+        "text": "ITEM_SPELL_TRIGGER_ONPROC",
+        "enUS_retail": "Chance on hit:",
+        "ruRU_retail": "Возможный эффект при попадании:",
+        "enUS": "Chance on physical hit:",
+        "ruRU": ""
+    }
+]
