@@ -1,0 +1,325 @@
+ID,Name_lang,Cost_lang,OutOfError_lang,ToolTip_lang
+9,Test Power,%d Test Power,Not enough Test Power,
+10,Test Power,%d Test Power,Not enough Test Power,
+18,Lethality Meter,,,
+23,Sound Bar,Sound,You are undetected,How noisy you are being!
+24,Blight Sample,,,
+26,Digestive Acids,,,You are being digested by the stomach acids of Iso'rath!|n|nThe acid's strength increases over time - find shelter with nearby Earthen Ring shaman to heal yourself!
+29,Race Progress,What does this mean?,,
+30,Wave Progress,What does this mean?,,
+32,Wave Progress,What does this mean?,,
+33,Wave Progress,What does this mean?,,
+34,Alexstrasza's Power,,,
+35,Wave Progress,What does this mean?,,
+36,Warden Stillwater,What does this mean?,,The amount of life remaining until Warden Stillwater is defeated.
+37,Corrupted Blood,Corrupted Blood,Your blood is clean!,Causes:|n Corruption: Accelerated at 25%. |n Corruption: Sickness at 50% |n Corruption: Malformation at 75% |n Corruption: Absolute at 100%.
+39,Electrical Charge,Electricity,,Onyxia's current level of electrical charge. She will explode when fully charged.
+61,Chi,%d Chi,Not enouch chi,The energy your attacks have stored up.
+62,Rescue Progress,,,Stay near the stranded druid!
+63,Ritual Progress,,,Fight the elementals at the portal atop Nordune Ridge!
+64,Direction Gauge,Direction,,This is the direction that Lord Rhyolith is headed.
+65,Concentration,Concentration,Lost Concentration.,Your damage and healing increases as you concentrate on the task at hand. These bonuses are lost if you are hit by a hostile attack or spell.
+66,Rebel Camp Defended,,,Defend the Rebel Camp from the troll attackers!
+67,Grom'gol Defended,,,Defend Grom'gol Base Camp from the troll attackers!
+68,Protecting Thrall,,,Fight the elementals that threaten to tear Thrall apart!
+69,Protecting Thrall,,,Fight the elementals that threaten to tear Thrall apart!
+72,Protecting Thrall,,,Defeat the Twilight forces that threaten Thrall!
+78,Freeing Thrall,,,Activate the totems to free Thrall!
+80,Molten Feathers,Molten Feather,You have no molten feathers!,Number of Molten Feathers collected.
+83,Whack-a-Gnoll,,,Whack 'em good!
+84,Shooting Gallery,,,Shoot fast to earn more points!
+86,Steam Tonk Challenge,,,Ready to roll out!
+87,Vitality,,,Revive the wounded crewman before their Vitality hits zero.
+88,Ring Toss Challenge,,,Ring Toss
+89,Parachute Drop,,,Parachutes Remaining
+90,Sands of Time,Sands of Time,The hourglass has no sands remaining!,The number of times the Hourglass can turn back time.
+91,Empowering the Staff,,,Slay Ancient Spirits to empower Pei-Zhi's staff and interrupt the ritual!
+92,Balance,Balance,,Shows the balance of players standing on the left and right sides of Deathwing's spine. Deathwing will perform a barrel roll if he senses that all players are standing on the same side.
+93,Meditate,,,Find your center.
+94,To Bridge Earth and Sky,,,Keep the attackers off of Pei-Zhi while he conducts the ritual!
+95,Demonic Juice (Old),Demonic Juice (Old),You need more Fury to do that!,Consumed by abilities while in Metamorphosis.
+97,Clarity of Mind,Clarity,Your mental energies have not yet recharged,
+103,Mud Bar,,,How much mud you've got.
+104,Enter the Dream,Dreaming,Your mind has not yet recovered from your last Dream.,
+105,Counter Test,,,
+106,Fist Bar,,,Hit as hard as you can!
+107,Corrupted Blood,Corrupted Blood,,"Deathwing's Corrupted Blood is dealing increasing Fire damage the lower health he gets.  At 15, 10, and 5 percent health, Deathwing will Hemorrhage, doubling his Corrupted Blood."
+110,Static Charge,Static Charge,,Increases the effect (stun length and damage) of Lightning Boss' abilities. PH
+113,Hatred,Hatred,Zero Hatred.,Your hatred for the Sha increases gradually over time or when you are hit by one of its abilities.
+114,Hozen Disrupted,Hozen Disrupted,The Hozen Party is going at full force!,Number of Hozen partygoers disrupted.|n|nDisrupt the party to incur the wrath of Ook-Ook!
+115,Unstable Embers,Unstable Embers,You need more Unstable Embers.,Unstable Embers will empower your next Conflagrate or Soul Fire.
+116,Heat Level,Heat,,Counts the number of Corrupted Bloods absorbed by this Hideous Amalgamation.
+117,Shooting Gallery,,,Score 25 hits to win!
+129,Tonk Challenge,,,Score as many hits as possible!
+133,Whack-a-Gnoll,,,Whack 'em good!
+134,Blanche's Boomer Brew,,,Keep the Brewkegs from burning in order to brew Blanche's masterpiece.
+137,Survival Ring: Flame,,,Don't die.
+139,Survival Timer,,,Don't die.
+141,Spirit Shift Countdown,,,
+148,Cart Control,Cart Control,Lost Control,Control of the Cart is determined by the number of nearby Horde or Alliance players.
+149,Aysa's Meditation,,,Keep Aysa safe while she meditates.
+151,Shark Grip,,,Hold on to the shark!  Don't let her toss you off!
+158,The Healing of Shen-zin Su,,,Rescue and defend healers until Shen-zin Su's wound is healed.
+165,Hatred,,,Control your hatred by standing within Pools of Harmony!
+171,Spit Bar,,,How much spit you've got.
+175,Real Ultimate Power,Real Ultimate Power,You are too weak.,You absorb the raw power of the Sha as you slaughter them.
+176,Viscosity,Viscosity,Minimum Viscosity,The bar fills as the resin hardens. Jump to stop the resin from hardening!
+177,Bo's Jungle Brew,,,Collect brew from the pirate hozen inhabiting the island.
+178,Willpower,Willpower,Insufficient willpower!,"You struggle to retain control of your new form.  If willpower is exhausted, your consciousness will fade entirely...."
+179,Vu's Shade Bottle,,,How much shade you've got.
+183,Meditate,,,Find your center.
+195,Survival Ring: Blades,,,Don't die.
+199,Fist Bar,,,Hit as hard as you can!
+203,Cleansing the Pool of Life,,,Destroy the Sha surrounding the Pool of Life!
+204,Amethyst Petrification,Amethyst Petrification,Not enough Alternate Power,"You're being turned to Amethyst! If this process completes you will be unable to move or act.|n|nDuring this process your movement speed is gradually reduced, but all Shadow damage you take is reduced by 90%."
+205,Cobalt Petrification,Cobalt Petrification,Not enough Alternate Power,"You're being turned to Cobalt! If this process completes you will be unable to move or act.|n|nDuring this process your movement speed is gradually reduced, but all Frost damage you take is reduced by 90%."
+206,Jade Petrification,Jade Petrification,Not enough Alternate Power,"You're being turned to Jade! If this process completes you will be unable to move or act.|n|nDuring this process your movement speed is gradually reduced, but all Nature damage you take is reduced by 90%."
+207,Jasper Petrification,Jasper Petrification,Not enough Alternate Power,"You're being turned to Jasper! If this process completes you will be unable to move or act.|n|nDuring this process your movement speed is gradually reduced, but all Fire damage you take is reduced by 90%."
+213,Jinyu Defense,,,Construction Progress
+214,Fel Power,,,Absorb fel energy by killing nearby demons.
+216,Gnome Defense,,,Construction Progress
+220,Dwarf Defense,,,Construction Progress
+221,Pandaren Defenses,,,Construction Progress
+222,Anomaly Distance,,,
+223,Night Elf Defenses,,,Construction Progress
+229,Shooting Gallery,,,Shoot fast to earn more points!
+234,Capacitor Energy,,,
+237,Conduit Level,,,The Power Level of the Conduit.
+238,Conduit Power,Conduit Power,Conduit Power,The Power Level of the Conduit that is currently being charged by Lei Shen.
+240,Conduit Level,,,The Power Level of the Conduit.
+241,Conduit Level,,,The Power Level of the Conduit.
+242,Conduit Level,,,The Power Level of the Conduit.
+243,Troves of the Thunder King,,,Gold stolen from the Mogu so far this run.
+244,Charge Level,,,The Trillium bars are charging in a nearby mold.
+245,Smithing Progress,,,Celestial Blacksmith's progress on the Lightning Lance.
+247,Artifacts Collected,,,Race through the Big Blossom Mine to find as many artifacts as you can!
+248,Urtharges' Shield,,,Urtharges is empowered by a powerful shield.  You can kill lesser elementals to reduce his shield's power.
+253,Fury,,,The Warsong orc will become more dangerous as his fury rises.
+254,Aggression,,,"The Blackrock orc will behave more offensively as aggression increases, and more defensively as it decreases."
+257,Pride,Pride,You are humble.,"Causes the following effects when hit by Swelling Pride:
+ Bursting Pride at 25 Pride. 
+ Projection at 50 Pride.  
+ Aura of Pride at 75 Pride. 
+ Overcome at 100 Pride."
+258,Corruption,Corruption,You are Cleansed.,You are corrupt with Sha energies. Reducing your Corruption level will enable you to complete Norushen's trial.
+259,Defensive System Override Power,Defensive System Override Power,Defensive System Override Power,The amount energy in overriding the Defensive System.
+263,Garrosh's Energy,Garrosh's Energy,Garrosh's Energy,Garrosh is absorbing power from the Heart of Y'Shaarj.
+266,Tower Strength,,,Defeat defenders from this tower to reduce its strength.
+267,Defensive System Override Power,Defensive System Override Power,Defensive System Override Power,The amount energy in overriding the Defensive System.
+268,Corruption,Corruption,You are Cleansed.,You are corrupt with Sha energies. Reducing your Corruption level will enable you to complete Norushen's trial.
+271,Platonium Crystalcore Resonancy Void Attractor,,,Fill the meter with void energy by killing nearby Shadowmoon orcs.
+274,Freed Slaves,,,Number of slaves freed from Ogre captivity.
+280,Illona's Progress,,,Illona is shutting down the Iron Oiler. Protect her!
+281,Steam Power,Steam Power,Not Enough Fuel,Power Used to break rocks and walls.
+284,Heat Level,Fuel,Smoldering,The Heart of the Mountain will create more Blasts as it heats up.
+287,Rage,Fuel,Smoldering,
+290,Lumber Collected,,,Keep your peasants safe while they gather lumber.
+291,Victory Points,,,Determines your end reward.
+292,Warmup Period,Time,Not Warmed Up,Powering up the final bombardment sequence.
+293,Disposition,,,"Angered by distance from Ogron twin.
+Increases haste.
+Increases casting and channel haste."
+295,Mushroom Juice,,,Fill the jar with mushroom juice by squeezing Juicy Mushrooms in Bloodthorn Cave.
+296,K'ara's Energy,K'ara's Energy,K'ara's Energy,Defend K'ara!
+297,Vehicle Durability,,,
+298,Nullification Barrier,,,
+299,Victory Score,,,Determines your end reward.
+300,Materials,,,Your Garrison gains 1 Material every 10 minutes.
+303,Roar of the Crowd,Roar of the Crowd,Roar of the Crowd,The roar of the crowd empowers your attacks.
+304,Nullification Barrier,,,
+305,Nullification Barrier,,,
+306,Blackfuse Co. User Manual,Heat,,"Congratulations on your purchase of the BFC9000!
+
+WARNING: Use of this flamethrower unit will generate heat based on the duration that it is used. If this unit overheats, it must cool for at least 10 seconds before reuse.
+
+NO REFUNDS!"
+310,Bloodmaul Ogres Assaulted,,,Slay Bloodmaul Ogres and gather intelligence on their clan.
+312,Darktide Roost Assualted,,,Disrupt the Iron Horde's plans to subjugate the Rylaks of Darktide Roost.
+313,Operation: Skettis Ruins,,,Total morale of your currently freed Arakkoa Outcasts. Lead freed outcasts in battle against the High Arakkoa and then escort them safely to a Darkscryer on the outskirts of Skettis Ruins to advance your Operation: Skettis Ruins progress.
+314,Bar,,,
+317,Ammunition,Ammunition,Out of Ammo!,Ammunition used to power Iron Horde machinery.
+318,Void Attunement,,,Your time in the Twisting Nether is limited.  Leaving the relative safety of a reality bubble will cause your attunement to decay.
+319,Ritual Power,,,Empower the ritual by following High Ravenspeaker Krikka's instructions while in the Nest of the Ravenspeakers.
+320,The Essence of Flame,,,The Essence of Flame is slowly dying over time.
+321,Mar'gok's Increasing Boredom,,,Better get to killing!
+322,Fuel,Heat,,Fuel remaining.
+325,Treasure Goblin,,,Gold stolen from the Treasure Goblin so far.
+326,Total Time,,,Total time elapsed on the current race.
+329,Transponder Power,Transponder Power,Transponder Power,Absorb Storm Drake lightning attacks to charge the Transponder.
+330,Portal of the Doom Legion,,,Defeat demon forces to close the portal.
+331,Break the Illusion,,,Dispel the illusion.
+332,Spirits Defeated,,,Kill enemy assailants to break through their lines!
+335,Volatile Waste,,,Fill the containment unit with volatile waste from the wreck of the Black Rose.
+336,Fel Corruption,Fel Corruption,Fel Corruption,"When Fel Corruption is filled, you become a servant of the Burning Legion."
+337,Fel Corruption,Fel Corruption,Fel Corruption,
+338,Demon Stuff Destroyed,,,"Number of Anti-Demon Points Earned!
+
+This is Stand-In!"
+339,Defend the Skyfire,,,Slay Forsaken enemies and remove Volatile Flares from the Skyfire.
+342,Insanity,Insanity,You do not have enough Insanity.,Unlocks additional abilities as Insanity rises.
+343,Pool Proximity,,,The Fel Magnaron is closest to the Shadow Pool.
+344,Pool Proximity,,,The Fel Magnaron is closest to the Fiery Pool.
+345,Pool Proximity,,,The Fel Magnaron is closest to the Fel Pool.
+346,Corrupt Power,,,Corrupt Power is consumed to fuel powerful abilities.
+347,Maelstrom,Maelstrom,You need more Maelstrom,Used to power your abilities.
+348,Tempest,Tempest,You do not have enough Tempest.,Generated by Lightning Bolt.  Used to cast many of your spells.
+349,Power of the Blood Moon,Power of the Blood Moon,Power of the Blood Moon,Find and use Drained Blood Crystals on the Moon to weaken it!
+350,Assault the Skyfire,,,Slay Alliance enemies and place Volatile Flares on the Skyfire.
+351,Treasurefinding,,,How close you are to your target.
+352,Nightmare Torment [Visual PH],Nightmare Torment [Visual PH],Nightmare Torment [Visual PH],[Visual PH]The Nightmare is twisting your thoughts.
+353,Hozen Disrupted,Hozen Disrupted,The Hozen Party is going at full force!,"Number of Hozen partygoers disrupted.
+
+Disrupt the party to incur the wrath of Ook-Ook!"
+354,Nightmare Corruption,Nightmare Corruption,Nightmare Corruption,Nightmare Corruption twists your thoughts.
+355,Arcane Charge,Arcane Charge,You need more Arcane Charges,"An arcane charge, generated by Arcane Blast, Arcane Missiles, and Arcane Explosion, and consumed by Arcane Barrage and Evocation"
+358,Lunar Power,Lunar Power,You need more Lunar Power,Used to power your abilities.
+361,Aegis of Aggramar,,,
+362,Ley Energy,,,Infuse yourself with ley line energy found in the Murloc Shoals.
+365,Bloodstone,,,The Bloodstone must feed on the blood of demons.
+369,Corruption,Corruption,You are Cleansed.,"G'Hanir is oozing dark energy. If you become too corrupt you will awaken suddenly from the Emerald Dream!
+
+Your healing spells will reduce your corruption."
+370,Passage of Time,,,Indicates the difference in the passage of time from the norm.
+371,Unstable Holy Energy,Holy Wrath,,Gathered holy energy unleashed by Light's Wrath from within the Nexus Vault.
+376,Unstable Arcane Energy,Arcane Energy,,Gathered arcane energy unleashed by Aluneth from within the Nexus Vault.
+377,Hunger,,You are too hungry to continue.,You need to eat to survive.
+380,Brew Status,,,Complete the brew by following The Monkey King's instructions.
+381,Collected Ley Energy,Ley Energy,,Current Ley-Energy level. Race to successive Ley-Line nodes to charge your mana saber.
+384,Metamorphosis,,,Metamorphosis time remaining.
+387,Mortar Power,,,Shoot quickly before the power is drained!
+388,Time Remaining,,,Discover the mines before its too late!
+389,Time Remaining,,,Discover the mines before its too late!
+390,Time Remaining,,,Discover the mines before its too late!
+391,Time Remaining,,,Discover the mines before its too late!
+392,Mists of Helheim,,,"Helya's power grows, invoking the Fury of the Maw when full."
+393,Time Remaining,,,Time remaining to stop Thermaplugg!
+394,Time Remaining,,,Time remaining to stop Thermaplugg!
+395,Torment,Torment,Zero Torment.,Your torment at the hands of the Legion increases when you are struck by one of their abilities.
+399,Arcane Charge,,,Building Arcane energy to cast Expel Shadows.
+400,Fel Energy,,,Expend fel energy by doing damage to enemies.
+401,Aegis Power,,,Powering up the defense systems of the Tomb of Sargeras.
+404,Legion Assassin Targeting,Legion Threat,The Legion is not currently tracking you.,"Level of threat that you pose to the Legion. With more threat, assassins will be sent to kill you."
+405,Essence of the Red,Essence of the Red,,Gathered essence of the lost red dragon.
+408,Void Energy,Void Energy,Zero Energy.,Infused with Void energy while in this realm.
+410,Blackfuse Co. User Manual,Heat,,
+411,Blackfuse Co. User Manual,Heat,,
+414,Show Time,,,Make it good!
+415,Points,,,Score as many as possible. Do it with Style to reach higher scores!
+416,Akunda's Power,,,Gain Akunda's power by absorbing his Thunderous Strikes.
+417,Spirits Defeated,,,Kill enemy assailants to break through their lines!
+421,Titanic Essence,Titanic Essence,Not Enough Titanic Essence,"Power of the Titans, granted by absorbing damage as the Avatar of Aggramar."
+424,Life Energy,Life Energy,,"Defeat enemies to charge up Eonar's Life Energy.
+Eonar will cast Life Force when her Life Energy reaches 100."
+427,Soothe,Soothe,,You are soothing a gryphon. Fill the bar to tame the savage beast!
+428,Heartstopper,Heartstopper,Your heart has been stopped!,Movement causes the toxin to surge through your veins!
+430,Blackfuse Co. User Manual,Blight,,
+431,Footing,Footing,,Holding your ground on the upper spar. Knock your opponent off the side!
+432,Name,,,Tooltip
+433,Skycaller Staff Power,,,Build power in the skycaller staff by unleashing lightning upon the Sethrak!
+434,Energy Level,Energy,,This creature will gain energy while Galvanized. When this creatures reaches full energy it will cast Consume Charge and gain a stack of Capacitance.
+435,Energy Level,Energy,,"While Galvanized, you will gain energy.  When your energy level is full you can no longer be Galvanized."
+436,Gryphon Grip,,,Hold on to the Gryphon! Don't let it toss you off!
+437,Energy Level,Energy,,Gather Flowing Energy while avoiding the loose sparks. Coming into contact with any loose sparks will drain a portion of your collected energy and leaving the area of loose sparks will expel all collected energy.
+438,Bulwark Power,Bulwark Power,Bulwark Power,Absorb Lightning Orbs to refill Vorrik's Bulwark.
+439,Void Font,Energy,,Gather void essence by slaying enemies infected with Void.
+440,Infected Blood,Infected Blood,Infected Blood,
+541,Strain,Strain,Pushed to the Brink,"The terrors of this place assault your mind...
+Damaging abilities in the Forgotten Cove will apply Strain. If Strain reaches 100, then your resolve will be tested..."
+542,Azeroth's Life Force,Energy,,The Heart of Azeroth is empowering Azeroth's world soul.
+543,Combined Power,Power,,"As the fight progresses, the combined power of the combatants increases.  When their combined power reaches sufficient thresholds the combatants will unleash team attack."
+544,Putrid Power,Putrid Power,Insufficient Putrid Power!,Putrid Power fuels Abominable Enrage. Use Slurp to consume Putrid Slime and increase Putrid Power.
+545,Empowering Pollen,Empowering Pollen,Insufficient Empowering Pollen!,Empowering Pollen fuels Rapid Growth. Use Breathe Deep to consume Grove Spores and increase Empowering Pollen.
+546,Lunar Essence,Lunar Essence,Insufficient Lunar Essence!,Lunar Essence is required to cast Tranquil Moonlight and Serene Intervention. Gain more by casting Lunar Spit and Starshot on enemies.
+547,Forlorn Sorrow,Forlorn Sorrow,Insufficient Forlorn Sorrow!,Forlorn Sorrow is required to cast Pulse of the Undying and Strength of the Graveborn. Gain Forlorn Sorrow by casting Deathly Wail and Grave Eruption on enemies.
+548,Energizing Pollen,Energizing Pollen,Insufficient Energizing Pollen!,Energizing Pollen fuels Heart of Thorns. Use Verdant Spear to increase Energizing Pollen.
+549,Blood,Blood,Insufficient Blood!,Blood allows the Blood-Queen to fly for a short period of time.
+550,Hybridized Energy,Hybridized Energy,Insufficient Hybridized Energy!,Hybridized Energy fuels Nanocombustion. Use MEKA Buster to increase Hybridized Energy.
+551,Distance from Hidden Gob Squad,,,How far away you are from a member of the Gob Squad in hiding.
+552,Souls Gathered,Soul,,Gathered souls to feed Xal'atath to empower her.
+553,Azerite Vacuumizer,,,"This device holds any Azerite sucked out of the nearby Azerite mucks. 
+
+It's not built very well, so Azerite will flow out of it from time to ti me."
+554,Sanity,Sanity,Your mind is lost!,"The Visions and their denizens assault your Sanity.
+
+When your Sanity reaches 0, you can only revive if an ally donates their Sanity, through a Sanity Restoration Orb, or through Titanic evacuation."
+555,Everburning Fuel,,,Fill the fuel tank with Everburning Fuel from the Blazing Strand.
+556,Blizzard,Blizzard,Not enough power,"Must remain close to other players to avoid Freezing Blood.
+The number of players required increases as the blizzard intensifies."
+557,Drust Magic,Drust Magic,,Gathered Drust Magic.
+558,Drust Magic,Drust Magic,,Gathered Drust Magic.
+561,Tracing Progress,Tracing Progress,,Tracing shapes accurately increases your Tracing Progress.
+562,Fuse Timer,,,
+565,NRG-100 Cell Power,NRG-100 Cell Power,NRG-100 Cell Power,Defeat malfunctioning robots to drain their power.
+567,Guiding Light,,,This guiding light guards against horrific visions waiting in the darkness.
+568,Frozen Blood,Frozen Blood,Your blood freezes!,Standing still causes your blood to freeze.
+569,Venomous Blood,Venomous Blood,Toxins pump through your veins!,Moving causes the venom in your veins to pump faster.
+570,Balance,,,Maintain your balance between Might and Magic.
+572,Nullification Barrier,,,
+575,Energy Channeled,,,Ralia is channeling energy through you for a ritual.
+576,Choke Meter,,,"Eating sausage increases your choke, while drinking brew decreases it.
+
+Don't eat too fast or you will choke!"
+577,Pylon Durability,,,Mardivas's arcane trap is attempting to destabalize the pylon. Use its defenses to defeat the attackers before it is destroyed.
+578,Anima Forge Heat,Heat,,Heat coming from the anima forge.
+579,Defend the Location,,,
+580,Pressure,,,The weight of Loyalty presses down upon you.
+581,Resonance,Resonance,Not Resonating,Degree of resonance with the Bell of Purity.
+582,Sanity,,Your mind is lost!,"N'Zoth assaults your sanity throughout the encounter.
+
+When your sanity reaches 0, N'Zoth invades your mind fully, granting Gift of N'Zoth and eventually becoming a Servant of N'Zoth."
+585,Profit,Profit,,Reap the rewards of an ancient invasion.
+586,Sludge Portal Pump,,,Sends Congealed Sludge from Revendreth to the Brokers.
+588,Distance from a hidden Necrosentry,,,How far away you are from a hidden Necrotic Sentry.
+591,Siphoned Anima,Siphoned Anima,Siphoned Anima,Kill devourers to siphon their anima.
+592,Anima Stores,,,Displays the amount of anima you currently have access to.
+594,Runeblade Charge,,,Siphon the anima of enemies to charge your runeblade.
+595,Anima Charges,Anima Charges,,
+596,Anima Conflux,Anima Charge,The Anima Conflux is uncharged.,Drain anima from Necrotic Extractors to charge the Anima Conflux.
+599,Container Level,,,
+600,Alternate Power Bar Test B,,,
+601,Waystone Activating,,,The mysterious device is coming to life!
+602,Anima Acorn,,,"The amount of anima within one anima acorn.
+
+Fill it to receive a full acorn of anima!"
+603,Distance from missing stone fiend.,,,How far away you are from the missing stone fiend.
+604,Charge,,,Charging Bolvar's amulet. Kill mawsworn within the Cauldron to siphon their essence.
+605,Anima Conflux,Anima Charge,The Anima Conflux is uncharged.,Drain anima from devourers and fallen centurions to charge the Anima Conflux.
+606,Docility,,,"Displays the Docility of a Ravenous Devouerer. When depelted, the Ravenous Devourer will attack."
+607,Anima,Anima,,Filling the Inert Centurion Core with anima.
+608,Power Containment Module,,,Stored energy charges the Combat Nullifier 07-X.
+609,Soulseeker Crystal,,,Kill enemies in the House of Rituals to charge the Soulseeker Crystal.
+610,Allaying Crook,Anima,The Allaying Crook is uncharged.,Pacify anima-starved wildlife to charge the Allaying Crook.
+611,Experimental Fluid,,,
+612,Anima,Anima,,Filling the Colossal Core with anima.
+615,Manifested Torment,,,Coalesced energy of the suffering souls in the Maw.
+616,Applause,Applause,The crowd is displeased!,Don't lose the crowd!
+619,Flight Energy,,,
+622,Domination,,,Purge yourself before High Reaver Damaris can fully dominate you.
+625,Proximity to the Keystone Reactant,,,How close you are to the keystone reactant.
+627,Free Will,,,
+630,Core Temperature,,,"When this meter reaches full, the Vigilant Guardian will Expose its core to cool it back down."
+631,Vigor,Vigor,,"Skyriding abilities consume Vigor.
+Vigor recharges slowly while on the ground."
+632,Choking,,,You are choking on the airborne gasses released by insect nests.
+633,Targets Surveyed,,,
+636,Arcane Barrier,Arcane Energy,,Energy remaining in Khadgar's arcane barrier.
+640,Captured Energy,,,Energy collected from creatures within the Azure Archives.
+643,Irideus' Power Core,Attunement,,Attunement level.
+650,Vigor,Vigor,,Whelp abilities consume Vigor.
+653,Vanishing Egg Timer,,,Find them quick!
+657,Distance from an Attune Item,,,How far away you are from an Attune Item.
+659,Distance from an Attune Item,,,How far away you are from an Attune Item.
+661,Brew Delivered,,,Deliver enough brew to the Artisan's Market!
+670,Sargerite Shard,,,Measuring your distance from a source of man'ari magic.
+671,Tremorsense,,,Something is hearing you move. Stand still or on thick rocks to reduce detection.
+689,Candlelight,,,"Movement saps strength from the candlelight.
+
+When the candlelight reaches 0, you are no longer protected from the darkness."
+690,Power Detector,,,Measuring your distance from a battery...
+693,Storm Charge,,,Build charge with Lightning Bolt to cast Storm Blast.
+694,Distance from a hiding child,,,Howclose you are to a hidden Arathi child.
+698,Time left to Cook,,,Time until cooking is done.
+701,Harmony,Harmony,You are no longer in harmony with the vision!,"You are in harmony with Azeroth's vision.
+
+Defeat enemies to remain in harmony, or you will be removed from the vision."
+712,Kaheti Excavation,,,Every little kaheti pottery shard and chunk is worth collecting.

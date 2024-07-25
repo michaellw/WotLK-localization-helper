@@ -1,0 +1,2631 @@
+ID,Requirement_lang
+14,
+423,
+424,
+1950,
+1951,
+1952,
+1953,
+1954,
+1955,
+1956,
+1957,
+1958,
+1959,
+1960,
+1961,
+1962,
+1963,
+1964,
+1965,
+1966,
+1967,
+1968,
+1969,
+1970,
+1971,
+1972,
+1973,
+1974,
+1975,
+1976,
+1977,
+1978,
+1979,
+1980,
+1981,
+1982,
+1983,
+1984,
+1985,
+1986,
+1987,
+1988,
+1989,
+1990,
+1991,
+1992,
+1993,
+1994,
+1995,
+1996,
+1997,
+1998,
+1999,
+2000,
+2001,
+2002,
+2003,
+2004,
+2005,
+2006,
+2007,
+2008,
+2009,
+2010,
+2072,
+2073,
+2074,
+2075,
+2076,
+2077,
+2078,
+2079,
+2080,
+2081,
+2082,
+2083,
+2084,
+2085,
+2086,
+2087,
+2088,
+2089,
+2090,
+2091,
+2092,
+2093,
+2094,
+2095,
+2096,
+2097,
+2098,
+2099,
+2100,
+2101,
+2102,
+2103,
+2104,
+2105,
+2106,
+2107,
+2108,
+2109,
+2110,
+2111,
+2112,
+2113,
+2114,
+2115,
+2116,
+2117,
+2118,
+2119,
+2120,
+2121,
+2122,
+2123,
+2124,
+2125,
+2126,
+2127,
+2128,
+2129,
+2130,
+2131,
+2132,
+2438,
+2439,
+2440,
+2441,
+2442,
+2443,
+2444,
+2445,
+2446,
+2447,
+2448,
+2449,
+2450,
+2451,
+2452,
+2453,
+2454,
+2455,
+2456,
+2457,
+2458,
+2459,
+2460,
+2461,
+2462,
+2463,
+2464,
+2465,
+2466,
+2467,
+2468,
+2469,
+2470,
+2471,
+2472,
+2473,
+2474,
+2475,
+2476,
+2477,
+2478,
+2479,
+2480,
+2481,
+2482,
+2483,
+2484,
+2485,
+2486,
+2487,
+2488,
+2489,
+2490,
+2491,
+2492,
+2493,
+2494,
+2495,
+2496,
+2497,
+2498,
+2499,
+2500,
+2501,
+2502,
+2503,
+2504,
+2505,
+2506,
+2507,
+2508,
+2509,
+2510,
+2511,
+2512,
+2513,
+2514,
+2515,
+2516,
+2517,
+2518,
+2519,
+2520,
+2521,
+2522,
+2523,
+2524,
+2525,
+2526,
+2527,
+2528,
+2529,
+2530,
+2531,
+2532,
+2533,
+2534,
+2535,
+2536,
+2537,
+2538,
+2539,
+2540,
+2541,
+2542,
+2543,
+2544,
+2545,
+2546,
+2547,
+2548,
+2549,
+2550,
+2551,
+2552,
+2553,
+2554,
+2555,
+2556,
+2557,
+2558,
+2559,
+2560,
+2561,
+2562,
+2563,
+2564,
+2565,
+2566,
+2567,
+2568,
+2569,
+2570,
+2571,
+2572,
+2573,
+2574,
+2575,
+2576,
+2577,
+2578,
+2579,
+2580,
+2581,
+2582,
+2583,
+2584,
+2585,
+2586,
+2587,
+2588,
+2589,
+2590,
+2591,
+2592,
+2593,
+2594,
+2595,
+2596,
+2597,
+2598,
+2599,
+2600,
+2601,
+2602,
+2603,
+2604,
+2605,
+2606,
+2607,
+2608,
+2609,
+2610,
+2611,
+2612,
+2613,
+2614,
+2615,
+2616,
+2617,
+2618,
+2619,
+2620,
+2621,
+2622,
+2623,
+2624,
+2625,
+2626,
+2627,
+2628,
+2629,
+2630,
+2631,
+2632,
+2633,
+2634,
+2635,
+2636,
+2637,
+2638,
+2639,
+2640,
+2641,
+2642,
+2643,
+2644,
+2645,
+2646,
+2647,
+2648,
+2649,
+2650,
+2651,
+2652,
+2653,
+2654,
+2655,
+2656,
+2657,
+2658,
+2659,
+2660,
+2661,
+2662,
+2663,
+2664,
+2665,
+2666,
+2667,
+2668,
+2669,
+2670,
+2671,
+2672,
+2673,
+2674,
+2675,
+2676,
+2677,
+2678,
+2679,
+2680,
+2681,
+2987,
+2988,
+2989,
+2990,
+2991,
+2992,
+2993,
+2994,
+2995,
+2996,
+2997,
+2998,
+2999,
+3000,
+3001,
+3002,
+3003,
+3004,
+3005,
+3006,
+3007,
+3008,
+3009,
+3010,
+3011,
+3012,
+3013,
+3014,
+3015,
+3016,
+3017,
+3018,
+3019,
+3020,
+3021,
+3022,
+3023,
+3024,
+3025,
+3026,
+3027,
+3028,
+3029,
+3030,
+3031,
+3032,
+3033,
+3034,
+3035,
+3036,
+3037,
+3038,
+3039,
+3040,
+3041,
+3042,
+3043,
+3044,
+3045,
+3046,
+3047,
+3391,
+3392,
+3393,
+3394,
+3395,
+3396,
+3397,
+3398,
+3399,
+3400,
+3401,
+3402,
+3403,
+3404,
+3405,
+3406,
+3407,
+3408,
+3409,
+3410,
+3411,
+3412,
+3413,
+3414,
+3415,
+3416,
+3417,
+3418,
+3419,
+3420,
+3421,
+3422,
+3423,
+3424,
+3425,
+3426,
+3427,
+3428,
+3429,
+3430,
+3431,
+3432,
+3433,
+3434,
+3435,
+3436,
+3437,
+3438,
+3439,
+3440,
+3441,
+3442,
+3443,
+3444,
+3445,
+3446,
+3447,
+3448,
+3449,
+3450,
+3451,
+3863,Requires level 25 of Dragon Isles Enchanting to unlock a specialization.
+3864,Requires level 50 of Dragon Isles Enchanting to unlock an additional specialization.
+3865,Requires level 75 of Dragon Isles Enchanting to unlock an additional specialization.
+3866,Requires level 25 of Dragon Isles Engineering to unlock a specialization.
+3867,Requires level 50 of Dragon Isles Engineering to unlock an additional specialization.
+3868,Requires level 75 of Dragon Isles Engineering to unlock an additional specialization.
+3869,Requires level 25 of Dragon Isles Herbalism to unlock a specialization.
+3870,Requires level 50 of Dragon Isles Herbalism to unlock an additional specialization.
+3871,Requires level 75 of Dragon Isles Herbalism to unlock an additional specialization.
+3872,Requires level 25 of Dragon Isles Inscription to unlock a specialization.
+3873,Requires level 50 of Dragon Isles Inscription to unlock an additional specialization.
+3874,Requires level 75 of Dragon Isles Inscription to unlock an additional specialization.
+3875,Requires level 25 of Dragon Isles Jewelcrafting to unlock a specialization.
+3876,Requires level 60 of Dragon Isles Jewelcrafting to unlock an additional specialization.
+3877,Requires level 75 of Dragon Isles Jewelcrafting to unlock an additional specialization.
+3881,Requires level 25 of Dragon Isles Mining to unlock a specialization.
+3882,Requires level 50 of Dragon Isles Mining to unlock an additional specialization.
+3883,Requires level 75 of Dragon Isles Mining to unlock an additional specialization.
+3924,Requires level 25 of Dragon Isles Blacksmithing to unlock a specialization.
+3925,Requires level 50 of Dragon Isles Blacksmithing to unlock an additional specialization.
+3926,Requires level 75 of Dragon Isles Blacksmithing to unlock an additional specialization.
+4526,Requires level 75 of Dragon Isles Alchemy to unlock an additional specialization.
+4527,Requires level 50 of Dragon Isles Alchemy to unlock an additional specialization.
+4528,Requires level 25 of Dragon Isles Alchemy to unlock a specialization.
+5495,Requires 20 points in Potion Lore to unlock an additional sub-specialization.
+5496,Requires 10 points in Potion Lore to unlock an additional sub-specialization.
+5497,Requires 30 points in Potion Mastery to unlock an additional sub-specialization.
+5498,Requires 20 points in Potion Mastery to unlock an additional sub-specialization.
+5499,Requires 10 points in Potion Mastery to unlock an additional sub-specialization.
+5503,Requires 45 points in Alchemical Theory to unlock an additional sub-specialization.
+5504,Requires 35 points in Alchemical Theory to unlock an additional sub-specialization.
+5505,Requires 25 points in Alchemical Theory to unlock an additional sub-specialization.
+5506,Requires 15 points in Alchemical Theory to unlock an additional sub-specialization.
+5507,Requires 5 points in Alchemical Theory to unlock an additional sub-specialization.
+6342,Requires 20 |4point:points; in Phial Lore to learn an additional sub-specialization.
+6343,Requires 10 |4point:points; in Phial Lore to learn an additional sub-specialization.
+6344,Requires 30 |4point:points; in Phial Mastery to learn an additional sub-specialization.
+6345,Requires 20 |4point:points; in Phial Mastery to learn an additional sub-specialization.
+6346,Requires 10 |4point:points; in Phial Mastery to learn an additional sub-specialization.
+6623,Requires 20 |4point:points; in Hafted to learn an additional sub-specialization.
+6624,Requires 10 |4point:points; in Hafted to learn an additional sub-specialization.
+6625,Requires 20 |4point:points; in Blades to learn an additional sub-specialization.
+6626,Requires 10 |4point:points; in Blades to learn an additional sub-specialization.
+6627,Requires 30 |4point:points; in Weaponsmithing to learn an additional sub-specialization.
+6628,Requires 20 |4point:points; in Weaponsmithing to learn an additional sub-specialization.
+6629,Requires 10 |4point:points; in Weaponsmithing to learn an additional sub-specialization.
+6633,Requires 35 |4point:points; in Specialty Smithing to learn an additional sub-specialization.
+6635,Requires 15 |4point:points; in Specialty Smithing to learn an additional sub-specialization.
+6636,Requires 5 |4point:points; in Specialty Smithing to learn an additional sub-specialization.
+6647,Requires 30 |4point:points; in Fine Armor to learn an additional sub-specialization.
+6648,Requires 20 |4point:points; in Fine Armor to learn an additional sub-specialization.
+6649,Requires 10 |4point:points; in Fine Armor to learn an additional sub-specialization.
+6650,Requires 30 |4point:points; in Sculpted Armor to learn an additional sub-specialization.
+6651,Requires 20 |4point:points; in Sculpted Armor to learn an additional sub-specialization.
+6652,Requires 10 |4point:points; in Sculpted Armor to learn an additional sub-specialization.
+6653,Requires 30 |4point:points; in Large Plate Armor to learn an additional sub-specialization.
+6654,Requires 20 |4point:points; in Large Plate Armor to learn an additional sub-specialization.
+6655,Requires 10 |4point:points; in Large Plate Armor to learn an additional sub-specialization.
+6656,Requires 30 |4point:points; in Armorsmithing to learn an additional sub-specialization.
+6657,Requires 20 |4point:points; in Armorsmithing to learn an additional sub-specialization.
+6658,Requires 10 |4point:points; in Armorsmithing to learn an additional sub-specialization.
+9131,Requires 30 |4point:points; in Intricate Mail to learn an additional sub-specialization.
+9132,Requires 25 |4point:points; in Intricate Mail to learn an additional sub-specialization.
+9133,Requires 20 |4point:points; in Intricate Mail to learn an additional sub-specialization.
+9134,Requires 10 |4point:points; in Intricate Mail to learn an additional sub-specialization.
+9135,Requires 30 |4point:points; in Large Mail to learn an additional sub-specialization.
+9136,Requires 25 |4point:points; in Large Mail to learn an additional sub-specialization.
+9137,Requires 20 |4point:points; in Large Mail to learn an additional sub-specialization.
+9138,Requires 10 |4point:points; in Large Mail to learn an additional sub-specialization.
+9139,Requires 20 |4point:points; in Mail Armor Crafting to learn an additional sub-specialization.
+9140,Requires 10 |4point:points; in Mail Armor Crafting to learn an additional sub-specialization.
+9153,Requires 30 |4point:points; in Embroidered Leather Armor to learn an additional sub-specialization.
+9154,Requires 25 |4point:points; in Embroidered Leather Armor to learn an additional sub-specialization.
+9155,Requires 20 |4point:points; in Embroidered Leather Armor to learn an additional sub-specialization.
+9156,Requires 10 |4point:points; in Embroidered Leather Armor to learn an additional sub-specialization.
+9157,Requires 30 |4point:points; in Shaped Leather Armor to learn an additional sub-specialization.
+9158,Requires 25 |4point:points; in Shaped Leather Armor to learn an additional sub-specialization.
+9159,Requires 20 |4point:points; in Shaped Leather Armor to learn an additional sub-specialization.
+9160,Requires 10 |4point:points; in Shaped Leather Armor to learn an additional sub-specialization.
+9161,Requires 20 |4point:points; in Leather Armor Crafting to learn an additional sub-specialization.
+9162,Requires 10 |4point:points; in Leather Armor Crafting to learn an additional sub-specialization.
+9174,Requires 30 |4point:points; in Enterprising to learn an additional sub-specialization.
+9175,Requires 20 |4point:points; in Enterprising to learn an additional sub-specialization.
+9176,Requires 10 |4point:points; in Enterprising to learn an additional sub-specialization.
+9180,Requires 40 |4point:points; in Faceting to learn an additional sub-specialization.
+9181,Requires 30 |4point:points; in Faceting to learn an additional sub-specialization.
+9182,Requires 20 |4point:points; in Faceting to learn an additional sub-specialization.
+9183,Requires 10 |4point:points; in Faceting to learn an additional sub-specialization.
+9187,Requires 20 |4point:points; in Carving to learn an additional sub-specialization.
+9188,Requires 10 |4point:points; in Carving to learn an additional sub-specialization.
+9189,Requires 20 |4point:points; in Jewelry to learn an additional sub-specialization.
+9190,Requires 10 |4point:points; in Jewelry to learn an additional sub-specialization.
+9191,Requires 20 |4point:points; in Setting to learn an additional sub-specialization.
+9192,Requires 10 |4point:points; in Setting to learn an additional sub-specialization.
+10532,Requires 30 |4point:points; in Primordial Leatherworking to learn an additional sub-specialization.
+10533,Requires 20 |4point:points; in Primordial Leatherworking to learn an additional sub-specialization.
+10534,Requires 10 |4point:points; in Primordial Leatherworking to learn an additional sub-specialization.
+10539,Requires 30 |4point:points; in Leatherworking Discipline to learn an additional sub-specialization.
+10540,Requires 25 |4point:points; in Leatherworking Discipline to learn an additional sub-specialization.
+10541,Requires 15 |4point:points; in Leatherworking Discipline to learn an additional sub-specialization.
+10542,Requires 5 |4point:points; in Leatherworking Discipline to learn an additional sub-specialization.
+10543,Requires level 25 of Dragon Isles Leatherworking to unlock a specialization.
+10544,Requires level 50 of Dragon Isles Leatherworking to unlock an additional specialization.
+10545,Requires level 60 of Dragon Isles Leatherworking to unlock an additional specialization.
+10546,Requires level 75 of Dragon Isles Leatherworking to unlock an additional specialization.
+11977,Requires 25 |4point:points; in Tanning to learn an additional sub-specialization.
+11978,Requires 10 |4point:points; in Tanning to learn an additional sub-specialization.
+11982,Requires 35 |4point:points; in Harvesting to learn an additional sub-specialization.
+11983,Requires 25 |4point:points; in Harvesting to learn an additional sub-specialization.
+11984,Requires 10 |4point:points; in Harvesting to learn an additional sub-specialization.
+11988,Requires 25 |4point:points; in Bait Crafter to learn an additional sub-specialization.
+11989,Requires 10 |4point:points; in Bait Crafter to learn an additional sub-specialization.
+11990,Requires level 25 of Dragon Isles Skinning to unlock a specialization.
+11991,Requires level 50 of Dragon Isles Skinning to unlock an additional specialization.
+11992,Requires level 75 of Dragon Isles Skinning to unlock an additional specialization.
+12000,Requires 40 |4point:points; in Rune Mastery to learn an additional sub-specialization.
+12001,Requires 30 |4point:points; in Rune Mastery to learn an additional sub-specialization.
+12002,Requires 20 |4point:points; in Rune Mastery to learn an additional sub-specialization.
+12003,Requires 10 |4point:points; in Rune Mastery to learn an additional sub-specialization.
+12007,Requires 30 |4point:points; in Runic Scripture to learn an additional sub-specialization.
+12008,Requires 20 |4point:points; in Runic Scripture to learn an additional sub-specialization.
+12009,Requires 10 |4point:points; in Runic Scripture to learn an additional sub-specialization.
+12010,Requires 20 |4point:points; in Woodcarving to learn an additional sub-specialization.
+12011,Requires 10 |4point:points; in Woodcarving to learn an additional sub-specialization.
+12012,Requires 20 |4point:points; in Runebinding to learn an additional sub-specialization.
+12013,Requires 10 |4point:points; in Runebinding to learn an additional sub-specialization.
+14818,Requires 20 |4point:points; in Tailoring Mastery to learn an additional sub-specialization.
+14819,Requires 10 |4point:points; in Tailoring Mastery to learn an additional sub-specialization.
+14820,Requires 25 |4point:points; in Textiles to learn an additional sub-specialization.
+14821,Requires 15 |4point:points; in Textiles to learn an additional sub-specialization.
+14822,Requires 5 |4point:points; in Textiles to learn an additional sub-specialization.
+14826,Requires 15 |4point:points; in Chronocloth Tailoring to learn an additional sub-specialization.
+14827,Requires 15 |4point:points; in Azureweave Tailoring to learn an additional sub-specialization.
+14828,Requires 30 |4point:points; in Draconic Needlework to learn an additional sub-specialization.
+14829,You can learn a sub-specialization upon specializing in Draconic Needlework.
+14848,Requires 30 |4point:points; in Embellishments to learn an additional sub-specialization.
+14849,Requires 20 |4point:points; in Embellishments to learn an additional sub-specialization.
+14850,Requires 10 |4point:points; in Embellishments to learn an additional sub-specialization.
+14851,Requires 40 |4point:points; in Outerwear to learn an additional sub-specialization.
+14852,Requires 30 |4point:points; in Outerwear to learn an additional sub-specialization.
+14853,Requires 20 |4point:points; in Outerwear to learn an additional sub-specialization.
+14854,Requires 10 |4point:points; in Outerwear to learn an additional sub-specialization.
+14855,Requires 30 |4point:points; in Outfits to learn an additional sub-specialization.
+14856,Requires 10 |4point:points; in Outfits to learn an additional sub-specialization.
+14857,Requires 25 |4point:points; in Garmentcrafting to learn an additional sub-specialization.
+14858,Requires 15 |4point:points; in Garmentcrafting to learn an additional sub-specialization.
+14859,Requires 5 |4point:points; in Garmentcrafting to learn an additional sub-specialization.
+14860,Requires level 25 of Dragon Isles Tailoring to unlock a specialization.
+14861,Requires level 60 of Dragon Isles Tailoring to unlock an additional specialization.
+14862,Requires level 75 of Dragon Isles Tailoring to unlock an additional specialization.
+15859,Requires 20 |4point:points; in Hammer Control to learn an additional sub-specialization.
+15860,Requires 10 |4point:points; in Hammer Control to learn an additional sub-specialization.
+16028,Requires 20 |4point:points; in Scale Sigils to learn an additional sub-specialization.
+16029,Requires 15 |4point:points; in Scale Sigils to learn an additional sub-specialization.
+16030,Requires 10 |4point:points; in Scale Sigils to learn an additional sub-specialization.
+16031,Requires 5 |4point:points; in Scale Sigils to learn an additional sub-specialization.
+16032,You can learn a sub-specialization upon specializing in Scale Sigils.
+16033,Requires 20 |4point:points; in Shared Knowledge to learn an additional sub-specialization.
+16034,Requires 10 |4point:points; in Shared Knowledge to learn an additional sub-specialization.
+16035,Requires 40 |4point:points; in Darkmoon Mysteries to learn an additional sub-specialization.
+16036,Requires 30 |4point:points; in Darkmoon Mysteries to learn an additional sub-specialization.
+16037,Requires 20 |4point:points; in Darkmoon Mysteries to learn an additional sub-specialization.
+16038,Requires 10 |4point:points; in Darkmoon Mysteries to learn an additional sub-specialization.
+16040,Requires 30 |4point:points; in Archiving to learn an additional sub-specialization.
+16041,Requires 20 |4point:points; in Archiving to learn an additional sub-specialization.
+16042,Requires 10 |4point:points; in Archiving to learn an additional sub-specialization.
+16168,Requires 30 |4point:points; in Tailoring Mastery to learn an additional sub-specialization.
+19158,Requires 30 |4point:points; in Explosives to learn an additional sub-specialization.
+19159,Requires 15 |4point:points; in Explosives to learn an additional sub-specialization.
+19160,Requires 5 |4point:points; in Explosives to learn an additional sub-specialization.
+19164,Requires 30 |4point:points; in Function Over Form to learn an additional sub-specialization.
+19165,Requires 15 |4point:points; in Function Over Form to learn an additional sub-specialization.
+19166,Requires 5 |4point:points; in Function Over Form to learn an additional sub-specialization.
+19170,Requires 25 |4point:points; in Mechanical Mind to learn an additional sub-specialization.
+19171,Requires 10 |4point:points; in Mechanical Mind to learn an additional sub-specialization.
+19175,Requires 30 |4point:points; in Optimized Efficiency to learn an additional sub-specialization.
+19176,Requires 15 |4point:points; in Optimized Efficiency to learn an additional sub-specialization.
+19177,Requires 5 |4point:points; in Optimized Efficiency to learn an additional sub-specialization.
+21453,Requires 30 |4point:points; in Mining Process to learn an additional sub-specialization.
+21454,Requires 20 |4point:points; in Mining Process to learn an additional sub-specialization.
+21455,Requires 10 |4point:points; in Mining Process to learn an additional sub-specialization.
+21459,Requires 30 |4point:points; in Metallurgy to learn an additional sub-specialization.
+21460,Requires 10 |4point:points; in Metallurgy to learn an additional sub-specialization.
+21464,Requires 30 |4point:points; in Mastering the Elements to learn an additional sub-specialization.
+21465,Requires 20 |4point:points; in Mastering the Elements to learn an additional sub-specialization.
+21466,Requires 10 |4point:points; in Mastering the Elements to learn an additional sub-specialization.
+22313,Requires 35 |4point:points; in Mastering the Elements to learn an additional sub-specialization.
+22314,Requires 25 |4point:points; in Mastering the Elements to learn an additional sub-specialization.
+22315,Requires 15 |4point:points; in Mastering the Elements to learn an additional sub-specialization.
+22316,Requires 5 |4point:points; in Mastering the Elements to learn an additional sub-specialization.
+22320,Requires 30 |4point:points; in Botany to learn an additional sub-specialization.
+22321,Requires 10 |4point:points; in Botany to learn an additional sub-specialization.
+22325,Requires 35 |4point:points; in Bountiful Harvests to learn an additional sub-specialization.
+22326,Requires 25 |4point:points; in Bountiful Harvests to learn an additional sub-specialization.
+22327,Requires 15 |4point:points; in Bountiful Harvests to learn an additional sub-specialization.
+22328,Requires 5 |4point:points; in Bountiful Harvests to learn an additional sub-specialization.
+23186,
+23187,
+23188,
+23189,
+23190,
+23191,
+23192,
+23193,
+23194,
+23195,
+23196,
+23197,
+23198,
+23199,
+23200,
+23201,
+23202,
+23203,
+23204,
+23205,
+23206,
+23207,
+23208,
+23209,
+23210,
+23211,
+23212,
+23213,
+23214,
+23215,
+23216,
+23217,
+23218,
+23219,
+23220,
+23221,
+23222,
+23223,
+23224,
+23225,
+23226,
+23227,
+23228,
+23229,
+23230,
+23231,
+23232,
+23233,
+23234,
+23235,
+23236,
+23237,
+23238,
+23239,
+23240,
+23241,
+23242,
+23243,
+23244,
+23245,
+23246,
+23927,
+23928,
+23929,
+23930,
+23931,
+23932,
+23933,
+23934,
+23935,
+23936,
+23937,
+23938,
+23939,
+23940,
+23941,
+23942,
+23943,
+23944,
+23945,
+23946,
+23947,
+23948,
+23949,
+23950,
+23951,
+23952,
+23953,
+23954,
+23955,
+23956,
+23957,
+23958,
+23959,
+23960,
+23961,
+23962,
+23963,
+23964,
+23965,
+23966,
+23967,Requires 40 |4point:points; in Material Manipulation to learn an additional sub-specialization.
+23968,Requires 25 |4point:points; in Material Manipulation to learn an additional sub-specialization.
+23969,Requires 10 |4point:points; in Material Manipulation to learn an additional sub-specialization.
+23970,Requires 50 |4point:points; in Primal to learn an additional sub-specialization.
+23971,Requires 35 |4point:points; in Primal to learn an additional sub-specialization.
+23972,Requires 20 |4point:points; in Primal to learn an additional sub-specialization.
+23973,Requires 10 |4point:points; in Primal to learn an additional sub-specialization.
+23974,You can learn a sub-specialization upon specializing in Primal.
+23975,Requires 20 |4point:points; in Enchantment to learn an additional sub-specialization.
+23976,Requires 10 |4point:points; in Enchantment to learn an additional sub-specialization.
+25082,Requires 35 |4point:points; in Insight of the Blue to learn an additional sub-specialization.
+25083,Requires 10 |4point:points; in Insight of the Blue to learn an additional sub-specialization.
+25087,"Requires 40 |4point:points; in Rods, Runes, and Ruses to learn an additional sub-specialization."
+25088,"Requires 30 |4point:points; in Rods, Runes, and Ruses to learn an additional sub-specialization."
+25089,"Requires 20 |4point:points; in Rods, Runes, and Ruses to learn an additional sub-specialization."
+25090,"Requires 10 |4point:points; in Rods, Runes, and Ruses to learn an additional sub-specialization."
+25152,
+25153,
+25154,
+25155,
+25156,
+25157,
+25158,
+25159,
+25160,
+25161,
+25162,
+25163,
+25164,
+25165,
+25166,
+25167,
+25168,
+25169,
+25170,
+25171,
+25172,
+25173,
+25174,
+25175,
+25176,
+25177,
+25178,
+25179,
+25180,
+25181,
+25182,
+25183,
+25184,
+25185,
+25186,
+25187,
+25188,
+25189,
+25190,
+25191,
+25192,
+25193,
+25194,
+25195,
+25196,
+25197,
+25198,
+25199,
+25200,
+25201,
+25202,
+25203,
+25204,
+25205,
+25206,
+25207,
+25208,
+25209,
+25210,
+25211,
+25212,
+25703,Requires 40 |4point:points; in Mastering the Elements to learn an additional sub-specialization.
+26253,
+26254,
+26255,
+26256,
+26257,
+26258,
+26259,
+26260,
+26261,
+26262,
+26263,
+26264,
+26265,
+26266,
+26267,
+26268,
+26269,
+26270,
+26271,
+26272,
+26273,
+26274,
+26275,
+26276,
+26277,
+26278,
+26279,
+26280,
+26281,
+26282,
+26283,
+26284,
+26285,
+26286,
+26287,
+26288,
+26289,
+26290,
+26291,
+26292,
+26293,
+26294,
+26295,
+26296,
+26297,
+26298,
+26299,
+26300,
+26301,
+26302,
+26303,
+26304,
+26305,
+26306,
+26307,
+26308,
+26309,
+26310,
+26311,
+26312,
+26313,
+27723,
+27724,
+27725,
+27726,
+27727,
+27728,
+27729,
+27730,
+27731,
+27732,
+27733,
+27734,
+27735,
+27736,
+27737,
+27738,
+27739,
+27740,
+27741,
+27742,
+27743,
+27744,
+27745,
+27746,
+27747,
+27748,
+27749,
+27750,
+27751,
+27752,
+27753,
+27754,
+27755,
+27756,
+27757,
+27758,
+27759,
+27760,
+27761,
+27762,
+27763,
+27764,
+27765,
+27766,
+27767,
+27768,
+27769,
+27770,
+27771,
+27772,
+27773,
+27774,
+27775,
+27776,
+27777,
+27778,
+27779,
+27780,
+27781,
+27782,
+27783,
+29370,
+29371,
+29372,
+29373,
+29374,
+29375,
+29376,
+29377,
+29378,
+29379,
+29380,
+29381,
+29382,
+29383,
+29384,
+29385,
+29386,
+29387,
+29388,
+29389,
+29390,
+29391,
+29392,
+29393,
+29394,
+29395,
+29396,
+29397,
+29398,
+29399,
+29400,
+29401,
+29402,
+29403,
+29404,
+29405,
+29406,
+29407,
+29408,
+29409,
+29410,
+29411,
+29412,
+29413,
+29414,
+29415,
+29416,
+29417,
+29418,
+29419,
+29420,
+29421,
+29422,
+29423,
+29424,
+29425,
+29426,
+29427,
+29428,
+29429,
+29430,
+29431,Requires level 60 of Dragon Isles Blacksmithing to unlock an additional specialization.
+29432,Requires level 60 of Dragon Isles Engineering to unlock an additional specialization.
+29433,Requires level 50 of Dragon Isles Jewelcrafting to unlock an additional specialization.
+29434,Requires level 50 of Dragon Isles Tailoring to unlock an additional specialization.
+29559,Requires 10 |4point:points; in Jeweler's Toolset Mastery to learn an additional sub-specialization.
+29560,Requires 20 |4point:points; in Jeweler's Toolset Mastery to learn an additional sub-specialization.
+29701,
+29702,
+29703,
+29704,
+29705,
+29706,
+29707,
+29708,
+29892,
+29893,
+29894,
+29895,
+29922,
+29923,
+29924,
+29925,
+30014,
+30015,
+30016,
+30017,
+30018,
+30019,
+30020,
+30021,
+30022,
+30023,
+30024,
+30025,
+30026,
+30027,
+30028,
+30029,
+30030,
+30031,
+30032,
+30033,
+30034,
+30035,
+30036,
+30037,
+30038,
+30039,
+30040,
+30041,
+30042,
+30043,
+30044,
+30045,
+30046,
+30047,
+30048,
+30049,
+30050,
+30051,
+30052,
+30053,
+30054,
+30055,
+30056,
+30057,
+30058,
+30059,
+30060,
+30061,
+30062,
+30063,
+30064,
+30065,
+30066,
+30067,
+30068,
+30069,
+30070,
+30071,
+30072,
+30073,
+30074,
+32641,
+32642,
+32643,
+32644,
+32645,
+32646,
+32647,
+32648,
+32649,
+32650,
+32651,
+32652,
+32653,
+32654,
+32655,
+32656,
+32657,
+32658,
+32659,
+32660,
+32661,
+32662,
+32663,
+32664,
+32665,
+32666,
+32667,
+32668,
+32669,
+32670,
+32671,
+32672,
+32673,
+32674,
+32675,
+32676,
+32677,
+32678,
+32679,
+32680,
+32681,
+32682,
+32683,
+32684,
+32685,
+32686,
+32687,
+32688,
+32689,
+32690,
+32691,
+32692,
+32693,
+32694,
+32695,
+32696,
+32697,
+32698,
+32699,
+32700,
+32701,
+32763,
+32764,
+32765,
+32766,
+32767,
+32768,
+32769,
+32770,
+32771,
+32772,
+32773,
+32774,
+32775,
+32776,
+32777,
+32778,
+32779,
+32780,
+32781,
+32782,
+32783,
+32784,
+32785,
+32786,
+32787,
+32788,
+32789,
+32790,
+32791,
+32792,
+32793,
+32794,
+32795,
+32796,
+32797,
+32798,
+32799,
+32800,
+32801,
+32802,
+32803,
+32804,
+32805,
+32806,
+32807,
+32808,
+32809,
+32810,
+32811,
+32812,
+32813,
+32814,
+32815,
+32816,
+32817,
+32818,
+32819,
+32820,
+32821,
+32822,
+32823,
+32885,
+32886,
+32887,
+32888,
+32889,
+32890,
+32891,
+32892,
+32893,
+32894,
+32895,
+32896,
+32897,
+32898,
+32899,
+32900,
+32901,
+32902,
+32903,
+32904,
+32905,
+32906,
+32907,
+32908,
+32909,
+32910,
+32911,
+32912,
+32913,
+32914,
+32915,
+32916,
+32917,
+32918,
+32919,
+32920,
+32921,
+32922,
+32923,
+32924,
+32925,
+32926,
+32927,
+32928,
+32929,
+32930,
+32931,
+32932,
+32933,
+32934,
+32935,
+32936,
+32937,
+32938,
+32939,
+32940,
+32941,
+32942,
+32943,
+32944,
+32945,
+32946,You can learn a sub-specialization upon specializing in Cultivation.
+32947,Requires 10 |4point:points; in Cultivation to learn an additional sub-specialization.
+32948,Requires 20 |4point:points; in Cultivation to learn an additional sub-specialization.
+32949,Requires 30 |4point:points; in Cultivation to learn an additional sub-specialization.
+32950,Requires 40 |4point:points; in Cultivation to learn an additional sub-specialization.
+32951,You can learn a sub-specialization upon specializing in Cultivation.
+32952,Requires 10 |4point:points; in Cultivation to learn an additional sub-specialization.
+32953,Requires 20 |4point:points; in Cultivation to learn an additional sub-specialization.
+32954,Requires 30 |4point:points; in Cultivation to learn an additional sub-specialization.
+32955,Requires 40 |4point:points; in Cultivation to learn an additional sub-specialization.
+32956,You can learn a sub-specialization upon specializing in Conversance.
+32957,Requires 20 |4point:points; in Conversance to learn an additional sub-specialization.
+32958,Requires 40 |4point:points; in Conversance to learn an additional sub-specialization.
+32959,You can learn a sub-specialization upon specializing in Conversance.
+32960,Requires 20 |4point:points; in Conversance to learn an additional sub-specialization.
+32961,Requires 40 |4point:points; in Conversance to learn an additional sub-specialization.
+32962,Requires 40 |4point:points; in Botany to learn an additional sub-specialization.
+32963,Requires 40 |4point:points; in Botany to learn an additional sub-specialization.
+32964,Requires 30 |4point:points; in Sorting to learn an additional sub-specialization.
+32965,Requires 30 |4point:points; in Sorting to learn an additional sub-specialization.
+32966,Requires 30 |4point:points; in Industrialization to learn an additional sub-specialization.
+32967,Requires 30 |4point:points; in Industrialization to learn an additional sub-specialization.
+32968,Requires 30 |4point:points; in Surveying to learn an additional sub-specialization.
+32969,Requires 30 |4point:points; in Surveying to learn an additional sub-specialization.
+33336,You can learn a sub-specialization upon specializing in Magical Reinforcement.
+33337,Requires 20 |4point:points; in Magical Reinforcement to learn an additional sub-specialization.
+33338,Requires 30 |4point:points; in Magical Reinforcement to learn an additional sub-specialization.
+33342,You can learn a sub-specialization upon specializing in Artistry.
+33343,Requires 15 |4point:points; in Artistry to learn an additional sub-specialization.
+33344,Requires 30 |4point:points; in Artistry to learn an additional sub-specialization.
+33348,You can learn a sub-specialization upon specializing in Adaptive.
+33349,Requires 10 |4point:points; in Adaptive to learn an additional sub-specialization.
+33350,Requires 20 |4point:points; in Adaptive to learn an additional sub-specialization.
+33351,Requires 30 |4point:points; in Adaptive to learn an additional sub-specialization.
+33358,You can learn a sub-specialization upon specializing in Wafting.
+33359,Requires 10 |4point:points; in Wafting to learn an additional sub-specialization.
+33361,Requires 10 |4point:points; in Frozen to learn an additional sub-specialization.
+33362,You can learn a sub-specialization upon specializing in Frozen.
+33364,You can learn a sub-specialization upon specializing in Titanic.
+33365,Requires 10 |4point:points; in Titanic to learn an additional sub-specialization.
+33368,You can learn a sub-specialization upon specializing in Earthen.
+33369,Requires 10 |4point:points; in Earthen to learn an additional sub-specialization.
+33374,You can learn a sub-specialization upon specializing in Burning.
+33375,Requires 10 |4point:points; in Burning to learn an additional sub-specialization.
+33377,Requires 25 |4point:points; in Enchantment to learn an additional sub-specialization.
+33400,You can learn a sub-specialization upon specializing in Inspired Devotion.
+33401,Requires 10 |4point:points; in Inspired Devotion to learn an additional sub-specialization.
+33402,Requires 20 |4point:points; in Inspired Devotion to learn an additional sub-specialization.
+33403,Requires 30 |4point:points; in Inspired Devotion to learn an additional sub-specialization.
+33404,You can learn a sub-specialization upon specializing in Inspired Devotion.
+33405,Requires 10 |4point:points; in Inspired Devotion to learn an additional sub-specialization.
+33406,Requires 20 |4point:points; in Inspired Devotion to learn an additional sub-specialization.
+33407,Requires 30 |4point:points; in Inspired Devotion to learn an additional sub-specialization.
+33408,You can learn a sub-specialization upon specializing in Resourceful Writ.
+33409,Requires 10 |4point:points; in Resourceful Writ to learn an additional sub-specialization.
+33410,Requires 20 |4point:points; in Resourceful Writ to learn an additional sub-specialization.
+33411,Requires 30 |4point:points; in Resourceful Writ to learn an additional sub-specialization.
+33412,You can learn a sub-specialization upon specializing in Resourceful Writ.
+33413,Requires 10 |4point:points; in Resourceful Writ to learn an additional sub-specialization.
+33414,Requires 20 |4point:points; in Resourceful Writ to learn an additional sub-specialization.
+33415,Requires 30 |4point:points; in Resourceful Writ to learn an additional sub-specialization.
+33416,Requires 15 |4point:points; in Illusory Goods to learn an additional sub-specialization.
+33417,Requires 30 |4point:points; in Illusory Goods to learn an additional sub-specialization.
+33418,Requires 15 |4point:points; in Illusory Goods to learn an additional sub-specialization.
+33419,Requires 30 |4point:points; in Illusory Goods to learn an additional sub-specialization.
+33420,You can learn a sub-specialization upon specializing in Rods and Wands.
+33421,Requires 10 |4point:points; in Rods and Wands to learn an additional sub-specialization.
+33422,Requires 20 |4point:points; in Rods and Wands to learn an additional sub-specialization.
+33423,Requires 30 |4point:points; in Rods and Wands to learn an additional sub-specialization.
+33424,Requires 45 |4point:points; in Rods and Wands to learn an additional sub-specialization.
+33425,You can learn a sub-specialization upon specializing in Rods and Wands.
+33426,Requires 10 |4point:points; in Rods and Wands to learn an additional sub-specialization.
+33427,Requires 20 |4point:points; in Rods and Wands to learn an additional sub-specialization.
+33428,Requires 30 |4point:points; in Rods and Wands to learn an additional sub-specialization.
+33429,Requires 45 |4point:points; in Rods and Wands to learn an additional sub-specialization.
+33432,Requires 10 |4point:points; in Illusory Goods to learn an additional sub-specialization.
+33433,Requires 20 |4point:points; in Illusory Goods to learn an additional sub-specialization.
+33434,Requires 10 |4point:points; in Illusory Goods to learn an additional sub-specialization.
+33435,Requires 20 |4point:points; in Illusory Goods to learn an additional sub-specialization.
+33545,
+33546,
+33547,
+33548,
+33549,
+33550,
+33551,
+33552,
+33646,
+33647,
+33648,
+33649,
+33650,
+33651,
+33652,
+33653,
+33776,
+33777,
+33778,
+33779,
+33780,
+33781,
+33782,
+33783,
+33784,
+33785,
+33786,
+33787,
+33788,
+33789,
+33790,
+33791,
+33792,
+33793,
+33794,
+33795,
+33796,
+33797,
+33798,
+33799,
+33800,
+33801,
+33802,
+33803,
+33804,
+33805,
+33806,
+33807,
+33808,
+33809,
+33810,
+33811,
+33812,
+33813,
+33814,
+33815,
+33816,
+33817,
+33818,
+33819,
+33820,
+33821,
+33822,
+33823,
+33824,
+33825,
+33826,
+33827,
+33828,
+33829,
+33830,
+33831,
+33832,
+33833,
+33834,
+33835,
+33836,
+33898,
+33899,
+33900,
+33901,
+33902,
+33903,
+33904,
+33905,
+33906,
+33907,
+33908,
+33909,
+33910,
+33911,
+33912,
+33913,
+33914,
+33915,
+33916,
+33917,
+33918,
+33919,
+33920,
+33921,
+33922,
+33923,
+33924,
+33925,
+33926,
+33927,
+33928,
+33929,
+33930,
+33931,
+33932,
+33933,
+33934,
+33935,
+33936,
+33937,
+33938,
+33939,
+33940,
+33941,
+33942,
+33943,
+33944,
+33945,
+33946,
+33947,
+33948,
+33949,
+33950,
+33951,
+33952,
+33953,
+33954,
+33955,
+33956,
+33957,
+33958,
+34020,
+34021,
+34022,
+34023,
+34024,
+34025,
+34026,
+34027,
+34028,
+34029,
+34030,
+34031,
+34032,
+34033,
+34034,
+34035,
+34036,
+34037,
+34038,
+34039,
+34040,
+34041,
+34042,
+34043,
+34044,
+34045,
+34046,
+34047,
+34048,
+34049,
+34050,
+34051,
+34052,
+34053,
+34054,
+34055,
+34056,
+34057,
+34058,
+34059,
+34060,
+34061,
+34062,
+34063,
+34064,
+34065,
+34066,
+34067,
+34068,
+34069,
+34070,
+34071,
+34072,
+34073,
+34074,
+34075,
+34076,
+34077,
+34078,
+34079,
+34080,
+34142,
+34143,
+34144,
+34145,
+34146,
+34147,
+34148,
+34149,
+34150,
+34151,
+34152,
+34153,
+34154,
+34155,
+34156,
+34157,
+34158,
+34159,
+34160,
+34161,
+34162,
+34163,
+34164,
+34165,
+34166,
+34167,
+34168,
+34169,
+34170,
+34171,
+34172,
+34173,
+34174,
+34175,
+34176,
+34177,
+34178,
+34179,
+34180,
+34181,
+34182,
+34183,
+34184,
+34185,
+34186,
+34187,
+34188,
+34189,
+34190,
+34191,
+34192,
+34193,
+34194,
+34195,
+34196,
+34197,
+34198,
+34199,
+34200,
+34201,
+34202,
+34209,
+34210,
+34211,
+34215,
+34216,
+34217,
+34218,
+34219,
+34220,
+34221,
+34222,
+34223,
+34224,
+34225,
+34226,
+34227,
+34228,
+34229,
+34230,
+34231,
+34232,
+34233,
+34234,
+34235,
+34236,
+34237,
+34238,
+34239,
+34240,
+34241,
+34242,
+34243,
+34244,
+34245,
+34246,
+34247,
+34248,
+34249,
+34250,
+34251,
+34252,
+34253,
+34254,
+34255,
+34256,
+34257,
+34258,
+34259,
+34260,
+34261,
+34262,
+34263,
+34264,
+34265,
+34266,
+34267,
+34268,
+34269,
+34270,
+34271,
+34272,
+34273,
+34274,
+34275,
+34276,
+34277,
+34278,
+34279,
+34280,
+34281,
+34282,
+34283,
+34284,
+34285,
+34395,
+34396,
+34397,
+34398,
+34399,
+34400,
+34401,
+34402,
+34403,
+34404,
+34405,
+34406,
+34407,
+34408,
+34409,
+34410,
+34411,
+34412,
+34413,
+34414,
+34415,
+34416,
+34417,
+34418,
+34419,
+34420,
+34421,
+34422,
+34423,
+34424,
+34425,
+34426,
+34427,
+34428,
+34429,
+34430,
+34431,
+34432,
+34433,
+34434,
+34435,
+34436,
+34437,
+34438,
+34439,
+34440,
+34441,
+34442,
+34443,
+34444,
+34445,
+34446,
+34447,
+34448,
+34449,
+34450,
+34451,
+34452,
+34453,
+34454,
+34455,
+34456,
+34457,
+34458,
+34459,
+34460,
+34461,
+34462,
+34463,
+34464,
+34465,
+34466,
+34468,
+34469,
+34470,
+34471,
+34472,
+34473,
+34474,
+34475,
+34476,
+34477,
+34478,
+34479,
+34480,
+34481,
+34482,
+34483,
+34485,
+34486,
+34487,
+34488,
+34489,
+34490,
+34491,
+34492,
+34493,
+34494,
+34497,
+34498,
+34499,
+34500,
+34501,
+34502,
+34503,
+34504,
+34505,
+34506,
+34507,
+34508,
+34509,
+34510,
+34511,
+34512,
+34513,
+34514,
+34515,
+34516,
+34517,
+34518,
+34519,
+34520,
+34521,
+34522,
+34523,
+34524,
+34525,
+34526,
+34527,
+34528,
+34529,
+34530,
+34531,
+34532,
+34533,
+34534,
+34535,
+34536,
+34537,
+34538,
+34539,
+34541,
+34542,
+34543,
+34544,
+34545,
+34546,
+34547,
+34548,
+34549,
+34550,
+34551,
+34552,
+34553,
+34554,
+34555,
+34556,
+34557,
+34558,
+34559,
+34560,
+34563,Requires 10 |4point:points; in Botany to learn an additional sub-specialization.
+34564,Requires 30 |4point:points; in Botany to learn an additional sub-specialization.
+34565,Requires 5 |4point:points; in Overloading the Underground to learn an additional sub-specialization.
+34566,Requires 15 |4point:points; in Overloading the Underground to learn an additional sub-specialization.
+34567,Requires 25 |4point:points; in Overloading the Underground to learn an additional sub-specialization.
+34568,Requires 35 |4point:points; in Overloading the Underground to learn an additional sub-specialization.
+34569,Requires 5 |4point:points; in Bountiful Harvests to learn an additional sub-specialization.
+34570,Requires 15 |4point:points; in Bountiful Harvests to learn an additional sub-specialization.
+34571,Requires 25 |4point:points; in Bountiful Harvests to learn an additional sub-specialization.
+34572,Requires 35 |4point:points; in Bountiful Harvests to learn an additional sub-specialization.
+34573,Requires 40 |4point:points; in Bountiful Harvests to learn an additional sub-specialization.
+34574,Requires level 25 of Khaz Algar Alchemy to unlock a specialization.
+34575,Requires level 50 of Khaz Algar Alchemy to unlock an additional specialization.
+34576,Requires level 75 of Khaz Algar Alchemy to unlock an additional specialization.
+34577,Requires level 100 of Khaz Algar Alchemy to unlock an additional specialization.
+34578,Requires level 25 of Khaz Algar Blacksmithing to unlock a specialization.
+34579,Requires level 50 of Khaz Algar Blacksmithing to unlock an additional specialization.
+34580,Requires level 75 of Khaz Algar Blacksmithing to unlock an additional specialization.
+34581,Requires level 100 of Khaz Algar Blacksmithing to unlock an additional specialization.
+34582,Requires level 25 of Khaz Algar Enchanting to unlock a specialization.
+34583,Requires level 50 of Khaz Algar Enchanting to unlock an additional specialization.
+34584,Requires level 75 of Khaz Algar Enchanting to unlock an additional specialization.
+34585,Requires level 100 of Khaz Algar Enchanting to unlock an additional specialization.
+34586,Requires level 25 of Khaz Algar Engineering to unlock a specialization.
+34587,Requires level 50 of Khaz Algar Engineering to unlock an additional specialization.
+34588,Requires level 75 of Khaz Algar Engineering to unlock an additional specialization.
+34589,Requires level 100 of Khaz Algar Engineering to unlock an additional specialization.
+34590,Requires level 25 of Khaz Algar Herbalism to unlock a specialization.
+34591,Requires level 50 of Khaz Algar Herbalism to unlock an additional specialization.
+34592,Requires level 75 of Khaz Algar Herbalism to unlock an additional specialization.
+34593,Requires level 100 of Khaz Algar Herbalism to unlock an additional specialization.
+34594,Requires level 25 of Khaz Algar Inscription to unlock a specialization.
+34595,Requires level 50 of Khaz Algar Inscription to unlock an additional specialization.
+34596,Requires level 75 of Khaz Algar Inscription to unlock an additional specialization.
+34597,Requires level 100 of Khaz Algar Inscription to unlock an additional specialization.
+34598,Requires level 25 of Khaz Algar Jewelcrafting to unlock a specialization.
+34599,Requires level 50 of Khaz Algar Jewelcrafting to unlock an additional specialization.
+34600,Requires level 75 of Khaz Algar Jewelcrafting to unlock an additional specialization.
+34601,Requires level 100 of Khaz Algar Jewelcrafting to unlock an additional specialization.
+34602,Requires level 25 of Khaz Algar Leatherworking to unlock a specialization.
+34603,Requires level 50 of Khaz Algar Leatherworking to unlock an additional specialization.
+34604,Requires level 75 of Khaz Algar Leatherworking to unlock an additional specialization.
+34605,Requires level 100 of Khaz Algar Leatherworking to unlock an additional specialization.
+34606,Requires level 25 of Khaz Algar Mining to unlock a specialization.
+34607,Requires level 50 of Khaz Algar Mining to unlock an additional specialization.
+34608,Requires level 75 of Khaz Algar Mining to unlock an additional specialization.
+34609,Requires level 100 of Khaz Algar Mining to unlock an additional specialization.
+34610,Requires level 25 of Khaz Algar Skinning to unlock a specialization.
+34611,Requires level 50 of Khaz Algar Skinning to unlock an additional specialization.
+34612,Requires level 75 of Khaz Algar Skinning to unlock an additional specialization.
+34613,Requires level 100 of Khaz Algar Skinning to unlock an additional specialization.
+34614,Requires level 25 of Khaz Algar Tailoring to unlock a specialization.
+34615,Requires level 50 of Khaz Algar Tailoring to unlock an additional specialization.
+34616,Requires level 75 of Khaz Algar Tailoring to unlock an additional specialization.
+34617,Requires level 100 of Khaz Algar Tailoring to unlock an additional specialization.
+34644,Requires 10 |4point:points; in Harvesting to learn an additional sub-specialization.
+34645,Requires 20 |4point:points; in Harvesting to learn an additional sub-specialization.
+34646,Requires 30 |4point:points; in Harvesting to learn an additional sub-specialization.
+34647,Requires 10 |4point:points; in Luring to learn an additional sub-specialization.
+34648,Requires 30 |4point:points; in Luring to learn an additional sub-specialization.
+34649,Requires 10 |4point:points; in Tanning to learn an additional sub-specialization.
+34650,Requires 30 |4point:points; in Tanning to learn an additional sub-specialization.
+34651,
+34652,
+34653,
+34654,
+34655,
+34656,
+34657,
+34658,
+34659,
+34660,
+34661,
+34662,
+34663,
+34664,
+34665,
+34666,
+34667,
+34668,
+34669,
+34670,
+34671,
+34672,
+34673,
+34674,
+34675,
+34676,
+34677,
+34678,
+34679,
+34680,
+34681,
+34682,
+34683,
+34684,
+34685,
+34686,
+34687,
+34688,
+34689,
+34690,
+34691,
+34692,
+34693,
+34694,
+34695,
+34696,
+34697,
+34698,
+34699,
+34700,
+34701,
+34702,
+34703,
+34778,Requires 10 |4point:points; in Flawless Fortes to learn an additional sub-specialization.
+34779,Requires 25 |4point:points; in Flawless Fortes to learn an additional sub-specialization.
+34780,Requires 30 |4point:points; in Flawless Fortes to learn an additional sub-specialization.
+34784,Requires 5 |4point:points; in Learned Leatherworker to learn an additional sub-specialization.
+34785,Requires 15 |4point:points; in Learned Leatherworker to learn an additional sub-specialization.
+34786,Requires 25 |4point:points; in Learned Leatherworker to learn an additional sub-specialization.
+34787,Requires 10 |4point:points; in Embroidered Leather Armor to learn an additional sub-specialization.
+34788,Requires 20 |4point:points; in Embroidered Leather Armor to learn an additional sub-specialization.
+34789,Requires 25 |4point:points; in Embroidered Leather Armor to learn an additional sub-specialization.
+34790,Requires 30 |4point:points; in Embroidered Leather Armor to learn an additional sub-specialization.
+34791,Requires 10 |4point:points; in Shaped Leather Armor to learn an additional sub-specialization.
+34792,Requires 20 |4point:points; in Shaped Leather Armor to learn an additional sub-specialization.
+34793,Requires 25 |4point:points; in Shaped Leather Armor to learn an additional sub-specialization.
+34794,Requires 30 |4point:points; in Shaped Leather Armor to learn an additional sub-specialization.
+34795,Requires 10 |4point:points; in Luxurious Leathers to learn an additional sub-specialization.
+34796,Requires 20 |4point:points; in Luxurious Leathers to learn an additional sub-specialization.
+34797,Requires 10 |4point:points; in Intricate Chitin to learn an additional sub-specialization.
+34798,Requires 20 |4point:points; in Intricate Chitin to learn an additional sub-specialization.
+34799,Requires 25 |4point:points; in Intricate Chitin to learn an additional sub-specialization.
+34800,Requires 30 |4point:points; in Intricate Chitin to learn an additional sub-specialization.
+34801,Requires 10 |4point:points; in Large Chitin to learn an additional sub-specialization.
+34802,Requires 20 |4point:points; in Large Chitin to learn an additional sub-specialization.
+34803,Requires 25 |4point:points; in Large Chitin to learn an additional sub-specialization.
+34804,Requires 30 |4point:points; in Large Chitin to learn an additional sub-specialization.
+34805,Requires 10 |4point:points; in Concrete Chitin to learn an additional sub-specialization.
+34806,Requires 20 |4point:points; in Concrete Chitin to learn an additional sub-specialization.
+34876,Requires 10 |4point:points; in Jewelrycrafting to learn an additional sub-specialization.
+34926,You can learn a sub-specialization upon specializing in Sapphire.
+34927,Requires 10 |4point:points; in Sapphire to learn an additional sub-specialization.
+34928,Requires 20 |4point:points; in Sapphire to learn an additional sub-specialization.
+34929,You can learn a sub-specialization upon specializing in Ruby.
+34930,Requires 10 |4point:points; in Ruby to learn an additional sub-specialization.
+34931,Requires 20 |4point:points; in Ruby to learn an additional sub-specialization.
+34932,You can learn a sub-specialization upon specializing in Onyx.
+34933,Requires 10 |4point:points; in Onyx to learn an additional sub-specialization.
+34934,Requires 20 |4point:points; in Onyx to learn an additional sub-specialization.
+34935,You can learn a sub-specialization upon specializing in Emerald.
+34936,Requires 10 |4point:points; in Emerald to learn an additional sub-specialization.
+34937,Requires 20 |4point:points; in Emerald to learn an additional sub-specialization.
+34938,Requires 10 |4point:points; in Gemcutting to learn an additional sub-specialization.
+34939,Requires 20 |4point:points; in Gemcutting to learn an additional sub-specialization.
+34940,Requires 30 |4point:points; in Gemcutting to learn an additional sub-specialization.
+34941,Requires 40 |4point:points; in Gemcutting to learn an additional sub-specialization.
+34942,Requires 5 |4point:points; in Gem Finding to learn an additional sub-specialization.
+34943,Requires 15 |4point:points; in Gem Finding to learn an additional sub-specialization.
+34944,Requires 25 |4point:points; in Gem Finding to learn an additional sub-specialization.
+34945,Requires 35 |4point:points; in Gem Finding to learn an additional sub-specialization.
+34946,Requires 10 |4point:points; in Shaping to learn an additional sub-specialization.
+34947,Requires 20 |4point:points; in Shaping to learn an additional sub-specialization.
+34948,Requires 30 |4point:points; in Shaping to learn an additional sub-specialization.
+34949,
+34950,
+34951,
+34952,
+34953,
+34954,
+34978,Requires 10 |4point:points; in Fantastic Flasks to learn an additional sub-specialization.
+34979,Requires 20 |4point:points; in Fantastic Flasks to learn an additional sub-specialization.
+34990,
+34991,
+34992,
+34993,
+34994,
+34995,
+34996,
+34997,
+34998,
+34999,
+35000,
+35001,
+35002,
+35003,
+35004,
+35005,
+35006,
+35007,
+35008,
+35009,
+35010,
+35011,
+35012,
+35013,
+35014,
+35015,
+35016,
+35017,
+35018,
+35019,
+35020,Requires 10 |4point:points; in Fine Armor to learn an additional sub-specialization.
+35021,Requires 20 |4point:points; in Fine Armor to learn an additional sub-specialization.
+35022,Requires 30 |4point:points; in Fine Armor to learn an additional sub-specialization.
+35023,Requires 10 |4point:points; in Sculpted Armor to learn an additional sub-specialization.
+35024,Requires 20 |4point:points; in Sculpted Armor to learn an additional sub-specialization.
+35025,Requires 30 |4point:points; in Sculpted Armor to learn an additional sub-specialization.
+35026,Requires 10 |4point:points; in Large Plate Armor to learn an additional sub-specialization.
+35027,Requires 20 |4point:points; in Large Plate Armor to learn an additional sub-specialization.
+35028,Requires 30 |4point:points; in Large Plate Armor to learn an additional sub-specialization.
+35031,Requires 30 |4point:points; in Armorsmithing to learn an additional sub-specialization.
+35032,Requires 10 |4point:points; in Everburning Forge to learn an additional sub-specialization.
+35033,Requires 20 |4point:points; in Everburning Forge to learn an additional sub-specialization.
+35034,Requires 30 |4point:points; in Everburning Forge to learn an additional sub-specialization.
+35053,Requires 10 |4point:points; in Hafted to learn an additional sub-specialization.
+35054,Requires 20 |4point:points; in Hafted to learn an additional sub-specialization.
+35055,Requires 10 |4point:points; in Blades to learn an additional sub-specialization.
+35056,Requires 20 |4point:points; in Blades to learn an additional sub-specialization.
+35072,Requires 10 |4point:points; in Tools of the Trade to learn an additional sub-specialization.
+35073,Requires 30 |4point:points; in Tools of the Trade to learn an additional sub-specialization.
+35074,Requires 10 |4point:points; in Means of Production to learn an additional sub-specialization.
+35075,Requires 20 |4point:points; in Means of Production to learn an additional sub-specialization.
+35076,Requires 30 |4point:points; in Means of Production to learn an additional sub-specialization.
+35077,You can learn a sub-specialization upon specializing in Runic Research.
+35078,Requires 10 |4point:points; in Runic Research to learn an additional sub-specialization.
+35079,Requires 20 |4point:points; in Runic Research to learn an additional sub-specialization.
+35080,Requires 30 |4point:points; in Runic Research to learn an additional sub-specialization.
+35081,You can learn a sub-specialization upon specializing in Cryptic Collection.
+35082,Requires 10 |4point:points; in Cryptic Collection to learn an additional sub-specialization.
+35083,Requires 20 |4point:points; in Cryptic Collection to learn an additional sub-specialization.
+35084,Requires 30 |4point:points; in Cryptic Collection to learn an additional sub-specialization.
+35085,You can learn a sub-specialization upon specializing in Archival Additions.
+35086,Requires 10 |4point:points; in Archival Additions to learn an additional sub-specialization.
+35087,You can learn a sub-specialization upon specializing in Polished Production.
+35088,Requires 10 |4point:points; in Polished Production to learn an additional sub-specialization.
+35089,Requires 20 |4point:points; in Polished Production to learn an additional sub-specialization.
+35090,You can learn a sub-specialization upon specializing in Combative Curiosities.
+35091,Requires 10 |4point:points; in Combative Curiosities to learn an additional sub-specialization.
+35092,Requires 20 |4point:points; in Combative Curiosities to learn an additional sub-specialization.
+35093,You can learn a sub-specialization upon specializing in Careful Carvings.
+35094,Requires 10 |4point:points; in Careful Carvings to learn an additional sub-specialization.
+35095,You can learn a sub-specialization upon specializing in Pursuit of Knowledge.
+35096,Requires 10 |4point:points; in Pursuit of Knowledge to learn an additional sub-specialization.
+35097,Requires 20 |4point:points; in Pursuit of Knowledge to learn an additional sub-specialization.
+35098,You can learn a sub-specialization upon specializing in Pursuit of Perfection.
+35099,Requires 10 |4point:points; in Pursuit of Perfection to learn an additional sub-specialization.
+35100,Requires 20 |4point:points; in Pursuit of Perfection to learn an additional sub-specialization.
+35101,
+35102,Requires 15 |4point:points; in Flawless Fortes to learn an additional sub-specialization.
+35103,Requires 20 |4point:points; in Flawless Fortes to learn an additional sub-specialization.
+35106,Requires 5 |4point:points; in Designated Disenchanter to learn an additional sub-specialization.
+35107,Requires 15 |4point:points; in Designated Disenchanter to learn an additional sub-specialization.
+35108,Requires 25 |4point:points; in Designated Disenchanter to learn an additional sub-specialization.
+35109,Requires 10 |4point:points; in Material Maestro to learn an additional sub-specialization.
+35110,Requires 20 |4point:points; in Material Maestro to learn an additional sub-specialization.
+35111,Requires 10 |4point:points; in Exquisite Equipment to learn an additional sub-specialization.
+35112,Requires 20 |4point:points; in Exquisite Equipment to learn an additional sub-specialization.
+35113,"Requires 5 |4point:points; in Ephemerals, Enrichments, and Equipment to learn an additional sub-specialization."
+35114,"Requires 15 |4point:points; in Ephemerals, Enrichments, and Equipment to learn an additional sub-specialization."
+35115,"Requires 25 |4point:points; in Ephemerals, Enrichments, and Equipment to learn an additional sub-specialization."
+35116,Requires 10 |4point:points; in Nerubian Novelties to learn an additional sub-specialization.
+35117,Requires 20 |4point:points; in Nerubian Novelties to learn an additional sub-specialization.
+35118,Requires 10 |4point:points; in Arathor Alterations to learn an additional sub-specialization.
+35119,Requires 20 |4point:points; in Arathor Alterations to learn an additional sub-specialization.
+35120,Requires 10 |4point:points; in Earthen Enhancements to learn an additional sub-specialization.
+35121,Requires 15 |4point:points; in Earthen Enhancements to learn an additional sub-specialization.
+35122,Requires 20 |4point:points; in Earthen Enhancements to learn an additional sub-specialization.
+35123,Requires 5 |4point:points; in Everlasting Enchantments to learn an additional sub-specialization.
+35124,Requires 15 |4point:points; in Everlasting Enchantments to learn an additional sub-specialization.
+35125,Requires 25 |4point:points; in Everlasting Enchantments to learn an additional sub-specialization.
+35126,Requires 5 |4point:points; in Supplementary Shattering to learn an additional sub-specialization.
+35127,Requires 15 |4point:points; in Supplementary Shattering to learn an additional sub-specialization.
+35128,Requires 25 |4point:points; in Supplementary Shattering to learn an additional sub-specialization.
+35129,Requires 10 |4point:points; in Plethora of Ore to learn an additional sub-specialization.
+35130,Requires 25 |4point:points; in Plethora of Ore to learn an additional sub-specialization.
+35131,Requires 40 |4point:points; in Plethora of Ore to learn an additional sub-specialization.
+35132,Requires 10 |4point:points; in Mastering the Mysterious to learn an additional sub-specialization.
+35133,Requires 20 |4point:points; in Mastering the Mysterious to learn an additional sub-specialization.
+35134,Requires 30 |4point:points; in Mastering the Mysterious to learn an additional sub-specialization.
+35135,Requires 40 |4point:points; in Mastering the Mysterious to learn an additional sub-specialization.
+35136,Requires 20 |4point:points; in Mining Fundamentals to learn an additional sub-specialization.
+35137,Requires 40 |4point:points; in Mining Fundamentals to learn an additional sub-specialization.
+35149,Requires 10 |4point:points; in Thaumaturgy to learn an additional sub-specialization.
+35150,Requires 20 |4point:points; in Thaumaturgy to learn an additional sub-specialization.
+35151,Requires 30 |4point:points; in Thaumaturgy to learn an additional sub-specialization.
+35152,Requires 40 |4point:points; in Thaumaturgy to learn an additional sub-specialization.
+35153,Requires 50 |4point:points; in Thaumaturgy to learn an additional sub-specialization.
+35163,
+35164,
+35165,
+35166,
+35171,Requires 15 |4point:points; in Duskweave Tailoring to learn an additional sub-specialization.
+35172,Requires 15 |4point:points; in Dawnweave Tailoring to learn an additional sub-specialization.
+35173,You can learn a sub-specialization upon specializing in From Dawn Until Dusk.
+35174,Requires 30 |4point:points; in From Dawn Until Dusk to learn an additional sub-specialization.
+35197,You can learn a sub-specialization upon specializing in Weathering Wear.
+35198,Requires 10 |4point:points; in Weathering Wear to learn an additional sub-specialization.
+35199,Requires 30 |4point:points; in Weathering Wear to learn an additional sub-specialization.
+35200,You can learn a sub-specialization upon specializing in Making a Statement.
+35201,Requires 15 |4point:points; in Making a Statement to learn an additional sub-specialization.
+35202,Requires 30 |4point:points; in Making a Statement to learn an additional sub-specialization.
+35203,You can learn a sub-specialization upon specializing in Weighted Garments.
+35204,Requires 30 |4point:points; in Weighted Garments to learn an additional sub-specialization.
+35205,Requires 5 |4point:points; in Threads of Devotion to learn an additional sub-specialization.
+35206,Requires 15 |4point:points; in Threads of Devotion to learn an additional sub-specialization.
+35207,Requires 30 |4point:points; in Threads of Devotion to learn an additional sub-specialization.
+35220,Requires 5 |4point:points; in Inventor's Necessities to learn an additional sub-specialization.
+35221,Requires 15 |4point:points; in Inventor's Necessities to learn an additional sub-specialization.
+35222,Requires 5 |4point:points; in Calibrated Chaos to learn an additional sub-specialization.
+35223,Requires 15 |4point:points; in Calibrated Chaos to learn an additional sub-specialization.
+35225,Requires 30 |4point:points; in Engineered Equipment to learn an additional sub-specialization.
+35227,Requires 30 |4point:points; in Devices to learn an additional sub-specialization.
+35228,Requires 5 |4point:points; in Parts to learn an additional sub-specialization.
+35229,Requires 15 |4point:points; in Parts to learn an additional sub-specialization.
+35230,Requires 25 |4point:points; in Parts to learn an additional sub-specialization.
+35231,Requires 35 |4point:points; in Parts to learn an additional sub-specialization.
+35232,Requires 10 |4point:points; in Inventing to learn an additional sub-specialization.
+35233,Requires 20 |4point:points; in Inventing to learn an additional sub-specialization.
+35234,Requires 30 |4point:points; in Inventing to learn an additional sub-specialization.
+35238,You can learn a sub-specialization upon specializing in Quality Fabric.
+35239,Requires 10 |4point:points; in Quality Fabric to learn an additional sub-specialization.
+35240,Requires 20 |4point:points; in Quality Fabric to learn an additional sub-specialization.
+35241,You can learn a sub-specialization upon specializing in Textile Treasures.
+35242,Requires 15 |4point:points; in Textile Treasures to learn an additional sub-specialization.
+35243,Requires 30 |4point:points; in Textile Treasures to learn an additional sub-specialization.
+35244,
+35245,
+35246,
+35247,
+35248,
+35249,
+35250,
+35251,
+35252,
+35253,
+35254,
+35255,
+35256,
+35257,
+35258,
+35259,
+35260,
+35261,
+35262,
+35263,
+35264,
+35265,
+35266,
+35267,
+35268,
+35269,
+35270,
+35271,
+35272,
+35273,
+35274,
+35275,
+35276,
+35277,
+35278,
+35279,
+35280,
+35281,
+35282,
+35283,
+35284,
+35285,
+35286,
+35287,
+35288,
+35289,
+35290,
+35291,
+35292,
+35293,
+35294,
+35295,
+35296,
+35297,
+35298,
+35299,
+35300,
+35301,
+35302,
+35303,
+35304,
+35305,
+35306,
+35307,
+35308,
+35309,
+35310,
+35311,
+35312,
+35313,
+35314,
+35315,
+35316,
+35317,
+35318,
+35319,
+35320,
+35321,
+35322,
+35323,
+35324,
+35325,
+35326,
+35327,
+35328,
+35329,
+35330,
+35331,
+35332,
+35333,
+35334,
+35335,
+35336,
+35337,
+35338,Requires 15 |4point:points; in Fortuitous Forges to learn an additional sub-specialization.
+35339,Requires 30 |4point:points; in Fortuitous Forges to learn an additional sub-specialization.
+35342,You can learn a sub-specialization upon specializing in Stonework.
+35343,Requires 30 |4point:points; in Stonework to learn an additional sub-specialization.
+35346,Requires 15 |4point:points; in Armorsmithing to learn an additional sub-specialization.
+35349,Requires 30 |4point:points; in Weaponsmithing to learn an additional sub-specialization.
+35352,You can learn a sub-specialization upon specializing in Armorsmithing.
+35354,You can learn a sub-specialization upon specializing in Weaponsmithing.
+35356,You can learn a sub-specialization upon specializing in Making a Statement.
+35357,Requires 15 |4point:points; in Making a Statement to learn an additional sub-specialization.
+35358,Requires 30 |4point:points; in Making a Statement to learn an additional sub-specialization.
+35362,You can learn a sub-specialization upon specializing in Weighted Garments.
+35366,You can learn a sub-specialization upon specializing in Weathering Wear.
+35367,Requires 10 |4point:points; in Weathering Wear to learn an additional sub-specialization.
+35368,Requires 30 |4point:points; in Weathering Wear to learn an additional sub-specialization.
+35372,Requires 5 |4point:points; in Threads of Devotion to learn an additional sub-specialization.
+35373,Requires 15 |4point:points; in Threads of Devotion to learn an additional sub-specialization.
+35374,Requires 30 |4point:points; in Threads of Devotion to learn an additional sub-specialization.
+35378,Requires 15 |4point:points; in Duskweave Tailoring to learn an additional sub-specialization.
+35380,Requires 15 |4point:points; in Dawnweave Tailoring to learn an additional sub-specialization.
+35382,You can learn a sub-specialization upon specializing in From Dawn Until Dusk.
+35383,Requires 30 |4point:points; in From Dawn Until Dusk to learn an additional sub-specialization.
+35386,You can learn a sub-specialization upon specializing in Making a Statement.
+35387,Requires 15 |4point:points; in Making a Statement to learn an additional sub-specialization.
+35388,Requires 30 |4point:points; in Making a Statement to learn an additional sub-specialization.
+35389,You can learn a sub-specialization upon specializing in Making a Statement.
+35390,Requires 15 |4point:points; in Making a Statement to learn an additional sub-specialization.
+35391,Requires 30 |4point:points; in Making a Statement to learn an additional sub-specialization.
+35392,You can learn a sub-specialization upon specializing in Weighted Garments.
+35393,Requires 30 |4point:points; in Weighted Garments to learn an additional sub-specialization.
+35394,You can learn a sub-specialization upon specializing in Weighted Garments.
+35395,Requires 30 |4point:points; in Weighted Garments to learn an additional sub-specialization.
+35396,You can learn a sub-specialization upon specializing in Weathering Wear.
+35397,Requires 10 |4point:points; in Weathering Wear to learn an additional sub-specialization.
+35398,Requires 30 |4point:points; in Weathering Wear to learn an additional sub-specialization.
+35399,You can learn a sub-specialization upon specializing in Weathering Wear.
+35400,Requires 10 |4point:points; in Weathering Wear to learn an additional sub-specialization.
+35401,Requires 30 |4point:points; in Weathering Wear to learn an additional sub-specialization.
+35402,Requires 5 |4point:points; in Threads of Devotion to learn an additional sub-specialization.
+35403,Requires 15 |4point:points; in Threads of Devotion to learn an additional sub-specialization.
+35404,Requires 30 |4point:points; in Threads of Devotion to learn an additional sub-specialization.
+35405,Requires 5 |4point:points; in Threads of Devotion to learn an additional sub-specialization.
+35406,Requires 15 |4point:points; in Threads of Devotion to learn an additional sub-specialization.
+35407,Requires 30 |4point:points; in Threads of Devotion to learn an additional sub-specialization.
+35408,You can learn a sub-specialization upon specializing in Making a Statement.
+35409,Requires 15 |4point:points; in Making a Statement to learn an additional sub-specialization.
+35410,Requires 30 |4point:points; in Making a Statement to learn an additional sub-specialization.
+35411,You can learn a sub-specialization upon specializing in Weighted Garments.
+35412,Requires 30 |4point:points; in Weighted Garments to learn an additional sub-specialization.
+35413,You can learn a sub-specialization upon specializing in Weathering Wear.
+35414,Requires 10 |4point:points; in Weathering Wear to learn an additional sub-specialization.
+35415,Requires 30 |4point:points; in Weathering Wear to learn an additional sub-specialization.
+35416,Requires 5 |4point:points; in Threads of Devotion to learn an additional sub-specialization.
+35417,Requires 15 |4point:points; in Threads of Devotion to learn an additional sub-specialization.
+35418,Requires 30 |4point:points; in Threads of Devotion to learn an additional sub-specialization.
+35419,You can learn a sub-specialization upon specializing in Runic Research.
+35420,Requires 10 |4point:points; in Runic Research to learn an additional sub-specialization.
+35421,Requires 20 |4point:points; in Runic Research to learn an additional sub-specialization.
+35422,Requires 30 |4point:points; in Runic Research to learn an additional sub-specialization.
+35423,You can learn a sub-specialization upon specializing in Cryptic Collection.
+35424,Requires 10 |4point:points; in Cryptic Collection to learn an additional sub-specialization.
+35425,Requires 20 |4point:points; in Cryptic Collection to learn an additional sub-specialization.
+35426,Requires 30 |4point:points; in Cryptic Collection to learn an additional sub-specialization.
+35427,You can learn a sub-specialization upon specializing in Archival Additions.
+35428,Requires 30 |4point:points; in Archival Additions to learn an additional sub-specialization.
+35429,You can learn a sub-specialization upon specializing in Polished Production.
+35430,Requires 15 |4point:points; in Polished Production to learn an additional sub-specialization.
+35431,Requires 30 |4point:points; in Polished Production to learn an additional sub-specialization.
+35432,You can learn a sub-specialization upon specializing in Combative Curiosities.
+35433,Requires 30 |4point:points; in Combative Curiosities to learn an additional sub-specialization.
+35434,You can learn a sub-specialization upon specializing in Careful Carvings.
+35435,Requires 30 |4point:points; in Careful Carvings to learn an additional sub-specialization.
+35436,You can learn a sub-specialization upon specializing in Pursuit of Knowledge.
+35437,Requires 15 |4point:points; in Pursuit of Knowledge to learn an additional sub-specialization.
+35438,Requires 30 |4point:points; in Pursuit of Knowledge to learn an additional sub-specialization.
+35439,You can learn a sub-specialization upon specializing in Pursuit of Perfection.
+35440,Requires 15 |4point:points; in Pursuit of Perfection to learn an additional sub-specialization.
+35441,Requires 30 |4point:points; in Pursuit of Perfection to learn an additional sub-specialization.
+35442,You can learn a sub-specialization upon specializing in Runic Research.
+35443,Requires 10 |4point:points; in Runic Research to learn an additional sub-specialization.
+35444,Requires 20 |4point:points; in Runic Research to learn an additional sub-specialization.
+35445,Requires 30 |4point:points; in Runic Research to learn an additional sub-specialization.
+35446,You can learn a sub-specialization upon specializing in Cryptic Collection.
+35447,Requires 10 |4point:points; in Cryptic Collection to learn an additional sub-specialization.
+35448,Requires 20 |4point:points; in Cryptic Collection to learn an additional sub-specialization.
+35449,Requires 30 |4point:points; in Cryptic Collection to learn an additional sub-specialization.
+35450,You can learn a sub-specialization upon specializing in Archival Additions.
+35451,Requires 30 |4point:points; in Archival Additions to learn an additional sub-specialization.
+35462,You can learn a sub-specialization upon specializing in Runic Research.
+35463,Requires 10 |4point:points; in Runic Research to learn an additional sub-specialization.
+35464,Requires 20 |4point:points; in Runic Research to learn an additional sub-specialization.
+35465,Requires 30 |4point:points; in Runic Research to learn an additional sub-specialization.
+35466,You can learn a sub-specialization upon specializing in Cryptic Collection.
+35467,Requires 10 |4point:points; in Cryptic Collection to learn an additional sub-specialization.
+35468,Requires 20 |4point:points; in Cryptic Collection to learn an additional sub-specialization.
+35469,Requires 30 |4point:points; in Cryptic Collection to learn an additional sub-specialization.
+35470,You can learn a sub-specialization upon specializing in Archival Additions.
+35471,Requires 30 |4point:points; in Archival Additions to learn an additional sub-specialization.
+35472,Requires 10 |4point:points; in Engineered Equipment to learn an additional sub-specialization.
+35474,Requires 10 |4point:points; in Devices to learn an additional sub-specialization.
+35475,Requires 10 |4point:points; in Devices to learn an additional sub-specialization.
+35476,Requires 30 |4point:points; in Jewelrycrafting to learn an additional sub-specialization.
+35478,Requires 5 |4point:points; in Alchemical Mastery to learn an additional sub-specialization.
+35479,Requires 15 |4point:points; in Alchemical Mastery to learn an additional sub-specialization.
+35480,Requires 25 |4point:points; in Alchemical Mastery to learn an additional sub-specialization.
+35481,Requires 35 |4point:points; in Alchemical Mastery to learn an additional sub-specialization.
+35482,Requires 45 |4point:points; in Alchemical Mastery to learn an additional sub-specialization.
+35483,Requires 5 |4point:points; in Alchemical Mastery to learn an additional sub-specialization.
+35484,Requires 15 |4point:points; in Alchemical Mastery to learn an additional sub-specialization.
+35485,Requires 25 |4point:points; in Alchemical Mastery to learn an additional sub-specialization.
+35486,Requires 35 |4point:points; in Alchemical Mastery to learn an additional sub-specialization.
+35487,Requires 45 |4point:points; in Alchemical Mastery to learn an additional sub-specialization.
+35488,Requires 15 |4point:points; in Potent Potions to learn an additional sub-specialization.
+35489,Requires 15 |4point:points; in Potent Potions to learn an additional sub-specialization.
+35490,Requires 20 |4point:points; in Jewelrycrafting to learn an additional sub-specialization.
+35491,Requires 20 |4point:points; in Jewelrycrafting to learn an additional sub-specialization.
+35492,
+35493,
+35494,
+35592,You can learn a sub-specialization upon specializing in Making a Statement.
+35593,Requires 30 |4point:points; in Making a Statement to learn an additional sub-specialization.
+35596,You can learn a sub-specialization upon specializing in Weighted Garments.
+35597,Requires 30 |4point:points; in Weighted Garments to learn an additional sub-specialization.
+35600,You can learn a sub-specialization upon specializing in Weathering Wear.
+35601,Requires 10 |4point:points; in Weathering Wear to learn an additional sub-specialization.
+35602,Requires 20 |4point:points; in Weathering Wear to learn an additional sub-specialization.
+35603,Requires 30 |4point:points; in Weathering Wear to learn an additional sub-specialization.
+35608,Requires 5 |4point:points; in Threads of Devotion to learn an additional sub-specialization.
+35609,Requires 15 |4point:points; in Threads of Devotion to learn an additional sub-specialization.
+35610,Requires 30 |4point:points; in Threads of Devotion to learn an additional sub-specialization.
+35615,
+35616,
+35617,
+35618,
+35619,
+35620,
+35621,
+35622,
+35623,
+35624,
+35625,
+35626,
+35627,
+35628,
+35629,
+35630,
+35631,
+35632,
+35633,
+35634,
+35635,
+35636,
+35637,
+35638,
+35639,
+35640,
+35641,
+35642,
+35643,
+35644,
+35645,
+35646,
+35647,
+35648,
+35649,
+35650,
+35651,
+35652,
+35653,
+35654,
+35655,
+35656,
+35657,
+35658,
+35659,
+35660,
+35661,
+35662,
+35663,
+35664,
+35665,
+35666,
+35667,
+35668,
+35669,
+35670,
+35671,
+35672,
+35673,
+35674,
+35675,
+35676,
+35677,
+35678,
+35679,
+35680,
+35681,
+35682,
+35683,
+35684,
+35685,
+35686,
+35687,
+35688,
+35689,
+35690,
+35691,
+35692,
+35693,
+35694,
+35695,
+35696,
+35697,
+35698,
+35699,
+35700,
+35701,
+35702,
+35703,
+35704,
+35705,
+35706,
+35707,
+35708,
+35709,
+35710,
+35711,
+35712,
+35713,
+35714,
+35715,
+35716,
+35717,
+35718,
+35719,
+35720,
+35721,
+35722,
+35723,
+35724,
+35725,
+35726,
+35727,
+35728,
+35729,
+35730,
+35731,
+35732,
+35733,
+35734,
+35735,
+35736,
+35737,
+35738,
+35739,
+35740,
+35741,
+35742,
+35743,
+35744,
+35745,
+35746,
+35747,
+35748,
+35749,
+35750,
+35751,
+35752,
+35753,
+35754,
+35755,
+35756,
+35757,
+35758,
+35759,
+35760,
+35761,
+35762,
+35763,
+35764,
+35765,
+35766,
+35767,
+35768,
+35769,
+35770,
+35771,
+35772,
+35773,
+35774,
+35775,
+35776,
+35777,
+35778,
+35779,
+35780,
+35781,
+35782,
+35783,
+35784,
+35785,
+35786,
+35787,
+35788,
+35789,
+35790,
+35791,
+35792,
+35793,
+35794,
+35795,
+35796,
+35797,
+35798,
+35799,
+35800,
+35801,
+35802,
+35900,Requires 15 |4point:points; in Making a Statement to learn an additional sub-specialization.
+35901,Requires 15 |4point:points; in Making a Statement to learn an additional sub-specialization.

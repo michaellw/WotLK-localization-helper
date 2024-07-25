@@ -1,0 +1,742 @@
+ID,Name_lang
+485,Fargodeep Mine
+486,Lower Mines
+487,Blackrock Spire
+488,Blackrock Caverns
+489,Blackrock Depths
+490,The Master's Cellar
+491,Lower Cellar
+492,Orgrimmar
+493,Cleft of Shadow
+496,The Wicked Grotto
+497,Foulspore Cavern
+498,Tiragarde Keep
+499,Great Hall
+500,Upper Den
+501,Lower Den
+502,The Courtyard
+503,Dining Hall
+504,The Vacant Den
+505,Lower Observatory
+506,Upper Observatory
+507,Lord Godfrey's Chamber
+508,The Wall Walk
+509,The Deadmines
+510,Ironclad Cove
+511,The Pool of Ask'Ar
+512,Moonshrine Sanctum
+513,The Forgotten Pool
+514,Hall of the Keepers
+515,Khaz'Goroth's Seat
+516,The Hall of Gears
+517,The Dormitory
+518,Launch Bay
+519,Tinkers' Court
+520,Graveyard
+521,Library
+522,Armory
+523,Cathedral
+524,Tazz'Alor
+525,Skitterweb Tunnels
+526,Hordemar City
+527,Hall of Blackhand
+528,Halycon's Lair
+529,Chamber of Battle
+530,Detention Block
+531,Shadowforge City
+532,The Reliquary
+533,Chamber of Summoning
+534,The Upper Study
+535,Headmaster's Study
+536,Crusader's Square
+537,The Gauntlet
+538,Caverns of Maraudon
+539,Zaetar's Grave
+540,Deeprun Tram
+541,Bizmo's Brawlpub
+542,Gordok Commons
+543,Capital Gardens
+544,Court of the Highborne
+545,Prison of Immol'Thar
+546,Warpwood Quarter
+547,The Shrine of Eldretharr
+548,Dragonmaw Garrison
+549,Halls of Strife
+550,Crimson Laboratories
+551,Nefarian's Lair
+552,The Hive Undergrounds
+553,The Temple Gates
+554,Vault of C'Thun
+555,Servant's Quarters
+556,Upper Livery Stables
+557,The Banquet Hall
+558,The Guest Chambers
+559,Opera Hall Balcony
+560,Master's Terrace
+561,Lower Broken Stair
+562,Upper Broken Stair
+563,The Menagerie
+564,Guardian's Library
+565,The Repository
+566,Upper Library
+567,The Celestial Watch
+568,Gamesman's Hall
+569,Medivh's Chambers
+570,The Power Station
+571,Netherspace
+572,The Construct Quarter
+573,The Arachnid Quarter
+574,The Military Quarter
+575,The Plague Quarter
+576,The Lower Necropolis
+577,The Upper Necropolis
+578,The Steamvault
+579,The Cooling Pools
+580,Stasis Block: Trion
+581,Stasis Block: Maximus
+582,Containment Core
+583,The Mechanar
+584,Calculation Chamber
+585,Veil Sethekk
+586,Halls of Mourning
+587,Halls of the Hereafter
+588,Bridge of Souls
+589,Karabor Sewers
+590,Black Temple
+591,Sanctuary of Shadows
+592,Halls of Anguish
+593,Gorefiend's Vigil
+594,Den of Mortal Delights
+595,Chamber of Command
+596,Temple Summit
+597,Dalaran City
+598,The Underbelly
+599,Njorndir Preparation
+600,Dragonflayer Ascent
+601,Tyr's Terrace
+602,Lower Pinnacle
+603,Upper Pinnacle
+604,Band of Variance
+605,Band of Acceleration
+606,Band of Transmutation
+607,Band of Alignment
+608,Sunwell Plateau
+609,Shrine of the Eclipse
+610,Grand Magister's Asylum
+611,Observation Grounds
+612,The Culling of Stratholme
+613,Stratholme City
+614,The Vestibules of Drak'Tharon
+615,Drak'Tharon Overlook
+616,The Brood Pit
+617,Hadronox's Lair
+618,The Gilded Gate
+619,Unyielding Garrison
+620,Walk of the Makers
+621,Ulduar
+622,The Antechamber of Ulduar
+623,The Inner Sanctum of Ulduar
+624,The Prison of Yogg-Saron
+625,The Spark of Imagination
+626,The Mind's Eye
+627,The Lower Citadel
+628,The Rampart of Skulls
+629,Deathbringer's Rise
+630,The Frost Queen's Lair
+631,The Upper Reaches
+632,Royal Quarters
+633,The Frozen Throne
+634,Frostmourne
+635,Abyssal Halls
+636,Throne of Neptulon
+637,The Vault of Lights
+638,Tomb of the Earthrager
+639,The Four Seats
+640,Chamber of Incineration
+641,Twilight Forge
+642,Floor 1
+643,Floor 2
+644,Mine Tunnels
+645,Mine Shaft
+646,The Argent Coliseum
+647,The Icy Depths
+648,Main Floor
+649,Upper Floor
+650,The Broken Hall
+651,Vault of the Shadowflame
+652,The Twilight Enclave
+653,Throne of the Apocalypse
+654,The Twilight Caverns
+655,Firelands
+656,The Anvil of Conflagration
+657,Sulfuron Keep
+658,Hall of the Crescent Moon
+659,The Imperial Mercantile
+660,The Emperor's Step
+661,The Imperial Exchange
+662,Upper Quarry
+663,Lower Quarry
+664,Upper Deep
+665,Lower Deep
+666,Guo-Lai Halls
+667,The Hall of the Serpent
+668,Ruins of Korune
+669,Crypt of Korune
+670,End Time
+671,Azure Dragonshrine
+672,Ruby Dragonshrine
+673,Obsidian Dragonshrine
+674,Emerald Dragonshrine
+675,Bronze Dragonshrine
+676,Hour of Twilight
+677,Wyrmrest Temple
+678,Shado-Pan Monastery
+679,Cloudstrike Dojo
+680,Snowdrift Dojo
+681,Sealed Chambers
+682,Temple of the Jade Serpent
+683,The Scrollkeeper's Sanctum
+684,Grain Cellar
+685,Stormstout Brewhall
+686,The Great Wheel
+687,The Tasting Room
+688,Gate of the Setting Sun
+689,Gate Watch Tower
+690,Dragon Soul
+691,Maw of Go'rath
+692,Maw of Shu'ma
+693,Eye of Eternity
+694,Skyfire Airship
+695,Spine of Deathwing
+696,The Maelstrom
+697,The Crimson Assembly Hall
+698,Vaults of Kings Past
+699,Throne of Ancient Conquerors
+700,Training Grounds
+701,Athenaeum
+702,Forlorn Cloister
+703,Crusader's Chapel
+704,The Reliquary
+705,Chamber of Summoning
+706,The Upper Study
+707,Headmaster's Study
+708,Dais of Conquerors
+709,The Repository
+710,Forge of the Endless
+711,Oratorium of the Voice
+712,Heart of Fear
+713,Siege of Niuzao Temple
+714,The Hollowed Out Tree
+715,Upper Tree Ring
+716,Upper Burial Chamber
+717,Crypt Depths
+718,Alliance Excavation
+719,Ruins of Ogudei
+720,Reliquary Incursion
+721,Overgrown Statuary
+722,Royal Amphitheater
+723,Forgotten Depths
+724,Roost of Ji-Kun
+725,Halls of Flesh-Shaping
+726,Hall of Kings
+727,Pinnacle of Storms
+728,Hidden Cell
+729,Dalaran City
+730,The Underbelly
+731,Black Temple
+732,Karabor Sewers
+733,Sanctuary of Shadows
+734,Halls of Anguish
+735,Gorefiend's Vigil
+736,Den of Mortal Delights
+737,Chamber of Command
+738,Temple Summit
+739,Bladespire Citadel
+740,Bladespire Courtyard
+741,Bladespire Throne
+742,Sootstained Mines
+743,Cragplume Crater
+744,Cragplume Depths
+745,Fissure of Fury
+746,Heart of Fury
+747,Moira's Bastion
+748,The Armory
+749,Grulloc's Grotto
+750,Grulloc's Lair
+751,Siege of Orgrimmar
+752,Pools of Power
+753,Vault of Y'Shaarj
+754,Gates of Orgrimmar
+755,The Valley of Strength
+756,The Cleft of Shadow
+757,The Descent
+758,Kor'Kron Barracks
+759,The Menagerie
+760,The Siegeworks
+761,Chamber of the Paragons
+762,The Inner Sanctum
+763,Terrace of Endless Spring
+764,Temple of the Jade Serpent
+765,Temple of the Red Crane
+766,Crypt of the Ancients
+767,Altar of Shadow
+768,Edge of Reality
+769,The Black Forge
+770,Slagworks
+771,The Workshop
+772,Iron Assembly
+773,The Crucible
+774,Rafters
+775,Rear Train Cars
+778,Lower Quarter
+779,Grand Spire
+780,The Hall of Shadows
+781,Dalaran
+782,The Underbelly
+783,Aegwynn's Gallery
+784,The Heart of Acherus
+785,Hall of Command
+786,Lower Sleepers Barrow
+787,Upper Sleepers Barrow
+788,Falanaar Tunnels
+789,Falanaar Tunnels
+794,Lifespring Lower Cavern
+795,Lifespring Upper Cavern
+796,Temple of Fal'adora
+797,Falanaar Tunnels
+798,Highmaul
+799,Gladiator's Rest
+800,The Coliseum
+801,Chamber of Nullification
+802,Imperator's Rise
+803,Throne of the Imperator
+804,The Everbloom
+805,The Overlook
+806,Dragonspire Hall
+807,The Rookery
+808,Hall of Blackhand
+809,Hellfire Citadel
+810,Hellfire Antechamber
+811,Hellfire Passage
+812,Pits of Mannoroth
+813,Court of Blood
+814,Grommash's Torment
+815,The Felborne Breach
+816,Halls of the Sargerei
+817,Destructor's Rise
+818,The Black Gate
+819,Illidari Ward
+820,Vault of the Wardens
+821,The Warden's Court
+822,Halls of Valor
+823,The High Gate
+824,Halls of Valor
+825,Lower Acherus
+826,Upper Acherus
+827,Icecrown Citadel
+828,The Frozen Throne
+829,Lower Soul Engine
+830,Upper Soul Engine
+831,Helmouth Cliffs
+832,The Hold
+833,The Naglfar
+834,The Warden's Court
+835,Vault of the Wardens
+836,Vault of the Betrayer
+837,The Ravenscrypt
+838,The Grand Hall
+839,Ravenshold
+840,The Rook's Roost
+841,Lord Ravencrest's Chamber
+842,The Raven's Crown
+843,Hall of the Guardian
+844,The Guardian's Library
+845,"Mardum, the Shattered Abyss"
+846,Upper Command Center
+847,Lower Command Center
+848,Clutch of Corruption
+849,Core of the Nightmare
+850,Mulgore
+851,Un'goro Crater
+852,The Emerald Nightmare
+853,Ashenvale
+854,The Hinterlands
+855,Duskwood
+856,Feralas
+857,Grizzly Hills
+858,Moonglade
+859,Rift of Aln
+860,The Emerald Dream
+861,Upper Command Center
+862,Lower Command Center
+863,Servant's Quarters
+864,The Grand Ballroom
+865,The Opera Hall
+866,Guardian's Library
+867,The Nightwell
+868,Arcing Depths
+869,The Nighthold
+870,Shal'Dorei Terrace
+871,Captain's Quarters
+872,Astromancer's Rise
+873,The Nightspire
+874,Elisande's Quarters
+875,The Font of Night
+876,Court of Stars
+877,The Jeweled Estate
+878,The Balconies
+879,The Antechamber of Ulduar
+880,The Spark of Imagination
+881,The Observation Ring
+882,Abyssal Halls
+883,Throne of Neptulon
+884,Upper Citadel
+885,Lower Citadel
+886,Floor 1
+887,Floor 2
+888,Band of Alignment
+889,Band of Transmutation
+890,Band of Acceleration
+891,Band of Variance
+892,Temple of the Jade Serpent
+893,The Scrollkeeper's Sanctum
+894,Trial of Valor
+895,Trial of Valor
+896,Helheim
+897,Servant's Quarters
+898,Upper Livery Stables
+899,The Banquet Hall
+900,The Guest Chambers
+901,Opera Hall Balcony
+902,Master's Terrace
+903,Lower Broken Stair
+904,Upper Broken Stair
+905,The Menagerie
+906,Guardian's Library
+907,Library Floor
+908,Upper Library
+909,Gamesman's Hall
+910,Netherspace
+911,Upper Deck
+912,Lower Deck
+913,Upper Deck
+914,Lower Deck
+915,Upper Deck
+916,Lower Deck
+917,Chamber of the Moon
+918,The Abyssal Throne
+919,Terrace of the Moon
+920,The Guardian's Sanctum
+921,Chamber of the Avatar
+922,Felstorm's Breach
+923,The Twisting Nether
+924,Hall of the Moon
+925,Twilight Grove
+926,The Emerald Archives
+927,Path of Illumination
+928,Sacristy of Elune
+929,Floor 1
+930,Floor 2
+931,Stormstout Brewery
+932,Floor 1
+933,Floor 2
+934,Floor 1
+935,Floor 2
+936,Floor 3
+937,Floor 1
+938,Floor 2
+939,Floor 1
+940,Floor 2
+941,"Antorus, the Burning Throne"
+942,Gaze of the Legion
+943,Halls of the Boundless Reach
+944,Elunaria
+945,Elarian Sanctuary
+946,The Exhaust
+947,The Burning Throne
+948,Chamber of Anguish
+949,The World Soul
+950,Seat of the Pantheon
+951,Upper Deck
+952,Lower Deck
+953,Stasis Block: Trion
+954,Stasis Block: Maximus
+955,Azuremyst Isle
+956,Floor 1
+957,Floor 2
+958,Floor 3
+959,The Deaths of Chromie
+960,Obsidian Dragonshrine
+961,Andorhal
+962,Mount Hyjal
+963,The Well of Eternity
+964,Stratholme
+965,Atal'Dazar
+966,Sacrificial Pits
+967,Upper Deck
+968,Lower Deck
+976,Train Depot
+977,Forward Train Cars
+981,Floor 1
+982,Floor 2
+983,Floor 1
+984,Floor 2
+985,Tol Dagor
+986,The Drain
+987,The Brig
+988,Detention Block
+989,Officer Quarters
+990,Overseer's Redoubt
+991,Overseer's Summit
+992,Stormwind City
+993,The Stockade
+994,Upstairs
+995,The Grand Foyer
+996,The Cellar
+997,Catacombs
+998,The Rupture
+999,Main Floor
+1000,Upper Floor
+1001,Shrine of the Storm
+1002,Storm's End
+1003,The Underrot
+1004,Ruin's Descent
+1005,Temple of Sethraliss
+1006,Atrium of Sethraliss
+1107,Ruin's Descent
+1108,Hall of Sanitation
+1109,Ring of Containment
+1110,Archives of Eternity
+1111,Plague Vault
+1112,Gallery of Failures
+1113,The Oblivion Door
+1114,The Festering Core
+1115,Blackrock Depths
+1116,The Molten Core
+1117,The Great Seal
+1118,Hall of Chroniclers
+1119,Hall of the High Priests
+1120,Council Chambers
+1123,Lower Cave
+1124,Upper Cave
+1125,Upper Decks
+1126,Lower Decks
+1127,Upper Deck
+1128,Lower Deck
+1129,Upper Deck
+1130,Lower Deck
+1132,Upper Cave
+1134,Lower Cave
+1135,Shrine of Shadows
+1136,Tendril of Corruption
+1137,The Lower Citadel
+1138,The Frozen Throne
+1139,Tol Dagor
+1140,The Drain
+1141,The Brig
+1142,Port of Zandalar
+1143,The Zocalo
+1144,Halls of Opulence
+1145,Loa's Sanctum
+1146,Walk of Kings
+1147,Heart of the Empire
+1148,The Great Sea
+1149,Boralus
+1150,The Hall of Gears
+1151,The Dormitory
+1153,Tinkers' Court
+1155,Launch Bay
+1156,Ring of Containment
+1157,The Oblivion Door
+1158,Mechagon Island
+1159,The Robodrome
+1160,Waste Pipes
+1161,The Under Junk
+1162,Mechagon City
+1163,Dais of Eternity
+1164,Halls of the Chosen
+1165,Darkest Depths
+1166,The Traverse
+1167,The Hatchery
+1168,The Queen's Court
+1169,Precipice of Dreams
+1170,The Last Prison
+1171,The Broken Hall
+1172,Vault of the Shadowflame
+1173,The Vault of Lights
+1174,Tomb of the Earthrager
+1175,The Four Seats
+1177,Vaults of Kings Past
+1178,Throne of Ancient Conquerors
+1179,The Crimson Assembly Hall
+1180,Dais of Conquerors
+1181,The Repository
+1182,Forge of the Endless
+1184,Timeless Tunnel
+1185,Caverns of Time
+1186,Timeless Tunnel
+1187,Caverns of Time
+1188,Mechagon City
+1189,Under Junk
+1190,Vision of Destiny
+1191,Annex of Prophecy
+1192,Ny'alotha
+1193,The Hive
+1194,Terrace of Desolation
+1195,The Ritual Chamber
+1196,Twilight Landing
+1197,Maw of Gor'ma
+1198,Warren of Decay
+1199,Chamber of Rebirth
+1200,Locus of Infinite Truths
+1202,Terrace of Reanimation
+1206,Bonebreaker Hall
+1207,Halls of Atonement
+1208,The Nave of Pain
+1209,The Sanctuary of Souls
+1210,The Necrotic Wake
+1211,Stitchwerks
+1212,Zolramus
+1213,The Broker's Den
+1214,Ring of Fates
+1215,Ring of Transference
+1216,The Crucible
+1217,Lower Acherus
+1218,Upper Acherus
+1219,Depths of Despair
+1220,Amphitheater of Sorrow
+1221,De Other Side
+1222,Mechagon
+1223,Zul'Gurub
+1224,Ardenweald
+1225,Theater of Pain
+1226,Chamber of Conquest
+1227,Altars of Agony
+1228,Upper Barrow of Carnage
+1229,Lower Barrow of Carnage
+1230,Plaguefall
+1231,The Festering Sanctum
+1232,Sinfall Reaches
+1233,Sinfall Depths
+1234,The Canopy
+1235,The Trunk
+1236,The Roots
+1237,Archon's Rise
+1238,Sanctum of Binding
+1239,Honor's Ascent
+1240,Gardens of Repose
+1241,Font of Fealty
+1242,Seat of the Archon
+1243,The Grand Walk
+1244,The Purloined Stores
+1245,Halls of the Faithful
+1246,Pride's Prison
+1247,Feast of Arrogance
+1248,Nightcloak Sanctum
+1249,The Observatorium
+1250,Pit of Anguish - Upper
+1251,Pit of Anguish - Lower
+1252,Firelands
+1253,Sulfuron Keep
+1254,The Veiled Market
+1255,The Grand Menagerie
+1256,The P.O.S.T.
+1257,Myza's Oasis
+1258,Stormheim
+1259,Aggramar's Vault
+1260,Boralus Harbor
+1261,The Opulent Nexus
+1276,Tower of the Damned
+1277,Shadowsteel Foundry
+1278,The Torment Chambers
+1279,Crown of Gorgoa
+1280,Pinnacle of Domination
+1283,Immortal Hearth
+1284,Genesis Cradle
+1285,The Endless Foundry
+1286,Ephemeral Plains
+1287,Domination's Grasp
+1288,The Grand Design
+1289,Heart of Eternity
+1291,The Arcane Conservatory
+1292,Upper Chamber
+1293,Mausoleum of Legends
+1294,Lower Chamber
+1295,Crystal Chambers
+1296,Hall of the Keepers
+1297,The Vault of Tyr
+1298,Infusion Chambers
+1299,Ruby Overlook
+1300,The Burning Cauldron
+1301,Chamber of Flames
+1302,Brackenhide Hollow
+1303,Den of Decay
+1304,Algeth'ar Academy
+1305,The Pitch
+1306,The Headteacher's Enclave
+1307,Infuser's Rotunda
+1308,Infusion Chamber
+1313,The Primal Bulwark
+1314,The Elemental Conclave
+1315,Galewind Crag
+1316,The Vault Approach
+1317,Iceskitter Hollow
+1318,The Clutchwarren
+1319,The Primal Convergence
+1320,Vault of the Incarnates
+1322,Molten Crucible
+1323,Onyx Laboratory
+1324,Defiant Ramparts
+1325,Neltharion's Sanctum
+1326,Edge of Oblivion
+1327,Molten Crucible
+1328,Onyx Laboratory
+1329,Neltharion's Sanctum
+1330,Edge of Oblivion
+1331,The Timeways
+1332,Sanctum of Chronology
+1333,Millennia's Threshold
+1334,Locus of Eternity
+1335,Spoke of Endless Winter
+1336,Crossroads of Fate
+1337,Infinite Conflux
+1338,Twisting Approach
+1339,Immemorial Battlefield
+1340,Astromancer's Rise
+1341,Eternal Observatory
+1342,The High Gate
+1343,Halls of Valor
+1344,Wellspring Atrium
+1345,Throne of the Firelord
+1346,Amirdrassil
+1347,The Northern Boughs
+1348,The Eastern Boughs
+1349,The Southern Boughs
+1350,Heart of Amirdrassil
+1351,The Scorched Hall
+1352,Verdant Terrace
+1357,Sanctified Grounds
+1358,Priory of the Sacred Flame
+1359,The Rookery Landing
+1360,Storm's Roost
+1361,Storm Rookery
+1362,Stormrider Barracks
+1363,Crashing Storm Hall
+1364,Abandoned Mines
+1365,City of Threads
+1366,The Transformatory
+1367,Dalaran
+1368,The Underbelly
+1369,The Hall of Shadows
+1370,Echoing Overlook
+1371,The Undercache
+1372,Grand Rampart
+1373,The Pulsing Pit
+1374,Terrace of Majesty
+1375,The Narthex
+1376,The Crown of Shadows
+1377,The Crown of Shadows - Upper
+1380,Azj-Kahet
+1381,Azj-Kahet - Lower
+1382,City of Threads
+1383,City of Threads - Lower

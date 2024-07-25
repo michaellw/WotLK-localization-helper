@@ -1,0 +1,1772 @@
+ID,Name_lang
+1,Durotar
+2,Burning Blade Coven
+3,Tiragarde Keep
+4,Tiragarde Keep
+5,Skull Rock
+6,Dustwind Cave
+7,Mulgore
+8,Palemane Rock
+9,The Venture Co. Mine
+10,Northern Barrens
+11,Wailing Caverns
+12,Kalimdor
+13,Eastern Kingdoms
+14,Arathi Highlands
+15,Badlands
+16,Uldaman
+17,Blasted Lands
+18,Tirisfal Glades
+19,Scarlet Monastery Entrance
+20,Keeper's Rest
+21,Silverpine Forest
+22,Western Plaguelands
+23,Eastern Plaguelands
+24,Light's Hope Chapel
+25,Hillsbrad Foothills
+26,The Hinterlands
+27,Dun Morogh
+28,Coldridge Pass
+29,The Grizzled Den
+30,New Tinkertown
+31,Gol'Bolar Quarry
+32,Searing Gorge
+33,Blackrock Mountain
+34,Blackrock Mountain
+35,Blackrock Mountain
+36,Burning Steppes
+37,Elwynn Forest
+38,Fargodeep Mine
+39,Fargodeep Mine
+40,Jasperlode Mine
+41,Dalaran
+42,Deadwind Pass
+43,The Master's Cellar
+44,The Master's Cellar
+45,The Master's Cellar
+46,Karazhan Catacombs
+47,Duskwood
+48,Loch Modan
+49,Redridge Mountains
+50,Northern Stranglethorn
+51,Swamp of Sorrows
+52,Westfall
+53,Gold Coast Quarry
+54,Jangolode Mine
+55,The Deadmines
+56,Wetlands
+57,Teldrassil
+58,Shadowthread Cave
+59,Fel Rock
+60,Ban'ethil Barrow Den
+61,Ban'ethil Barrow Den
+62,Darkshore
+63,Ashenvale
+64,Thousand Needles
+65,Stonetalon Mountains
+66,Desolace
+67,Maraudon
+68,Maraudon
+69,Feralas
+70,Dustwallow Marsh
+71,Tanaris
+72,The Noxious Lair
+73,The Gaping Chasm
+74,Caverns of Time
+75,Caverns of Time
+76,Azshara
+77,Felwood
+78,Un'Goro Crater
+79,The Slithering Scar
+80,Moonglade
+81,Silithus
+82,Twilight's Run
+83,Winterspring
+84,Stormwind City
+85,Orgrimmar
+86,Orgrimmar
+87,Ironforge
+88,Thunder Bluff
+89,Darnassus
+90,Undercity
+91,Alterac Valley
+92,Warsong Gulch
+93,Arathi Basin
+94,Eversong Woods
+95,Ghostlands
+96,Amani Catacombs
+97,Azuremyst Isle
+98,Tides' Hollow
+99,Stillpine Hold
+100,Hellfire Peninsula
+101,Outland
+102,Zangarmarsh
+103,The Exodar
+104,Shadowmoon Valley
+105,Blade's Edge Mountains
+106,Bloodmyst Isle
+107,Nagrand
+108,Terokkar Forest
+109,Netherstorm
+110,Silvermoon City
+111,Shattrath City
+112,Eye of the Storm
+113,Northrend
+114,Borean Tundra
+115,Dragonblight
+116,Grizzly Hills
+117,Howling Fjord
+118,Icecrown
+119,Sholazar Basin
+120,The Storm Peaks
+121,Zul'Drak
+122,Isle of Quel'Danas
+123,Wintergrasp
+124,Plaguelands: The Scarlet Enclave
+125,Dalaran
+126,Dalaran
+127,Crystalsong Forest
+128,Strand of the Ancients
+129,The Nexus
+130,The Culling of Stratholme
+131,The Culling of Stratholme
+132,Ahn'kahet: The Old Kingdom
+133,Utgarde Keep
+134,Utgarde Keep
+135,Utgarde Keep
+136,Utgarde Pinnacle
+137,Utgarde Pinnacle
+138,Halls of Lightning
+139,Halls of Lightning
+140,Halls of Stone
+141,The Eye of Eternity
+142,The Oculus
+143,The Oculus
+144,The Oculus
+145,The Oculus
+146,The Oculus
+147,Ulduar
+148,Ulduar
+149,Ulduar
+150,Ulduar
+151,Ulduar
+152,Ulduar
+153,Gundrak
+154,Gundrak
+155,The Obsidian Sanctum
+156,Vault of Archavon
+157,Azjol-Nerub
+158,Azjol-Nerub
+159,Azjol-Nerub
+160,Drak'Tharon Keep
+161,Drak'Tharon Keep
+162,Naxxramas
+163,Naxxramas
+164,Naxxramas
+165,Naxxramas
+166,Naxxramas
+167,Naxxramas
+168,The Violet Hold
+169,Isle of Conquest
+170,Hrothgar's Landing
+171,Trial of the Champion
+172,Trial of the Crusader
+173,Trial of the Crusader
+174,The Lost Isles
+175,Kaja'mite Cavern
+176,Volcanoth's Lair
+177,Gallywix Labor Mine
+178,Gallywix Labor Mine
+179,Gilneas
+180,Emberstone Mine
+181,Greymane Manor
+182,Greymane Manor
+183,The Forge of Souls
+184,Pit of Saron
+185,Halls of Reflection
+186,Icecrown Citadel
+187,Icecrown Citadel
+188,Icecrown Citadel
+189,Icecrown Citadel
+190,Icecrown Citadel
+191,Icecrown Citadel
+192,Icecrown Citadel
+193,Icecrown Citadel
+194,Kezan
+195,Kaja'mine
+196,Kaja'mine
+197,Kaja'mine
+198,Mount Hyjal
+199,Southern Barrens
+200,The Ruby Sanctum
+201,Kelp'thar Forest
+202,Gilneas City
+203,Vashj'ir
+204,Abyssal Depths
+205,Shimmering Expanse
+206,Twin Peaks
+207,Deepholm
+208,Twilight Depths
+209,Twilight Depths
+210,The Cape of Stranglethorn
+213,Ragefire Chasm
+217,Ruins of Gilneas
+218,Ruins of Gilneas City
+219,Zul'Farrak
+220,The Temple of Atal'Hakkar
+221,Blackfathom Deeps
+222,Blackfathom Deeps
+223,Blackfathom Deeps
+224,Stranglethorn Vale
+225,The Stockade
+226,Gnomeregan
+227,Gnomeregan
+228,Gnomeregan
+229,Gnomeregan
+230,Uldaman
+231,Uldaman
+232,Molten Core
+233,Zul'Gurub
+234,Dire Maul
+235,Dire Maul
+236,Dire Maul
+237,Dire Maul
+238,Dire Maul
+239,Dire Maul
+240,Dire Maul
+241,Twilight Highlands
+242,Blackrock Depths
+243,Blackrock Depths
+244,Tol Barad
+245,Tol Barad Peninsula
+246,The Shattered Halls
+247,Ruins of Ahn'Qiraj
+248,Onyxia's Lair
+249,Uldum
+250,Blackrock Spire
+251,Blackrock Spire
+252,Blackrock Spire
+253,Blackrock Spire
+254,Blackrock Spire
+255,Blackrock Spire
+256,Auchenai Crypts
+257,Auchenai Crypts
+258,Sethekk Halls
+259,Sethekk Halls
+260,Shadow Labyrinth
+261,The Blood Furnace
+262,The Underbog
+263,The Steamvault
+264,The Steamvault
+265,The Slave Pens
+266,The Botanica
+267,The Mechanar
+268,The Mechanar
+269,The Arcatraz
+270,The Arcatraz
+271,The Arcatraz
+272,Mana-Tombs
+273,The Black Morass
+274,Old Hillsbrad Foothills
+275,The Battle for Gilneas
+276,The Maelstrom
+277,Lost City of the Tol'vir
+279,Wailing Caverns
+280,Maraudon
+281,Maraudon
+282,Baradin Hold
+283,Blackrock Caverns
+284,Blackrock Caverns
+285,Blackwing Descent
+286,Blackwing Descent
+287,Blackwing Lair
+288,Blackwing Lair
+289,Blackwing Lair
+290,Blackwing Lair
+291,The Deadmines
+292,The Deadmines
+293,Grim Batol
+294,The Bastion of Twilight
+295,The Bastion of Twilight
+296,The Bastion of Twilight
+297,Halls of Origination
+298,Halls of Origination
+299,Halls of Origination
+300,Razorfen Downs
+301,Razorfen Kraul
+302,Scarlet Monastery
+303,Scarlet Monastery
+304,Scarlet Monastery
+305,Scarlet Monastery
+306,Legacy of Scholomance
+307,Legacy of Scholomance
+308,Legacy of Scholomance
+309,Legacy of Scholomance
+310,Shadowfang Keep
+311,Shadowfang Keep
+312,Shadowfang Keep
+313,Shadowfang Keep
+314,Shadowfang Keep
+315,Shadowfang Keep
+316,Shadowfang Keep
+317,Stratholme
+318,Stratholme
+319,Ahn'Qiraj
+320,Ahn'Qiraj
+321,Ahn'Qiraj
+322,Throne of the Tides
+323,Throne of the Tides
+324,The Stonecore
+325,The Vortex Pinnacle
+327,Ahn'Qiraj: The Fallen Kingdom
+328,Throne of the Four Winds
+329,Hyjal Summit
+330,Gruul's Lair
+331,Magtheridon's Lair
+332,Serpentshrine Cavern
+333,Zul'Aman
+334,Tempest Keep
+335,Sunwell Plateau
+336,Sunwell Plateau
+337,Zul'Gurub
+338,Molten Front
+339,Black Temple
+340,Black Temple
+341,Black Temple
+342,Black Temple
+343,Black Temple
+344,Black Temple
+345,Black Temple
+346,Black Temple
+347,Hellfire Ramparts
+348,Magisters' Terrace
+349,Magisters' Terrace
+350,Karazhan
+351,Karazhan
+352,Karazhan
+353,Karazhan
+354,Karazhan
+355,Karazhan
+356,Karazhan
+357,Karazhan
+358,Karazhan
+359,Karazhan
+360,Karazhan
+361,Karazhan
+362,Karazhan
+363,Karazhan
+364,Karazhan
+365,Karazhan
+366,Karazhan
+367,Firelands
+368,Firelands
+369,Firelands
+370,The Nexus
+371,The Jade Forest
+372,Greenstone Quarry
+373,Greenstone Quarry
+374,The Widow's Wail
+375,Oona Kagu
+376,Valley of the Four Winds
+377,Cavern of Endless Echoes
+378,The Wandering Isle
+379,Kun-Lai Summit
+380,Howlingwind Cavern
+381,Pranksters' Hollow
+382,Knucklethump Hole
+383,The Deeper
+384,The Deeper
+385,Tomb of Conquerors
+386,Ruins of Korune
+387,Ruins of Korune
+388,Townlong Steppes
+389,Niuzao Temple
+390,Vale of Eternal Blossoms
+391,Shrine of Two Moons
+392,Shrine of Two Moons
+393,Shrine of Seven Stars
+394,Shrine of Seven Stars
+395,Guo-Lai Halls
+396,Guo-Lai Halls
+397,Eye of the Storm
+398,Well of Eternity
+399,Hour of Twilight
+400,Hour of Twilight
+401,End Time
+402,End Time
+403,End Time
+404,End Time
+405,End Time
+406,End Time
+407,Darkmoon Island
+408,Darkmoon Island
+409,Dragon Soul
+410,Dragon Soul
+411,Dragon Soul
+412,Dragon Soul
+413,Dragon Soul
+414,Dragon Soul
+415,Dragon Soul
+416,Dustwallow Marsh
+417,Temple of Kotmogu
+418,Krasarang Wilds
+419,Ruins of Ogudei
+420,Ruins of Ogudei
+421,Ruins of Ogudei
+422,Dread Wastes
+423,Silvershard Mines
+424,Pandaria
+425,Northshire
+426,Echo Ridge Mine
+427,Coldridge Valley
+428,Frostmane Hovel
+429,Temple of the Jade Serpent
+430,Temple of the Jade Serpent
+431,Scarlet Halls
+432,Scarlet Halls
+433,The Veiled Stair
+434,The Ancient Passage
+435,Scarlet Monastery
+436,Scarlet Monastery
+437,Gate of the Setting Sun
+438,Gate of the Setting Sun
+439,Stormstout Brewery
+440,Stormstout Brewery
+441,Stormstout Brewery
+442,Stormstout Brewery
+443,Shado-Pan Monastery
+444,Shado-Pan Monastery
+445,Shado-Pan Monastery
+446,Shado-Pan Monastery
+447,A Brewing Storm
+448,The Jade Forest
+449,Temple of Kotmogu
+450,Unga Ingoo
+451,Assault on Zan'vess
+452,Brewmoon Festival
+453,Mogu'shan Palace
+454,Mogu'shan Palace
+455,Mogu'shan Palace
+456,Terrace of Endless Spring
+457,Siege of Niuzao Temple
+458,Siege of Niuzao Temple
+459,Siege of Niuzao Temple
+460,Shadowglen
+461,Valley of Trials
+462,Camp Narache
+463,Echo Isles
+464,Spitescale Cavern
+465,Deathknell
+466,Night Web's Hollow
+467,Sunstrider Isle
+468,Ammen Vale
+469,New Tinkertown
+470,Frostmane Hold
+471,Mogu'shan Vaults
+472,Mogu'shan Vaults
+473,Mogu'shan Vaults
+474,Heart of Fear
+475,Heart of Fear
+476,Scholomance
+477,Scholomance
+478,Scholomance
+479,Scholomance
+480,Proving Grounds
+481,Crypt of Forgotten Kings
+482,Crypt of Forgotten Kings
+483,Dustwallow Marsh
+486,Krasarang Wilds
+487,A Little Patience
+488,Dagger in the Dark
+489,Dagger in the Dark
+490,Black Temple
+491,Black Temple
+492,Black Temple
+493,Black Temple
+494,Black Temple
+495,Black Temple
+496,Black Temple
+497,Black Temple
+498,Krasarang Wilds
+499,Deeprun Tram
+500,Deeprun Tram
+501,Dalaran
+502,Dalaran
+503,Brawl'gar Arena
+504,Isle of Thunder
+505,Lightning Vein Mine
+506,The Swollen Vault
+507,Isle of Giants
+508,Throne of Thunder
+509,Throne of Thunder
+510,Throne of Thunder
+511,Throne of Thunder
+512,Throne of Thunder
+513,Throne of Thunder
+514,Throne of Thunder
+515,Throne of Thunder
+516,Isle of Thunder
+517,Lightning Vein Mine
+518,Thunder King's Citadel
+519,Deepwind Gorge
+520,Vale of Eternal Blossoms
+521,Vale of Eternal Blossoms
+522,The Secrets of Ragefire
+523,Dun Morogh
+524,Battle on the High Seas
+525,Frostfire Ridge
+526,Turgall's Den
+527,Turgall's Den
+528,Turgall's Den
+529,Turgall's Den
+530,Grom'gar
+531,Grulloc's Grotto
+532,Grulloc's Grotto
+533,Snowfall Alcove
+534,Tanaan Jungle
+535,Talador
+536,Tomb of Lights
+537,Tomb of Souls
+538,The Breached Ossuary
+539,Shadowmoon Valley
+540,Bloodthorn Cave
+541,Den of Secrets
+542,Spires of Arak
+543,Gorgrond
+544,Moira's Reach
+545,Moira's Reach
+546,Fissure of Fury
+547,Fissure of Fury
+548,Cragplume Cauldron
+549,Cragplume Cauldron
+550,Nagrand
+551,The Masters' Cavern
+552,Stonecrag Gorge
+553,Oshu'gun
+554,Timeless Isle
+555,Cavern of Lost Spirits
+556,Siege of Orgrimmar
+557,Siege of Orgrimmar
+558,Siege of Orgrimmar
+559,Siege of Orgrimmar
+560,Siege of Orgrimmar
+561,Siege of Orgrimmar
+562,Siege of Orgrimmar
+563,Siege of Orgrimmar
+564,Siege of Orgrimmar
+565,Siege of Orgrimmar
+566,Siege of Orgrimmar
+567,Siege of Orgrimmar
+568,Siege of Orgrimmar
+569,Siege of Orgrimmar
+570,Siege of Orgrimmar
+571,Celestial Tournament
+572,Draenor
+573,Bloodmaul Slag Mines
+574,Shadowmoon Burial Grounds
+575,Shadowmoon Burial Grounds
+576,Shadowmoon Burial Grounds
+577,Tanaan Jungle
+578,Umbral Halls
+579,Lunarfall Excavation
+580,Lunarfall Excavation
+581,Lunarfall Excavation
+582,Lunarfall
+585,Frostwall Mine
+586,Frostwall Mine
+587,Frostwall Mine
+588,Ashran
+589,Ashran Mine
+590,Frostwall
+593,Auchindoun
+594,Shattrath City
+595,Iron Docks
+596,Blackrock Foundry
+597,Blackrock Foundry
+598,Blackrock Foundry
+599,Blackrock Foundry
+600,Blackrock Foundry
+601,Skyreach
+602,Skyreach
+606,Grimrail Depot
+607,Grimrail Depot
+608,Grimrail Depot
+609,Grimrail Depot
+610,Highmaul
+611,Highmaul
+612,Highmaul
+613,Highmaul
+614,Highmaul
+615,Highmaul
+616,Upper Blackrock Spire
+617,Upper Blackrock Spire
+618,Upper Blackrock Spire
+619,Broken Isles
+620,The Everbloom
+621,The Everbloom
+622,Stormshield
+623,Hillsbrad Foothills (Southshore vs. Tarren Mill)
+624,Warspear
+626,Dalaran
+627,Dalaran
+628,Dalaran
+629,Dalaran
+630,Azsuna
+631,Nar'thalas Academy
+632,Oceanus Cove
+633,Temple of a Thousand Lights
+634,Stormheim
+635,Shield's Rest
+636,Stormscale Cavern
+637,Thorignir Refuge
+638,Thorignir Refuge
+639,Aggramar's Vault
+640,Vault of Eyir
+641,Val'sharah
+642,Darkpens
+643,Sleeper's Barrow
+644,Sleeper's Barrow
+645,Twisting Nether
+646,Broken Shore
+647,Acherus: The Ebon Hold
+648,Acherus: The Ebon Hold
+649,Helheim
+650,Highmountain
+651,Bitestone Enclave
+652,Thunder Totem
+653,Cave of the Blood Trial
+654,Mucksnout Den
+655,Lifespring Cavern
+656,Lifespring Cavern
+657,Path of Huln
+658,Path of Huln
+659,Stonedark Grotto
+660,Feltotem Caverns
+661,Hellfire Citadel
+662,Hellfire Citadel
+663,Hellfire Citadel
+664,Hellfire Citadel
+665,Hellfire Citadel
+666,Hellfire Citadel
+667,Hellfire Citadel
+668,Hellfire Citadel
+669,Hellfire Citadel
+670,Hellfire Citadel
+671,The Cove of Nashal
+672,"Mardum, the Shattered Abyss"
+673,Cryptic Hollow
+674,Soul Engine
+675,Soul Engine
+676,Broken Shore
+677,Vault of the Wardens
+678,Vault of the Wardens
+679,Vault of the Wardens
+680,Suramar
+681,The Arcway Vaults
+682,Felsoul Hold
+683,The Arcway Vaults
+684,Shattered Locus
+685,Shattered Locus
+686,Elor'shan
+687,Kel'balor
+688,Ley Station Anora
+689,Ley Station Moonfall
+690,Ley Station Aethenar
+691,Nyell's Workshop
+692,Falanaar Arcway
+693,Falanaar Arcway
+694,Helmouth Shallows
+695,Skyhold
+696,Stormheim
+697,Azshara
+698,Icecrown Citadel
+699,Icecrown Citadel
+700,Icecrown Citadel
+701,Icecrown Citadel
+702,Netherlight Temple
+703,Halls of Valor
+704,Halls of Valor
+705,Halls of Valor
+706,Helmouth Cliffs
+707,Helmouth Cliffs
+708,Helmouth Cliffs
+709,The Wandering Isle
+710,Vault of the Wardens
+711,Vault of the Wardens
+712,Vault of the Wardens
+713,Eye of Azshara
+714,Niskara
+715,Emerald Dreamway
+716,Skywall
+717,Dreadscar Rift
+718,Dreadscar Rift
+719,"Mardum, the Shattered Abyss"
+720,"Mardum, the Shattered Abyss"
+721,"Mardum, the Shattered Abyss"
+723,The Violet Hold
+725,The Maelstrom
+726,The Maelstrom
+728,Terrace of Endless Spring
+729,Crumbling Depths
+731,Neltharion's Lair
+732,Violet Hold
+733,Darkheart Thicket
+734,Hall of the Guardian
+735,Hall of the Guardian
+736,The Beyond
+737,The Vortex Pinnacle
+738,Firelands
+739,Trueshot Lodge
+740,Shadowgore Citadel
+741,Shadowgore Citadel
+742,Abyssal Maw
+743,Abyssal Maw
+744,Ulduar
+745,Ulduar
+746,Ulduar
+747,The Dreamgrove
+748,Niskara
+749,The Arcway
+750,Thunder Totem
+751,Black Rook Hold
+752,Black Rook Hold
+753,Black Rook Hold
+754,Black Rook Hold
+755,Black Rook Hold
+756,Black Rook Hold
+757,Ursoc's Lair
+758,Gloaming Reef
+759,Black Temple
+760,Malorne's Nightmare
+761,Court of Stars
+762,Court of Stars
+763,Court of Stars
+764,The Nighthold
+765,The Nighthold
+766,The Nighthold
+767,The Nighthold
+768,The Nighthold
+769,The Nighthold
+770,The Nighthold
+771,The Nighthold
+772,The Nighthold
+773,Tol Barad
+774,Tol Barad
+775,The Exodar
+776,Azuremyst Isle
+777,The Emerald Nightmare
+778,The Emerald Nightmare
+779,The Emerald Nightmare
+780,The Emerald Nightmare
+781,The Emerald Nightmare
+782,The Emerald Nightmare
+783,The Emerald Nightmare
+784,The Emerald Nightmare
+785,The Emerald Nightmare
+786,The Emerald Nightmare
+787,The Emerald Nightmare
+788,The Emerald Nightmare
+789,The Emerald Nightmare
+790,Eye of Azshara
+791,Temple of the Jade Serpent
+792,Temple of the Jade Serpent
+793,Black Rook Hold
+794,Karazhan
+795,Karazhan
+796,Karazhan
+797,Karazhan
+798,The Arcway
+799,The Oculus
+800,The Oculus
+801,The Oculus
+802,The Oculus
+803,The Oculus
+804,Scarlet Monastery
+805,Scarlet Monastery
+806,Trial of Valor
+807,Trial of Valor
+808,Trial of Valor
+809,Karazhan
+810,Karazhan
+811,Karazhan
+812,Karazhan
+813,Karazhan
+814,Karazhan
+815,Karazhan
+816,Karazhan
+817,Karazhan
+818,Karazhan
+819,Karazhan
+820,Karazhan
+821,Karazhan
+822,Karazhan
+823,Pit of Saron
+824,Islands
+825,Wailing Caverns
+826,Cave of the Bloodtotem
+827,Stratholme
+828,The Eye of Eternity
+829,Halls of Valor
+830,Krokuun
+831,The Vindicaar
+832,The Vindicaar
+833,Nath'raxas Spire
+834,Coldridge Valley
+835,The Deadmines
+836,The Deadmines
+837,Arathi Basin
+838,Battle for Blackrock Mountain
+839,The Maelstrom
+840,Gnomeregan
+841,Gnomeregan
+842,Gnomeregan
+843,Shado-Pan Showdown
+844,Arathi Basin
+845,Cathedral of Eternal Night
+846,Cathedral of Eternal Night
+847,Cathedral of Eternal Night
+848,Cathedral of Eternal Night
+849,Cathedral of Eternal Night
+850,Tomb of Sargeras
+851,Tomb of Sargeras
+852,Tomb of Sargeras
+853,Tomb of Sargeras
+854,Tomb of Sargeras
+855,Tomb of Sargeras
+856,Tomb of Sargeras
+857,Throne of the Four Winds
+858,Assault on Broken Shore
+859,Warsong Gulch
+860,The Ruby Sanctum
+861,"Mardum, the Shattered Abyss"
+862,Zuldazar
+863,Nazmir
+864,Vol'dun
+865,Stormheim
+866,Stormheim
+867,Azsuna
+868,Val'sharah
+869,Highmountain
+870,Highmountain
+871,The Lost Glacier
+872,Stormstout Brewery
+873,Stormstout Brewery
+874,Stormstout Brewery
+875,Zandalar
+876,Kul Tiras
+877,Fields of the Eternal Hunt
+879,"Mardum, the Shattered Abyss"
+880,"Mardum, the Shattered Abyss"
+881,The Eye of Eternity
+882,Eredath
+883,The Vindicaar
+884,The Vindicaar
+885,Antoran Wastes
+886,The Vindicaar
+887,The Vindicaar
+888,Hall of Communion
+889,Arcatraz
+890,Arcatraz
+891,Azuremyst Isle
+892,Azuremyst Isle
+893,Azuremyst Isle
+894,Azuremyst Isle
+895,Tiragarde Sound
+896,Drustvar
+897,The Deaths of Chromie
+898,The Deaths of Chromie
+899,The Deaths of Chromie
+900,The Deaths of Chromie
+901,The Deaths of Chromie
+902,The Deaths of Chromie
+903,The Seat of the Triumvirate
+904,Silithus Brawl
+905,Argus
+906,Arathi Highlands
+907,Seething Shore
+908,Ruins of Lordaeron
+909,"Antorus, the Burning Throne"
+910,"Antorus, the Burning Throne"
+911,"Antorus, the Burning Throne"
+912,"Antorus, the Burning Throne"
+913,"Antorus, the Burning Throne"
+914,"Antorus, the Burning Throne"
+915,"Antorus, the Burning Throne"
+916,"Antorus, the Burning Throne"
+917,"Antorus, the Burning Throne"
+918,"Antorus, the Burning Throne"
+919,"Antorus, the Burning Throne"
+920,"Antorus, the Burning Throne"
+921,Invasion Point: Aurinor
+922,Invasion Point: Bonich
+923,Invasion Point: Cen'gar
+924,Invasion Point: Naigtal
+925,Invasion Point: Sangua
+926,Invasion Point: Val
+927,Greater Invasion Point: Pit Lord Vilemus
+928,Greater Invasion Point: Mistress Alluradel
+929,Greater Invasion Point: Matron Folnuna
+930,Greater Invasion Point: Inquisitor Meto
+931,Greater Invasion Point: Sotanathor
+932,Greater Invasion Point: Occularus
+933,Forge of Aeons
+934,Atal'Dazar
+935,Atal'Dazar
+936,Freehold
+938,Gilneas Island
+939,Tropical Isle 8.0
+940,The Vindicaar
+941,The Vindicaar
+942,Stormsong Valley
+943,Arathi Highlands
+946,Cosmic
+947,Azeroth
+948,The Maelstrom
+971,Telogrus Rift
+972,Telogrus Rift
+973,The Sunwell
+974,Tol Dagor
+975,Tol Dagor
+976,Tol Dagor
+977,Tol Dagor
+978,Tol Dagor
+979,Tol Dagor
+980,Tol Dagor
+981,Un'gol Ruins
+985,Eastern Kingdoms
+986,Kalimdor
+987,Outland
+988,Northrend
+989,Pandaria
+990,Draenor
+991,Zandalar
+992,Kul Tiras
+993,Broken Isles
+994,Argus
+997,Tirisfal Glades
+998,Undercity
+1004,Kings' Rest
+1009,Atul'Aman
+1010,The MOTHERLODE!!
+1011,Zandalar
+1012,Stormwind City
+1013,The Stockade
+1014,Kul Tiras
+1015,Waycrest Manor
+1016,Waycrest Manor
+1017,Waycrest Manor
+1018,Waycrest Manor
+1021,Chamber of Heart
+1022,Uncharted Island
+1029,Waycrest Manor
+1030,Greymane Manor
+1031,Greymane Manor
+1032,Skittering Hollow
+1033,The Rotting Mire
+1034,Verdant Wilds
+1035,Molten Cay
+1036,The Dread Chain
+1037,Whispering Reef
+1038,Temple of Sethraliss
+1039,Shrine of the Storm
+1040,Shrine of the Storm
+1041,The Underrot
+1042,The Underrot
+1043,Temple of Sethraliss
+1044,Arathi Highlands
+1045,"Thros, The Blighted Lands"
+1148,Uldir
+1149,Uldir
+1150,Uldir
+1151,Uldir
+1152,Uldir
+1153,Uldir
+1154,Uldir
+1155,Uldir
+1156,The Great Sea
+1157,The Great Sea
+1158,Arathi Highlands
+1159,Blackrock Depths
+1160,Blackrock Depths
+1161,Boralus
+1162,Siege of Boralus
+1163,Dazar'alor
+1164,Dazar'alor
+1165,Dazar'alor
+1166,Zanchul
+1167,Zanchul
+1169,Tol Dagor
+1170,Gorgrond - Mag'har Scenario
+1171,Gol Thovas
+1172,Gol Thovas
+1173,Rastakhan's Might
+1174,Rastakhan's Might
+1176,Breath Of Pa'ku
+1177,Breath Of Pa'ku
+1179,Abyssal Melody
+1180,Abyssal Melody
+1181,Zuldazar
+1182,Saltstone Mine
+1183,Thornheart
+1184,Winterchill Mine
+1185,Winterchill Mine
+1186,Blackrock Depths
+1187,Azsuna
+1188,Val'sharah
+1189,Highmountain
+1190,Stormheim
+1191,Suramar
+1192,Broken Shore
+1193,Zuldazar
+1194,Nazmir
+1195,Vol'dun
+1196,Tiragarde Sound
+1197,Drustvar
+1198,Stormsong Valley
+1203,Darkshore
+1208,Eastern Kingdoms
+1209,Kalimdor
+1244,Arathi Highlands
+1245,Badlands
+1246,Blasted Lands
+1247,Tirisfal Glades
+1248,Silverpine Forest
+1249,Western Plaguelands
+1250,Eastern Plaguelands
+1251,Hillsbrad Foothills
+1252,The Hinterlands
+1253,Dun Morogh
+1254,Searing Gorge
+1255,Burning Steppes
+1256,Elwynn Forest
+1257,Deadwind Pass
+1258,Duskwood
+1259,Loch Modan
+1260,Redridge Mountains
+1261,Swamp of Sorrows
+1262,Westfall
+1263,Wetlands
+1264,Stormwind City
+1265,Ironforge
+1266,Undercity
+1267,Eversong Woods
+1268,Ghostlands
+1269,Silvermoon City
+1270,Isle of Quel'Danas
+1271,Gilneas
+1272,Vashj'ir
+1273,Ruins of Gilneas
+1274,Stranglethorn Vale
+1275,Twilight Highlands
+1276,Tol Barad
+1277,Tol Barad Peninsula
+1305,Durotar
+1306,Mulgore
+1307,Northern Barrens
+1308,Teldrassil
+1309,Darkshore
+1310,Ashenvale
+1311,Thousand Needles
+1312,Stonetalon Mountains
+1313,Desolace
+1314,Feralas
+1315,Dustwallow Marsh
+1316,Tanaris
+1317,Azshara
+1318,Felwood
+1319,Un'Goro Crater
+1320,Moonglade
+1321,Silithus
+1322,Winterspring
+1323,Thunder Bluff
+1324,Darnassus
+1325,Azuremyst Isle
+1326,The Exodar
+1327,Bloodmyst Isle
+1328,Mount Hyjal
+1329,Southern Barrens
+1330,Uldum
+1331,The Exodar
+1332,Darkshore
+1333,Darkshore
+1334,Wintergrasp
+1335,Cooking: Impossible
+1336,Havenswood
+1337,Jorundall
+1338,Darkshore
+1339,Warsong Gulch
+1343,8.1 Darkshore Outdoor Final Phase
+1345,Crucible of Storms
+1346,Crucible of Storms
+1347,Zandalari Treasury
+1348,Zandalari Treasury
+1349,Tol Dagor
+1350,Tol Dagor
+1351,Tol Dagor
+1352,Battle of Dazar'alor
+1353,Battle of Dazar'alor
+1354,Battle of Dazar'alor
+1355,Nazjatar
+1356,Battle of Dazar'alor
+1357,Battle of Dazar'alor
+1358,Battle of Dazar'alor
+1359,Icecrown Citadel
+1360,Icecrown Citadel
+1361,OldIronforge
+1362,Shrine of the Storm
+1363,Crucible of Storms
+1364,Battle of Dazar'alor
+1366,Arathi Basin
+1367,Battle of Dazar'alor
+1371,GnomereganA
+1372,GnomereganB
+1374,GnomereganD
+1375,Halls of Stone
+1379,8.3 Visions of N'Zoth - Prototype
+1380,GnomereganC
+1381,Uldir
+1382,Uldir
+1383,Arathi Basin
+1384,Northrend
+1396,Borean Tundra
+1397,Dragonblight
+1398,Grizzly Hills
+1399,Howling Fjord
+1400,Icecrown
+1401,Sholazar Basin
+1402,The Storm Peaks
+1403,Zul'Drak
+1404,Wintergrasp
+1405,Crystalsong Forest
+1406,Hrothgar's Landing
+1407,Prison of Ink
+1408,Ashran
+1409,Exile's Reach
+1462,Mechagon Island
+1465,Scarlet Halls
+1467,Outland
+1468,The Dreamgrove
+1469,Vision of Orgrimmar
+1470,Vision of Stormwind
+1471,Emerald Dreamway
+1472,The Dragon's Spine
+1473,Chamber of Heart
+1474,The Maelstrom - Heart of Azeroth
+1475,The Emerald Dream
+1476,Twilight Highlands
+1478,Ashran
+1479,Baine Rescue
+1490,Mechagon
+1491,Mechagon
+1493,Mechagon
+1494,Mechagon
+1497,Mechagon
+1499,Zin-Azshari
+1500,
+1501,Crestfall
+1502,Snowblossom Village
+1504,Nazjatar
+1505,Stratholme
+1512,The Eternal Palace
+1513,The Eternal Palace
+1514,The Eternal Palace
+1515,The Eternal Palace
+1516,The Eternal Palace
+1517,The Eternal Palace
+1518,The Eternal Palace
+1519,The Eternal Palace
+1520,The Eternal Palace
+1521,Karazhan Catacombs
+1522,Crumbling Cavern
+1523,Solesa Naksu [DNT]
+1524,
+1525,Revendreth
+1527,Uldum
+1528,Nazjatar
+1530,Vale of Eternal Blossoms
+1531,Crapopolis
+1532,Crapopolis
+1533,Bastion
+1534,Orgrimmar
+1535,Durotar
+1536,Maldraxxus
+1537,Alterac Valley
+1538,Blackwing Descent
+1539,Blackwing Descent
+1540,Halls of Origination
+1541,Halls of Origination
+1542,Halls of Origination
+1543,The Maw
+1544,Mogu'shan Palace
+1545,Mogu'shan Palace
+1546,Mogu'shan Palace
+1547,Mogu'shan Vaults
+1548,Mogu'shan Vaults
+1549,Mogu'shan Vaults
+1550,The Shadowlands
+1552,Caverns of Time
+1553,Caverns of Time
+1554,Serpentshrine Cavern
+1555,Tempest Keep
+1556,Hyjal Summit
+1557,Naxxramas
+1558,Icecrown Citadel
+1559,The Bastion of Twilight
+1560,Blackwing Lair
+1561,Firelands
+1563,Trial of the Crusader
+1565,Ardenweald
+1569,Bastion
+1570,Vale of Eternal Blossoms
+1571,Uldum
+1573,Mechagon City
+1574,Mechagon City
+1576,Deepwind Gorge
+1577,Gilneas City
+1578,Blackrock Depths
+1579,Pools Of Power
+1580,Ny'alotha
+1581,Ny'alotha
+1582,Ny'alotha
+1590,Ny'alotha
+1591,Ny'alotha
+1592,Ny'alotha
+1593,Ny'alotha
+1594,Ny'alotha
+1595,Ny'alotha
+1596,Ny'alotha
+1597,Ny'alotha
+1600,Vault of Y'Shaarj
+1602,Icecrown Citadel
+1603,Ardenweald
+1604,Chamber Of Heart
+1609,Darkmaul Citadel
+1610,Darkmaul Citadel
+1611,Dark Citadel
+1614,JT_New_A
+1615,TG10_Floor [Deprecated]
+1616,TG11_Floor [Deprecated]
+1617,TG12_Floor [Deprecated]
+1618,Torghast
+1619,Torghast
+1620,Torghast
+1621,Torghast
+1623,Torghast
+1624,Torghast
+1627,Torghast
+1628,Torghast
+1629,Torghast
+1630,Torghast
+1631,Torghast
+1632,Torghast
+1635,Torghast
+1636,Torghast
+1641,Torghast
+1642,Val'sharah
+1643,Ardenweald
+1644,Ember Court
+1645,Torghast
+1647,The Shadowlands
+1648,The Maw
+1649,Etheric Vault
+1650,Sightless Hold
+1651,Molten Forge
+1652,Vault of Souls
+1656,Torghast - Map Floor 10 [Deprecated]
+1658,Alpha_TG_R02
+1659,Alpha_TG_R03
+1661,Alpha_TG_R05
+1662,Queen's Conservatory
+1663,Halls of Atonement
+1664,Halls of Atonement
+1665,Halls of Atonement
+1666,The Necrotic Wake
+1667,The Necrotic Wake
+1668,The Necrotic Wake
+1669,Mists of Tirna Scithe
+1670,Oribos
+1671,Oribos
+1672,Oribos
+1673,Oribos
+1674,Plaguefall
+1675,Sanguine Depths
+1676,Sanguine Depths
+1677,De Other Side
+1678,De Other Side
+1679,De Other Side
+1680,De Other Side
+1681,Icecrown Citadel
+1682,Icecrown Citadel
+1683,Theater of Pain
+1684,Theater of Pain
+1685,Theater of Pain
+1686,Theater of Pain
+1687,Theater of Pain
+1688,Revendreth
+1689,Maldraxxus
+1690,Aspirant's Quarters
+1691,Shattered Grove
+1692,Spires Of Ascension
+1693,Spires Of Ascension
+1694,Spires Of Ascension
+1695,Spires Of Ascension
+1697,Plaguefall
+1698,Seat of the Primus
+1699,Sinfall
+1700,Sinfall
+1701,Heart of the Forest
+1702,Heart of the Forest
+1703,Heart of the Forest
+1705,Torghast - Entrance
+1707,Elysian Hold
+1708,Elysian Hold
+1709,Ardenweald
+1711,Ascension Coliseum
+1712,Torghast
+1713,Path of Wisdom
+1714,Third Chamber of Kalliope
+1715,Vestibule Of Eternity
+1716,Torghast - Map Floor 22
+1717,Chill's Reach
+1720,Covenant_Ard_Torghast
+1721,Torghast
+1724,Vortrexxis
+1726,The North Sea
+1727,The North Sea
+1728,The Runecarver
+1734,Revendreth
+1735,Castle Nathria
+1736,Torghast
+1738,Revendreth
+1739,Ardenweald
+1740,Ardenweald
+1741,Maldraxxus
+1742,Revendreth
+1744,Castle Nathria
+1745,Castle Nathria
+1746,Castle Nathria
+1747,Castle Nathria
+1748,Castle Nathria
+1749,Torghast
+1750,Castle Nathria
+1751,Torghast
+1752,Torghast
+1753,Torghast
+1754,Torghast
+1755,Castle Nathria
+1756,Torghast
+1757,Torghast
+1758,Torghast
+1759,Torghast
+1760,Torghast
+1761,Torghast
+1762,"Torghast, Tower of the Damned"
+1763,Torghast
+1764,Torghast
+1765,Torghast
+1766,Torghast
+1767,Torghast
+1768,Torghast
+1769,Torghast
+1770,Torghast
+1771,Torghast
+1772,Torghast
+1773,Torghast
+1774,Torghast
+1776,Torghast
+1777,Torghast
+1778,Torghast
+1779,Torghast
+1780,Torghast
+1781,Torghast
+1782,Torghast
+1783,Torghast
+1784,Torghast
+1785,Torghast
+1786,Torghast
+1787,Torghast
+1788,Torghast
+1789,Torghast
+1791,Torghast
+1792,Torghast
+1793,Torghast
+1794,Torghast
+1795,Torghast
+1796,Torghast
+1797,Torghast
+1798,Torghast
+1799,Torghast
+1800,Torghast
+1801,Torghast
+1802,Torghast
+1803,Torghast
+1804,Torghast
+1805,Torghast
+1806,Torghast
+1807,Torghast
+1808,Torghast
+1809,Torghast
+1810,Torghast
+1811,Torghast
+1812,Torghast
+1813,Bastion
+1814,Maldraxxus
+1816,Claw's Edge
+1818,Tirna Vaal
+1819,Fungal Terminus
+1820,Pit of Anguish
+1821,Pit of Anguish
+1822,Extractor's Sanatorium
+1823,Altar of Domination
+1824,Matriarch's Den
+1825,The Root Cellar
+1826,The Root Cellar
+1827,The Root Cellar
+1829,
+1833,Torghast
+1834,Torghast - Map Floor 24
+1835,Torghast - Map Floor 25
+1836,Torghast - Map Floor 26
+1837,Torghast - Map Floor 27
+1838,Torghast - Map Floor 41
+1839,Torghast - Map Floor 28
+1840,Torghast - Map Floor 40
+1841,Torghast - Map Floor 39
+1842,Torghast - Map Floor 29
+1843,Torghast - Map Floor 38
+1844,Torghast - Map Floor 32
+1845,Torghast - Map Floor 31
+1846,Torghast - Map Floor 33
+1847,Torghast - Map Floor 34
+1848,Torghast - Map Floor 14
+1849,Torghast - Map Floor 16
+1850,Torghast - Map Floor 18
+1851,Torghast - Map Floor 42
+1852,Torghast - Map Floor 44
+1853,Torghast - Map Floor 46
+1854,Torghast - Map Floor 48
+1855,Torghast - Map Floor 49
+1856,Torghast - Map Floor 50
+1857,Torghast - Map Floor 51
+1858,Torghast - Map Floor 52
+1859,Torghast - Map Floor 53
+1860,Torghast - Map Floor 54
+1861,Torghast - Map Floor 57
+1862,Torghast - Map Floor 59
+1863,Torghast - Map Floor 61
+1864,Torghast - Map Floor 63
+1865,Torghast - Map Floor 64
+1867,Torghast - Map Floor 66
+1868,Torghast - Map Floor 67
+1869,Torghast - Map Floor 68
+1870,Torghast - Map Floor 69
+1871,Torghast - Map Floor 70
+1872,Torghast - Map Floor 71
+1873,Torghast - Map Floor 74
+1874,Torghast - Map Floor 75
+1875,Torghast - Map Floor 76
+1876,Torghast - Map Floor 77
+1877,Torghast - Map Floor 78
+1878,Torghast - Map Floor 80
+1879,Torghast - Map Floor 81
+1880,Torghast - Map Floor 83
+1881,Torghast - Map Floor 84
+1882,Torghast - Map Floor 86
+1883,Torghast - Map Floor 87
+1884,Torghast - Map Floor 88
+1885,Torghast - Map Floor 89
+1886,Torghast - Map Floor 92
+1887,Torghast - Map Floor 93
+1888,Torghast - Map Floor 94
+1889,Torghast - Map Floor 95
+1890,Torghast - Map Floor 97
+1891,Torghast - Map Floor 98
+1892,Torghast - Map Floor 99
+1893,Torghast - Map Floor 100
+1894,Torghast - Map Floor 23
+1895,Torghast - Map Floor 35
+1896,Torghast - Map Floor 56
+1897,Torghast - Map Floor 62
+1898,Torghast - Map Floor 82
+1899,Torghast - Map Floor 101
+1900,Torghast - Map Floor 58
+1901,Torghast - Map Floor 73
+1902,Torghast - Map Floor 79
+1903,Torghast - Map Floor 85
+1904,Torghast - Map Floor 90
+1905,Torghast - Map Floor 96
+1907,Torghast - Map Floor 102
+1908,Torghast - Map Floor 60
+1909,Torghast - Map Floor 21
+1910,Torghast - Map Floor 91
+1911,Torghast - Entrance
+1912,The Runecarver's Oubliette
+1913,Torghast
+1914,Torghast
+1917,De Other Side
+1920,Torghast
+1921,Torghast
+1922,Draenor
+1923,Pandaria
+1958,Firelands
+1959,Firelands
+1960,The Maw
+1961,Korthia
+1962,Torghast
+1963,Torghast
+1964,Torghast
+1965,Torghast
+1966,Torghast
+1967,Torghast
+1968,Torghast
+1969,Torghast
+1970,Zereth Mortis
+1971,Skyhold
+1974,Torghast
+1975,Torghast
+1976,Torghast
+1977,Torghast
+1978,Dragon Isles
+1979,Torghast
+1980,Torghast
+1981,Torghast
+1982,Torghast
+1983,Torghast
+1984,Torghast
+1985,Torghast
+1986,Torghast
+1987,Torghast
+1988,Torghast
+1989,"Tazavesh, the Veiled Market"
+1990,"Tazavesh, the Veiled Market"
+1991,"Tazavesh, the Veiled Market"
+1992,"Tazavesh, the Veiled Market"
+1993,"Tazavesh, the Veiled Market"
+1995,"Tazavesh, the Veiled Market"
+1996,"Tazavesh, the Veiled Market"
+1997,"Tazavesh, the Veiled Market"
+1998,Sanctum of Domination
+1999,Sanctum of Domination
+2000,Sanctum of Domination
+2001,Sanctum of Domination
+2002,Sanctum of Domination
+2003,Sanctum of Domination
+2004,Sanctum of Domination
+2005,Ardenweald
+2006,Cavern of Contemplation
+2007,Gromit Hollow
+2008,Chamber of the Sigil
+2009,TG106_Floor_MM
+2010,Torghast
+2011,Torghast
+2012,Torghast
+2016,"Tazavesh, the Veiled Market"
+2017,Spires of Ascension
+2018,Spires of Ascension
+2019,Torghast
+2022,The Waking Shores
+2023,Ohn'ahran Plains
+2024,The Azure Span
+2025,Thaldraszus
+2026,The Forbidden Reach Deprecated
+2027,Blooming Foundry
+2028,Locrian Esper
+2029,Gravid Repose
+2030,Nexus of Actualization
+2031,Crypts of the Eternal
+2042,The Crucible
+2046,Zereth Mortis
+2047,Sepulcher of the First Ones
+2048,Sepulcher of the First Ones
+2049,Sepulcher of the First Ones
+2050,Sepulcher of the First Ones
+2051,Sepulcher of the First Ones
+2052,Sepulcher of the First Ones
+2055,Sepulcher of the First Ones
+2057,Dragon Isles
+2059,Resonant Peaks
+2061,Sepulcher of the First Ones
+2063,Dragon Isles
+2066,Catalyst Wards
+2070,Tirisfal Glades
+2071,Uldaman: Legacy of Tyr
+2072,Uldaman: Legacy of Tyr
+2073,The Azure Vault
+2074,The Azure Vault
+2075,The Azure Vault
+2076,The Azure Vault
+2077,The Azure Vault
+2080,Neltharus
+2081,Neltharus
+2082,Halls Of Infusion
+2083,Halls Of Infusion
+2084,The Emerald Dreamway
+2085,The Primalist Future
+2088,Pandaren Revolution
+2089,The Black Empire
+2090,The Gnoll War
+2091,War of the Shifting Sands
+2092,Azmerloth
+2093,The Nokhud Offensive
+2094,Ruby Life Pools
+2095,Ruby Life Pools
+2096,Brackenhide Hollow
+2097,Algeth'ar Academy
+2098,Algeth'ar Academy
+2099,Algeth'ar Academy
+2100,The Siege Creche
+2101,The Support Creche
+2102,The War Creche
+2106,Brackenhide Hollow
+2107,The Forbidden Reach
+2109,The War Creche
+2110,The Support Creche
+2111,The Siege Creche
+2112,Valdrakken
+2118,The Forbidden Reach
+2119,Vault of the Incarnates
+2120,Vault of the Incarnates
+2121,Vault of the Incarnates
+2122,Vault of the Incarnates
+2123,Vault of the Incarnates
+2124,Vault of the Incarnates
+2125,Vault of the Incarnates
+2126,Vault of the Incarnates
+2127,The Waking Shores
+2128,The Azure Span
+2129,Ohn'ahran Plains
+2130,Thaldraszus
+2131,The Forbidden Reach
+2132,The Azure Span
+2133,Zaralek Cavern
+2134,Valdrakken
+2135,Valdrakken
+2146,The Eastern Glades
+2147,Azeroth
+2149,Ohn'ahran Plains
+2150,Dragonskull Island
+2151,The Forbidden Reach
+2154,Froststone Vault
+2162,Alterac Valley
+2165,The Throughway
+2166,"Aberrus, the Shadowed Crucible"
+2167,"Aberrus, the Shadowed Crucible"
+2168,"Aberrus, the Shadowed Crucible"
+2169,"Aberrus, the Shadowed Crucible"
+2170,"Aberrus, the Shadowed Crucible"
+2171,"Aberrus, the Shadowed Crucible"
+2172,"Aberrus, the Shadowed Crucible"
+2173,"Aberrus, the Shadowed Crucible"
+2174,"Aberrus, the Shadowed Crucible"
+2175,Zaralek Cavern
+2176,The Maelstrom
+2183,The Azure Vault
+2184,Zaralek Cavern
+2190,Sanctum of Chronology
+2191,Millennia's Threshold
+2192,Locus of Eternity
+2193,Spoke of Endless Winter
+2194,Crossroads of Fate
+2195,Infinite Conflux
+2196,Twisting Approach
+2197,Immemorial Battlefield
+2198,Dawn of the Infinite
+2199,Tyrhold Reservoir
+2200,Emerald Dream
+2201,Azq'roth
+2202,Azewrath
+2203,Azmourne
+2204,Azmerloth
+2205,Ulderoth
+2206,A.Z.E.R.O.T.H.
+2207,The Warlands
+2211,"Aberrus, the Shadowed Crucible"
+2213,City of Threads
+2214,The Ringing Deeps
+2215,Hallowfall
+2216,City of Threads - Lower
+2220,The Nighthold
+2221,The Nighthold
+2228,The Black Empire
+2230,Halls Of Valor
+2231,Halls Of Valor
+2232,Amirdrassil
+2233,Amirdrassil
+2234,Amirdrassil
+2235,The Northern Boughs
+2236,The Eastern Boughs
+2237,The Southern Boughs
+2238,Amirdrassil
+2239,Amirdrassil
+2240,Amirdrassil
+2241,Emerald Dream
+2244,Amirdrassil
+2248,Isle of Dorn
+2249,Fungal Folly
+2250,Kriegval's Rest
+2251,The Waterworks
+2252,Dragon Isles
+2253,Sor'theril Barrow Den
+2254,Barrows of Reverie
+2255,Azj-Kahet
+2256,Azj-Kahet - Lower
+2257,Arathi Highlands
+2259,Tak-Rethan Abyss
+2262,Traitor's Rest
+2266,Millenia's Threshold
+2268,Amirdrassil
+2269,Earthcrawl Mines
+2270,Nerub'ar Taxi
+2271,Khaz Algar
+2272,Earthen Works Taxi
+2273,Hallowfall Taxi
+2274,Khaz Algar
+2275,11.0 - Underground [Deprecated]
+2276,Khaz Algar
+2277,Nightfall Sanctum
+2291,Nerub-ar Palace
+2292,Nerub-ar Palace
+2293,Nerub-ar Palace
+2294,Nerub-ar Palace
+2295,Nerub-ar Palace
+2296,Nerub-ar Palace
+2298,Nerub-ar Palace
+2299,The Underkeep
+2300,The Sinkhole
+2301,The Sinkhole
+2302,The Dread Pit
+2303,Darkflame Cleft
+2304,DarkFlame Cleft
+2305,Dalaran
+2306,Dalaran
+2307,Dalaran
+2308,Priori of the Sacred Flame
+2309,Priori of the Sacred Flame
+2310,Skittering Breach
+2311,11.0 -  Hallowfall - [Spreading the Light]- Disabled
+2312,Mycomancer Cavern
+2313,The Spiral Weave
+2314,Tak-Rethan Abyss
+2315,The Rookery
+2316,The Rookery
+2317,The Rookery
+2318,The Rookery
+2319,The Rookery
+2320,The Rookery
+2321,Chamber of Heart
+2322,Hall of Awakening
+2328,Khaz Algar - Proscenium
+2330,Priori of the Sacred Flame
+2335,Cinderbrew Meadery
+2339,Dornogal
+2341,The Stonevault
+2343,City of Threads
+2344,City of Threads
+2345,Deephaul Ravine
+2347,The Spiral Weave
+2348,Zekvir's Lair
+2357,City of Echos
+2358,City of Echos
+2359,The Dawnbreaker
+2367,Vault of Memory
+2368,Hall of Awakening
