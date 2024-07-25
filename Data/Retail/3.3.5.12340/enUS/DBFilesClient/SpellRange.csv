@@ -1,0 +1,65 @@
+ID,DisplayName_Lang_enUS,DisplayNameShort_Lang_enUS
+1,Self Only,Self
+2,Combat Range,Combat
+3,Twenty yards,Short
+4,Medium Range,Medium
+5,Long Range,Long
+6,Vision Range,Vision
+7,Ten yards,Very Short
+8,"Min Range 10, 20",Short
+9,Medium Range,Medium
+10,Long Range,Long
+11,Fifteen yards,Shorter
+12,Interact Range,Interact
+13,Anywhere,Anywhere
+14,Extra Long Range,Extra Long
+34,Twenty-Five yards,Medium-Short
+35,Medium-Long Range,Medium-Long
+36,Longer Range,Longer
+37,Extended Range,Extended
+38,"Min-Range 10, 25",Extra Medium
+54,Monster Shoot,Monster Shoot Range
+74,Ranged Weapon,Ranged
+94,Sting,Sting
+95,Charge,Charge
+96,Trap,Trap
+114,Hunter Range,Hunter
+134,Tower 80,Tower
+135,Tower 100,Tower
+136,Thirty-to-80,Thirty-to-80
+137,Eight yards,Very Short
+139,Long Range Hunter Shoot,Hunter Long
+140,Six yards,Six yards
+141,Seven yards,Seven yards
+150,Valgarde 8/100,Valgarde
+151,Long Range Hunter Shoot,Hunter 45
+152,Super Long,Super Long
+153,"Charge, 60",Huge Charge
+154,"Tower 80, 10",Tower 10
+155,Hunter Range (Long),Hunter (Long)
+156,Boulder Range,Boulder
+157,Ninety,Ninety
+158,"Super Long, 15 Min",Super Long
+159,TEST - Long Range,TestLong
+160,Medium/Long Range,Medium/Long
+161,Short/Long Range,Short/Long
+162,Medium/Short Range,Medium/Short
+163,Death Grip,Death Grip
+164,Catapult Range,Catapult
+165,Fourteen yards,Shorter
+166,Thirteen yards,Shorter
+167,Super Long (Min Range),Super Long
+168,Medium-Long Range (38),Medium-Long
+169,Three Yards,Three Yards
+170,Fifty Five Yards,Extended
+171,"Min Range 1, 10",Very Short
+172,Eleven yards,Shorter
+173,Anywhere (Combat Min Range),Hunter Long
+174,U L T R A,U L T R A
+176,Seventy yards,Extended
+177,Donut 20-70,Donut 20-70
+179,"Min Range 5, 15",Shorter
+180,Tournament - Ranged,Argent Tournament - Ranged
+181,Two-Hundred Yard Range,200
+184,"Min Range 5, 25",Medium
+187,Three Hundred Yards,300

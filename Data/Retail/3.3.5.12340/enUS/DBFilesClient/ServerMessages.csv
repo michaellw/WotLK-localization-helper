@@ -1,0 +1,10 @@
+ID,Text_Lang_enUS
+1,[SERVER] Shutdown in %s
+2,[SERVER] Restart in %s
+3,%s
+4,[SERVER] Shutdown cancelled
+5,[SERVER] Restart cancelled
+6,[SERVER] Battleground shutdown in %s
+7,[SERVER] Battleground restart in %s
+8,[SERVER] Instance shutdown in %s
+9,[SERVER] Instance restart in %s

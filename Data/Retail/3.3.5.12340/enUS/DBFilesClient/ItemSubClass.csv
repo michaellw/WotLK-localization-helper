@@ -1,0 +1,120 @@
+ID,DisplayName_Lang_enUS,VerboseName_Lang_enUS
+1,Consumable,
+2,Food & Drink,
+3,Potion,
+4,Elixir,
+5,Flask,
+6,Bandage,
+7,Item Enhancement,
+8,Scroll,
+9,Other,
+10,Bag,
+11,Soul Bag,
+12,Herb Bag,
+13,Enchanting Bag,
+14,Engineering Bag,
+15,Gem Bag,
+16,Mining Bag,
+17,Leatherworking Bag,
+18,Inscription Bag,
+19,Axe,One-Handed Axes
+20,Axe,Two-Handed Axes
+21,Bow,Bows
+22,Gun,Guns
+23,Mace,One-Handed Maces
+24,Mace,Two-Handed Maces
+25,Polearm,Polearms
+26,Sword,One-Handed Swords
+27,Sword,Two-Handed Swords
+28,Obsolete,
+29,Staff,Staves
+30,Exotic,One-Handed Exotics
+31,Exotic,Two-Handed Exotics
+32,Fist Weapon,Fist Weapons
+33,Miscellaneous,
+34,Dagger,Daggers
+35,Thrown,Thrown
+36,Spear,Spears
+37,Crossbow,Crossbows
+38,Wand,Wands
+39,Fishing Pole,Fishing Poles
+40,Red,
+41,Blue,
+42,Yellow,
+43,Purple,
+44,Green,
+45,Orange,
+46,Meta,
+47,Simple,
+48,Prismatic,
+49,Miscellaneous,
+50,Cloth,Cloth
+51,Leather,Leather
+52,Mail,Mail
+53,Plate,Plate
+54,Buckler(OBSOLETE),Bucklers
+55,Shield,Shields
+56,Libram,Librams
+57,Idol,Idols
+58,Totem,Totems
+59,Sigil,Sigils
+60,Reagent,
+61,Wand(OBSOLETE),
+62,Bolt(OBSOLETE),
+63,Arrow,
+64,Bullet,
+65,Thrown(OBSOLETE),
+66,Trade Goods,
+67,Elemental,
+68,Cloth,
+69,Leather,
+70,Metal & Stone,
+71,Meat,
+72,Herb,
+73,Enchanting,
+74,Jewelcrafting,
+75,Parts,
+76,Devices,
+77,Explosives,
+78,Materials,
+79,Other,
+80,Armor Enchantment,Armor Enchantment
+81,Weapon Enchantment,Weapon Enchantment
+82,Generic(OBSOLETE),
+83,Book,
+84,Leatherworking,
+85,Tailoring,
+86,Engineering,
+87,Blacksmithing,
+88,Cooking,
+89,Alchemy,
+90,First Aid,
+91,Enchanting,
+92,Fishing,
+93,Jewelcrafting,
+94,Inscription,Inscription
+95,Money(OBSOLETE),
+96,Quiver(OBSOLETE),
+97,Quiver(OBSOLETE),
+98,Quiver,
+99,Ammo Pouch,
+100,Quest,
+101,Key,
+102,Lockpick,
+103,Permanent,
+104,Junk,
+105,Reagent,
+106,Pet,
+107,Holiday,
+108,Other,
+109,Mount,Mount
+110,Warrior,Warrior
+111,Paladin,Paladin
+112,Hunter,Hunter
+113,Rogue,Rogue
+114,Priest,Priest
+115,Death Knight,Death Knight
+116,Shaman,Shaman
+117,Mage,Mage
+118,Warlock,Warlock
+119,Druid,Druid

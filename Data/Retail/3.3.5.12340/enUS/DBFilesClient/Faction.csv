@@ -1,0 +1,402 @@
+ID,Name_Lang_enUS,Description_Lang_enUS
+1,"PLAYER, Human",
+2,"PLAYER, Orc",
+3,"PLAYER, Dwarf",
+4,"PLAYER, Night Elf",
+5,"PLAYER, Undead",
+6,"PLAYER, Tauren ",
+7,Creature,
+8,"PLAYER, Gnome",
+9,"PLAYER, Troll",
+14,Monster,
+15,Defias Brotherhood,
+16,Gnoll - Riverpaw,
+17,Gnoll - Redridge,
+18,Gnoll - Shadowhide,
+19,Murloc,
+20,"Undead, Scourge",
+21,Booty Bay,This booming coastal city is run by Baron Revilgaz of the Blackwater Raiders.  Mortal enemies of the Bloodsail Buccaneers and part of the Steamwheedle Cartel.
+22,Beast - Spider,
+23,Beast - Boar,
+24,Worgen,
+25,Kobold,
+26,"Troll, Bloodscalp",
+27,"Troll, Skullsplitter",
+28,Prey,
+29,Beast - Wolf,
+30,Defias Brotherhood Traitor,
+31,Friendly,
+32,Trogg,
+33,"Troll, Frostmane",
+34,"Orc, Blackrock",
+35,Villian,
+36,Victim,
+37,Beast - Bear,
+38,Ogre,
+39,Kurzen's Mercenaries,
+40,Escortee,
+41,Venture Company,
+42,Beast - Raptor,
+43,Basilisk,
+44,"Dragonflight, Green",
+45,Lost Ones,
+46, Blacksmithing - Armorsmithing,
+47,Ironforge,This Alliance capital is the pride of the Dun Morogh dwarves.  Home to King Magni.
+48,Dark Iron Dwarves,
+49,"Human, Night Watch",
+50,"Dragonflight, Red",
+51,Gnoll - Mosshide,
+52,"Orc, Dragonmaw",
+53,Gnome - Leper,
+54,Gnomeregan Exiles,"The former denizens of Gnomeregan, now living in exile in Ironforge and in league with the Alliance."
+55,Leopard,
+56,Scarlet Crusade,
+57,Gnoll - Rothide,
+58,Beast - Gorilla,
+59,Thorium Brotherhood,The dwarves of the Thorium Brotherhood epitomize excellence in craftsmanship and are bent on unlocking the secrets of Blackrock Mountain.
+60,Naga,
+61,Dalaran,
+62,Forlorn Spirit,
+63,Darkhowl,
+64,Grell,
+65,Furbolg,
+66,Horde Generic,
+67,Horde,
+68,Undercity,"Led by Sylvanas Windrunner, the Forsaken have joined a tenuous alliance with the Horde and established this capital in the vast depths under the Ruins of Lordaeron."
+69,Darnassus,"This Alliance capital is populated by Night Elves and is located in the Island of Teldrassil.  Ruled by the Priestess of the Moon, Tyrande Whisperwind."
+70,Syndicate,A primarily human criminal organization that operates mostly out of the Alterac Mountains and Hillsbrad Foothills.
+71,Hillsbrad Militia,
+72,Stormwind,"One of the last bastions of human power, this Alliance capital is ruled by the prodigal king, Varian Wrynn."
+73,Demon,
+74,Elemental,
+75,Spirit,
+76,Orgrimmar,"Founded by Thrall, this Horde capital city is home to many of the proud orc clans of Durotar."
+77,Treasure,
+78,Gnoll - Mudsnout,
+79,"HIllsbrad, Southshore Mayor",
+80,"Dragonflight, Black",
+81,Thunder Bluff,"Cairne Bloodhoof leads his people, the proud Tauren, from this mighty Horde capital."
+82,"Troll, Witherbark",
+83, Leatherworking - Elemental,
+84,"Quilboar, Razormane",
+85,"Quilboar, Bristleback",
+86, Leatherworking - Dragonscale,
+87,Bloodsail Buccaneers,These bloodthirsty corsairs are the bane of many a merchant in the high seas.  Sworn enemies of Booty Bay.
+88,Blackfathom,
+89,Makrura,
+90,"Centaur, Kolkar",
+91,"Centaur, Galak",
+92,Gelkis Clan Centaur,These centaur have made their home in the southern region of Desolace.  Mortal enemies of the Magram Centaur.
+93,Magram Clan Centaur,These centaur have made their home in the eastern region of Desolace.  Mortal enemies of the Gelkis Centaur.
+94,Maraudine,
+108,Theramore,
+109,"Quilboar, Razorfen",
+110,"Quilboar, Razormane 2",
+111,"Quilboar, Deathshead",
+128,Enemy,
+148,Ambient,
+168,Nethergarde Caravan,
+169,Steamwheedle Cartel,
+189,Alliance Generic,
+209,Nethergarde,
+229,Wailing Caverns,
+249,Silithid,
+269,Silvermoon Remnant,
+270,Zandalar Tribe,These trolls have come to Yojamba Isle in an effort to recruit help against the resurrected Blood God and his Atal'ai Priests in Zul'Gurub.
+289, Blacksmithing - Weaponsmithing,
+309,Scorpid,
+310,Beast - Bat,
+311,Titan,
+329,Taskmaster Fizzule,
+349,Ravenholdt,This guild of thieves and assassins welcomes only those of extraordinary prowess into its fold.  Sworn rivals of the Syndicate.
+369,Gadgetzan,"Capital of the Steamwheedle Cartel and home to goblinhood's finest engineers, alchemists and merchants."
+389,Gnomeregan Bug,
+409,Harpy,
+429,Burning Blade,
+449,Shadowsilk Poacher,
+450,Searing Spider,
+469,Alliance,
+470,Ratchet,"Part of the Steamwheedle Cartel, this goblin city provides a neutral haven for those that wish to trade goods and services in the Barrens."
+471,Wildhammer Clan,"Though not a part of the Alliance, the dwarves of Aerie Peak have opened their doors to it and hold the Horde as enemies."
+489,"Goblin, Dark Iron Bar Patron",
+509,The League of Arathor,The League of Arathor seeks to reclaim the lost land of Arathi Basin for their benefactors in Stormwind.
+510,The Defilers,The Defilers seek to claim Arathi Basin's valuable resources for the Horde.
+511,Giant,
+529,Argent Dawn,An organization focused on protecting Azeroth from the threat of the Scourge.  Strongholds of the Argent Dawn can be found in the Eastern and Western Plaguelands.
+530,Darkspear Trolls,"This tribe of exiled trolls has joined forces with Thrall and the Horde.  They now call Durotar their home, which they share with their orc allies."
+531,"Dragonflight, Bronze",
+532,"Dragonflight, Blue",
+549, Leatherworking - Tribal,
+550, Engineering - Goblin,
+551, Engineering - Gnome,
+569, Blacksmithing - Hammersmithing,
+570, Blacksmithing - Axesmithing,
+571, Blacksmithing - Swordsmithing,
+572,"Troll, Vilebranch",
+573,Southsea Freebooters,
+574,Caer Darrow,
+575,"Furbolg, Uncorrupted",
+576,Timbermaw Hold,"As the last uncorrupted furbolg tribe, the Timbermaw seek to preserve their spiritual ways and end the suffering of their brethren."
+577,Everlook,This trading post is run by the goblins of the Steamwheedle Cartel and it sits in the crossroads of Winterspring's main trade routes.
+589,Wintersaber Trainers,This small group of reclusive night elves raises and trains wintersabers in the Winterspring area.
+609,Cenarion Circle,The druids of Cenarion Circle are guardians of nature and make their home in tranquil Moonglade.
+629,Shatterspear Trolls,
+630,Ravasaur Trainers,
+649,Majordomo Executus,
+669,Beast - Carrion Bird,
+670,Beast - Cat,
+671,Beast - Crab,
+672,Beast - Crocilisk,
+673,Beast - Hyena,
+674,Beast - Owl,
+675,Beast - Scorpid,
+676,Beast - Tallstrider,
+677,Beast - Turtle,
+678,Beast - Wind Serpent,
+679,Training Dummy,
+689,"Dragonflight, Black - Bait",
+709,Battleground Neutral,
+729,Frostwolf Clan,The Frostwolf Clan seeks to drive out the dwarves of the Stormpike Expedition from Alterac Valley.
+730,Stormpike Guard,"The Stormpike Dwarves have set up residence in Alterac Valley, where they're locked in battle with the Frostwolf Orcs."
+749,Hydraxian Waterlords,These elementals have made their home on the islands east of Azshara.  Sworn enemies of the armies of Ragnaros.
+750,Sulfuron Firelords,
+769,Gizlock's Dummy,
+770,Gizlock's Charm,
+771,Gizlock,
+789,Moro'gai,
+790,Spirit Guide - Alliance,
+809,Shen'dralar,"A remnant of the once powerful elves living in Dire Maul, yet still wise and knowledgeable about great secrets. "
+829,Ogre (Captain Kromcrush),
+849,Spirit Guide - Horde,
+869,Jaedenar,
+889,Warsong Outriders,"Fierce orcs of the Warsong Clan, locked in battle against the Silverwing Sentinels in Warsong Gulch."
+890,Silverwing Sentinels,"Staunch defenders of Ashenvale, locked in battle against the Warsong Outriders in Warsong Gulch."
+891,Alliance Forces,
+892,Horde Forces,
+893,Revantusk Trolls,
+909,Darkmoon Faire,"A traveling fair that showcases the weird and the extraordinary.  Often spotted in Elwynn Forest, Mulgore, and Terokkar Forest."
+910,Brood of Nozdormu,The descendants of the Bronze Dragonflight are the guardians of time and care little for the mortal races.
+911,Silvermoon City,"The capital of Quel'Thalas, home of the blood elves.  Though nearly destroyed by Arthas' attack on the Sunwell, Silvermoon is once again a thriving city."
+912,Might of Kalimdor,
+914,"PLAYER, Blood Elf",
+915,Armies of C'Thun,
+916,Silithid Attackers,
+917,The Ironforge Brigade,
+918,RC Enemies,
+919,RC Objects,
+920,Red,
+921,Blue,
+922,Tranquillien,"Once a high elf town, Tranquillien became abandoned after the Scourge invaded Quel'Thalas.  It has now been reclaimed by the Forsaken and the blood elves who seek to rid the Ghostlands of the Scourge."
+923,Farstriders,
+924,DEPRECATED,
+925,Sunstriders,
+926,Magister's Guild,
+927,"PLAYER, Draenei",
+928,Scourge Invaders,
+929,Bloodmaul Clan,
+930,Exodar,"The naaru vessel that brought the draenei to Azeroth.  Though stranded in the Azuremyst Isles, it acts as a home city for this noble race."
+931,Test Faction (not a real faction),This faction only exists to test the editing of faction names and descriptions...
+932,The Aldor,"An ancient order of draenei priests once run by Velen, the Aldor are currently led by High Priestess Ishanah.  They are servants of the naaru in Shattrath City known as the Sha'tar.  Rivals of the Scryers."
+933,The Consortium,"Led by Nexus-Prince Haramad, the Consortium is a loosely affiliated cartel of ethereal smugglers, traders and thieves that has come to Outland to benefit from its riches."
+934,The Scryers,"Voren'thal the Seer leads the dissident blood elves who've rejected Kael'thas' path to power.  They've joined forces with the naaru of Shattrath City, much to the dismay of the Aldor."
+935,The Sha'tar,"The Sha'tar are a group of powerful naaru who rule over a rebuilt Shattrath City.  With the help of the Aldor and the Scryers, they lead the battle against Illidan and the Burning Legion."
+936,Shattrath City,
+937,"Troll, Forest",
+938,The Omenai,
+939,DEPRECATED,
+940,The Sons of Lothar,
+941,The Mag'har,This reclusive group of brown-skinned orcs has escaped any form of demonic corruption.  They have retained their traditional way of life in the face of great changes in Outland.
+942,Cenarion Expedition,An exploratory force sent to Outland by the Cenarion Circle to study surviving life forms.  The Cenarion Expedition has quickly gained in size and autonomy since the opening of the Dark Portal.
+943,Fel Orc,
+944,Fel Orc Ghost,
+945,Sons of Lothar Ghosts,
+946,Honor Hold,"Vestiges of the Sons of Lothar, veterans of the Alliance that first came into Draenor, have steadfastly held on to this Hellfire outpost.  They are now joined by the armies from Stormwind and Ironforge."
+947,Thrallmar,The expedition sent through the Dark Portal by Thrall has built a stronghold in Hellfire Peninsula.  Thrallmar serves as a base of operations for much of the Horde's activities in Outland.
+948,Test Faction 2,
+949,Test Faction 1,
+950,ToWoW - Flag,
+951,ToWoW - Flag Trigger Alliance (DND),
+952,Test Faction 3,
+953,Test Faction 4,
+954,ToWoW - Flag Trigger Horde (DND),
+955,Broken,
+956,Ethereum,
+957,Earth Elemental,
+958,Fighting Robots,
+959,Actor Good,
+960,Actor Evil,
+961,Stillpine Furbolg,
+962,Crazed Owlkin,
+963,Chess Alliance,
+964,Chess Horde,
+965,Monster Spar,
+966,Monster Spar Buddy,
+967,The Violet Eye,A secret sect of the Kirin Tor founded to spy on Medivh and his activities.
+968,Sunhawks,
+969,Hand of Argus,
+970,Sporeggar,The sporelings are a mostly peaceful race of mushroom-men native to Outland. Their home is located in the southern bogs of Zangarmarsh. 
+971,Fungal Giant,
+972,Spore Bat,
+973,"Monster, Predator",
+974,"Monster, Prey",
+975,Void Anomaly,
+976,Hyjal Defenders,
+977,Hyjal Invaders,
+978,Kurenai,"Draenei for ""redeemed.""  These Broken have escaped the grasp of their various slavers in Outland and have made their home in Nagrand.  It is there that they seek to rediscover their destiny."
+979,Earthen Ring,
+980,The Burning Crusade,
+981,Arakkoa,
+982,Zangarmarsh Banner (Alliance),
+983,Zangarmarsh Banner (Horde),
+984,Zangarmarsh Banner (Neutral),
+985,Caverns of Time - Thrall,
+986,Caverns of Time - Durnholde,
+987,Caverns of Time - Southshore Guards,
+988,Shadow Council Covert,
+989,Keepers of Time,The Keepers of Time are bronze dragons hand-picked by Nozdormu to watch over the Caverns of Time.
+990,The Scale of the Sands,"A secretive subgroup of the Bronze Dragonflight, led by Soridormi, prime mate of Nozdormu."
+991,"Dark Portal Defender, Alliance",
+992,"Dark Portal Defender, Horde",
+993,"Dark Portal Attacker, Legion",
+994,Inciter Trigger,Used for the Blackheart the Inciter event.
+995,Inciter Trigger 2,Used for the Blackheart the Inciter event.
+996,Inciter Trigger 3,Used for the Blackheart the Inciter event.
+997,Inciter Trigger 4,Used for the Blackheart the Inciter event.
+998,Inciter Trigger 5,Used for the Blackheart the Inciter event.
+999,Mana Creature,
+1000,Khadgar's Servant,
+1001,Bladespire Clan,
+1002,Ethereum Sparbuddy,
+1003,Protectorate,
+1004,Arcane Annihilator (DNR),
+1005,"Friendly, Hidden",
+1006,Kirin'Var - Dathric,
+1007,Kirin'Var - Belmara,
+1008,Kirin'Var - Luminrath,
+1009,Kirin'Var - Cohlien,
+1010,Servant of Illidan,
+1011,Lower City,The refugees of Shattrath come from diverse backgrounds and races.  Word of helpful deeds spreads quickly among the Denizens of Lower City.
+1012,Ashtongue Deathsworn,"The elite of the Broken tribe known as the Ashtongue, officially aligned with Illidan. The Deathsworn are Akama's most trusted lieutenants and are privy to their leader's mysterious motivations."
+1013,Spirits of Shadowmoon 1,
+1014,Spirits of Shadowmoon 2,
+1015,Netherwing,"This unusual brood of dragons was spawned from the eggs of Deathwing's black dragonflight, and infused with raw nether-energies.  Now, they seek to find their identity beyond the shadows of their father's destructive heritage."
+1016,Wyrmcult,
+1017,Treant,
+1018,Leotheras Demon I,
+1019,Leotheras Demon II,
+1020,Leotheras Demon III,
+1021,Leotheras Demon IV,
+1022,Leotheras Demon V,
+1023,Azaloth,
+1024,Rock Flayer,
+1025,Flayer Hunter,
+1026,Shadowmoon Shade,
+1027,Legion Communicator,
+1028,Ravenswood Ancients,
+1029,"Chess, Friendly to All Chess",
+1030,Black Temple Gates - Illidari,
+1031,Sha'tari Skyguard,An airborne military force created by Shattrath City to deal with the threats that loom in the highest reaches of Outland.
+1032,Area 52,
+1033,Maiev,
+1034,Skettis Shadowy Arakkoa,
+1035,Skettis Arakkoa,
+1036,Dragonmaw Enemy,
+1037,Alliance Vanguard,"The combined forces of the Alliance in Northrend, lead by the Valiance Expedition, but also including civilian groups such as the Explorer's League."
+1038,Ogri'la,"The enlightened denizens of Ogri'la have made their dwelling in the western Blade's Edge Mountains, where proximity to apexis crystals has caused them to transcend their brutish ogre nature."
+1039,Ravager,
+1040,REUSE,
+1041,Frenzy,
+1042,Skyguard Enemy,
+1043,"Skunk, Petunia",
+1044,Theramore Deserter,
+1045,Vrykul,
+1046,Northsea Pirates,
+1047,Tuskarr,
+1048,UNUSED,
+1049,"Troll, Amani",
+1050,Valiance Expedition,"The main armies of the Alliance in Northrend, moving against the Scourge and unified under King Varian Wrynn's command."
+1051,UNUSED,
+1052,Horde Expedition,"The combined forces of the Horde in Northrend, spearheaded by the Warsong Offensive."
+1053,Westguard,
+1054,Spotted Gryphon,
+1055,Tamed Plaguehound,
+1056,Vrykul (Ancient Spirit 1),
+1057,Vrykul (Ancient Siprit 2),
+1058,Vrykul (Ancient Siprit 3),
+1059,CTF - Flag - Alliance,
+1060,Test,
+1061,vrykul,
+1062,Vrykul Gladiator,
+1063,Valgarde Combatant,
+1064,The Taunka,These hardy people are cousins of the Tauren and have become valuable scouts for the armies of the Horde as they march northward.
+1065,"Monster, Zone Force Reaction 1",
+1066,"Monster, Zone Force Reaction 2",
+1067,The Hand of Vengeance,The Forsaken tasked by Sylvanas Windrunner with enacting Undercity's vengeance against Arthas by delivering the latest strain of their deadly Plague.
+1068,Explorers' League,This organization seeks to find the origin of the dwarven race by collecting Titan artifacts.  Their most recent research has led them to various archeological sites in Northrend.
+1069,Ram Racing Powerup DND,
+1070,Ram Racing Trap DND,
+1071,Craig's Squirrels,A test faction.
+1072,REUSE,
+1073,The Kalu'ak,The tuskarr are a tough but peaceful people who derive their livelihood from fishing and whaling.  Their settlements have recently come under fierce attack and welcome any allies who would come to their aid.
+1074,Holiday - Water Barrel,
+1075,Holiday - Generic,
+1076,Iron Dwarves,
+1077,Shattered Sun Offensive,Shattrath City's final push against Prince Kael'thas' operations in the Sunwell.
+1078,Fighting Vanity Pet,
+1079,"Murloc, Winterfin",
+1080,"Friendly, Force Reaction",
+1081,"Object, Force Reaction",
+1082,REUSE,
+1083,REUSE,
+1084,"Vrykul, Sea",
+1085,Warsong Offensive,Garrosh Hellscream commands the Horde's main expeditionary forces as they make their way into Northrend to face Arthas and the armies of the Scourge.
+1086,Poacher,
+1087,Holiday Monster,
+1088,"Furbolg, Redfang",
+1089,"Furbolg, Frostpaw",
+1090,Kirin Tor,"The mages and archmages running the city of Dalaran.  Faced with the rising threats of the Blue Dragonflight and the Scourge, they've transported their city to the heart of Northrend."
+1091,The Wyrmrest Accord,"With the Blue Dragonflight's violent upheaval against all mortal users of magic, the remaining dragonflights have banded under the leadership of the Red Dragonflight to combat their wayward kin."
+1092,Azjol-Nerub,
+1093,REUSE,
+1094,The Silver Covenant,A militant core of high elves that rejects the admission of blood elves into the Kirin Tor.  They've united under the banner of Vereesa Windrunner and joined the Alliance forces in Northrend.
+1095,Grizzly Hills Trapper,
+1096,REUSE,
+1097,Wrath of the Lich King,
+1098,Knights of the Ebon Blade,"Freed from the grasp of the Lich King, his former Death Knights have regrouped against him under the banner of Highlord Darion Mograine."
+1099,Wrathgate Scourge,
+1100,Wrathgate Alliance,
+1101,Wrathgate Horde,
+1102,CTF - Flag - Horde,
+1103,CTF - Flag - Neutral,
+1104,Frenzyheart Tribe,"Driven from their lands by the Scourge, this fierce tribe of wolvar stumbled upon Sholazar Basin, where they intend to make their new home.  Their aggressive nature has put them at odds with the various gorloc tribes known collectively as the Oracles."
+1105,The Oracles,The gorlocs of Sholazar Basin are a race of reptilian creatures who see themselves as guardians of the titan technology that remains in the zone (though they understand little of it).  They find themselves in an escalating territorial war with the wolvar.
+1106,Argent Crusade,"Led by Tirion Fordring, the Argent Crusade combines the reformed Order of the Silver Hand with the Argent Dawn in one final push against the forces of the Lich King."
+1107,"Troll, Drakkari",
+1108,CoT Arthas,
+1109,CoT Stratholme Citizen,
+1110,CoT Scourge,
+1111,Freya,
+1112,Mount - Taxi - Alliance,
+1113,Mount - Taxi - Horde,
+1114,Mount - Taxi - Neutral,
+1115,"Elemental, Water",
+1116,"Elemental, Air",
+1117,Sholazar Basin,
+1118,Classic,
+1119,The Sons of Hodir,The frost giants of the Storm Peaks are a war-like race that makes their home in Dun Nifelem.
+1120,Iron Giants,
+1121,Frost Vrykul,
+1122,Earthen,
+1123,Monster Referee,
+1124,The Sunreavers,"Traditionally barred from Dalaran, the Horde has been accepted into the city through the efforts of Archmage Aethas Sunreaver.  His followers have taken up his name and watch over the ward known as Sunreaver's Sanctuary."
+1125,Hyldsmeet,
+1126,The Frostborn,This mysterious race of frost dwarves makes their home in the Storm Peaks.  They've recently befriended members of the Explorers' League and welcome Alliance members within their settlements.
+1127,Orgrimmar (Alex Test),
+1136,Tranquillien Conversion,
+1137,Wintersaber Conversion,
+1145,Hates Everything,
+1154,Silver Covenant Conversion,
+1155,Sunreavers Conversion,
+1156,The Ashen Verdict,"Under a pact by Tirion Fordring and Darion Mograine, the Argent Crusade and the Knights of the Ebon Blade have set aside their differences during the attack on Icecrown Citadel until the Lich King is slain."
+1159,CTF - Flag - Alliance 2,
+1160,CTF - Flag - Horde 2,

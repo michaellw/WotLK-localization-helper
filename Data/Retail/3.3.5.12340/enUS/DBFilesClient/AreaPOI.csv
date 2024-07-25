@@ -1,0 +1,739 @@
+ID,Name_Lang_enUS,Description_Lang_enUS
+1,Anvilmar,
+2,Brill,
+3,Darkshire,
+4,Deathknell,
+5,Dun Algaz,
+6,Dun Modr,
+7,Goldshire,
+8,Ironforge,
+9,Kharanos,
+10,Lakeshire,
+11,Menethil Harbor,
+12,Moonbrook,
+13,Northshire Abbey,
+14,Raven Hill,
+15,Sentinel Hill,
+16,Stormwind City,
+17,The Sepulcher,
+18,Undercity,
+19,Thelsamar,
+20,Alliance,
+21,Horde,
+22,Southshore,
+23,Tarren Mill,
+24,Refuge Pointe,
+25,Hammerfall,
+26,Kargath,
+27,Angor Fortress,
+28,Bloodhoof Village,
+29,Thunder Bluff,
+30,Camp Narache,
+31,Razor Hill,
+32,The Den,
+33,Orgrimmar,
+34,Sen'jin Village,
+35,The Crossroads,
+36,Aldrassil,
+37,Dolanaar,
+38,Darnassus,
+39,Ratchet,
+40,Booty Bay,
+41,Grom'gol Base Camp,
+42,Astranaar,
+44,Stonetalon Peak,
+45,Thalanaar,
+46,Freewind Post,
+227,Mirror Lake,
+247,Slaughter Hollow,
+327,Drywhisker Gorge,
+701,Sun Rock Retreat,
+707,Temple of Zin-Malor,
+708,Hetaera's Clutch,
+709,Uther's Tomb,
+710,Scholomance,
+767,Whitereach Post,
+788,Stonard,
+789,Gadgetzan,
+790,Camp Mojache,
+791,Theramore Isle,
+792,Aerie Peak,
+794,Everlook,
+795,Shadowprey Village,
+796,Feathermoon Stronghold,
+798,Auberdine,
+799,Nijel's Point,
+907,Aldrassil,
+908,Shadowthread Cave,
+909,Fel Rock,
+911,Ban'ethil Barrow Den,
+912,The Cleft,
+913,Razorwind Canyon,
+929,Tor'kren Farm,
+947,Steelgrill's Depot,
+948,Ironband's Compound,
+949,Echo Ridge Mine,
+950,Maclure Vineyards,
+951,Stonefield Farm,
+954,Northshire Vineyards,
+955,Tower of Ilgalar,
+956,Render's Rock,
+1007,Spirit Den,
+1008,Rethban Caverns,
+1010,Boulderfist Outpost,
+1011,Grosh'gok Compound,
+1012,Stagalbog Cave,
+1013,Temple of Atal'Hakkar,
+1014,The Tower of Arathor,
+1015,Wildhammer Keep,
+1016,Night Web's Hollow,
+1017,Terrorweb Tunnel,
+1018,Browman Mill,
+1027,Uldaman,
+1028,Dustbelch Grotto,
+1029,Westbrook Garrison,
+1030,Jasperlode Mine,
+1031,Janeiro's Point,
+1032,Algaz Station,
+1033,Grim Batol,
+1047,Venture Co. Mine,
+1048,Blackwood Den,
+1049,Wildbend River,
+1050,Cliffspring Falls,
+1067,Fray Island,
+1068,Wailing Caverns,
+1087,Shady Rest Inn,
+1088,Darkmist Cavern,
+1089,North Point Tower,
+1090,Bluefen,
+1091,Lost Point,
+1092,Tidefury Cove,
+1093,Stonemaul Ruins,
+1094,Onyxia's Lair,
+1095,Emberstrife's Den,
+1096,Bloodfen Burrow,
+1097,Sentry Point,
+1098,Swamplight Manor,
+1099,Irondeep Mine,Alliance Controlled
+1100,Stonehearth Outpost,
+1101,Iceblood Garrison,
+1102,Coldtooth Mine,Horde Controlled
+1103,Frostwolf Keep,
+1104,Marshal's Refuge,
+1105,Fungal Rock,
+1106,Wavestrider Beach,
+1107,Uldum,
+1108,Darkcloud Pinnacle,
+1109,Roguefeather Den,
+1110,Mirage Raceway,
+1111,The Rustmaul Digsite,
+1112,Splithoof Hold,
+1113,The Weathered Nook,
+1114,Ironstone Camp,
+1115,Weazel's Crater,
+1116,Tahonda Ruins,
+1127,Roland's Doom,
+1128,Beggar's Haunt,
+1147,Bolgan's Hole,
+1148,Maraudon,
+1149,Ghost Walker Post,
+1150,Scrabblescrew's Camp,
+1151,Valley of Bones,
+1168,Rage Scar Hold,
+1169,Ruins of Solarsal,
+1171,Ravaged Twilight Camp,
+1172,Twilight Post,
+1173,Twilight Outpost,
+1174,Woodpaw Hills,
+1175,Lariss Pavillion,
+1176,Slither Rock,
+1177,Flame Crest,
+1187,Shalzaru's Lair,
+1208,Stormpike Graveyard,Alliance Controlled
+1209,Snowfall Graveyard,Horde Controlled
+1210,Frostwolf Graveyard,Horde Controlled
+1211,Scalebeard's Cave,
+1212,Timbermaw Hold,
+1213,The Ruins of Kel'Theril,
+1214,Dun Mandarr,
+1215,Talrendis Point,
+1216,Rethress Sanctum,
+1217,Moon Horror Den,
+1218,Timbermaw Hold,
+1219,Irontree Cavern,
+1220,Bloodvenom Post,
+1227,Sishir Canyon,
+1228,Cragpool Lake,
+1229,Windshear Mine,
+1230,The Talondeep Path,
+1231,The Talon Den,
+1232,The Ruins of Ordil'Aran,
+1233,Bathran's Haunt,
+1234,Zoram'gar Outpost,
+1235,Falfarren River,
+1237,Xavian,
+1238,Forest Song,
+1239,Demon Fall Canyon,
+1240,Silverwing Outpost,
+1241,The Dor'Danil Barrow Den,
+1242,Silverwind Refuge,
+1243,Greenpaw Village,
+1244,Bloodtooth Camp,
+1245,The Talondeep Path,
+1246,Shrine of Remulos,
+1247,Nighthaven,
+1248,Stormrage Barrow Dens,
+1249,Dun Baldar South Bunker,Alliance Controlled
+1250,Dun Baldar North Bunker,Alliance Controlled
+1251,Icewing Bunker,Alliance Controlled
+1252,Iceblood Tower,Horde Controlled
+1254,Tower Point,Horde Controlled
+1255,East Frostwolf Tower,Horde Controlled
+1268,Warsong Labor Camp,
+1287,Ariden's Camp,
+1288,Deadwind Ravine,
+1289,Sleeping Gorge,
+1307,Chillwind Camp,
+1328,Dun Baldar,
+1347,Stonehearth Bunker,Alliance Controlled
+1348,Stormpike Aid Station,Alliance Controlled
+1349,Iceblood Graveyard,Horde Controlled
+1350,Stonehearth Graveyard,Alliance Controlled
+1351,Frostwolf Relief Hut,Horde Controlled
+1352,Dun Baldar North Bunker,Destroyed
+1353,Dun Baldar North Bunker,In Conflict
+1354,Dun Baldar North Bunker,In Conflict
+1355,Dun Baldar South Bunker,Destroyed
+1356,Dun Baldar South Bunker,In Conflict
+1357,Dun Baldar South Bunker,In Conflict
+1358,Coldtooth Mine,Alliance Controlled
+1359,Coldtooth Mine,Kobold Controlled
+1362,East Frostwolf Tower,Destoyed
+1363,East Frostwolf Tower,In Conflict
+1364,East Frostwolf Tower,In Conflict
+1368,Frostwolf Graveyard,Alliance Controlled
+1369,Frostwolf Graveyard,In Conflict
+1370,Frostwolf Graveyard,In Conflict
+1371,Frostwolf Relief Hut,Alliance Controlled
+1372,Frostwolf Relief Hut,In Conflict
+1373,Frostwolf Relief Hut,In Conflict
+1374,Iceblood Graveyard,Alliance Controlled
+1375,Iceblood Graveyard,In Conflict
+1376,Iceblood Graveyard,In Conflict
+1377,Iceblood Tower,Destroyed
+1378,Iceblood Tower,In Conflict
+1379,Iceblood Tower,In Conflict
+1380,Icewing Bunker,Destroyed
+1381,Icewing Bunker,In Conflict
+1382,Icewing Bunker,In Conflict
+1383,Irondeep Mine,Horde Controlled
+1384,Irondeep Mine,Trogg Controlled
+1386,Snowfall Graveyard,Alliance Controlled
+1387,Snowfall Graveyard,In Conflict
+1388,Snowfall Graveyard,In Conflict
+1389,Stonehearth Bunker,Destroyed
+1390,Stonehearth Bunker,In Conflict
+1391,Stonehearth Bunker,In Conflict
+1392,Stonehearth Graveyard,Horde Controlled
+1393,Stonehearth Graveyard,In Conflict
+1394,Stonehearth Graveyard,In Conflict
+1395,Stormpike Aid Station,Horde Controlled
+1396,Stormpike Aid Station,In Conflict
+1397,Stormpike Aid Station,In Conflict
+1398,Stormpike Graveyard,Horde Controlled
+1399,Stormpike Graveyard,In Conflict
+1400,Stormpike Graveyard,In Conflict
+1405,Tower Point,Destroyed
+1406,Tower Point,In Conflict
+1407,Tower Point,In Conflict
+1469,Camp Taurajo,
+1471,Splintertree Post,
+1472,The Swarming Pillar,
+1473,Bones of Grakkarond,
+1475,Woodpaw Den,
+1507,Revantusk Village,
+1508,Thorium Point,
+1512,Mor'shan Base Camp,
+1513,Silverwing Grove,
+1527,West Frostwolf Tower,Horde Controlled
+1528,West Frostwolf Tower,Destroyed
+1529,West Frostwolf Tower,In Conflict
+1530,West Frostwolf Tower,In Conflict
+1550,Pre-alliance POI test,
+1551,The Weeping Cave,
+1567,Valor's Rest,
+1568,Wildpaw Cavern,
+1569,Icewing Cavern,
+1588,Yojamba Isle,
+1609,Stables,Uncontrolled
+1610,Stables,Alliance Controlled
+1611,Stables,Horde Controlled
+1612,Stables,In Conflict
+1613,Stables,In Conflict
+1614,Blacksmith,Uncontrolled
+1615,Blacksmith,Alliance Controlled
+1616,Blacksmith,Horde Controlled
+1617,Blacksmith,In Conflict
+1618,Blacksmith,In Conflict
+1619,Lumber Mill,Uncontrolled
+1620,Lumber Mill,Alliance Controlled
+1621,Lumber Mill,Horde Controlled
+1622,Lumber Mill,In Conflict
+1623,Lumber Mill,In Conflict
+1624,Gold Mine,Uncontrolled
+1625,Gold Mine,Alliance Controlled
+1626,Gold Mine,Horde Controlled
+1627,Gold Mine,In Conflict
+1628,Gold Mine,In Conflict
+1629,Farm,Uncontrolled
+1630,Farm,Alliance Controlled
+1631,Farm,Horde Controlled
+1632,Farm,In Conflict
+1633,Farm,In Conflict
+1682,Snowfall Graveyard,Uncontrolled
+1683,Misty Reed Post,
+1684,Brackenwall Village,
+1685,Cenarion Hold,
+1687,Twilight Base Camp,
+1688,Staghelm Point,
+1689,Twilight's Run,
+1690,Ortell's Hideout,
+1694,Bronzebeard Encampment,
+1696,Under Attack,Winterspring
+1697,Under Attack,Azshara
+1698,Under Attack,Blasted Lands
+1699,Under Attack,Burning Steppes
+1700,Under Attack,Tanaris Desert
+1701,Under Attack,Eastern Plaguelands
+1702,Ivar's Patch,
+1703,Valgan's Field,
+1704,Silvermoon City,
+1705,Falconwing Square,
+1706,Sunstrider Isle,
+1707,The Sunspire,
+1708,Sunsail Anchorage,
+1709,Fairbreeze Village,
+1710,Farstride Retreat,
+1711,Deatholme,
+1712,Windrunner Spire,
+1713,Tranquillien,
+1714,Honor Hold,
+1715,Thrallmar,
+1716,The Stair of Destiny,
+1717,Throne of Kil'Jaeden,
+1718,Hellfire Citadel,
+1719,Den of Haal'esh,
+1720,Falcon Watch,
+1721,Ruins of Sha'naar,
+1722,Clan Post,
+1723,Pools of Aggonar,
+1724,Sandworm!,A Silithyst beast has surfaced
+1725,Sandworm!,A Silithyst beast has surfaced
+1726,Sandworm!,A Silithyst beast has surfaced
+1727,Sandworm!,A Silithyst beast has surfaced
+1749,Eastwall Tower,
+1750,Eastwall Tower,"Alliance, Contested"
+1751,Eastwall Tower,"Alliance, Progressing"
+1752,Eastwall Tower,"Horde, Contested"
+1753,Eastwall Tower,"Horde, Progressing"
+1754,Eastwall Tower,Horde
+1755,Eastwall Tower,Alliance
+1756,Plaguewood Tower,
+1757,Plaguewood Tower,"Alliance, Contested"
+1760,Plaguewood Tower,"Horde, Progressing"
+1761,Plaguewood Tower,Alliance
+1762,Plaguewood Tower,Horde
+1763,Northpass Tower,
+1764,Northpass Tower,"Alliance, Contested"
+1765,Northpass Tower,"Horde, Contested"
+1766,Northpass Tower,"Alliance, Progressing"
+1767,Northpass Tower,"Horde, Progressing"
+1768,Northpass Tower,Alliance
+1769,Northpass Tower,Horde
+1770,Crown Guard Tower,
+1771,Crown Guard Tower,"Alliance, Contested"
+1772,Crown Guard Tower,"Horde, Contested"
+1773,Crown Guard Tower,"Alliance, Progressing"
+1774,Crown Guard Tower,"Horde, Progressing"
+1775,Crown Guard Tower,Alliance
+1776,Crown Guard Tower,Horde
+1777,Plaguewood Tower,"Alliance, Progressing"
+1779,Wrathscale Point,
+1780,Bristlelimb Village,
+1781,Pod Cluster,
+1782,Pod Wreckage,
+1783,Geezle's Camp,
+1784,Azure Watch,
+1785,The Exodar,
+1786,Valaar's Berth,
+1787,Silting Shore,
+1788,Stillpine Hold,
+1789,Menagerie Wreckage,
+1790,The Sacred Grove,
+1791,Wildwind Peak,
+1792,Emberglade,
+1793,Odesyus' Landing,
+1794,Traitor's Cove,
+1795,Crash Site,
+1796,Shadow Ridge,
+1797,Silverline Lake,
+1798,Nestlewood Thicket,
+1799,Ammen Fields,
+1800,Moonwing Den,
+1801,Tide's Hollow,
+1802,Suncrown Village,
+1803,Zeb'Sora,
+1804,Dawnstar Spire,
+1805,Farstrider Enclave,
+1806,Zeb'Tela,
+1807,Sanctum of the Sun,
+1808,An'telas,
+1809,Amani Catacombs,
+1810,Zeb'Nowa,
+1811,Amani Pass,
+1812,Andilien Estate,
+1813,Howling Ziggurat,
+1814,Bleeding Ziggurat,
+1815,Underlight Mines,
+1816,Windrunner Village,
+1817,Sanctum of the Moon,
+1818,Golden Mist Village,
+1819,An'daroth,
+1820,Tor'Watha,
+1821,Zeb'Watha,
+1822,East Sanctum,
+1823,Saltheril's Haven,
+1824,West Sanctum,
+1825,North Sanctum,
+1826,Stillwhisper Pond,
+1827,The Vector Coil,
+1828,The Cryo-Core,
+1829,The Warp Piston,
+1830,Bladewood,
+1831,Wrathscale Lair,
+1832,Ruins of Loreth'Aran,
+1833,Nazzivian,
+1834,Axxarien,
+1835,The Foul Pond,
+1836,The Hidden Reef,
+1837,Amberweb Pass,
+1838,Ragefeather Ridge,
+1839,Talon Stand,
+1840,Bristlebend Enclave,
+1841,The Overlook,Neutral
+1842,The Overlook,Alliance Controlled
+1843,The Overlook,Horde Controlled
+1844,Broken Hill,Neutral
+1845,Broken Hill,Alliance Controlled
+1846,Broken Hill,Horde Controlled
+1847,The Stadium,Neutral
+1848,The Stadium,Alliance Controlled
+1849,The Stadium,Horde Controlled
+1894,West Beacon,Alliance Controlled
+1895,West Beacon,Horde Controlled
+1896,West Beacon,
+1897,Twinspire Graveyard,
+1898,Twinspire Graveyard,Alliance Controlled
+1899,Twinspire Graveyard,Horde Controlled
+1901,East Beacon,Alliance Controlled
+1902,East Beacon,Horde Controlled
+1903,East Beacon,
+1904,Alliance Field Scout,
+1905,Alliance Field Scout,
+1906,Horde Field Scout,
+1907,Horde Field Scout,
+1908,Wyvern Camp,Uncontrolled
+1909,Wyvern Camp,Horde Controlled
+1910,Wyvern Camp,Alliance Controlled
+1911,Wyvern Camp,Uncontrolled
+1912,Wyvern Camp,Alliance Controlled
+1913,Wyvern Camp,Horde Controlled
+1914,Wyvern Camp,Uncontrolled
+1915,Wyvern Camp,Horde Controlled
+1916,Wyvern Camp,Alliance Controlled
+1917,Wyvern Camp,Uncontrolled
+1918,Wyvern Camp,Alliance Controlled
+1919,Wyvern Camp,Horde Controlled
+1920,Halaa,
+1921,Halaa,Horde Controlled
+1922,Halaa,Alliance Controlled
+1923,Halaa,
+1924,Halaa,
+1925,Spirit Tower,
+1926,Spirit Tower,Alliance Controlled
+1927,Spirit Tower,Horde Controlled
+1928,Spirit Tower,
+1929,Spirit Tower,Alliance Controlled
+1930,Spirit Tower,Horde Controlled
+1931,Spirit Tower,
+1932,Spirit Tower,Alliance Controlled
+1933,Spirit Tower,Horde Controlled
+1934,Spirit Tower,
+1935,Spirit Tower,Alliance Controlled
+1936,Spirit Tower,Horde Controlled
+1937,Spirit Tower,
+1938,Spirit Tower,Alliance Controlled
+1939,Spirit Tower,Horde Controlled
+1940,Blood Watch,
+1941,Blood Elf Tower,Uncontrolled
+1942,Blood Elf Tower,Alliance Controlled
+1943,Blood Elf Tower,Horde Controlled
+1944,Fel Reaver Ruins,Uncontrolled
+1945,Fel Reaver Ruins,Alliance Controlled
+1946,Fel Reaver Ruins,Horde Controlled
+1947,Mage Tower,Uncontrolled
+1948,Mage Tower,Alliance Controlled
+1949,Mage Tower,Horde Controlled
+1950,Draenei Ruins,Uncontrolled
+1951,Draenei Ruins,Alliance Controlled
+1952,Draenei Ruins,Horde Controlled
+1953,Draenei Ruins,In Conflict
+1954,Draenei Ruins,In Conflict
+1955,Mage Tower,In Conflict
+1956,Mage Tower,In Conflict
+1957,Fel Reaver Ruins,In Conflict
+1958,Fel Reaver Ruins,In Conflict
+1959,Blood Elf Tower,In Conflict
+1960,Blood Elf Tower,In Conflict
+1961,Shattrath City,
+1962,Netherstorm Flag,Not Controlled
+1963,Wyvern Camp,Uncontrolled
+1964,Wyvern Camp,Uncontrolled
+1965,Wyvern Camp,Uncontrolled
+1966,Wyvern Camp,Uncontrolled
+1999,"Falconwing Square, Paladin Trainer",
+2005,Shalandris Isle,
+2006,An'owyn,
+2015,Golden Strand,
+2016,The Dead Scar,
+2017,Thuron's Livery,
+2018,Duskwither Spire,
+2019,Golden Strand,
+2020,The Dead Scar,
+2021,Coilfang Reservoir,
+2022,Serpent Lake,
+2023,Serpent Lake,
+2024,Umbrafen Lake,
+2025,Umbrafen Lake,
+2034,Toshley's Station,
+2058,Zabra'jin,
+2059,Sporeggar,
+2060,Orebor Harborage,
+2061,Telredor,
+2062,Cenarion Refuge,
+2063,Swamprat Post,
+2064,Garadar,
+2065,Telaar,
+2066,Sylvanaar,
+2067,Thunderlord Stronghold,
+2068,Evergrove,
+2069,Temple of Telhamat,
+2070,The Stormspire,
+2071,Area 52,
+2072,Cosmowrench,
+2073,Stonebreaker Hold,
+2074,Allerian Stronghold,
+2075,Shadowmoon Village,
+2076,Wildhammer Stronghold,
+2077,Sanctum of the Stars,
+2078,Altar of Sha'tar,
+2080,Ogri'la,
+2083,Mudsprocket,
+2084,Westguard Keep,
+2085,Kamagua,
+2086,Valgarde,
+2087,Vengeance Landing,
+2088,New Agamand,
+2089,Fort Wildervar,
+2090,Camp Winterhoof,
+2096,Sun's Reach Sanctum,Held by the enemy
+2097,Sun's Reach Sanctum,Shattered Sun Offensive
+2098,Sun's Reach Armory,Held by the enemy
+2099,Sun's Reach Armory,Shattered Sun Offensive
+2100,Sun's Reach Harbor,Held by the enemy
+2101,Sun's Reach Harbor,Shattered Sun Offensive
+2105,Town Hall,Town Hall
+2106,Elder's Square Gate,Elder's Square Gate
+2107,Festival Lane Gate,Festival Lane Gate
+2108,Market Row Gate,Market Row Gate
+2109,King's Square Fountain,King's Square Fountain
+2110,Stormwind Harbor,
+2111,Gate of the Purple Amethyst,
+2114,Gate of the Red Sun,
+2117,Gate of the Blue Sapphire,
+2120,Gate of the Green Emerald,
+2123,The Frostbreaker,Alliance Offense
+2124,The Graceful Maiden,Alliance Offense
+2125,The Blightbringer,Horde Offense
+2126,The Casket Carrier,Horde Offense
+2127,Horde Defense,
+2128,Alliance Defense,
+2129,East Graveyard,Horde Controlled
+2130,East Graveyard,Alliance Controlled
+2132,West Graveyard,Alliance Controlled
+2133,South Graveyard,Horde Controlled
+2134,South Graveyard,Alliance Controlled
+2135,Gate of the Yellow Moon,
+2138,Death's Rise,
+2139,The Shadow Vault,
+2141,Shadowsight Tower,
+2142,Winter's Edge Tower,
+2143,Flamewatch Tower,
+2144,Wintergrasp Fortress Tower (SW),
+2145,Wintergrasp Fortress Tower (SE),
+2146,Wintergrasp Fortress Tower (NE),
+2147,Wintergrasp Fortress Tower (NW),
+2149,Fortress Vehicle Workshop (E),
+2150,Fortress Vehicle Workshop (W),
+2151,Eastspark Vehicle Workshop,
+2152,Westspark Vehicle Workshop,
+2153,Broken Temple Vehicle Workshop,
+2154,Sunken Ring Vehicle Workshop,
+2199,PvP Activity Detected,
+2200,PvP Activity Detected,
+2201,PvP Activity Detected,
+2203,PvP Activity Detected,
+2205,PvP Activity Detected,
+2206,PvP Activity Detected,
+2207,PvP Activity Detected,
+2208,PvP Activity Detected,
+2209,PvP Activity Detected,
+2210,PvP Activity Detected,
+2211,PvP Activity Detected,
+2212,PvP Activity Detected,
+2213,PvP Activity Detected,
+2214,PvP Activity Detected,
+2215,PvP Activity Detected,
+2216,PvP Activity Detected,
+2217,PvP Activity Detected,
+2218,PvP Activity Detected,
+2219,PvP Activity Detected,
+2220,PvP Activity Detected,
+2221,PvP Activity Detected,
+2222,Wintergrasp Fortress Wall,
+2223,Wintergrasp Fortress Wall,
+2224,Wintergrasp Fortress Wall,
+2225,Wintergrasp Fortress Wall,
+2226,Wintergrasp Fortress Wall,
+2227,Wintergrasp Fortress Wall,
+2228,Wintergrasp Fortress Wall,
+2229,Wintergrasp Fortress Gate,
+2230,Wintergrasp Fortress Wall,
+2231,Wintergrasp Fortress Wall,
+2232,Wintergrasp Fortress Wall,
+2233,Wintergrasp Fortress Wall,
+2234,Wintergrasp Fortress Wall,
+2235,Wintergrasp Fortress Wall,
+2236,Wintergrasp Fortress Wall,
+2237,Wintergrasp Fortress Wall,
+2238,Wintergrasp Fortress Wall,
+2239,Wintergrasp Fortress Wall,
+2240,Wintergrasp Fortress Wall,
+2241,Wintergrasp Fortress Wall,
+2242,Wintergrasp Fortress Wall,
+2243,Wintergrasp Fortress Wall,
+2244,Wintergrasp Fortress Wall,
+2245,Wintergrasp Fortress Wall,
+2246,Wintergrasp Fortress,
+2247,PvP Activity Detected,
+2248,PvP Activity Detected,
+2249,PvP Activity Detected,
+2250,PvP Activity Detected,
+2251,PvP Activity Detected,
+2252,PvP Activity Detected,
+2253,PvP Activity Detected,
+2254,PvP Activity Detected,
+2255,PvP Activity Detected,
+2256,PvP Activity Detected,
+2257,PvP Activity Detected,
+2258,PvP Activity Detected,
+2259,PvP Activity Detected,
+2260,PvP Activity Detected,
+2261,PvP Activity Detected,
+2262,PvP Activity Detected,
+2263,PvP Activity Detected,
+2264,Wintergrasp,Control of Wintergrasp
+2265,Sunken Ring Graveyard,
+2266,Broken Temple Graveyard,
+2268,Fortress Graveyard,
+2269,Southwest Graveyard,
+2270,Southeast Graveyard,
+2292,Chamber of Ancient Relics,
+2298,Wyrmrest Temple,
+2299,Venomspite,
+2300,Stars' Rest,
+2301,Agmar's Hammer,
+2302,Moa'ki Harbor,
+2303,Valiance Keep,
+2304,Warsong Hold,
+2305,Unu'pe,
+2306,Taunka'le Village,
+2307,Fizzcrank Airstrip,
+2308,Bor'gorok Outpost,
+2309,Wintergarde Keep,
+2310,Conquest Hold,
+2311,Amberpine Lodge,
+2312,Camp Oneqwah,
+2313,Westfall Brigade Encampment,
+2314,The Argent Stand,
+2315,Zim'Torga,
+2316,Nesingwary Base Camp,
+2317,Dalaran,
+2318,Camp Tunka'lo,
+2319,Brunnhildar Village,
+2320,K3,
+2321,Frosthold,
+2322,Grom'arsh Crash-Site,
+2323,Crusaders' Pinnacle,
+2324,West Graveyard,Horde Controlled
+2331,Tower of Life,Supplies power to Freya's Ward
+2332,Tower of Flames,Provides power to Mimiron's Inferno
+2333,Tower of Frost,Provides power to Hodir's Fury
+2334,Tower of Storms,Provides power to Thorim's Hammer
+2345,Workshop,Alliance Controlled
+2346,Workshop,Horde Controlled
+2347,Workshop,In Conflict
+2348,Workshop,In Conflict
+2349,Workshop,Uncontrolled
+2350,Hangar,Alliance Controlled
+2352,Hangar,Horde Controlled
+2353,Hangar,In Conflict
+2354,Hangar,In Conflict
+2355,Hangar,Uncontrolled
+2356,Docks,In Conflict
+2357,Docks,Horde Controlled
+2358,Docks,Alliance Controlled
+2359,Docks,In Conflict
+2360,Docks,Uncontrolled
+2361,Quarry,Uncontrolled
+2362,Quarry,Alliance Controlled
+2363,Quarry,Horde Controlled
+2364,Quarry,In Conflict
+2365,Quarry,In Conflict
+2366,Refinery,Horde Controlled
+2367,Refinery,Alliance Controlled
+2368,Refinery,In Conflict
+2369,Refinery,In Conflict
+2370,Refinery,Uncontrolled
+2371,Horde Gate,Front Gate
+2372,Horde Gate,Destroyed
+2373,Horde Gate,East Gate
+2374,Horde Gate,Destroyed
+2375,Horde Gate,West Gate
+2376,Horde Gate,Destroyed
+2377,Alliance Gate,East Gate
+2378,Alliance Gate,Destroyed
+2379,Alliance Gate,Destroyed
+2380,Alliance Gate,West Gate
+2381,Alliance Gate,Destroyed
+2382,Alliance Gate,Front Gate
+2383,Alliance Keep,Uncontrolled
+2384,Alliance Keep,Alliance Controlled
+2385,Alliance Keep,In Conflict
+2386,Alliance Keep,In Conflict
+2387,Alliance Keep,Horde Controlled
+2388,Horde Keep,Horde Controlled
+2389,Horde Keep,Alliance Controlled
+2390,Horde Keep,In Conflict
+2391,Horde Keep,In Conflict
+2392,Horde Keep,Uncontrolled
