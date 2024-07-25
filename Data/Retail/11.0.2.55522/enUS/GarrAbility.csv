@@ -1,0 +1,906 @@
+ID,Name_lang,Description_lang
+4,Orcslayer,Increases success chance when fighting orcs.
+5,Blizzard,Cast by a mage to deal damage to many enemies.
+6,Shield Wall,Used by a warrior to greatly reduce damage.
+7,Mountaineer,Increases success chance when fighting in the mountains.
+8,Cold-Blooded,Increases success chance when fighting in the snow.
+9,Wastelander,Increases success chance when fighting in the desert.
+10,Leap of Faith,Cast by a priest to help the target escape harm's way (or just to mess with them).
+11,Prayer of Healing,Cast by a priest to heal a group of allies.
+29,Fast Learner,Increases the experience this follower gains from a mission by 50%.
+30,Natural Leader,Increases the XP gained for all followers on a mission.
+36,Demonslayer,Increases success chance when fighting demons.
+37,Beastslayer,Increases success chance when fighting beasts.
+38,Ogreslayer,Increases success chance when fighting ogres.
+39,Primalslayer,Increases success chance when fighting primals and their minions.
+40,Gronnslayer,Increases success chance when fighting breakers and their minions.
+41,Furyslayer,Increases success chance when fighting elemental furies.
+42,Voidslayer,Increases success chance when fighting aberrations and undead.
+43,Talonslayer,Increases success chance when fighting arakkoa and their minions.
+44,Naturalist,Increases success chance when fighting in a forest.
+45,Cave Dweller,Increases success chance when fighting underground.
+46,Guerilla Fighter,Increases success chance when fighting in the jungle.
+47,Master Assassin,Grants a very large bonus to mission success chance.
+48,Marshwalker,Increases success chance when fighting in a swamp.
+49,Plainsrunner,Increases success chance when fighting on plains.
+52,Mining,Boosts work order production when assigned to the Mine.
+53,Herbalism,Grants herbalism benefits and boosts work orders when assigned to the Herb Garden.
+54,Alchemy,"Offers various Alchemy benefits when assigned to the Alchemy Lab, and increases success chance on Alchemy missions."
+55,Blacksmithing,"Can reduce your durability damage and increase work order output when assigned to the Forge, and increases success chance on Blacksmithing missions."
+56,Enchanting,"Offers a variety of enchanting benefits when assigned to the Enchanter's Study, and increases success chance on Enchanting missions."
+57,Engineering,"Sells engineering gadgets and boosts work orders when assigned to the Engineering Works, and increases success chance on Engineering missions."
+58,Inscription,"Allows the creation of special documents and boosts work orders when assigned to the Scribe's Quarters, and increases success chance on Inscription missions."
+59,Jewelcrafting,"Offers a variety of Jewelcrafting benefits when assigned to the Gem Boutique, and increases success chance on Jewelcrafting missions."
+60,Leatherworking,"Can craft tents and boost work orders when assigned to the Tannery, and increases success chance on Leatherworking missions."
+61,Tailoring,"Offers a variety of tailoring benefits when assigned to the Tailoring Emporium, and increases success chance on Tailoring missions."
+62,Skinning,Boosts work order production based on follower level while assigned to the Barn.
+63,Gnome-Lover,Increases success chance when on a mission with a gnome.
+64,Humanist,Increases success chance when on a mission with a human.
+65,Dwarvenborn,Increases success chance when on a mission with a dwarf.
+66,Child of the Moon,Increases success chance when on a mission with a night elf.
+67,Ally of Argus,Increases success chance when on a mission with a draenei.
+68,Canine Companion,Increases success chance when on a mission with a worgen.
+69,Brew Aficionado,Increases success chance when on a mission with a pandaren.
+70,Child of Draenor,Increases success chance when on a mission with an orc.
+71,Death Fascination,Increases success chance when on a mission with an undead.
+72,Totemist,Increases success chance when on a mission with a tauren.
+73,Voodoo Zealot,Increases success chance when on a mission with a troll.
+74,Elvenkind,Increases success chance when on a mission with a blood elf.
+75,Economist,Increases success chance when on a mission with a goblin.
+76,High Stamina,Increases success chance on missions with duration longer than 7 hours.
+77,Burst of Power,Increases success chance on missions with duration shorter than 7 hours.
+78,Lone Wolf,Increases success chance when on a mission alone.
+79,Scavenger,Increases the garrison resources gained from a mission by 100%.
+80,Extra Training,Increases the experience gained from a mission for all followers by 30%.
+100,Taunt,Forces an enemy to attack the warrior.
+101,Multi-Shot,Used by a hunter to damage many enemies.
+102,Heroic Leap,Used by a warrior to quickly escape harm's way.
+103,Rapid Fire,Significantly increases the hunter's burst damage.
+104,Sap,Used by a rogue to neutralize a dangerous enemy (or just to annoy you).
+105,Kick,Used by a rogue to interrupt a spell (super frustrating).
+106,Chain Heal,Cast by a shaman to heal a group of allies.
+107,Purify Spirit,Cast by a shaman to remove a harmful magic effect.
+108,Growl,Forces the target to attack the druid.
+114,Dark Command,Forces the target to attack the death knight.
+115,Bone Shield,Protects the death knight with a shield of bone.
+116,Death and Decay,Cast by a death knight to damage many enemies.
+117,Mind Freeze,"Freezes the opponent's mind, interrupting a spell."
+118,Empower Rune Weapon,Significantly increases the death knight's burst damage.
+119,Anti-Magic Shell,Protects the death knight from harmful magic effects.
+120,Cleave,Used by a warrior to damage multiple enemies.  Also used to describe every arena team.
+121,Pummel,Used by a warrior to interrupt a spell.
+122,Recklessness,Used by a warrior to greatly increase burst damage.
+123,Reckoning,Forces the target to attack the paladin.
+124,Divine Shield,Cast by a paladin to prevent damage.  Also used to escape in a cowardly manner (shameful).
+125,Cleanse,Cast by a paladin to remove a harmful magic effect.
+126,Rebuke,Cast by a paladin to interrupt a spell.
+127,Repentance,Cast by a paladin to neutralize a dangerous enemy.
+128,Holy Radiance,Cast by a paladin to heal a group of allies.
+129,Divine Plea,Cast by a paladin to quickly regenerate mana.
+130,Divine Storm,Cast by a paladin to deal damage to many enemies.
+131,Avenging Wrath,Cast by a paladin to greatly increase burst damage.
+132,Barkskin,"The druid takes on a hardened skin, significantly reducing damage taken."
+133,Innervate,Cast by a druid to rapidly regenerate the target's mana.
+134,Entangling Roots,Cast by a druid to neutralize a dangerous enemy.
+135,Wild Growth,Cast by a druid to heal a group of allies.
+136,Nature's Cure,Cast by a druid to remove a harmful magic effect.
+137,Hurricane,Cast by the druid to damage many enemies.
+138,Berserk,Significantly increases the druid's burst damage.
+139,Celestial Alignment,Significantly increases the druid's burst damage.
+140,Provoke,Forces the enemy to attack the monk.
+141,Guard,Used by a monk to significantly reduce damage.
+142,Chi Wave,Cast by a monk to heal a group of allies.
+143,Roll,Used by a monk to quickly move out of harm's way.
+144,Paralysis,Used by a monk to neutralize a dangerous enemy.
+145,Detox,Cast by a monk to remove a harmful magic effect.
+146,Mana Tea,Cast by a monk to quickly regenerate the target's mana.
+147,Spear Hand Strike,Used by a monk to interrupt a spell.
+148,Dispel Magic,Cast by a priest to remove a harmful magic effect.
+149,Shadowfiend,Cast by a priest to greatly increase burst damage and mana regeneration.
+150,Mind Sear,Cast by a priest to damage many enemies.
+151,Dominate Mind,Cast by a priest to neutralize a dangerous enemy.  Wildly popular in AB and EotS.
+152,Power Infusion,Cast by a priest to greatly increase burst damage.
+153,Water Shield,Cast by a shaman to greatly increase mana regeneration.
+154,Chain Lightning,Cast by a shaman to damage many enemies.
+155,Wind Shear,Cast by a shaman to interrupt a spell.
+156,Ghost Wolf,Cast by a shaman to quickly move out of harm's way.
+157,Hex,Cast by a shaman to neutralize a dangerous enemy.  Also makes them feel dumb.
+158,Ascendance,Cast by a shaman to greatly increase burst damage.  Seems unfair at times.
+159,Evasion,Used by a rogue to avoid significant damage.
+160,Sprint,"Used by a rogue to escape harm's way.  Or, to move quickly between the mailbox and auction house."
+161,Fan of Knives,Used by a rogue to damage many enemies.
+162,Marked for Death,Used by a rogue to greatly increase burst damage.
+163,Feign Death,Used by a hunter to force the enemy to attack a different target.
+164,Deterrence,Used by a hunter to prevent damage.
+165,Disengage,Used by a hunter to quickly move out of harm's way.
+166,Counter Shot,Used by a hunter to interrupt a spell.
+167,Freezing Trap,Used by a hunter to neutralize a dangerous enemy.  Watch your step!
+168,Ice Block,Cast by a mage to prevent massive damage.  For a while.
+169,Conjure Food,Your body needs energy to perform to its fullest!
+170,Blink,Cast by a mage to quickly teleport out of harm's way.  Hax.
+171,Counterspell,Cast by a mage to interrupt a spell.
+172,Polymorph,Cast by a mage to neutralize a dangerous enemy.
+173,Time Warp,Cast by a mage to greatly increase burst damage.
+174,Unending Resolve,Cast by a warlock to prevent significant damage.
+175,Drain Life,Cast by a warlock to regain life.  Duh.
+176,Singe Magic,Cast by an annoying imp to remove a harmful magic effect.
+177,Metamorphosis,Cast by a warlock pretending to be a demon hunter. Greatly increases burst damage.
+178,Rain of Fire,Cast by a warlock to damage many enemies.
+179,Spell Lock,Cast by a warlock to interrupt a spell.
+180,Fear,Used to neutralize a dangerous opponent.  Sometimes causes them to violate basic laws of physics.  Odd.
+181,Summon Infernal,Cast by a warlock to feel powerful and deal significant damage.  Makes nearby innocents very nervous.
+182,Dash,"Used by a druid to quickly dash out of harm's way, as if they didn't already move fast enough."
+183,Energizing Brew,Used by a monk to significantly increase burst damage.  Also tastes fantastic.
+199,Extra Training,Grants a bonus to XP upon mission completion.
+200,Extra Training,Grants a bonus to XP upon mission completion.
+201,Combat Experience,Grants a bonus to mission success chance.
+202,Combat Experience,Grants a bonus to mission success chance.
+203,Teleport,Reduces travel time of missions.
+204,Teleport,Reduces travel time of missions.
+205,Salvage Arms,Awards a bonus to garrison resources upon mission completion.
+206,Salvage Arms,Awards a bonus to garrison resources upon mission completion.
+221,Epic Mount,Reduces mission time by 50%.
+222,Powered By Death,Reduces mission duration by 25%.
+227,Angler,With Nat's knowledge your fishing skill in Draenor allows you to catch lunkers without bait.
+228,Evergreen,"When assigned to the Lumber Mill, can more efficiently and humanely processes timber."
+231,Bodyguard,Can accompany you as a guardian in Draenor when assigned to a level 2 or 3 barracks.
+232,Dancer,Your lithe moves help you skip out of danger zones just a bit more quickly.
+236,Hearthstone Pro,"A master tactician, and a must-watch.  Party members gain experience 35% more quickly."
+244,Brute,Greatly increases success chance when on a mission alone.
+248,Mentor,Accompanying followers gain this follower's combat effectiveness.
+249,Explorer Extraordinaire,"An expert in both Beast Lore and Terrain Exploration, Harrison can anticipate all incoming danger.
+
+|cFFFFD200""Fortune and glory, kid. Fortune and glory."" - Harrison Jones |r"
+250,Speed of Light,The Sun-touched Feather of Rukhmar infuses a follower with epic speed.
+252,Ogre Buddy,Increases success chance when on a mission with an ogre.
+253,Mechano Affictionado,Increases success chance when on a mission with a construct or machine.
+254,Bird Watcher,Increases success chance when on a mission with an arakkoa.
+255,Wildling,Increases success chance when on a mission with a beastly companion.
+256,Extreme Scavenger,Increases the garrison resources gained from a mission by 200%.
+257,Test - Temporary Follower Ability,Temporary follower ability description.  Lasts for one mission.
+260,Boarding Party,Allows transports to run missions that require boots on the ground.
+261,Submarine,Allows the submarine to become invisible to radar and sneak up on enemy ships.
+262,Battleship,Fires armor piercing rounds that cleanly cut through armor.
+263,Destroyer,"Drops explosive shells into the water, destroying submerged craft."
+264,Carrier,A fleet of bombers that can attack from the air.
+265,Ice Cutter,Slices a path through Icy Waters.
+266,Bilge Pump,"Pumps out excess water from the ship, allowing it to remain afloat during Stormy Weather."
+267,High Intensity Fog Lights,Burn through the fog (and maybe some retinas) with these super illuminating lights.
+268,Gyroscopic Internal Stabilizer,"Keeps the ship upright and stable, allowing it to move effortlessly around Chaotic Whirlpools."
+269,Blast Furnace,"A massive furnace, capable of producing 11 out of 10 power."
+270,True Iron Rudder,Reinforces the rudder to allow tighter turns at higher speeds.
+271,Trained Shark Tank,Mines are no match for a tank of trained sharks.
+272,Felsmoke Launcher,"Creates a smoke screen around your ship, blocking sight on a First Strike."
+273,Nitro Fuel Tanks,"Allows the ship to burn nitro fuel, getting it to and from destinations quicker.  Reduces mission time by 50%."
+274,Salty Crew,This crew has seen it all and has the hats to prove it.  Grants a bonus to mission success chance.
+275,Unsinkable,"On a devastating hit, saves the ship by surrounding the ship with an impenetrable shield. Unsinkable is destroyed when triggered."
+276,Food Storage Bay,"Adds space for additional food stores, improving success chance on long missions."
+277,Automated Sky Scanner,Increases success chance when on a mission with a Carrier.
+278,Ammo Reserves,Increases success chance when on a mission with a Battleship.
+279,Sonic Amplification Field,Increases success chance when on a mission with a Destroyer.
+280,Extra Quarters,Increases success chance when on a mission with a Transport.
+281,Q-43 Noisemaker Mines,Increases success chance when on a mission with a Submarine.
+282,Orc Crew,The icy waters surrounding Frostfire have long been training grounds for navigating Icy Waters.
+283,Dwarven Crew,Allows naval equipment to be recovered from successful missions.
+284,Draenic Crew,Draenei are adept at navigating the Dense Fog surrounding Shadowmoon Valley.
+285,Tauren Crew,Increases the experience gained from a mission for all ships by 50%.
+286,Goblin Crew,Allows naval equipment to be recovered from successful missions.
+287,Gnomish Crew,Allows naval equipment to be recovered from successful missions.
+288,Night Elf Crew,Reduces mission time by 50%.
+289,Blood Elf Crew,Reduces mission time by 50%.
+290,Troll Crew,Allows naval equipment to be recovered from successful missions.
+291,Worgen Crew,Increases the experience gained from a mission for all ships by 50%.
+292,Human Crew,Increases success chance on missions.
+293,Undead Crew,Increases success chance on missions.
+294,Pandaren Crew,"Pandaren crewman stash extra supplies on their ships, which helps on long missions."
+299,Empty Equipment Bay,Attach ship equipment to this bay.
+300,Empty Equipment Bay,Attach ship equipment to this bay.
+303,Demonic Knowledge,Grants a large bonus to mission success chance.
+304,Wreckage Recovery Module,"When deployed on a successful mission, filters the surrounding waters and returns a box full of useful junk."
+305,Tuskarr Fishing Net,"A fishing net that is attached to the back of a ship, courtesy of the tuskarr.  Supplies fish when returning from a successful mission."
+306,Ghostly Spyglass,A long spyglass that seems to display nothing when you look through it.  Maybe it will come in handy.
+307,Fel Rush,Lunges toward an enemy. Sometimes used on critters to travel quickly.
+308,Chaos Nova,Used by demon hunters to control multiple dangerous enemies at once.
+309,Stone Skin,Demon hunters can cover their skin in fel stone to absorb large blows. Also notoriously uncomfortable.
+310,Immolation,"Some demon hunters take the mantra ""fight fire with fire"" a bit too seriously."
+311,Devour Magic,Magic is a delicacy among the Illidari. Tastes like chicken.
+312,Vengeful Retreat,Used by demon hunters to who are... not prepared.
+313,Metamorphosis,Demon hunters can unleash the demon within to defeat the strongest foes.
+314,Greasemonkey,Increases the oil gained from a mission by 100%.
+315,Murloc Crew,"Murlocs can exit their ship and swim ashore even when underwater, always functioning as a Transport.  Being amphibious has its perks."
+317,Apexis Storm,The kraken unleashed in this area grants Apexis Crystals upon completion of any successful mission.
+318,Air Superiority,"An airship spots and attacks hostile ships in the area, increasing the success chance of missions."
+319,Captain Reania's Command,Increases the experience gained from a mission for all ships by 50%.
+320,Treasure Map,Grants additional Apexis Crystals upon completion of any successful mission.
+321,Captain Thokash's Command,Increases the experience gained from a mission for all ships by 50%.
+322,Fearless Privateer,Increases the success chance of missions.
+323,Boarding Party,Allows transports to run missions that require boots on the ground.
+324,Apex Predator,Greatly increases success chance when fighting many creature types.
+325,Exorcist,"Grants a bonus to mission success chance, and provides a greater success chance when fighting demons."
+326,Apexis Attenuation,Increases the Apexis Crystals gained from a mission by 100%.
+327,Arakkoa Crew,Capable of launching attacks from the air.
+331,Elemental,A spellcaster who harnesses the destructive forces of nature and the elements to counter some |C00b3ffffBosses|R.
+332,Enhancement,A totemic warrior who strikes foes with weapons imbued with elemental power to counter some |C00b3ffffBosses|R.
+333,Restoration,A healer who calls upon ancestral spirits and the cleansing power of water to counter some |C00b3ffffBosses|R.
+334,Windwalker,A martial artist without peer who counters some |C00b3ffffBosses|R with hands and fists.
+335,Brewmaster,"A sturdy brawler who counters some |C00b3ffffBosses|R, using liquid fortification and unpredictable movement."
+336,Mistweaver,A healer who masters the mysterious arts of manipulating life energies to counter some |C00b3ffffBosses|R.
+337,Affliction,A master of shadow magic who specializes in drains and damage-over-time spells to counter some |C00b3ffffBosses|R.
+338,Demonology,A master of demons who compels demonic powers to aid them in countering some |C00b3ffffBosses|R.
+339,Destruction,A master of chaos who calls down fire to burn and counter some |C00b3ffffBosses|R.
+340,Holy,Invokes the power of the Light to protect and to counter some |C00b3ffffBosses|R.
+341,Retribution,A righteous crusader who judges and counters some |C00b3ffffBosses|R with weapons and Holy magic.
+342,Protection,Uses Holy magic to shield themselves and defend allies to counter some |C00b3ffffBosses|R.
+343,Fury,"A furious berserker wielding a weapon in each hand, unleash a flurry of attacks to counter some |C00b3ffffBosses|R."
+344,Arms,"A battle-hardened master of two-handed weapons, using mobility and overpowering attacks to counter some |C00b3ffffBosses|R."
+345,Protection,A stalwart protector who uses a shield to counter |C00b3ffffBosses|R.
+346,Arcane,Manipulate the arcane to counter some |C00b3ffffBosses|R with overwhelming power.
+347,Fire,Ignite the air around you with balls of fire and combustive flames to counter some |C00b3ffffBosses|R.
+348,Frost,Counter some |C00b3ffffBosses|R by freezing them in their tracks and shattering them with Frost magic.
+349,Outlaw,"A ruthless fugitive who uses ability and guile to stand toe-to-toe, countering some |C00b3ffffBosses|R."
+350,Subtlety,A dark stalker who leaps from the shadows to ambush and counter some |C00b3ffffBosses|R.
+351,Assassination,A deadly master of poisons who counters some |C00b3ffffBosses|R with vicious dagger strikes.
+352,Holy,A versatile healer who can counter some |C00b3ffffBosses|R.
+353,Shadow,"Uses sinister Shadow magic, to counter some |C00b3ffffBosses|R."
+354,Discipline,Uses magic to shield allies from taking damage to counter some |C00b3ffffBosses|R.
+355,Balance,"Can take on the form of a powerful Moonkin, balancing the power of Arcane and Nature magic to counter some |C00b3ffffBosses|R."
+356,Feral,"Takes on the form of a great cat to deal damage with bleeds and bites, to counter some |C00b3ffffBosses|R."
+357,Restoration,Uses powerful Nature spells to keep allies alive and counter some |C00b3ffffBosses|R.
+358,Havoc,A brooding master of warglaives who uses the destructive power of Fel Magic to counter some |C00b3ffffBosses|R.
+359,Vengeance,"Embraces the demon within to incinerate enemies and protect allies, countering some |C00b3ffffBosses|R."
+360,Outcast,"Allies of the Demon Hunters made up of Naga, Broken and even demons, the Outcast employ a variety of techniques to counter some |C00b3ffffBosses|R."
+361,Frost,"An icy harbinger of doom, channeling runic power and delivering vicious weapon strikes to counter some |C00b3ffffBosses|R."
+362,Blood,"A dark guardian who manipulates and corrupts life energy to sustain themselves in the face of an enemy onslaught, countering some |C00b3ffffBosses|R."
+363,Unholy,"A master of death and decay, spreading infection and controlling undead minions to counter some |C00b3ffffBosses|R."
+364,Beast Mastery,A master of the wild who can tame a wide variety of beasts to assist them in countering some |C00b3ffffBosses|R.
+365,Marksmanship,A master archer or sharpshooter who excels in countering some |C00b3ffffBosses|R from afar.
+366,Survival,"A rugged tracker who counters some |C00b3ffffBosses|R using animal venom, explosives and traps as deadly weapons."
+388,Traveler's Backpack,"When sent on missions, theres a chance you will bring back a random item."
+389,Felsworn Gas Mask,Negates the stench created by Fel corrupted air.
+393,Invasion Thwated,Increases the success chance of missions in this area.
+394,Chenship,Increases success chance of mission by ${$a478}% when accompanied by Chen Stormstout.
+404,Carrot on a Stick,Reduces mission duration by 3%.
+406,Portable Teleporter,Reduces mission duration by 30%.
+407,Path of the Ox,Increases success chance of missions by ${$a491}% when accompanied by Initiates of the Ox.
+408,Path of the Tiger,"Increases success chance of missions by ${$a492}% when accompanied by Tiger Initiates, Tiger Adepts or Tiger Masters."
+410,Test - Follower Test Ability,Test follower ability description
+412,Roll,Roll a short distance to counter a |C00b3ffffHazard|R.
+413,7.0 - Test - Anders Garrison Ability Test,"Desc of ID410 $@garrabdesc410 
+7 * action flat: ${$a497*7$}
+Combatmax /  by 5: ${$m497/5$}
+Base + max: ${$b497+$m497$}
+Hours - 10: ${$h497-10$}
+No expression: $a497  -  $m497
+My spellDesc $@spelldesc191997"
+414,Empty Equipment Slot,Equip items here.
+415,Empty Equipment Slot,Equip items here.
+416,Breath of Fire,Breathe fire in front of you to counter a |C00b3ffffMinion|R.
+417,Spear Hand Strike,"Jab the enemy in the throat, to counter a |C00b3ffffSpell|R."
+418,Go Bananas,Chance from successful missions to return with a Golden Banana. Golden Bananas are given to Champions to improve success chance.
+419,Fists of Fury,Increases success chance of missions with |C00b3ffffMinions|R by ${$a503}%.
+420,Brewer's Luck,Increases success chance of missions with |C00b3ffffHazards|R by ${$a504}%.
+421,Path of the Crane,Increases success chance of missions by ${$a505}% when accompanied by Initiates of the Crane.
+422,Hero of the Storm,Increases success chance when not accompanied by other Champions by ${$a506}%.
+423,Flying Serpent Kick,Reduces mission duration by ${100-$a507*100}%.
+428,Slowing,Mission duration increased.
+435,Strength of the Ancients,Increases success chance of missions by ${$a523}%.
+436,Powerful,Reduces success chance.
+437,Lethal,Troops on this mission will be killed.
+438,Hellfire,"Ignite the area around the Warlock, to counter a |C00b3ffffMinion|R."
+439,Spell Lock,"Counters the enemy's spellcast, to counter a |C00b3ffffSpell|R."
+440,Demonic Circle,Teleports you to your Demonic Circle and counters a |C00b3ffffHazard|R.
+441,Wind Shear,"Disrupts the target's concentration with a burst of wind, to counter a |C00b3ffffSpell|R."
+442,Ghost Wolf,"Turns the Shaman into a Ghost Wolf, increasing movement speed to counter a |C00b3ffffHazard|R."
+443,Chain Lightning,"Hurls a lightning bolt at the enemy, dealing Nature damage to counter a |C00b3ffffMinion|R."
+444,Mind Freeze,Smash the target's mind with cold to counter a |C00b3ffffSpell|R.
+445,Death and Decay,"Corrupts the ground, causing Shadow damage to counter |C00b3ffffMinions|R."
+446,Icebound Fortitude,The Death Knight freezes their blood to counter a |C00b3ffffHazard|R.
+447,Aspect of the Cheetah,Increases movement speed for a short duration to counter a |C00b3ffffHazard|R.
+448,Explosive Trap,Set a fire trap at the target location that explodes to counter a |C00b3ffffMinion|R.
+449,Counter Shot,"Interrupts spellcasting, countering a |C00b3ffffSpell|R."
+450,Whirlwind,In a whirlwind of steel you counter a |C00b3ffffMinion|R.
+451,Heroic Leap,Leap through the air to counter a |C00b3ffffHazard|R.
+452,Pummel,"Pummel the target, to counter a |C00b3ffffSpell|R."
+453,Consecration,Consecrate the land beneath you to counter a |C00b3ffffMinion|R.
+454,Rebuke,Rebuke the enemy to counter a |C00b3ffffSpell|R.
+455,Divine Shield,Protects you from all damage to counter a |C00b3ffffHazard|R.
+456,Silence,Silences the target to counter a |C00b3ffffSpell|R.
+457,Holy Nova,Causes an explosion of holy light around the caster to counter a |C00b3ffffMinion|R.
+458,Leap of Faith,"You pull the spirit of the friendly target, instantly moving them directly in front of you to counter a |C00b3ffffHazard|R."
+459,Kick,A quick kick that counters a |C00b3ffffSpell|R.
+460,Fan of Knives,Sprays knives all around you to counter a |C00b3ffffMinion|R.
+461,Sprint,Increases your movement speed to counter a |C00b3ffffHazard|R.
+462,Fel Rush,Rush forwards to counter a |C00b3ffffHazard|R.
+463,Throw Glaive,"Hurl a demonic glaive at your enemies, to counter a |C00b3ffffMinion|R."
+464,Consume Magic,Interrupts the enemy to counter a |C00b3ffffSpell|R.
+465,Blink,Teleport forward a short distance to counter a |C00b3ffffHazard|R.
+466,Counterspell,Interrupt the enemy's spellcast to counter a |C00b3ffffSpell|R.
+467,Blizzard,Ice shards pelt the target area to counter a |C00b3ffffMinion|R.
+468,Skull Bash,You skull bash the target to counter a |C00b3ffffSpell|R.
+469,Starfall,Calls down a rain of starlight to counter a |C00b3ffffMinion|R.
+470,Dash,Activate Cat form and quickly dash to counter a |C00b3ffffHazard|R.
+471,Cursed,No bonus loot.
+472,Disorienting,Increased mission cost.
+473,Head Wound,Champions on this mission will lose experience.
+474,Broken Gear,Champions on this mission will lose item level.
+475,Heroic,Success chance reduced by 50%.
+476,Mythic,Success chance reduced by 75%.
+482,Powerful,Reduces success chance.
+485,Rain of Fel Fire,Increases success chance of missions with |C00b3ffffMinions|R by ${$a578}%.
+486,Felbolt,Increases success chance of missions by ${$a579}%.
+487,Zealot,Increases success chance of missions by ${$a580}%.
+488,Black Harvest Harbinger,Increases success chance of missions by ${$a581}% when accompanied by Black Harvest Acolytes or Black Harvest Invokers.
+489,Soul Link,Mission success chance increased by ${$a582}% for every troop Vitality on the mission.
+490,Create Soulwell,"Chance to return from a mission with a Healhtstone, usable to heal troops for 1 Vitality."
+491,Agony,Increased success chance on missions longer than ${$h584} hours by ${$a584}%.
+492,Dreadsteed,Reduces mission duration by ${100-$a585*100}%.
+493,Demonic Empowerment,Increases success chance of missions by ${$a586}% when accompanied by a Pack of Imps or Swarm of Wild Imps.
+494,Matron of Imps,Chance on mission success to return with an item to summon either a Pack of Imps or a Swarm of Wild Imps.
+496,Demonic Strength,Increases success chance of missions by ${$a612}%.
+497,Demonic Pact,Increases success chance of missions by ${$a613}% when accompanied by other Imps.
+498,Training Grounds,Increases the maximum number of Acolytes you can recruit by $a614.
+499,Ritual of Summoning,Reduces mission duration of all missions by ${100-$a615*100}%.
+500,Summon Doomguard,Increase success chance of the first mission of the day by ${$a616}%.
+501,Green - Mission Cost,10% Reduced Mission Cost
+502,Titan's Wrath,Increases success chance when not accompanied by other Champions by ${$a641}%.
+503,Commanding Shout,Mission success chance increased by ${$a619}% for every troop Vitality on the mission.
+504,Screams of the Dead,Chance on mission success to return with an item to summon a squad of Valarjar Aspirants or Stormforged Valarjar.
+505,Royal Bloodline,Increases mission success chance by ${$a621}% when accompanied by troops of different types.
+506,Enrage,Increases success chance of missions by ${$a622}% when accompanied by troops with only ${$m622} Vitality.
+507,Gatekeeper,Increased success chance on missions longer than ${$h623} hours by ${$a623}%.
+508,Frozen Blows,Increases success chance of missions with |C00b3ffffMinions|R by ${$a624}%.
+509,Feral Lunge,Increases success chance of missions with |C00b3ffffHazards|R by ${$a625}%.
+510,Strength of the Tides,Increased success chance on missions longer than ${$h626} hours by ${$a626}%.
+511,Stormbeak's Assault,Reduces mission duration by ${100-$a627*100}%.
+512,Healing Stream Totem,"Chance to return from a mission with a Healing Stream Totem, usable to heal troops for 1 Vitality."
+513,Lightning Shield,Increases success chance of missions with |C00b3ffffMinions|R by ${$a629}%.
+514,Path of the Earth,Increases success chance of missions by ${$a630}% when accompanied by a Circle of Earthcallers or Earthen Ring Geomancers.
+515,Prime Elemental,Increases success chance of missions by ${$a631}% when accompanied by Lesser or Greater Elementals.
+516,Hunter's Mark,Increases success chance of missions by ${$a632}% when accompanied by a Squad of Archers or Unseen Marksmen.
+517,True Aim,Increases success chance of missions by ${$a633}%.
+518,Piercing Shots,Increases success chance of missions by ${$a634}%.
+519,Survival Instincts,Increases success chance of missions by ${$a635}%.
+520,Explosive Trap,Increases success chance of missions with |C00b3ffffMinions|R by ${$a636}%.
+521,Elemental Guardians,Increases success chance of missions by ${$a637}%.
+522,Fury of the Elements,Increases success chance of missions by ${$a638}%.
+524,One with the Pack,Increases success chance of missions by ${$a640}% when accompanied by other Beast Mastery champions.
+525,Might of the Mok'Nathal,Increases success chance when not accompanied by other Champions by ${$a641}%.
+526,Call Baron,Increases success chance of missions by ${$a642}% when accompanied by a Band of Trackers or Pathfinders.
+528,Volley,Increases success chance of missions with |C00b3ffffMinions|R by ${$a644}%.
+529,Big Game Hunter,Increases success chance of missions with |C00b3ffffBosses|R by ${$a645}%.
+530,Farstrider,Reduces mission duration by ${100-$a646*100}%.
+531,Ascendant's Fury,Increases success chance of missions by ${$a647}%.
+532,Cleansing Tides,Increases success chance of missions with |C00b3ffffSpells|R by ${$a648}%.
+533,Lava Beam,Increases success chance of missions with |C00b3ffffMinions|R by ${$a649}%.
+534,Gust of Wind,Increases success chance of missions with |C00b3ffffHazards|R by ${$a650}%.
+535,Maelstrom Weapon,Increases success chance of missions by ${$a651}%.
+537,Incapacitating Roar,Increases success chance of missions with |C00b3ffffMinions|R by ${$a656}%.
+538,Rebirth,${$a657}% chance on mission success to recover an expired Troop with ${$m657} Vitality.
+539,Berserk,Reduces cost to start a mission by ${100-$a658*100}%.
+540,Efflorescence,"Chance to return from a mission with a Wild Mushroom, usable to heal troops for 1 vitality."
+541,Nature's Balance,Increases success chance of missions by ${$a660}% when accompanied by Dreamgrove Treants or Daughters of Cenarius.
+542,Stampeding Roar,Increases success chance of missions with |C00b3ffffHazards|R by ${$a661}%.
+543,Fury of Elune,Increases success chance of missions by ${$a662}% when accompanied by Druids of the Claw or Keepers of the Grove.
+544,Flying Carpet,Reduces mission duration by ${100-$a663*100}%.
+545,Elemental Attunement,Increases success chance of missions by ${$a664}% when accompanied by Water Elementals or Arcane Golems.
+546,Verbose Grandstanding,Increases success chance against |C00b3ffffBosses|R by ${$a889}% but doubles mission duration.
+547,Charged Core,Increased success chance on missions longer than ${$h666} hours by ${$a666}%.
+548,Cinderstorm,Increases success chance of missions with |C00b3ffffMinions|R by ${$a669}%.
+549,Master of Mages,Increases success chance of missions by ${$a672}% when accompanied by Tirisgarde Apprentices or Kirin Tor Invokers.
+550,Conjure Refreshment,"Chance to return from a mission with a Conjured Refreshment, usable to heal troops for 1 Vitality."
+551,Arcane Power,Increases success chance of missions by ${$a674}%.
+552,Presence of Mind,Increases success chance of missions with |C00b3ffffSpells|R by ${$a675}%.
+553,Frost Armor,Increases success chance of missions by ${$a676}%.
+554,Quickening,Increases success chance of missions by ${$a677}%.
+555,Nature's Force,Increases success chance of missions by ${$a678}%.
+556,Blessing of Cenarius,Increases success chance of missions by ${$a679}%.
+557,Ursol's Resolve,Increases success chance of missions by ${$a680}%.
+558,Wild Growth,Increases success chance of missions with |C00b3ffffMinions|R by ${$a681}%.
+559,King's Blessing,Increases success chance of missions by ${$a682}%.
+560,Divine Bulwark,Increases success chance of missions by ${$a683}%.
+561,Sword of Light,Increases success chance of missions by ${$a684}%.
+562,Guardians of Kings,Increases success chance of missions by ${$a685}% when accompanied by Squires or Shieldbearers.
+563,Divine Steed,Reduces mission duration by ${100-$a686*100}%.
+564,Light of Valor,A random troop on the mission will recover ${$a687} Vitality.
+565,Zeal,Increases success chance of missions with |C00b3ffffMinions|R by ${$a688}%.
+566,Absolution,${$a689}% chance on mission success to recover an expired Troop with ${$m689} Vitality.
+567,Liadrin's Blessing,Increases success chance of missions with |C00b3ffffHazards|R by ${$a690}%.
+568,Grand Crusader,Increases success chance of missions by ${$a691}% when accompanied by Silver Hand Knights or Silver Hand Templar.
+569,Blessing of Might,Mission success chance increased by ${$a692}% for every troop Vitality on the mission.
+570,Lucky Envelope,Increase success chance of the first mission of the day by ${$a693}%.
+571,Living Quarters,Increases the maximum number of Students of the Tiger you can recruit by $a694.
+572,Ox Stance,Increases success chance of missions by ${$a695}%.
+573,Shuffle,Increases success chance of missions with |C00b3ffffHazards|R by ${$a696}%.
+574,Untouchable Brawler,Increases success chance of missions by ${$a697}%.
+575,Fierce Tiger Stance,Increases success chance of missions by ${$a698}%.
+576,Spinning Crane Kick,Increases success chance of missions with |C00b3ffffMinions|R by ${$a699}%.
+577,Lethal Strikes,Increases success chance of missions by ${$a700}%.
+578,Bloodlust,Increase success chance of the first mission of the day by ${$a701}%.
+579,Elemental Fortitude,"Increases the maximum number of Lesser and Greater Elementals, Earthcallers and Geomancers you can recruit by ${$a702}."
+580,Windspeaker's Might,Reduces mission duration of all missions by ${100-$a703*100}%.
+581,Masterful Tiger Stance,Increases success chance of missions by ${$a704}%.
+582,Masterful Ox Stance,Increases success chance of missions by ${$a705}%.
+583,Magma Storm,Increases success chance of missions with |C00b3ffffMinions|R by ${$a706}%.
+584,Long Range,Increase success chance of the first mission of the day by ${$a707}%.
+585,Sturdy Tents,"Increases the maximum number of Archers, Marksmen, Trackers and Pathfinders you can recruit by ${$a708}."
+586,Seal of Elune,Increases success chance of missions with |C00b3ffffSpells|R by ${$a709}%.
+587,Frost Nova,Increases success chance of missions with |C00b3ffffMinions|R by ${$a710}%.
+588,Arcane Library,Increases the maximum number of Apprentices and Conjurers you can recruit by $a711.
+589,Blink,Reduces mission duration of all missions by ${100-$a712*100}%.
+591,Roots,Increases success chance of missions with |C00b3ffffMinions|R by ${$a714}%.
+592,Travel Form,Reduces mission duration of all missions by ${100-$a715*100}%.
+593,Righteous Blessing,Increases success chance of missions with |C00b3ffffMinions|R by ${$a716}%.
+594,Argent Call,Increases the maximum number of Silver Hand Knights and Champions you can recruit by $a717.
+595,Blessing of Kings,Increase success chance of the first mission of the day by ${$a718}%.
+596,Rallying Cry,Increases the success chance of the first mission you send each day by ${$a719}% per troop Vitality.
+597,Forced March,Reduces mission duration of all missions by ${100-$a720*100}%.
+598,Abundant Valor,Increases the maximum number of Shieldmaidens and Val'kyr you can recruit by $a721.
+599,Furious Blows,Increases success chance of missions by ${$a722}%.
+600,Mortal Hew,Increases success chance of missions by ${$a723}%.
+601,Flight of the Valkyra,Increases success chance of missions with |C00b3ffffHazards|R by ${$a724}%.
+602,Thunderstruck,Increases success chance of missions by ${$a725}%.
+603,Deathsworn Oath,Increases success chance of missions by ${$a726}%.
+604,Death to the Legion,Increases success chance of missions by ${$a727}%.
+605,Razorspine Scales,Increases success chance of missions by ${$a728}%.
+606,Demon Form,Increases success chance of missions with |C00b3ffffMinions|R or |C00b3ffffHazards|R by ${$a729}%.
+607,Glide,Increases success chance of missions with |C00b3ffffHazards|R by ${$a730}%.
+608,Outland Tactician,Increases success chance of missions by ${$a731}% when accompanied by Ashtongue Warriors or Naga Myrmidons.
+609,Shattered Souls,"Chance to return from a mission with a Soul Fragment, usable to heal troops for 1 Vitality."
+610,Immolation Aura,Increases success chance of missions with |C00b3ffffMinions|R by ${$a733}%.
+611,Demonic Portals,Reduces mission duration by ${100-$a734*100}%.
+612,Metamorphosis,Increases success chance of missions with |C00b3ffffMinions|R or |C00b3ffffHazards|R by ${$a735}%.
+613,Commander of the Illidari,Increases success chance of missions by ${$a737}% when accompanied by Illidari Adepts and Transformed Illidari Adepts.
+614,The Hunt,Increase success chance of the first mission of the day by ${$a738}%.
+615,Training Grounds,"Increases the maximum number of Ashtongue Warriors, Naga Myrmidon, Illidari Adepts and Transformed Illidari Adepts you can recruit by ${$a739}."
+616,Vengeful Retreat,Increases success chance of missions with |C00b3ffffMinions|R by ${$a740}%.
+617,Infected Bite,Increases success chance of missions by ${$a741}%.
+618,Endless Horde,Increases success chance of missions by ${$a742}%.
+619,Ebon Presence,Increases success chance of missions by ${$a743}%.
+620,Ebon Champion,Random spec [nyi]
+621,March of the Damned,Increases success chance of missions by ${$a745}% when accompanied by Packs of Ghouls or Geist Swarms.
+622,Path of Frost,Increases success chance of missions with |C00b3ffffHazards|R by ${$a746}%.
+623,Consecration,Increases success chance of missions with |C00b3ffffMinions|R by ${$a747}%.
+624,Arise My Champion,${$a748}% chance on mission success to recover an expired Troop with ${$m748} Vitality.
+625,Blood Belch,Increases success chance of missions with |C00b3ffffMinions|R by ${$a749}%.
+626,Frozen Soul,Increases success chance when not accompanied by other Champions by ${$a750}%.
+627,Army of the Highlord,Increases success chance of missions by ${$a751}% when accompanied by Ebon Knights or Ebon Ravagers.
+628,Death Gate,Reduces mission duration by ${100-$a752*100}%.
+629,Call of the Grave,"Increases the maximum number of Ghouls, Geists, Knights and Ravagers you can recruit by ${$a753}."
+630,Death's Advance,Increases the success chance for missions with |C00b3ffffHazards|R by ${$a754}%.
+631,Swarm,Increases success chance of missions by ${$a755}% when a Ghoul or Geist is on the mission.
+632,Nightblade,Increases success chance of missions by ${$a756}%.
+633,Avast!,Increases success chance of missions by ${$a757}%.
+634,Pick Pocket,"Increases success chance of missions by ${$a896}%. 
+Chance to return from a successful mission with an item of value."
+635,En Garde,Increases success chance of missions with |C00b3ffffMinions|R by ${$a759}%.
+636,Shadowstep,Increases success chance of missions with |C00b3ffffHazards|R by ${$a760}%.
+637,Master Assassin,Increases success chance of missions with |C00b3ffffBosses|R by ${$a761}%.
+638,Boarding Party,Increases success chance of missions by ${$a764}% when accompanied by Duelists and Pirates.
+639,Sticky Fingers,Chance to return from a successful mission with a random item.
+640,Leeching Poisons,A random troop on the mission will recover ${$a766} Vitality.
+641,Preparation,Increased success chance on missions longer than ${$h767} hours by ${$a767}%.
+642,Spy Network,Chance from successful missions to return with a Master Plan. Master Plans are given to Champions to improve success chance.
+643,Sneak Attack,Increase success chance of the first mission of the day by ${$a769}%.
+644,Assassination,Increases success chance of missions with |C00b3ffffMinions|R by ${$a770}%.
+645,Prizefights,Increases the maximum number of Duelists and Pirates you can recruit by $a771.
+646,Reincarnation,${$a772}% chance on mission success to recover an expired Troop with $m772 Vitality.
+647,Light's Blessing,Increases success chance of missions by ${$a773}%.
+648,Divine Star,Increases success chance of missions by ${$a774}%.
+649,Smite,Increases success chance of missions by ${$a775}%.
+650,Soul Reapers,Increases success chance of missions by ${$a776}% when accompanied by Champions who have Shadow specialization.
+651,By A'dal's Light,"Chance to return from a mission with a Healing Well, usable to heal troops for 1 Vitality."
+652,Shadowy Insight,Increases success chance of missions with |C00b3ffffHazards|R by ${$a778}%.
+653,Resurrection,${$a779}% chance on mission success to recover an expired Troop with ${$m779} Vitality.
+654,Light's Guardian,Increases success chance of missions by ${$a780}% when accompanied by a Group of Acolytes or Netherlight Paragons.
+655,Focused Will,Increased success chance on missions longer than ${$h781} hours by ${$a781}%.
+656,Touch of Madness,Increases success chance of missions by ${$a782}% when accompanied by a Band of Zealots or Dark Zealots.
+657,Prayer of Mending,Mission success chance increased by ${$a783}% for every troop Vitality on the mission.
+658,Communal Living,Increases the maximum number of Zealots or Dark Zealots you can recruit by $a784.
+659,Daily Prayers,Increase success chance of the first mission of the day by ${$a785}%.
+660,Pain Suppression,Chance for a random troop to not take ${$a786} vitality damage
+661,Disengage,Increases success chance of missions with |C00b3ffffHazards|R by ${$a787}%.
+662,Golden Banana,Increases success chance of a single mission by ${$a788$}%. Will be consumed on use.
+663,Master Plan,Increases success chance of a single mission by ${$a789}%. Will be consumed on use.
+664,7.0 - Test - Troop 200%,7.0 - Test - Troop 200%
+665,7.0 - Test - Troop Reduced Duration,7.0 - Test - Troop Reduced Duration
+668,Consuming Presence,Increases success chance when not accompanied by other Champions by ${$a794}%.
+674,Fruitful Bauble,Grants ${$a955} Order Hall Resources when completing World Quests as a Combat Ally.
+675,Curio of Abundant Happiness,Grants ${$a954} Order Hall Resources when completing World Quests as a Combat Ally.
+676,Elixir of Plenty,Grants ${$a956} Order Hall Resources when completing World Quests as a Combat Ally.
+677,Draught of Courage,Grants ${$a952} Gold when completing World Quests as a Combat Ally.
+678,Necklace of Endless Memories,Grants ${$a951} Gold when completing World Quests as a Combat Ally.
+679,Potion of Triton,Grants ${$a953} Gold when completing World Quests as a Combat Ally.
+680,Swift Boots,Reduces mission duration by ${100-$a807*100}%.
+681,Carrot on a Stick,Reduces mission duration by ${100-$a808*100}%.
+682,Pathfinder's Saddle,Reduces mission duration by ${100-$a809*100}%.
+683,Well-Worn Stone,Increases success chance of missions by ${$a810}%.
+684,Lucky Doodad,Increases success chance of missions by ${$a811}%.
+685,Auspicious Fetish,Increases success chance of missions by ${$a812}%.
+686,Embers of the Firelands,"Grants ${$a956} Order Hall Resources when completing World Quests as a Combat Ally.
+Grants ${$a952} Gold when completing World Quests as a Combat Ally."
+687,Glacial Fang,"Grants ${$a956} Order Hall Resources when completing World Quests as a Combat Ally.
+Reduces mission duration by ${100-$a881*100}%."
+688,Omen's Bidding,"Grants ${$a956} Order Hall Resources when completing World Quests as a Combat Ally.
+Increases mission success chance by ${$a880}%."
+689,Dust of Azeroth,"Grants ${$a953} Gold when completing World Quests as a Combat Ally.
+Grants ${$a955} Order Hall Resources when completing World Quests as a Combat Ally."
+690,Nightmare's End,"Grants ${$a953} Gold when completing World Quests as a Combat Ally.
+
+Reduces mission duration by ${100-$a875*100}%."
+691,Light's Haven,"Grants ${$a953} Gold when completing World Quests as a Combat Ally.
+Increases mission success chance by ${$a873}%."
+692,Tome of Secrets,"Reduces mission duration by ${100-$a819*100}%. 
+Grants ${$a955} Order Hall Resources when completing World Quests as a Combat Ally."
+693,Eltrig's Grace,"Reduces mission duration by ${100-$a820*100}%. 
+Grants ${$a952} Gold when completing World Quests as a Combat Ally."
+694,Brooch of Endless Dreams,"Reduces mission duration by ${100-$a821*100}%. 
+Increases mission success chance by ${$a883}%."
+695,Queen's Feathers,"Increases mission success chance by ${$a822}%.
+Grants ${$a955} Order Hall Resources when completing World Quests as a Combat Ally."
+696,Potion of Sacrifice,"Increases mission success chance by ${$a823}%.
+Grants ${$a952} Gold when completing World Quests as a Combat Ally."
+697,Demon in a Box,"Increases mission success chance by ${$a824}%.
+Reduces mission duration by ${100-$a878*100}%."
+698,Smoke Grenades,Increases success chance of missions by ${$a825}% when accompanied by Gangs of Bandits or Defias Thieves.
+699,Sleep Potion,Increases success chance of missions by ${$a826}% when accompanied by Gangs of Bandits or Defias Thieves.
+700,Leech Brew,Increases success chance of missions by ${$a827}% when accompanied by Crews of Pirates or Uncrowned Duelists.
+701,Vanishing Dust,Increases success chance of missions by ${$a828}% when accompanied by Crews of Pirates or Uncrowned Duelists.
+702,Marauder's Vestige,Increases success chance of missions by ${$a829}% when accompanied by Ashtongue Warriors or Naga Myrmidon.
+703,Shadow Relic,Increases success chance of missions by ${$a830}% when accompanied by Ashtongue Warriors or Naga Myrmidon.
+704,Demon's Sigil,Increases success chance of missions by ${$a831}% when accompanied by Illidari Adepts or Transformed Illidari Adepts.
+705,Essence of Malice,Increases success chance of missions by ${$a832}% when accompanied by Illidari Adepts or Transformed Illidari Adepts.
+706,Voodoo Post,Increases success chance of missions by ${$a833}% when accompanied by Lesser Elementals or Greater Elementals.
+707,Earthly Pincer,Increases success chance of missions by ${$a834}% when accompanied by Lesser Elementals or Greater Elementals.
+708,Totem of the Earth,Increases success chance of missions by ${$a835}% when accompanied by Circles of Earthcallers or Earthen Ring Geomancers.
+709,Furious Charge,Increases success chance of missions by ${$a836}% when accompanied by Circles of Earthcallers or Earthen Ring Geomancers.
+710,Conjurer's Bauble,Increases success chance of missions by ${$a837}% when accompanied by Tirisgarde Apprentices or Kirin Tor Invokers.
+711,Arcanist's Trifle,Increases success chance of missions by ${$a838}% when accompanied by Tirisgarde Apprentices or Kirin Tor Invokers.
+712,Band of Primordial Strength,Increases success chance of missions by ${$a839}% when accompanied by Water Elementals or Arcane Golems.
+713,Highborne Bauble,Increases success chance of missions by ${$a840}% when accompanied by Water Elementals or Arcane Golems.
+714,Bow of Ancient Kings,Increases success chance of missions by ${$a841}% when accompanied by Squads of Archers or Unseen Marksmen.
+715,Seeker's Scrip,Increases success chance of missions by ${$a842}% when accompanied by Squads of Archers or Unseen Marksmen.
+716,Windrunner's Gift,Increases success chance of missions by ${$a843}% when accompanied by Bands of Trackers or Pathfinders.
+717,Cloak of Deception,Increases success chance of missions by ${$a844}% when accompanied by Bands of Trackers or Pathfinders.
+718,Valarjar's Might,Increases success chance of missions by ${$a845}% when accompanied by Valarjar Aspirants or Stormforged Valarjar.
+719,War Banner,Increases success chance of missions by ${$a846}% when accompanied by Valarjar Aspirants or Stormforged Valarjar.
+720,Axe of the Valkyra,Increases success chance of missions by ${$a847}% when accompanied by Shieldmaiden Warbands or Valkyra Shieldmaidens.
+721,Skull of a Fallen Foe,Increases success chance of missions by ${$a848}% when accompanied by Shieldmaiden Warbands or Valkyra Shieldmaidens.
+722,Skull of Embrace,Increases success chance of missions by ${$a849}% when accompanied by Packs of Imps or Swarms of Wild Imps.
+723,Demonic Brew,Increases success chance of missions by ${$a850}% when accompanied by Packs of Imps or Swarms of Wild Imps.
+724,Helm of Command,Increases success chance of missions by ${$a851}% when accompanied by Black Harvest Acolytes or Black Harvest Invokers.
+725,Black Harvest Curio,Increases success chance of missions by ${$a852}% when accompanied by Black Harvest Acolytes or Black Harvest Invokers.
+726,Chi Empowered Jewel,"Increases success chance of missions by ${$a853}% when accompanied by Ox Initiates, Ox Adepts or Ox Masters."
+727,Tea of Blessing,"Increases success chance of missions by ${$a854}% when accompanied by Ox Initiates, Ox Adepts or Ox Masters."
+728,Mogu Madstone,"Increases success chance of missions by ${$a855}% when accompanied by Tiger Initiates, Tiger Adepts or Tiger Masters."
+729,Bell of Fury,"Increases success chance of missions by ${$a856}% when accompanied by Tiger Initiates, Tiger Adepts or Tiger Masters."
+730,Elune's Sight,Increases success chance of missions by ${$a857}% when accompanied by Dreamgrove Treants or Daughters of Cenarius.
+731,Scroll of Growth,Increases success chance of missions by ${$a858}% when accompanied by Dreamgrove Treants or Daughters of Cenarius.
+732,Glowing Token,Increases success chance of missions by ${$a859}% when accompanied by Druids of the Claw or Keepers of the Grove.
+733,Forest Ember,Increases success chance of missions by ${$a860}% when accompanied by Druids of the Claw or Keepers of the Grove.
+734,Justice Hammer,Increases success chance of missions by ${$a861}% when accompanied by Squads of Squires or Shieldbearer Phalanx.
+735,Light's Shield,Increases success chance of missions by ${$a862}% when accompanied by Squads of Squires or Shieldbearer Phalanx.
+736,Libram of Enlightenment,Increases success chance of missions by ${$a863}% when accompanied by Silver Hand Knights or Silver Hand Templar.
+737,Silver Hand Ornament,Increases success chance of missions by ${$a864}% when accompanied by Silver Hand Knights or Silver Hand Templar.
+738,Holy Figurine,Increases success chance of missions by ${$a865}% when accompanied by Group of Acolytes or Netherlight Paragons.
+739,Light's Command,Increases success chance of missions by ${$a866}% when accompanied by Group of Acolytes or Netherlight Paragons.
+740,Bottled Sanity,Increases success chance of missions by ${$a867}% when accompanied by Band of Zealots or Dark Zealots.
+741,Sanity Edge,Increases success chance of missions by ${$a868}% when accompanied by Band of Zealots or Dark Zealots.
+742,Undead Token,Increases success chance of missions by ${$a869}% when accompanied by Packs of Ghouls or Geist Swarms.
+743,Rune of Reckoning,Increases success chance of missions by ${$a870}% when accompanied by Packs of Ghouls or Geist Swarms.
+744,Death's Touch,Increases success chance of missions by ${$a871}% when accompanied by Ebon Knights or Ebon Ravagers.
+745,Relic of the Ebon Blade,Increases success chance of missions by ${$a872}% when accompanied by Ebon Knights or Ebon Ravagers.
+746,Grim Harvest,Quests grant you bonus resources while you have a Combat Ally active.
+747,Spoils of War,Quests grant you bonus resources while you have a Combat Ally active.
+748,Blessing of the Order,Increases success chance of a single mission by ${$a887}%. Will be consumed on use.
+749,Echo of the Celestial,Increases success chance of missions by ${$a888}%.
+750,Sturdy Ox Stance,Increases success chance of missions by ${$a897}%.
+751,7.0 Tooltip Dummy - Tech Tree - Legendary Upgrade Tooltip Dummy,${$a898}
+752,7.0 Tooltip Dummy - Tech Tree - Troop Cost Reduction Dummy,${$a899}%
+753,Hibernation,"Increases the maximum number of Dreamgrove Treants, Daughters of Cenarius, Druids of the Claw and Keepers of the Grove you can recruit by ${$a900}."
+754,Hasty Pocketwatch,Increases success chance by ${$a901}% on missions shorter than $h901 hours.
+755,Elixir of Overwhelming Focus,Increases success chance by ${$a902}% on missions shorter than ${$h902} hours.
+756,Potion of Energy,Increases success chance by ${$a903}% on missions shorter than $h903 hours.
+757,Sturdy Hiking Boots,Increases success chance on missions longer than ${$h904} hours by ${$a904}%.
+758,Bottomless Flask,Increases success chance on missions longer than $h905 hours by ${$a905}%.
+759,Vial of Timeless Breath,Increases success chance on missions longer than $h906 hours by ${$a906}%.
+760,Elite,Success chance reduced by ${$a907}%.
+761,Placeholder,Success chance reduced by ${$a908}%.
+762,Dungeon,Success chance reduced by ${$a909}%.
+763,Raid,Success chance reduced by ${$a910}%.
+764,Horn of Winter,Chance from successful missions to return with a Horn of Winter. Horns of Winter are given to Champions to improve success chance.
+765,Horn of Winter,Increases success chance of a single mission by ${$a923$}%. Will be consumed on use.
+766,Dirty Tricks,Increases success chance of missions with |C00b3ffffSpells|R by ${$a924}%.
+767,Unleashed Power,Increases success chance of missions with |C00b3ffffSpells|R by ${$a925}%.
+768,Lightning Surge,Increases success chance of missions with |C00b3ffffSpells|R by ${$a926}%.
+769,Dragons Wrath,Increases success chance of missions with |C00b3ffffMinions|R or |C00b3ffffHazards|R by ${$a927}%.
+770,Snowfeather's Screech,Increases success chance of missions with |C00b3ffffSpells|R by ${$a929}%.
+771,Shield Charge,Increases success chance of missions with |C00b3ffffHazards|R by ${$a930}%.
+772,Dark Pact,Increases success chance of missions with |C00b3ffffHazards|R by ${$a931}%.
+773,Wandering Keg,Increases success chance of missions with |C00b3ffffMinions|R or |C00b3ffffHazards|R by ${$a932}%.
+774,Solar Beam,Increases success chance of missions with |C00b3ffffSpells|R by ${$a656}%.
+775,Libram of Truth,Chance from successful missions to return with a Libram of Truth. Librams of Truth are given to Champions to improve success chance.
+776,Libram of Truth,Increases success chance of a single mission by ${$a788$}%. Will be consumed on use.
+777,Psychic Scream,Increases success chance of missions with |C00b3ffffSpells|R by ${$a937}%.
+778,Vile Aberration,Increases success chance of missions by ${$a938}%.
+779,Vile Gas,Increases success chance of missions with |C00b3ffffSpells|R by ${$a939}%.
+780,Slime Spray,Increases success chance of missions with |C00b3ffffMinions|R by ${$a940}%.
+781,Mutated Hide,Increases success chance of missions with |C00b3ffffHazards|R by ${$a941}%.
+782,Reanimation,On successful mission chance to return with an item to summon an Abomination.
+783,Under the Table,Quests grant you bonus resources while you have a Combat Ally active.
+784,Tithe,Quests grant you bonus resources while you have a Combat Ally active.
+785,Pilgrimage,On successful mission chance to return with a Champion Armament or Equipment
+786,Foraging,Quests grant you bonus resources while you have a Combat Ally active.
+787,Reclamation,On successful mission chance to return with a Champion Armament or Equipment
+788,Ancestral Gift,On successful mission chance to return with a Champion Armament or Equipment
+789,The Vault Ticket,Grants a chance for Champions on successful missions to return with a Vault Ticket.
+791,7.0 Tooltip Dummy - Equipment - Blue - World Quest Gold,${$a951}
+792,7.0 Tooltip Dummy - Equipment - Green - World Quest Gold,${$a952}
+793,7.0 Tooltip Dummy - Equipment - Purple - World Quest Gold,${$a953}
+794,7.0 Tooltip Dummy - Equipment - Blue - Order Hall Resources,${$a954}
+795,7.0 Tooltip Dummy - Equipment - Green - Order Hall Resources,${$a955}
+796,7.0 Tooltip Dummy - Equipment - Purple - Order Hall Resources,${$a956}
+798,Faithful Steward,Increases success chance against |C00b3ffffBosses|R by ${$a960}%.
+799,Garrote,Increases success chance of missions with |C00b3ffffMinions|R or |C00b3ffffSpells|R by ${$a963}%.
+800,Dinner is Served,Chance on mission success to return with an item to summon a Dinner Guest.
+801,Mana Burn,Increases success chance of missions with |C00b3ffffMinions|R by ${$a966}%.
+802,Prattle On,Increases success chance of missions by ${$a967}%.
+803,Judgement of Command,Increases success chance of missions with |C00b3ffffHazards|R by ${$a968}%.
+804,Shield Bash,Increases success chance of missions with |C00b3ffffSpells|R by ${$a969}%.
+805,Meatball Mad!,Increases success chance against |C00b3ffffBosses|R by ${$a970}%.
+806,Loud Noises!,Increases success chance of missions with |C00b3ffffMinions|R by ${$a973}%.
+807,Burp!,"Chance to return from a mission with a Strange Ball of Energy, usable to increase a Champion's success chance for 1 mission."
+808,Strange Ball of Energy,Increases success chance of a single mission by ${$a923$}%. Will be consumed on use.
+810,Soulsever Blade,Increases success chance of missions with |C00b3ffffMinions|R by ${$a977}%.
+811,Kiss of the Princess,Increases success chance of missions with |C00b3ffffMinions|R by ${$a978}%.
+812,Blood and Honor,Mission success chance increased by ${$a979}% for every troop Vitality on the mission.
+813,Leader of the Pack,Mission success chance increased by ${$a980}% for every troop Vitality on the mission.
+814,Royal Guard,"Chance on mission success to return with an item to summon a Coilskar Brute, a powerful troop type."
+815,Massive Crash,Increases success chance of missions by ${$a982}%.
+816,Grim Matriarch,"Chance on mission success to return with an item to summon a Grimtotem Warrior, a powerful troop type."
+817,Grim Strike,Increases success chance of missions by ${$a984}%.
+818,Combustion,"Increases success chance of missions by ${$a985}%, however any accompanying troops have a chance to lose extra vitality."
+819,Flame Strike,Increases success chance of missions with |C00b3ffffMinions|R by ${$a987}%.
+820,Hat-Trick,Chance to return from a mission with a random reward from inside the magic hat!
+821,Lucky Rabbit's Foot,Increases success chance of a single mission by ${$a989}%. Will be consumed on use.
+822,Arcane Traps,Increases success chance of missions with |C00b3ffffMinions|R by ${$a990}%.
+823,Corrupt Knowledge,Increases success chance of missions with |C00b3ffffSpells|R by ${$a991}%.
+824,Vivify,Mission success chance increased by ${$a992}% for every troop Vitality on the mission.
+825,Shapemending,Mission success chance increased by ${$a993}% for every troop Vitality on the mission.
+826,Crusade Commander,Increased success chance on missions longer than ${$h623} hours by ${$a623}%.
+827,To Me Squire!,Increases success chance of mission by ${$a995}% when accompanied by other Paladin Champions.
+828,Ethereal Form,Increases success chance of missions with |C00b3ffffSpells|R by ${$a1004}%.
+829,Asphyxiate,Increases success chance of missions with |C00b3ffffSpells|R by ${$a1005}%.
+855,Empty Equipment Slot,Equip items here.
+876,Prismatic Armor,Increases success chance of missions by ${$a1054}%.
+877,Frost Reaver,Increases success chance of missions by ${$a1055}%.
+878,Hard Assault,Increases success chance of missions by ${$a1056}%.
+879,Stars Fury,Increases success chance of missions by ${$a1057}%.
+884,Shadow Assault,Increases success chance of missions by ${$a1064}%.
+885,Shattering Blades,Increases success chance of missions by ${$a1066}%.
+886,Earth's Vengeance,Increases success chance of missions by ${$a1069}%.
+887,Fel Charge,Increases success chance of missions by ${$a1071}%.
+888,Whispers of Death,Increases success chance of missions by ${$a1073}%.
+889,Thundering Assault,Increases success chance of missions by ${$a1075}%.
+890,Shadow Death,Increases success chance of missions by ${$a1078}%.
+891,Serene Strike,Increases success chance of missions by ${$a1080}%.
+892,7.0 Tooltip Dummy - Tech Tree - All - Increase Champion Limit,Increase the number of Champions you can have active at once by ${$a1086}.
+905,Ward of Infinite Fury,"Grants ${$a953} Gold when completing World Quests as a Combat Ally.
+Grants ${$a956} Order Hall Resources when completing World Quests as a Combat Ally."
+906,Vial of Sight,"Increases mission success chance by ${$a1106}%.
+Increases success chance of missions with |C00b3ffffMinions|R by ${$a1118}%."
+907,Shard of Twisting Nether,Grants ${$a956} Order Hall Resources when completing World Quests as a Combat Ally.
+908,Fel Imp Tooth,"Increases mission success chance by ${$a1113}%.
+Reduces mission duration by ${100-$a1114*100}%."
+909,Cloak of Concealment,"Increases mission success chance by ${$a1121}%.
+Increases success chance of missions with |C00b3ffffSpells|R by ${$a1122}%."
+910,Harpy Feather,"Increases mission success chance by ${$a1125}%.
+Increases success chance of missions with |C00b3ffffHazards|R by ${$a1126}%."
+911,Pouch of Wonder,Grants ${$a953} Gold when completing World Quests as a Combat Ally.
+912,Horn of Rage,Increases success chance of missions by ${$a1132}% when accompanied by a Shock Force.
+913,Relic of Demonic Influence,Increases success chance of missions by ${$a1134}% when accompanied by Felguard Demons.
+914,Stone Totem,Increases success chance of missions by ${$a1136}% when accompanied by Earthen Ring Protectors.
+915,Diamond Stone,Increases success chance of missions by ${$a1138}% when accompanied by Ravenholdt Assassins.
+916,Book of Lost Sermons,Increases success chance of missions by ${$a1140}% when accompanied by Hooded Priests.
+917,Horn of Valor,Increases success chance of missions by ${$a1142}% when accompanied by Silver Hand Crusaders.
+918,Soothing Focus,Increases success chance of missions by ${$a1144}% when accompanied by Masters of Serenity.
+919,Essence of Nether,Increases success chance of missions by ${$a1146}% when accompanied by Kirin Tor Guardians.
+920,Arcane Trap,Increases success chance of missions by ${$a1148}% when accompanied by Nightborne Hunters.
+921,Dreamgrove Leaf,Increases success chance of missions by ${$a1150}% when accompanied by Dreamgrove Wardens.
+922,Demonic Standard,Increases success chance of missions by ${$a1152}% when accompanied by Shivarra.
+923,Sigil of Ebon Frost,Increases success chance of missions by ${$a1155}% when accompanied by Ebon Knight Frostreavers.
+952,Hardened Survivor,Increases success chance of missions with |C00b3ffffHazards|R by ${$a1188}%.
+953,Touched by Void,Increases success chance of missions with |C00b3ffffSpells|R by ${$a1190}%.
+954,Forged in Light,Increases success chance of missions with |C00b3ffffMinions|R by ${$a1189}%.
+959,Powerful,Reduces success chance.
+960,Viscid Demon Blood,Increases success chance on missions longer than $h1197 hours by ${$a1197}%.
+961,Krokul Sledgehammer,Increases mission success chance by ${$a1199}%.
+962,Pit Lord Tusk,Increases success chance of missions with |C00b3ffffHazards|R by ${$a1201}%.
+963,Void-Touched Arinor Blossom,Increases success chance by ${$a1203}% on missions shorter than ${$h1203} hours.
+964,Satchel of Lucidity,Reduces mission duration by ${100-$a1205*100}%.
+965,Impervious Shadoweave Hood,Increases success chance of missions with |C00b3ffffSpells|R by ${$a1207}%.
+966,Sanctified Armaments of the Light,Increases success chance by ${$a1209}% on missions shorter than ${$h1209} hours.
+967,Exalted Xenedar Hammer,Increases success chance on missions longer than $h1211 hours by ${$a1211}%.
+968,Memento of the Lightforged,Increases mission success chance by ${$a1213}%.
+969,Writ of Holy Orders,Reduces mission duration by ${100-$a1214*100}%.
+970,Lightburst Charge,Increases success chance of missions with |C00b3ffffMinions|R by ${$a1215}%.
+971,Praetorium Tome of Arcana,"Increases mission success chance by ${$a1218}%.
+Reduces mission duration by ${100-$a1219*100}%."
+972,Azurelight Candelabra,"Increases success chance by ${$a1220}% on missions shorter than ${$h1220} hours.
+Increases success chance of missions with |C00b3ffffMinions|R by ${$a1221}%."
+973,Augari Censorite Staff,"Increases success chance by ${$a1224}% on missions shorter than ${$h1224} hours.
+Increases success chance of missions with |C00b3ffffSpells|R by ${$a1225}%."
+974,Volatile Stygian Scroll,"Increases success chance on missions longer than $h1228 hours by ${$a1228}%.
+Increases success chance of missions with |C00b3ffffMinions|R by ${$a1229}%."
+975,Pulsing Wrathguard Skull,"Increases success chance on missions longer than $h1232 hours by ${$a1232}%.
+Increases success chance of missions with |C00b3ffffHazards|R by ${$a1233}%."
+976,Fel-Infused Legion Effigy,"Increases mission success chance by ${$a1236}%.
+Increases success chance of missions with |C00b3ffffSpells|R by ${$a1237}%."
+977,Darklost Claw,"Increases mission success chance by ${$a1240}%.
+Increases success chance of missions with |C00b3ffffHazards|R by ${$a1241}%."
+978,Veteran of Argus,"A grizzled veteran with intimate knowledge of Argus, able to counter |C00b3ffffArgus Elites|R."
+987,Elite,Success chance reduced by ${$a1251}%.
+988,Elite,Success chance reduced by ${$a1252}%.
+989,Elite,Success chance reduced by ${$a1253}%.
+990,Elite,Success chance reduced by ${$a1254}%.
+991,Serrated Stone Axe,Increases success chance by ${$a1256}% on missions shorter than ${$h1256} hours.
+992,Vilefiend-Spine Whip,Increases success chance of missions with |C00b3ffffMinions|R by ${$a1258}%.
+993,Archaic Seerstone,Reduces mission duration by ${100-$a1259*100}%.
+994,Pronged Ridgestalker Spear,Increases success chance of missions with |C00b3ffffSpells|R by ${$a1260}%.
+995,Xenic Tincture,Increases success chance of missions with |C00b3ffffHazards|R by ${$a1261}%.
+996,Runewarded Lightblade,Increases success chance of missions with |C00b3ffffSpells|R by ${$a1262}%.
+997,Wakener's Bauble,Increases mission success chance by ${$a1263}%.
+998,Shadowguard Void Effusion,Increases success chance of missions with |C00b3ffffHazards|R by ${$a1264}%.
+999,Shadow-Soaked Stalker Heart,Increases success chance of missions with |C00b3ffffMinions|R by ${$a1265}%.
+1000,Azurelight Sapphire,Increases success chance on missions longer than $h1266 hours by ${$a1266}%.
+1040,Long Campaign,Increases success by 10% for every troop Vitality on the mission.
+1042,Expert Technician,"Adept at making devices, destroying devices or making devices that destroy other devices."
+1043,Operative,"Finds targets, retrieves information and looks good doing it."
+1046,Plains,Decreases Mission Success chance by 25%.
+1047,Mountain Guide,Increases mission success chance by 50% on |cFF00CCFFMountainous |rterrain.
+1053,Elite Mission,Success chance decreased by 50%.
+1054,Shadowmeld,Counters |C00b3ffffAmbush|R.
+1056,Sharpened Glaives,Increases mission success chance by 15%.
+1057,Long-Barreled Muskets,Increases mission success chance by 15%.
+1058,Well-Balanced Daggers,Increases mission success chance by 15%.
+1059,Stealth,Increases success chance on Stealth Missions by 50%.   This unit does not incur a penatly on stealth missions.
+1060,Arclight Spanners,Increases mission success chance by 15%.
+1061,Ultrasafe Transporter,Decreases mission duration by 50%.
+1062,Combat Specialist,Trained to fight against all odds using any means necessary.
+1063,Quick Strike,"Reducing mission duration also increases success chance.
+
+|cFFFFD200""A fast attack will surprise the enemy and provide zero opportunity to counter.  Get in and get out.""|r"
+1064,Auchenai Crossbows,Increases mission success chance by 15%.
+1065,Gift of the Naaru,Restores other squads on the mission to full combat readiness.
+1066,Feral Claws,Increases mission success chance by 15%.
+1067,Two Forms,"When in human form, increases success chance on Stealth Missions by 25%.  
+
+When in Worgen form, increases success chance on Skirmish Missions by 25%."
+1068,For the Alliance!,Increases mission success chance by 15%.
+1073,Powerful,Reduces success chance.
+1078,Slowing,Mission duration increased.
+1079,Disorienting,Increased mission cost.
+1080,Lethal,Troops on this mission will be killed.
+1081,Cursed,No bonus loot.
+1082,Powerful,Reduces success chance.
+1083,Ranged Troop,Decimates |C00b3ffffMelee|R Troops from a distance.
+1084,Melee Troop,Pummels and dismounts |C00b3ffffMounted|R Troops.
+1085,Mounted Troop,"Closes distances quickly, trampling |C00b3ffffRanged|R Troops."
+1086,Hammerin' Time,Increases success chance of missions against |C00b3ffffMelee|R enemies by ${$a1384}%.
+1087,Call Swiftwing,Increases success chance of missions against |C00b3ffffMounted|R Troops by ${$a1385}%.
+1088,Blessing of Lukou,${$a1386}% chance on mission success to recover an expired Troop with ${$m1386} Vitality.
+1089,Blessing of Dambala,Increases success chance of missions against |C00b3ffffMounted|R Troops by ${$a1385}%.
+1090,Iron Autocannon,Increases success chance of missions against |C00b3ffffRanged|R Troops by ${$a1388}%.
+1091,Cold Steel,Increases success chance of missions against |C00b3ffffMelee|R Troops by ${$a1389}%.
+1092,Bestial Wrath,Increases mission success chance by ${$a1390}%.
+1093,Call Misha,Increases success chance of missions against |C00b3ffffRanged|R Troops by ${$a1391}%.
+1094,Arcane Barrage,Increases success chance of missions against |C00b3ffffMelee|R Troops by ${$a1392}%.
+1095,Stoneform,These troops start with 1 more Vitality
+1096,Time Warp,Increases success chance by ${$a1394}%.
+1097,Spacial Rift,Reduces mission duration by ${100-$a1395*100}%.
+1098,Stealth Suit,Increases success chance for bonus loot by ${$a1396}%.
+1099,The Big One,"Increases success chance by ${$a1400}%, but has a chance to cause 1 extra vitality loss to a random Troop."
+1100,Empty Equipment Slot,"Place champion equipment here.
+
+|cFF9D9D9DEquipment can be crafted or purchased from the auction house.|r"
+1101,Empty Equipment Slot,"Place champion equipment here.
+
+|cFF9D9D9DEquipment can be crafted or purchased from the auction house.|r"
+1102,Flanking Strike,Increases success chance of |C00b3ffffMounted|R Troops by ${$a1401}%.
+1103,Soulsever Blade,Increases success chance of |C00b3ffffMelee|R Troops by ${$a1402}%.
+1104,Blessing of Elune,${$a1403}% chance on mission success to recover an expired Troop with ${$m1386} Vitality.
+1111,Vanish,Reduces mission duration by ${100-$a1395*100}%.
+1112,Mark of the Sentinel,Increases success chance of |C00b3ffffRanged|R Troops by ${$a1439}%.
+1113,Army of One,Increases success chance by ${$a1410}%.
+1114,Born to Command,Increases success chance of missions by ${$a1441}% for each accompanying Troop.
+1115,Ghost Wolf,Counters |C00b3ffffAmbush|R.
+1116,Gift of the Naaru,Chance to heal a random troop vitality by 1.
+1117,Force Order out of Chaos,Mission success chance increased by ${$a1451}% for every troop Vitality on the mission.
+1118,Sapper Charge,Increase success chance by ${$a1453}% when at ${$m1453} Vitality
+1119,Running Wild,Reduces mission duration by ${100-$a1455*100}%.
+1120,Endurance,These troops start with 1 more Vitality
+1121,Rage,Mission success chance increased by ${$a1458}% when at less than maximum Vitality.
+1122,Diplomacy,Increases success chance of missions by ${$a1467}% for each accompanying troop.
+1123,Transcendence,Counters |C00b3ffffAmbush|R.
+1124,Transcendence,Counters |C00b3ffffAmbush|R.
+1125,Cannibalize,Chance to heal vitality by 1.
+1126,Full Head of Steam,Reduces mission duration by ${100-$a1478*100}%.
+1131,Dwarven Inspiration,Increases success chance of missions by ${$a1490}% for each accompanying Troop.
+1132,Grand Crusade,Quests grant you bonus resources while you have a Combat Ally active.
+1133,Unholy Reclamation,Quests grant you bonus resources while you have a Combat Ally active.
+1134,Arcane Intuition,Quests grant you bonus resources while you have a Combat Ally active.
+1135,Resourceful Brawler,Quests grant you bonus resources while you have a Combat Ally active.
+1136,Bladestorm,Increases success chance of missions with |C00b3ffffMinions|R by ${$a1514}%.
+1137,Seed of Corruption,Increases success chance of missions with |C00b3ffffMinions|R by ${$a1516}%.
+1138,Alliance Veteran,Increases success chance by an additional 10%
+1139,Horde Veteran,Increases success chance by an additional 10%.
+1140,Stealth,Troops reduce success chance by 100%.
+1145,Healing Injector,Chance to heal a random troop vitality by 1.
+1146,Tempest Hide Pouch,"Equip a champion with a Tempest Hide Pouch which grants:
+
+Chance to bring back skins or hides from successful missions."
+1147,Magnetic Mining Pick,"Equip a champion with a Magnetic Mining Pick which grants:
+
+Chance to bring back ore from successful missions."
+1148,Disenchanting Rod,"Equip a champion with a Disenchanting Rod which grants:
+
+Chance to bring back enchanting dust from successful missions."
+1149,Crimson Ink Well,"Equip a champion with a Crimson Ink Well which grants:
+
+Chance to bring back ink from successful missions."
+1150,Kaleidoscopic Lens,"Equip a champion with a Kaleidoscopic Lens which grants:
+
+Chance to bring back gems from successful missions."
+1151,Rough-hooked Tidespray Linen,"Equip a champion with Rough-hooked Tidespray Linen which grants:
+
+Chance to bring back cloth from successful missions."
+1152,Potion of Herb Tracking,"Equip a champion with a Potion of Herb Tracking which grants:
+
+Chance to bring back herbs from successful missions."
+1153,Makeshift Azerite Detector,"Equip a champion with a Makeshift Azerite Detector which grants:
+
+Chance to bring back Azerite from successful missions."
+1154,Monelite Fish Finder,"Equip a champion with a Monelite Fish Finder which grants:
+
+Chance to bring back fish from successful missions."
+1155,Platinum Whetstone,"Equip a champion with a Platinum Whetstone which grants:
+
+Increases mission success chance by ${$a1559}%."
+1156,Storm Silver Spurs,"Equip a champion with Storm Silver Spurs which grants:
+
+Equip a champion with Storm Silver Spurs which grants:
+
+Decreases mission duration by ${100-$a1560*100}%."
+1157,Amber Rallying Horn,"Equip a champion with an Amber Rallying Horn which grants:
+
+Increases success chance of missions by ${$a1561}% for each accompanying troop."
+1246,Fel Hammer's Wrath,Increases success chance of missions with |C00b3ffffMinions|R by ${$a716}%.
+1252,,
+1253,,
+1254,Upgraded Troop Barracks,"Construct a larger barracks for your army, increasing the maximum number of troops you can house by ${$a1664}."
+1255,,
+1256,,
+1257,,
+1258,,
+1259,Portable Teleporter,Reduces mission duration by ${100-$a1395*100}%.
+1260,Portable Teleporter,Reduces mission duration by ${100-$a1395*100}%.
+1261,Monelite Whetstone,"Equip a champion with a Monelite Whetstone which grants:
+
+Increases mission success chance by ${$a1704}%."
+1262,Vial of Obfuscation,"Equip a champion with a Vial of Obfuscation which grants:
+
+Removes the negative effect imposed by the Stealth mission type."
+1263,Elite Mission,Success chance decreased by 50%.
+1264,Troop Portal Network,"Open a portal for transportation of troops, allowing troops to be recruited instantly."
+1265,Deep Sea,Mission success chance reduced.
+1266,Naval Expert,Counters the Deep Sea mechanic.
+1267,Naval Expert,Counters the Deep Sea mechanic.
+1268,Broadside,Increases success chance of missions against |C00b3ffffMelee|R Troops by ${$a1392}%.
+1269,Waterborne,Increases success chance when on a Deep Sea mission by an additional 30%.
+1270,Alliance Veteran,Increases success chance by an additional 10%
+1271,,
+1272,Root Out Corruption,Chance to bring back Corrupted Mementos from successful missions.
+1273,Strategic Genius,Reduces the travel time on an adventure by 25%.
+1274,Forward Planning,Increases the rate at which adventurers heal by 25%.
+1321,Archaelogist,A world-renown archaelogist who has seen more of Azeroth than almost anyone else in the world.
+1322,Health Potions,Can toss out health potions to heal you when you get beneath 50% health.
+1323,Investigation,Can investigate areas and discover secrets left behind.

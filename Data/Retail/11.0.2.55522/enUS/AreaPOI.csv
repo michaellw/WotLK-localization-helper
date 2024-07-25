@@ -1,0 +1,3364 @@
+ID,Name_lang,Description_lang
+1,Anvilmar,
+2,Brill,
+3,Darkshire,
+4,Deathknell,
+5,Dun Algaz,
+6,Dun Modr,
+7,Goldshire,
+8,Ironforge,
+9,Kharanos,
+10,Lakeshire,
+11,Menethil Harbor,
+12,Moonbrook,
+13,Northshire Abbey,
+14,Raven Hill,
+15,Sentinel Hill,
+16,Stormwind City,
+17,The Sepulcher,
+18,Undercity,
+19,Thelsamar,
+20,Alliance,
+21,Horde,
+22,Southshore,
+23,Tarren Mill,
+24,Refuge Pointe,
+25,Hammerfall,
+26,Kargath,
+27,Angor Fortress,
+28,Bloodhoof Village,
+29,Thunder Bluff,
+30,Camp Narache,
+31,Razor Hill,
+32,The Den,
+33,Orgrimmar,
+34,Sen'jin Village,
+35,The Crossroads,
+36,Aldrassil,
+37,Dolanaar,
+38,Darnassus,
+39,Ratchet,
+40,Booty Bay,
+41,Grom'gol Base Camp,
+42,Astranaar,
+44,Stonetalon Peak,
+45,Thalanaar,
+46,Freewind Post,
+227,Mirror Lake,
+247,Slaughter Hollow,
+327,Drywhisker Gorge,
+701,Sun Rock Retreat,
+707,Temple of Zin-Malor,
+708,Hetaera's Clutch,
+709,Uther's Tomb,
+710,Scholomance,
+767,Whitereach Post,
+788,Stonard,
+789,Gadgetzan,
+790,Camp Mojache,
+791,Theramore Isle,
+792,Aerie Peak,
+794,Everlook,
+795,Shadowprey Village,
+796,Feathermoon Stronghold,
+798,Auberdine,
+799,Nijel's Point,
+907,Aldrassil,
+908,Shadowthread Cave,
+909,Fel Rock,
+911,Ban'ethil Barrow Den,
+912,The Cleft,
+913,Razorwind Canyon,
+929,Tor'kren Farm,
+947,Steelgrill's Depot,
+948,Ironband's Compound,
+949,Echo Ridge Mine,
+950,Maclure Vineyards,
+951,Stonefield Farm,
+954,Northshire Vineyards,
+955,Tower of Ilgalar,
+956,Render's Rock,
+1007,Spirit Den,
+1008,Rethban Caverns,
+1010,Boulderfist Outpost,
+1011,Grosh'gok Compound,
+1012,Stagalbog Cave,
+1013,Temple of Atal'Hakkar,
+1014,The Tower of Arathor,
+1015,Wildhammer Keep,
+1016,Night Web's Hollow,
+1017,Terrorweb Tunnel,
+1018,Browman Mill,
+1027,Uldaman,
+1028,Dustbelch Grotto,
+1029,Westbrook Garrison,
+1030,Jasperlode Mine,
+1031,Janeiro's Point,
+1032,Algaz Station,
+1033,Grim Batol,
+1047,Venture Co. Mine,
+1048,Blackwood Den,
+1049,Wildbend River,
+1050,Cliffspring Falls,
+1067,Fray Island,
+1068,Wailing Caverns,
+1087,Shady Rest Inn,
+1088,Darkmist Cavern,
+1089,North Point Tower,
+1090,Bluefen,
+1091,Lost Point,
+1092,Tidefury Cove,
+1093,Stonemaul Ruins,
+1094,Onyxia's Lair,
+1095,Emberstrife's Den,
+1096,Bloodfen Burrow,
+1097,Sentry Point,
+1098,Swamplight Manor,
+1099,Irondeep Mine,Alliance Controlled
+1100,Stonehearth Outpost,
+1101,Iceblood Garrison,
+1102,Coldtooth Mine,Horde Controlled
+1103,Frostwolf Keep,
+1104,Marshal's Refuge,
+1105,Fungal Rock,
+1106,Wavestrider Beach,
+1107,Uldum,
+1108,Darkcloud Pinnacle,
+1109,Roguefeather Den,
+1110,Mirage Raceway,
+1111,Sunken Dig Site,
+1112,Splithoof Hold,
+1113,The Weathered Nook,
+1114,Ironstone Camp,
+1115,Weazel's Crater,
+1116,Tahonda Ruins,
+1127,Roland's Doom,
+1128,Beggar's Haunt,
+1147,Bolgan's Hole,
+1148,Maraudon,
+1149,Ghost Walker Post,
+1150,Scrabblescrew's Camp,
+1151,Valley of Bones,
+1168,Rage Scar Hold,
+1169,Ruins of Solarsal,
+1171,Ravaged Twilight Camp,
+1172,Twilight Post,
+1173,Twilight Outpost,
+1174,Woodpaw Hills,
+1175,Lariss Pavillion,
+1176,Slither Rock,
+1177,Flame Crest,
+1187,Shalzaru's Lair,
+1208,Stormpike Graveyard,Alliance Controlled
+1209,Snowfall Graveyard,Horde Controlled
+1210,Frostwolf Graveyard,Horde Controlled
+1211,Scalebeard's Cave,
+1212,Timbermaw Hold,
+1213,The Ruins of Kel'Theril,
+1214,Dun Mandarr,
+1215,Talrendis Point,
+1216,Rethress Sanctum,
+1217,Moon Horror Den,
+1218,Timbermaw Hold,
+1219,Irontree Cavern,
+1220,Bloodvenom Post,
+1227,Sishir Canyon,
+1228,Cragpool Lake,
+1229,Windshear Mine,
+1230,The Talondeep Path,
+1231,The Talon Den,
+1232,The Ruins of Ordil'Aran,
+1233,Bathran's Haunt,
+1234,Zoram'gar Outpost,
+1235,Falfarren River,
+1237,Xavian,
+1238,Forest Song,
+1239,Demon Fall Canyon,
+1240,Silverwing Outpost,
+1241,The Dor'Danil Barrow Den,
+1242,Silverwind Refuge,
+1243,Greenpaw Village,
+1244,Bloodtooth Camp,
+1245,The Talondeep Path,
+1246,Shrine of Remulos,
+1247,Nighthaven,
+1248,Stormrage Barrow Dens,
+1249,Dun Baldar South Bunker,Alliance Controlled
+1250,Dun Baldar North Bunker,Alliance Controlled
+1251,Icewing Bunker,Alliance Controlled
+1252,Iceblood Tower,Horde Controlled
+1254,Tower Point,Horde Controlled
+1255,East Frostwolf Tower,Horde Controlled
+1268,Warsong Labor Camp,
+1287,Ariden's Camp,
+1288,Deadwind Ravine,
+1289,Sleeping Gorge,
+1307,Chillwind Camp,
+1328,Dun Baldar,
+1347,Stonehearth Bunker,Alliance Controlled
+1348,Stormpike Aid Station,Alliance Controlled
+1349,Iceblood Graveyard,Horde Controlled
+1350,Stonehearth Graveyard,Alliance Controlled
+1351,Frostwolf Relief Hut,Horde Controlled
+1352,Dun Baldar North Bunker,Destroyed
+1353,Dun Baldar North Bunker,In Conflict
+1354,Dun Baldar North Bunker,In Conflict
+1355,Dun Baldar South Bunker,Destroyed
+1356,Dun Baldar South Bunker,In Conflict
+1357,Dun Baldar South Bunker,In Conflict
+1358,Coldtooth Mine,Alliance Controlled
+1359,Coldtooth Mine,Kobold Controlled
+1362,East Frostwolf Tower,Destroyed
+1363,East Frostwolf Tower,In Conflict
+1364,East Frostwolf Tower,In Conflict
+1368,Frostwolf Graveyard,Alliance Controlled
+1369,Frostwolf Graveyard,In Conflict
+1370,Frostwolf Graveyard,In Conflict
+1371,Frostwolf Relief Hut,Alliance Controlled
+1372,Frostwolf Relief Hut,In Conflict
+1373,Frostwolf Relief Hut,In Conflict
+1374,Iceblood Graveyard,Alliance Controlled
+1375,Iceblood Graveyard,In Conflict
+1376,Iceblood Graveyard,In Conflict
+1377,Iceblood Tower,Destroyed
+1378,Iceblood Tower,In Conflict
+1379,Iceblood Tower,In Conflict
+1380,Icewing Bunker,Destroyed
+1381,Icewing Bunker,In Conflict
+1382,Icewing Bunker,In Conflict
+1383,Irondeep Mine,Horde Controlled
+1384,Irondeep Mine,Trogg Controlled
+1386,Snowfall Graveyard,Alliance Controlled
+1387,Snowfall Graveyard,In Conflict
+1388,Snowfall Graveyard,In Conflict
+1389,Stonehearth Bunker,Destroyed
+1390,Stonehearth Bunker,In Conflict
+1391,Stonehearth Bunker,In Conflict
+1392,Stonehearth Graveyard,Horde Controlled
+1393,Stonehearth Graveyard,In Conflict
+1394,Stonehearth Graveyard,In Conflict
+1395,Stormpike Aid Station,Horde Controlled
+1396,Stormpike Aid Station,In Conflict
+1397,Stormpike Aid Station,In Conflict
+1398,Stormpike Graveyard,Horde Controlled
+1399,Stormpike Graveyard,In Conflict
+1400,Stormpike Graveyard,In Conflict
+1405,Tower Point,Destroyed
+1406,Tower Point,In Conflict
+1407,Tower Point,In Conflict
+1469,Camp Taurajo,
+1471,Splintertree Post,
+1472,The Swarming Pillar,
+1473,Bones of Grakkarond,
+1475,Woodpaw Den,
+1507,Revantusk Village,
+1508,Thorium Point,
+1512,Mor'shan Base Camp,
+1513,Silverwing Grove,
+1527,West Frostwolf Tower,Horde Controlled
+1528,West Frostwolf Tower,Destroyed
+1529,West Frostwolf Tower,In Conflict
+1530,West Frostwolf Tower,In Conflict
+1550,Pre-alliance POI test,
+1551,The Weeping Cave,
+1568,Wildpaw Cavern,
+1569,Icewing Cavern,
+1588,Yojamba Isle,
+1612,Stables,Neutral
+1618,Blacksmith,Neutral
+1623,Lumber Mill,Neutral
+1628,Gold Mine,Neutral
+1632,Farm,Neutral
+1682,Snowfall Graveyard,Uncontrolled
+1683,Misty Reed Post,
+1684,Brackenwall Village,
+1685,Cenarion Hold,
+1687,Twilight Base Camp,
+1688,Staghelm Point,
+1689,Twilight's Run,
+1690,Ortell's Hideout,
+1694,Bronzebeard Encampment,
+1696,Under Attack,Winterspring
+1697,Under Attack,Azshara
+1698,Under Attack,Blasted Lands
+1699,Under Attack,Burning Steppes
+1700,Under Attack,Tanaris Desert
+1701,Under Attack,Eastern Plaguelands
+1702,Ivar's Patch,
+1703,Valgan's Field,
+1704,Silvermoon City,
+1705,Falconwing Square,
+1706,Sunstrider Isle,
+1707,The Sunspire,
+1708,Sunsail Anchorage,
+1709,Fairbreeze Village,
+1710,Farstride Retreat,
+1711,Deatholme,
+1712,Windrunner Spire,
+1713,Tranquillien,
+1714,Honor Hold,
+1715,Thrallmar,
+1716,The Stair of Destiny,
+1717,Throne of Kil'Jaeden,
+1718,Hellfire Citadel,
+1719,Den of Haal'esh,
+1720,Falcon Watch,
+1721,Ruins of Sha'naar,
+1722,Clan Post,
+1723,Pools of Aggonar,
+1724,Sandworm!,A Silithyst beast has surfaced
+1725,Sandworm!,A Silithyst beast has surfaced
+1726,Sandworm!,A Silithyst beast has surfaced
+1727,Sandworm!,A Silithyst beast has surfaced
+1749,[DEPRECATED] Eastwall Tower,
+1750,[DEPRECATED] Eastwall Tower,"Alliance, Contested"
+1751,[DEPRECATED] Eastwall Tower,"Alliance, Progressing"
+1752,[DEPRECATED] Eastwall Tower,"Horde, Contested"
+1753,[DEPRECATED] Eastwall Tower,"Horde, Progressing"
+1754,[DEPRECATED] Eastwall Tower,Horde
+1755,[DEPRECATED] Eastwall Tower,Alliance
+1756,[DEPRECATED] Plaguewood Tower,
+1757,[DEPRECATED] Plaguewood Tower,"Alliance, Contested"
+1760,[DEPRECATED] Plaguewood Tower,"Horde, Progressing"
+1761,[DEPRECATED] Plaguewood Tower,Alliance
+1762,[DEPRECATED] Plaguewood Tower,Horde
+1763,[DEPRECATED] Northpass Tower,
+1764,[DEPRECATED] Northpass Tower,"Alliance, Contested"
+1765,[DEPRECATED] Northpass Tower,"Horde, Contested"
+1766,[DEPRECATED] Northpass Tower,"Alliance, Progressing"
+1767,[DEPRECATED] Northpass Tower,"Horde, Progressing"
+1768,[DEPRECATED] Northpass Tower,Alliance
+1769,[DEPRECATED] Northpass Tower,Horde
+1770,[DEPRECATED] Crown Guard Tower,
+1771,[DEPRECATED] Crown Guard Tower,"Alliance, Contested"
+1772,[DEPRECATED] Crown Guard Tower,"Horde, Contested"
+1773,[DEPRECATED] Crown Guard Tower,"Alliance, Progressing"
+1774,[DEPRECATED] Crown Guard Tower,"Horde, Progressing"
+1775,[DEPRECATED] Crown Guard Tower,Alliance
+1776,[DEPRECATED] Crown Guard Tower,Horde
+1777,[DEPRECATED] Plaguewood Tower,"Alliance, Progressing"
+1779,Wrathscale Point,
+1780,Bristlelimb Village,
+1781,Pod Cluster,
+1782,Pod Wreckage,
+1783,Geezle's Camp,
+1784,Azure Watch,
+1785,The Exodar,
+1786,Valaar's Berth,
+1787,Silting Shore,
+1788,Stillpine Hold,
+1789,Menagerie Wreckage,
+1790,The Sacred Grove,
+1791,Wildwind Peak,
+1792,Emberglade,
+1793,Odesyus' Landing,
+1794,Traitor's Cove,
+1795,Crash Site,
+1796,Shadow Ridge,
+1797,Silverline Lake,
+1798,Nestlewood Thicket,
+1799,Ammen Fields,
+1800,Moonwing Den,
+1801,Tide's Hollow,
+1802,Suncrown Village,
+1803,Zeb'Sora,
+1804,Dawnstar Spire,
+1805,Farstrider Enclave,
+1806,Zeb'Tela,
+1807,Sanctum of the Sun,
+1808,An'telas,
+1809,Amani Catacombs,
+1810,Zeb'Nowa,
+1811,Amani Pass,
+1812,Andilien Estate,
+1813,Howling Ziggurat,
+1814,Bleeding Ziggurat,
+1815,Underlight Mines,
+1816,Windrunner Village,
+1817,Sanctum of the Moon,
+1819,An'daroth,
+1820,Tor'Watha,
+1821,Zeb'Watha,
+1822,East Sanctum,
+1823,Saltheril's Haven,
+1824,West Sanctum,
+1825,North Sanctum,
+1826,Stillwhisper Pond,
+1827,The Vector Coil,
+1828,The Cryo-Core,
+1829,The Warp Piston,
+1830,Bladewood,
+1831,Wrathscale Lair,
+1832,Ruins of Loreth'Aran,
+1833,Nazzivian,
+1834,Axxarien,
+1836,The Hidden Reef,
+1837,Amberweb Pass,
+1838,Ragefeather Ridge,
+1839,Talon Stand,
+1840,Bristlelimb Enclave,
+1841,The Overlook,Neutral
+1842,The Overlook,Alliance Controlled
+1843,The Overlook,Horde Controlled
+1844,Broken Hill,Neutral
+1845,Broken Hill,Alliance Controlled
+1846,Broken Hill,Horde Controlled
+1847,The Stadium,Neutral
+1848,The Stadium,Alliance Controlled
+1849,The Stadium,Horde Controlled
+1894,West Beacon,Alliance Controlled
+1895,West Beacon,Horde Controlled
+1896,West Beacon,
+1897,Twinspire Graveyard,
+1898,Twinspire Graveyard,Alliance Controlled
+1899,Twinspire Graveyard,Horde Controlled
+1901,East Beacon,Alliance Controlled
+1902,East Beacon,Horde Controlled
+1903,East Beacon,
+1904,Alliance Field Scout,
+1905,Alliance Field Scout,
+1906,Horde Field Scout,
+1907,Horde Field Scout,
+1908,Wyvern Camp,Uncontrolled
+1909,Wyvern Camp,Horde Controlled
+1910,Wyvern Camp,Alliance Controlled
+1911,Wyvern Camp,Uncontrolled
+1912,Wyvern Camp,Alliance Controlled
+1913,Wyvern Camp,Horde Controlled
+1914,Wyvern Camp,Uncontrolled
+1915,Wyvern Camp,Horde Controlled
+1916,Wyvern Camp,Alliance Controlled
+1917,Wyvern Camp,Uncontrolled
+1918,Wyvern Camp,Alliance Controlled
+1919,Wyvern Camp,Horde Controlled
+1920,Halaa,
+1921,Halaa,Horde Controlled
+1922,Halaa,Alliance Controlled
+1923,Halaa,
+1924,Halaa,
+1925,Spirit Tower,
+1926,Spirit Tower,Alliance Controlled
+1927,Spirit Tower,Horde Controlled
+1928,Spirit Tower,
+1929,Spirit Tower,Alliance Controlled
+1930,Spirit Tower,Horde Controlled
+1931,Spirit Tower,
+1932,Spirit Tower,Alliance Controlled
+1933,Spirit Tower,Horde Controlled
+1934,Spirit Tower,
+1935,Spirit Tower,Alliance Controlled
+1936,Spirit Tower,Horde Controlled
+1937,Spirit Tower,
+1938,Spirit Tower,Alliance Controlled
+1939,Spirit Tower,Horde Controlled
+1940,Blood Watch,
+1941,Blood Elf Tower,Uncontrolled
+1942,Blood Elf Tower,Alliance Controlled
+1943,Blood Elf Tower,Horde Controlled
+1944,Fel Reaver Ruins,Uncontrolled
+1945,Fel Reaver Ruins,Alliance Controlled
+1946,Fel Reaver Ruins,Horde Controlled
+1947,Mage Tower,Uncontrolled
+1948,Mage Tower,Alliance Controlled
+1949,Mage Tower,Horde Controlled
+1950,Draenei Ruins,Uncontrolled
+1951,Draenei Ruins,Alliance Controlled
+1952,Draenei Ruins,Horde Controlled
+1953,Draenei Ruins,In Conflict
+1954,Draenei Ruins,In Conflict
+1955,Mage Tower,In Conflict
+1956,Mage Tower,In Conflict
+1957,Fel Reaver Ruins,In Conflict
+1958,Fel Reaver Ruins,In Conflict
+1959,Blood Elf Tower,In Conflict
+1960,Blood Elf Tower,In Conflict
+1961,Shattrath City,
+1962,Netherstorm Flag,Not Controlled
+1963,Wyvern Camp,Uncontrolled
+1964,Wyvern Camp,Uncontrolled
+1965,Wyvern Camp,Uncontrolled
+1966,Wyvern Camp,Uncontrolled
+1999,"Falconwing Square, Paladin Trainer",
+2005,Shalandris Isle,
+2006,An'owyn,
+2015,Golden Strand,
+2016,The Dead Scar,
+2017,Thuron's Livery,
+2018,Duskwither Spire,
+2019,Golden Strand,
+2020,The Dead Scar,
+2021,Coilfang Reservoir,
+2022,Serpent Lake,
+2023,Serpent Lake,
+2024,Umbrafen Lake,
+2025,Umbrafen Lake,
+2034,Toshley's Station,
+2058,Zabra'jin,
+2059,Sporeggar,
+2060,Orebor Harborage,
+2061,Telredor,
+2062,Cenarion Refuge,
+2063,Swamprat Post,
+2064,Garadar,
+2065,Telaar,
+2066,Sylvanaar,
+2068,Evergrove,
+2069,Temple of Telhamat,
+2070,The Stormspire,
+2071,Area 52,
+2072,Cosmowrench,
+2073,Stonebreaker Hold,
+2074,Allerian Stronghold,
+2075,Shadowmoon Village,
+2076,Wildhammer Stronghold,
+2077,Sanctum of the Stars,
+2078,Altar of Sha'tar,
+2080,Ogri'la,
+2083,Mudsprocket,
+2084,Westguard Keep,
+2085,Kamagua,
+2086,Valgarde,
+2087,Vengeance Landing,
+2088,New Agamand,
+2089,Fort Wildervar,
+2090,Camp Winterhoof,
+2096,Sun's Reach Sanctum,Held by the enemy
+2097,Sun's Reach Sanctum,Shattered Sun Offensive
+2098,Sun's Reach Armory,Held by the enemy
+2099,Sun's Reach Armory,Shattered Sun Offensive
+2100,Sun's Reach Harbor,Held by the enemy
+2101,Sun's Reach Harbor,Shattered Sun Offensive
+2105,Town Hall,Town Hall
+2106,Elder's Square Gate,Elder's Square Gate
+2107,Festival Lane Gate,Festival Lane Gate
+2108,Market Row Gate,Market Row Gate
+2109,King's Square Fountain,King's Square Fountain
+2110,Stormwind Harbor,Harbor Entrance
+2111,Gate of the Purple Amethyst,
+2114,Gate of the Red Sun,
+2117,Gate of the Blue Sapphire,
+2120,Gate of the Green Emerald,
+2123,The Frostbreaker,Alliance Offense
+2124,The Graceful Maiden,Alliance Offense
+2125,The Blightbringer,Horde Offense
+2126,The Casket Carrier,Horde Offense
+2127,Horde Defense,
+2128,Alliance Defense,
+2129,East Graveyard,Horde Controlled
+2130,East Graveyard,Alliance Controlled
+2132,West Graveyard,Alliance Controlled
+2133,South Graveyard,Horde Controlled
+2134,South Graveyard,Alliance Controlled
+2135,Gate of the Yellow Moon,
+2138,Death's Rise,
+2139,The Shadow Vault,
+2141,Shadowsight Tower,
+2142,Winter's Edge Tower,
+2143,Flamewatch Tower,
+2144,Wintergrasp Fortress Tower (SW),
+2145,Wintergrasp Fortress Tower (SE),
+2146,Wintergrasp Fortress Tower (NE),
+2147,Wintergrasp Fortress Tower (NW),
+2149,Fortress Vehicle Workshop (E),
+2150,Fortress Vehicle Workshop (W),
+2151,Eastspark Vehicle Workshop,
+2152,Westspark Vehicle Workshop,
+2153,Broken Temple Vehicle Workshop,
+2154,Sunken Ring Vehicle Workshop,
+2199,PvP Activity Detected,
+2200,PvP Activity Detected,
+2201,PvP Activity Detected,
+2203,PvP Activity Detected,
+2205,PvP Activity Detected,
+2206,PvP Activity Detected,
+2207,PvP Activity Detected,
+2208,PvP Activity Detected,
+2209,PvP Activity Detected,
+2210,PvP Activity Detected,
+2211,PvP Activity Detected,
+2212,PvP Activity Detected,
+2213,PvP Activity Detected,
+2214,PvP Activity Detected,
+2215,PvP Activity Detected,
+2216,PvP Activity Detected,
+2217,PvP Activity Detected,
+2218,PvP Activity Detected,
+2219,PvP Activity Detected,
+2220,PvP Activity Detected,
+2221,PvP Activity Detected,
+2222,Wintergrasp Fortress Wall,
+2223,Wintergrasp Fortress Wall,
+2224,Wintergrasp Fortress Wall,
+2225,Wintergrasp Fortress Wall,
+2226,Wintergrasp Fortress Wall,
+2227,Wintergrasp Fortress Wall,
+2228,Wintergrasp Fortress Wall,
+2229,Wintergrasp Fortress Gate,
+2230,Wintergrasp Fortress Wall,
+2231,Wintergrasp Fortress Wall,
+2232,Wintergrasp Fortress Wall,
+2233,Wintergrasp Fortress Wall,
+2234,Wintergrasp Fortress Wall,
+2235,Wintergrasp Fortress Wall,
+2236,Wintergrasp Fortress Wall,
+2237,Wintergrasp Fortress Wall,
+2238,Wintergrasp Fortress Wall,
+2239,Wintergrasp Fortress Wall,
+2240,Wintergrasp Fortress Wall,
+2241,Wintergrasp Fortress Wall,
+2242,Wintergrasp Fortress Wall,
+2243,Wintergrasp Fortress Wall,
+2244,Wintergrasp Fortress Wall,
+2245,Wintergrasp Fortress Wall,
+2246,Wintergrasp Fortress,
+2247,PvP Activity Detected,
+2248,PvP Activity Detected,
+2249,PvP Activity Detected,
+2250,PvP Activity Detected,
+2251,PvP Activity Detected,
+2252,PvP Activity Detected,
+2253,PvP Activity Detected,
+2254,PvP Activity Detected,
+2255,PvP Activity Detected,
+2256,PvP Activity Detected,
+2257,PvP Activity Detected,
+2258,PvP Activity Detected,
+2259,PvP Activity Detected,
+2260,PvP Activity Detected,
+2261,PvP Activity Detected,
+2262,PvP Activity Detected,
+2263,PvP Activity Detected,
+2264,Wintergrasp,Control of Wintergrasp
+2265,Sunken Ring Graveyard,
+2266,Broken Temple Graveyard,
+2268,Fortress Graveyard,
+2269,Southwest Graveyard,
+2270,Southeast Graveyard,
+2292,Chamber of Ancient Relics,
+2298,Wyrmrest Temple,
+2299,Venomspite,
+2300,Stars' Rest,
+2301,Agmar's Hammer,
+2302,Moa'ki Harbor,
+2303,Valiance Keep,
+2304,Warsong Hold,
+2305,Unu'pe,
+2306,Taunka'le Village,
+2307,Fizzcrank Airstrip,
+2308,Bor'gorok Outpost,
+2309,Wintergarde Keep,
+2310,Conquest Hold,
+2311,Amberpine Lodge,
+2312,Camp Oneqwah,
+2313,Westfall Brigade Encampment,
+2314,The Argent Stand,
+2315,Zim'Torga,
+2316,Nesingwary Base Camp,
+2317,Dalaran,
+2318,Camp Tunka'lo,
+2319,Brunnhildar Village,
+2320,K3,
+2321,Frosthold,
+2322,Grom'arsh Crash-Site,
+2323,Crusaders' Pinnacle,
+2324,West Graveyard,Horde Controlled
+2331,Tower of Life,Provides power to Freya's Ward
+2332,Tower of Flames,Provides power to Mimiron's Inferno
+2333,Tower of Frost,Provides power to Hodir's Fury
+2334,Tower of Storms,Provides power to Thorim's Hammer
+2345,Workshop,Alliance Controlled
+2346,Workshop,Horde Controlled
+2347,Workshop,In Conflict
+2348,Workshop,In Conflict
+2349,Workshop,Uncontrolled
+2350,Hangar,Alliance Controlled
+2352,Hangar,Horde Controlled
+2353,Hangar,In Conflict
+2354,Hangar,In Conflict
+2355,Hangar,Uncontrolled
+2356,Docks,In Conflict
+2357,Docks,Horde Controlled
+2358,Docks,Alliance Controlled
+2359,Docks,In Conflict
+2360,Docks,Uncontrolled
+2361,Quarry,Uncontrolled
+2362,Quarry,Alliance Controlled
+2363,Quarry,Horde Controlled
+2364,Quarry,In Conflict
+2365,Quarry,In Conflict
+2366,Refinery,Horde Controlled
+2367,Refinery,Alliance Controlled
+2368,Refinery,In Conflict
+2369,Refinery,In Conflict
+2370,Refinery,Uncontrolled
+2371,Horde Gate,Front Gate
+2372,Horde Gate,Destroyed
+2373,Horde Gate,East Gate
+2374,Horde Gate,Destroyed
+2375,Horde Gate,West Gate
+2376,Horde Gate,Destroyed
+2377,Alliance Gate,East Gate
+2378,Alliance Gate,Destroyed
+2379,Alliance Gate,Destroyed
+2380,Alliance Gate,West Gate
+2381,Alliance Gate,Destroyed
+2382,Alliance Gate,Front Gate
+2383,Alliance Keep,Uncontrolled
+2384,Alliance Keep,Alliance Controlled
+2385,Alliance Keep,In Conflict
+2386,Alliance Keep,In Conflict
+2387,Alliance Keep,Horde Controlled
+2388,Horde Keep,Horde Controlled
+2389,Horde Keep,Alliance Controlled
+2390,Horde Keep,In Conflict
+2391,Horde Keep,In Conflict
+2392,Horde Keep,Uncontrolled
+2395,Stoneward Prison,Alliance Controlled
+2396,Stoneward Prison,In Conflict
+2397,Stoneward Prison,In Conflict
+2398,Stoneward Prison,Horde Controlled
+2399,Stoneward Prison,Uncontrolled
+2404,Mines,
+2405,Waterworks,
+2412,Lighthouse,
+2428,Trade District,
+2429,Old Town,
+2430,The Dwarven District,
+2431,Cathedral Square,
+2432,Lion's Rest,
+2433,The Mage Quarter,
+2434,Stormwind Harbor,
+2435,Elder Rise,
+2436,Hunter Rise,
+2437,Spirit Rise,
+2438,Pools of Vision,
+2439,Thunder Bluff,
+2440,Ironclad Garrison,Alliance Controlled
+2441,Ironclad Garrison,Horde Controlled
+2442,Ironclad Garrison,In Conflict
+2443,Ironclad Garrison,In Conflict
+2444,Warden's Vigil,Alliance Controlled
+2445,Warden's Vigil,Horde Controlled
+2446,Warden's Vigil,In Conflict
+2447,Warden's Vigil,In Conflict
+2448,Slagworks,Alliance Controlled
+2449,Slagworks,Horde Controlled
+2450,Slagworks,In Conflict
+2451,Slagworks,In Conflict
+2452,West Spire,Alliance Controlled
+2453,West Spire,Horde Controlled
+2454,West Spire,"Horde Controlled, Damaged"
+2455,West Spire,"Alliance Controlled, Damaged"
+2456,West Spire,Damaged
+2457,West Spire,Destroyed
+2458,West Spire,Uncontrolled
+2459,East Spire,Uncontrolled
+2460,East Spire,Destroyed
+2461,East Spire,Damaged
+2462,East Spire,Alliance Controlled
+2463,East Spire,"Alliance Controlled, Damaged"
+2464,East Spire,Horde Controlled
+2465,East Spire,"Horde Controlled, Damaged"
+2466,South Spire,Uncontrolled
+2467,South Spire,Damaged
+2468,South Spire,Destroyed
+2469,South Spire,Alliance Controlled
+2470,South Spire,"Alliance Controlled, Damaged"
+2471,South Spire,Horde Controlled
+2472,South Spire,"Horde Controlled, Damaged"
+2473,Hall of Explorers,
+2474,Mystic Ward,
+2475,The Commons,
+2476,The Forlorn Cavern,
+2477,The Great Forge,
+2478,The Military Ward,
+2481,The Cleft of Shadow,
+2482,The Drag,
+2485,Baradin Hold,Alliance Controlled
+2486,Baradin Hold,Horde Controlled
+2500,The Goblim Slums,
+2557,New Kargath,
+2558,Dragon's Mouth,
+2559,Fuselight,
+2560,Nethergarde Keep,
+2561,Dreadmaul Hold,
+2562,Surwich,
+2564,Light's Hope Chapel,
+2566,Eastvale Logging Camp,
+2567,Farstrider Lodge,
+2568,Fort Livingston,
+2569,Iron Summit,
+2570,Forsaken Rear Guard,
+2571,Bogpaddle,
+2572,The Harborage,
+2573,Hardwrench Hideaway,
+2574,Hiri'watha Research Station,
+2575,Stormfeather Outpost,
+2576,The Bulwark,
+2577,Dragonmaw Port,
+2578,Highbank,
+2579,Firebeard's Patrol,
+2580,Bloodgulch,
+2581,The Krazzworks,
+2582,Kirthaven,
+2583,Thundermar,
+2584,Victor's Point,
+2585,Crushblow,
+2586,Deepmist Grotto,
+2587,Silver Tide Hollow,
+2588,Tranquil Wash,
+2589,Legion's Rest,
+2590,Darkbreak Cove,
+2591,Tenebrous Cavern,
+2592,Andorhal,
+2593,Swiftgear Station,
+2594,Greenwarden's Grove,
+2596,Keel Harbor,
+2597,Hellscream's Watch,
+2598,Bilgewater Harbor,
+2599,Lor'danel,
+2600,Karnum's Glade,
+2601,Whisperwind Grove,
+2602,Talonbranch Glade,
+2603,Camp Ataya,
+2604,Stonemaul Hold,
+2605,Dreamer's Rest,
+2606,Nordrassil,
+2607,Grove of Aessina,
+2608,Shrine of Aviana,
+2609,Nozzlepot's Outpost,
+2611,Hunter's Hill,
+2612,Honor's Stand,
+2613,Northwatch Hold,
+2614,Desolation Hold,
+2615,Fort Triumph,
+2616,Krom'gar Fortress,
+2617,Windshear Hold,
+2618,Farwatcher's Glen,
+2619,Thal'darah Overlook,
+2620,Bootlegger Outpost,
+2621,Fizzle and Pozzik's Speedbarge,
+2622,Ramkahen,
+2623,Oasis of Vir'sar,
+2624,Schnottz's Landing,
+2625,Marshal's Stand,
+2626,Chiselgrip,
+2627,Smuggler's Scar,
+2693,Blood Elf Tower,
+2694,Fel Reaver Ruins,
+2695,Mage Tower,
+2696,Draenei Ruins,
+2704,Darkmoon Faire,
+2705,Darkmoon Faire,
+2723,Portal 1,CoT Well of Eternity - Portal 1
+2724,Portal 2,CoT Well of Eternity - Portal 2
+2725,Portal 3,CoT Well of Eternity - Portal 3
+2774,Power Orb,Uncontrolled
+2775,Power Orb,Uncontrolled
+2776,Power Orb,Uncontrolled
+2777,Power Orb,Uncontrolled
+2816,Temple of the White Tiger,
+2817,Eye of the Storm Flag,Not Controlled
+2821,Klaxxi'vess Alchemy,
+2822,Seat of Knowledge Archaeology,
+2823,Setting Sun Garrison Blacksmith,
+2824,Halfhill Cooking,
+2825,Dawn's Blossom Enchanting,
+2826,Nesingwary's Safari Engineering,
+2827,Nesingwary's Safari Skinning,
+2829,Anglers Wharf Fishing,
+2830,Seat of Knowledge Inscription,
+2831,Greenstone Village Jewelcrafting,
+2832,Greenstone Quarry Mining,
+2833,Silken Fields Tailoring,
+2834,The Grummle Bazaar Leatherworking,
+2835,Serpent's Spine Alliance Conquest Quartermasters,
+2836,Gate of the Setting Sun Honor Quartermaster,
+2837,Valor & Justice Quartermaster,
+2838,Niuzao Temple Justice Quartermaster,
+2839,Anglers Wharf Anglers Quartermaster,
+2841,Stormstout Brewery Brewmasters Quartermaster,
+2842,Mogu'shan Palace Golden Lotus Quartermaster - Alliance,
+2843,Klaxxi'vess Klaxxi Quartermaster,
+2844,Seat of Knowledge Lorewalkers Quartermaster,
+2845,Halfhill Tillers Quartermaster,
+2850,Shrine of Seven Stars Flight Trainer,
+2880,Halfhill Herbalism,
+2881,Shado-Pan Garrison Quartermaster,
+2882,Conquest & Honor Quartermaster,
+2883,Serpent's Spine Horde Conquest Quartermasters,
+2884,Conquest & Honor Quartermaster,
+2886,The Arboretum Order of the Cloud Serpent Quartermaster,
+2890,Domination Point Graveyard,Horde Controlled
+2891,Domination Point Graveyard,Alliance Controlled
+2892,Domination Point Tower,Horde Controlled
+2893,Domination Point Tower,Alliance Controlled
+2894,Lion's Landing Graveyard,Horde Controlled
+2895,Lion's Landing Graveyard,Alliance Controlled
+2896,Lion's Landing Tower,Horde Controlled
+2897,Lion's Landing Tower,Alliance Controlled
+2902,Elder Adler,
+2903,Rosey Axlerod,
+2904,Duff McStrum,
+2905,Blacksand Oilfield,Horde Controlled
+2906,Blacksand Oilfield,Alliance Controlled
+2907,Ogudei Shrine,Horde Controlled
+2908,Ogudei Shrine,Alliance Controlled
+2909,Master Brownstone,
+2910,Ferra Pearl,
+2925,The Zandalari Battlements,Aid the Kirin Tor war effort to gain access to the city.
+2927,The Zandalari Battlements,You need to gain a foothold on the island before attacking the city.
+2937,The Thunder Forges,Aid the Kirin Tor war effort to gain access to the forge.
+2938,The Thunder Forges,You need to break through the battlements before attacking this area.
+2939,Stormsea Landing,Aid the Kirin Tor war effort to gain access to the landing.
+2940,Stormsea Landing,You need to control the Thunder Forges before attacking this area.
+2941,The Foot of Lei Shen,Aid the Kirin Tor war effort to gain access to this area.
+2942,The Foot of Lei Shen,You need to hold Stormsea Landing before attacking this area.
+2943,Shaol'mara,Aid the Kirin Tor war effort to gain access to this area.
+2944,Zeb'tula,Aid the Sunreaver war effort to gain access to this area.
+2945,The Zandalari Battlements,Aid the Sunreaver war effort to gain access to the city.
+2946,The Thunder Forges,Aid the Sunreaver war effort to gain access to the forge.
+2947,Stormsea Landing,Aid the Sunreaver war effort to gain access to the landing.
+2948,The Foot of Lei Shen,Aid the Sunreaver war effort to gain access to this area.
+2949,The Zandalari Battlements,You need to gain a foothold on the island before attacking the city.
+2950,The Thunder Forges,You need to break through the battlements before attacking this area.
+2951,Stormsea Landing,You need to control the Thunder Forges before attacking this area.
+2952,The Foot of Lei Shen,You need to hold Stormsea Landing before attacking this area.
+2958,Ogudei Shrine,Horde Controlled
+2959,Ogudei Shrine,Alliance Controlled
+2960,Pandaren Mine,In Conflict
+2961,Pandaren Mine,In Conflict
+2962,Pandaren Mine,Alliance Controlled
+2963,Pandaren Mine,Horde Controlled
+2965,Pandaren Mine,Uncontrolled
+2966,Center Mine,Uncontrolled
+2967,Goblin Mine,In Conflict
+2968,Goblin Mine,Uncontrolled
+2969,Goblin Mine,In Conflict
+2970,Goblin Mine,Horde Controlled
+2971,Goblin Mine,Alliance Controlled
+2972,Center Mine,In Conflict
+2973,Center Mine,In Conflict
+2974,Center Mine,Horde Controlled
+2975,Center Mine,Alliance Controlled
+2976,Kor'kron Commander,
+2977,Kor'kron Commander,
+2978,Kor'kron Commander,
+2979,Kor'kron Commander,
+2980,Kor'kron Commander,
+2981,Kor'kron Commander,
+2982,Kor'kron Commander,
+2983,Kor'kron Commander,
+2984,Kor'kron Commander,
+2985,Overturned Kor'kron Caravan,Lumber
+2986,Overturned Kor'kron Caravan,Oil
+2987,Overturned Kor'kron Caravan,Meat
+2988,Overturned Kor'kron Caravan,Stone
+2990,Overturned Kor'kron Caravan,Lumber
+2991,Overturned Kor'kron Caravan,Lumber
+2992,Overturned Kor'kron Caravan,Oil
+2993,Overturned Kor'kron Caravan,Oil
+2994,Overturned Kor'kron Caravan,Meat
+2995,Overturned Kor'kron Caravan,Meat
+2996,Overturned Kor'kron Caravan,Stone
+2997,Overturned Kor'kron Caravan,Stone
+2998,Julia Stevens,Aspiring Pet Tamer
+2999,Old Macdonald,Master Pet Tamer
+3003,Lindsay,Master Pet Tamer
+3004,Eric Davidson,Master Pet Tamer
+3005,Steven Lisbane,Master Pet Tamer
+3006,Bill Buckler,Master Pet Tamer
+3007,Zunta,Aspiring Pet Tamer
+3008,Dagra the Fierce,Master Pet Tamer
+3009,Analynn,Master Pet Tamer
+3010,Zonya the Sadist,Master Pet Tamer
+3011,Merda Stronghoof,Master Pet Tamer
+3012,Cassandra Kaboom,Master Pet Tamer
+3013,Traitor Gluk,Master Pet Tamer
+3014,Grazzle the Great,Master Pet Tamer
+3015,Kela Grimtotem,Master Pet Tamer
+3016,Zoltan,Master Pet Tamer
+3017,Elena Flutterfly,Master Pet Tamer
+3018,Stone Cold Trixxy,Grand Master Pet Tamer
+3019,David Kosse,Master Pet Tamer
+3020,Deiza Plaguehorn,Master Pet Tamer
+3021,Kortas Darkhammer,Master Pet Tamer
+3022,Everessa,Master Pet Tamer
+3023,Durin Darkhammer,Master Pet Tamer
+3024,Lydia Accoste,Grand Master Pet Tamer
+3025,Nicki Tinytech,Master Pet Tamer
+3026,Ras'an,Master Pet Tamer
+3027,Narrok,Master Pet Tamer
+3028,Morulu the Elder,Master Pet Tamer
+3029,Bloodknight Antari,Grand Master Pet Tamer
+3030,Beegle Blastfuse,Master Pet Tamer
+3031,Nearly Headless Jacob,Master Pet Tamer
+3032,Orkut Dragonwaste,Master Pet Tamer
+3033,Gutretch,Master Pet Tamer
+3034,Major Payne,Grand Master Pet Tamer
+3035,Brok,Master Pet Tamer
+3036,Bordin Steadyfist,Master Pet Tamer
+3037,Goz Banefury,Master Pet Tamer
+3038,Obalis,Grand Master Pet Tamer
+3039,Hyuna of the Shrines,Grand Master Pet Tamer
+3040,Farmer Nishi,Grand Master Pet Tamer
+3041,Mo'ruk,Grand Master Pet Tamer
+3042,Courageous Yon,Grand Master Pet Tamer
+3043,Seeker Zusshi,Grand Master Pet Tamer
+3044,Wastewalker Shu,Grand Master Pet Tamer
+3045,Aki the Chosen,Grand Master Pet Tamer
+3046,Jeremy Feasel,Master Pet Tamer
+3047,Whispering Pandaren Spirit,Grand Master Pet Tamer
+3048,Thundering Pandaren Spirit,Grand Master Pet Tamer
+3049,Burning Pandaren Spirit,Grand Master Pet Tamer
+3050,Flowing Pandaren Spirit,Grand Master Pet Tamer
+3086,Mogu'shan Palace Golden Lotus Quartermaster - Horde,
+3088,Rokk,Laughing Skull Ruins
+3089,Rokk,Tank Base
+3090,Rokk,Ogre Slave Camp
+3091,Rokk,Pipeworks Camp
+3092,Rokk,Steam Capping Camp
+3093,Rokk,Shipyard Camp
+3104,Arena Spectator's Chest,
+3105,Arena Master's Warhorn,
+3107,Slave's Stash,
+3109,Lagoon Pool,Requires Fishing
+3114,Fallen Ogre,
+3116,Young Orc Traveler,
+3117,Young Orc Woman,
+3125,Thunderlord Cache,
+3129,Emberfall Tower,In Conflict
+3130,Volrath's Advance,Horde Controlled
+3131,Crossroads,In Conflict
+3132,Tremblade's Vanguard,Alliance Controlled
+3133,Archmage Overwatch,Alliance Controlled
+3134,Volrath's Advance,In Conflict
+3135,Volrath's Advance,Alliance Controlled
+3136,Emberfall Tower,Alliance Controlled
+3137,Emberfall Tower,Horde Controlled
+3138,Crossroads,Alliance Controlled
+3139,Crossroads,Horde Controlled
+3140,Tremblade's Vanguard,Horde Controlled
+3141,Tremblade's Vanguard,In Conflict
+3143,Archmage Overwatch,In Conflict
+3144,Stormshield Stronghold,Alliance Controlled
+3145,Archmage Overwatch,Horde Controlled
+3146,Stormshield Stronghold,In Conflict
+3147,Warspear Outpost,Horde Controlled
+3148,Warspear Outpost,In Conflict
+3149,Throne of the Ogre King,Inactive
+3150,Throne of the Ogre King,Active
+3151,Alliance Graveyard,
+3152,Horde Graveyard,
+3153,Alliance Graveyard,
+3154,Horde Graveyard,
+3155,Neutral Graveyard,
+3156,Ogre Fire,In Conflict
+3162,Hanging Satchel ,
+3163,Scaly Rylakk Egg,near Rexxar capper on south island
+3164,Peaceful Offering ,008D - basket
+3165,Peaceful Offering ,008C
+3166,Peaceful Offering ,008B
+3167,Peaceful Offering ,008A - jar
+3168,Waterlogged Chest ,chest buried in the sand near Lobstroks
+3169,Kaliri Egg,large egg in a nest
+3171,Veema's Herb Bag,anguish fortress catacombs
+3172,Uzko's Knickknacks,anguish fortress catacombs
+3173,Greka's Urn,anguish fortress catacombs
+3174,Rovo's Dagger,anguish fortress catacombs
+3175,Ashes of A'kumbo,anguish fortress catacombs
+3176,Carved Drinking Horn,anguish fortress catacombs
+3177,Giant Beehive,"beehive in botani area, have to climb tree to reach"
+3178,Mikkal's Chest,draenei painter
+3179,Ronokk's Belongings,anguish fortress catacombs
+3180,Giant Moonwillow Seed,"giant seed, needs new reward"
+3181,Armored Elekk Tusk,elekk skeleton being scavenged by wolves
+3182,Astrologer's Box,in observatory
+3183,Iron Horde Tribute ,chest inside Shaz'gul
+3184,Shadowmoon Exile Treasure,inside the exile cave with ner'zhul CSI
+3185,Sacrificial Dagger,at the top of the steps in anguish fortress
+3186,Rotting Basket,
+3187,Vindicator's Cache,
+3188,Demonic Cache,
+3189,Bubbling Cauldron,crazed squirrels
+3190,Cargo of the Raven Queen,sunken cargo in the harbor
+3191,Fantastic Fish,fantastic fish
+3192,Sunken Treasure,chest under iron horde ship
+3193,Stolen Treasure,pale cave treasure
+3201,Smoldering True Iron Deposit,
+3202,Cragmaul Brute,
+3203,Borokk the Devourer,
+3204,Arena Master's War Horn,
+3207,Lady Sena's Extra Stash,
+3208,[Deprecated] Spark's Stolen Supplies,Spark's Stolen Supplies
+3209,Buried Supplies,Buried Supplies
+3210,Buried Supplies,Buried Supplies
+3211,Buried Supplies,Buried Supplies
+3212,Buried Supplies,Buried Supplies
+3213,Lunarfall Egg,Lunarfall raven egg
+3214,Beloved Offering,anguish fortress catacombs
+3215,Alchemist's Satchel,Alchemist satchel in the Verdant Mire
+3216,Relics of the Ancestors,2H axe left in a graveyard
+3217,Strange Spore,atop some zangarshrooms
+3218,Sunken Fishing Boat,fishing boat at the bottom of the lake
+3219,Iron Horde Cargo Shipment,Iron Horde caravan
+3220,Glowing Cave Mushroom,treasure in cave by waterfall
+3221,Shadowmoon Treasure,
+3222,Pale Fishmonger,
+3257,Deceptia's Smoldering Boots,
+3258,Rook's Tacklebox,
+3465,Jehil the Climber,
+3795,Slave's Stash,
+3796,Obsidian Petroglyph,
+3797,Wiggling Egg,
+3798,Iron Horde Supplies,
+3799,Cragmaul Cache,
+3800,Arena Master's War Horn,
+3802,Crag-Leaper's Cache,
+3803,Supply Dump,
+3804,Survivalist's Cache,
+3805,Grimfrost Treasure,
+3806,Goren Leftovers,
+3812,Frozen Orc Skeleton,
+3813,Frozen Frostwolf Axe,
+3814,Burning Pearl,
+3816,Sealed Jug,
+3817,Lucky Coin,
+3818,Snow-Covered Strongbox,
+3819,Gnawed Bone,
+3822,Pale Loot Sack,
+3823,Forgotten Supplies,
+3824,Lady Sena's Materials Stash,
+3825,Raided Loot,
+3826,Ogre Booty,
+3827,Gorr'thogg's Personal Reserve,
+3828,Ogre Booty,
+3829,Ogre Booty,
+3830,Doorog's Secret Stash,
+3831,Ogre Booty,
+3832,Ogre Booty,
+3833,Ogre Booty,
+3834,Ogre Booty,
+3835,Ogre Booty,
+3836,Ogre Booty,
+3837,Iron Horde Munitions,
+3876,Peaceful Offering,
+3877,Hanging Satchel,
+3878,Scaly Rylak Egg,
+3879,Waterlogged Chest,
+3880,Iron Horde Tribute,
+3881,Alchemist's Satchel,
+3882,Shadowmoon Exile Treasure,
+3883,Shadowmoon Sacrificial Dagger,
+3884,Rotting Basket,
+3885,Vindicator's Cache,
+3886,Demonic Cache,
+3887,Peaceful Offering,
+3888,Peaceful Offering,
+3889,Peaceful Offering,
+3890,Astrologer's Box,
+3891,Armored Elekk Tusk,
+3892,Ronokk's Belongings,
+3893,Giant Moonwillow Cone,
+3894,Cargo of the Raven Queen,
+3895,Sunken Treasure,
+3896,Stolen Treasure,
+3897,Mushroom-Covered Chest,
+3898,[Deprecated] Lunarfall Egg,
+3899,Kaliri Egg,
+3901,Carved Drinking Horn,
+3902,Rovo's Dagger,
+3903,Uzko's Knickknacks,
+3905,Veema's Herb Bag,
+3906,Beloved's Offering,
+3907,Swamplighter Hive,
+3908,Ancestral Greataxe,
+3909,Strange Spore,
+3910,Mikkal's Chest,
+3911,Shadowmoon Treasure,
+3912,Glowing Cave Mushroom,
+3913,Orc Skeleton,
+3986,Strange Looking Dagger,
+3987,Horned Skull,
+3988,Ancient Titan Chest,
+3989,Laughing Skull Cache,
+3990,Aged Stone Container,
+3991,Mysterious Petrified Pod,
+3992,Remains of Grimnir Ashpick,
+3993,Unknown Petrified Egg,
+3994,Forgotten Ogre Cache,
+3995,Forgotten Skull Cache,
+3996,Remains of Explorer Engineer Toldirk Ashlamp,
+3997,Obsidian Crystal Formation,
+3998,Mysterious Petrified Pod,
+3999,Unknown Petrified Egg,
+4000,Botani Essence Seed,
+4001,Ancient Titan Chest,
+4002,Unknown Petrified Egg,
+4003,Aged Stone Container,
+4004,Mysterious Petrified Pod,
+4005,Forgotten Skull Cache,
+4007,Femur of Improbability,
+4008,Warm Goren Egg,
+4009,Mysterious Petrified Pod,
+4010,Brokor's Sack,
+4011,Weapons Cache,
+4012,Petrified Rylak Egg,
+4013,Stashed Emergency Rucksack,
+4014,Remains of Balldir Deeprock,
+4015,Suntouched Spear,
+4016,Iron Supply Chest,
+4017,Explorer Canister,
+4018,Discarded Pack,
+4019,Vindicator's Hammer,
+4020,Sasha's Secret Stash,
+4021,Sniper's Crossbow,
+4022,Harvestable Precious Crystal,
+4023,Remains of Balik Orecrusher,
+4024,Evermorn Supply Cache,
+4025,Ancient Titan Chest,
+4026,Unknown Petrified Egg,
+4027,Mysterious Petrified Pod,
+4028,Mysterious Petrified Pod,
+4029,Forgotten Skull Cache,
+4030,Aged Stone Container,
+4031,Unknown Petrified Egg,
+4032,Ancient Titan Chest,
+4033,Obsidian Crystal Formation,
+4034,Aged Stone Container,
+4035,Aged Stone Container,
+4036,Aged Stone Container,
+4037,Ancient Titan Chest,
+4038,Obsidian Crystal Formation,
+4039,Obsidian Crystal Formation,
+4040,Aged Stone Container,
+4041,Ancient Titan Chest,
+4042,Obsidian Crystal Formation,
+4043,Ancient Ogre Cache,
+4044,Aged Stone Container,
+4045,Ancient Titan Chest,
+4046,Aged Stone Container,
+4047,Ancient Ogre Cache,
+4048,Ancient Titan Chest,
+4049,Aged Stone Container,
+4050,Ancient Ogre Cache,
+4051,Aged Stone Container,
+4052,Ancient Ogre Cache,
+4053,Ancient Titan Chest,
+4054,Aged Stone Container,
+4055,Ancient Ogre Cache,
+4056,Ancient Ogre Cache,
+4057,Odd Skull,
+4086,Jug of Aged Ironwine,
+4087,Luminous Shell,
+4088,Amethyl Crystal,
+4089,Foreman's Lunchbox,
+4090,Curious Deathweb Egg,
+4091,Charred Sword,
+4092,Farmer's Bounty,
+4093,Relic of Aruuna,
+4094,Iron Box,
+4095,Barrel of Fish,
+4096,Draenei Weapons,
+4097,Soulbinder's Reliquary,
+4098,Webbed Sac,
+4099,Relic of Telmor,
+4100,Treasure of Ango'rosh,
+4101,Light of the Sea,
+4102,Bonechewer Remnants,
+4103,Aruuna Mining Cart,
+4104,Keluu's Belongings,
+4105,Pure Crystal Dust,
+4106,Rusted Lockbox,
+4107,Ketya's Stash,
+4108,Bright Coin,
+4109,Gift of the Ancients,
+4163,Rooby's Roo,
+4164,Outcast's Belongings,
+4165,Misplaced Scrolls,
+4166,Relics of the Outcasts,
+4167,Fractured Sunstone,
+4168,Lost Herb Satchel,
+4169,Ogron Plunder,
+4170,Relics of the Outcasts,
+4171,Relics of the Outcasts,
+4172,Relics of the Outcasts,
+4173,Relics of the Outcasts,
+4174,Relics of the Outcasts,
+4175,Shattered Hand Lockbox,
+4176,Shattered Hand Cache,
+4177,Shattered Hand Spoils,
+4178,Toxicfang Venom,
+4179,Spray-O-Matic 5000 XT,
+4180,Sailor Zazzuk's 180-Proof Rum,
+4181,Campaign Contributions,
+4183,Elixir of Shadow Sight,
+4184,Elixir of Shadow Sight,
+4185,Elixir of Shadow Sight,
+4186,Elixir of Shadow Sight,
+4187,Elixir of Shadow Sight,
+4188,Elixir of Shadow Sight,
+4189,Orcish Signaling Horn,
+4190,Offering to the Raven Mother,
+4191,Offering to the Raven Mother,
+4192,Offering to the Raven Mother,
+4193,Offering to the Raven Mother,
+4194,Offering to the Raven Mother,
+4195,Lost Ring,
+4196,Reagent Pouch,
+4197,Misplaced Scroll,
+4198,Ephial's Dark Grimoire,
+4199,Garrison Supplies,
+4200,Sun-Touched Cache,
+4201,Sun-Touched Cache,
+4202,Smuggled Apexis Artifacts,
+4203,Iron Horde Explosives,
+4204,Assassin's Spear,
+4205,Outcast's Pouch,
+4206,Outcast's Belongings,
+4207,Sethekk Ritual Brew,
+4208,Garrison Workman's Hammer,
+4209,Coinbender's Payment,
+4210,Mysterious Mushrooms,
+4211,Waterlogged Satchel,
+4212,Shredder Parts,
+4213,Abandoned Mining Pick,
+4215,Admiral Taylor's Coffer,
+4278,Treasure of Kull'krosh,
+4279,Adventurer's Pack,
+4280,Goblin Pack,
+4281,Steamwheedle Supplies,
+4282,Void-Infused Crystal,
+4283,Steamwheedle Supplies,
+4284,Goblin Pack,
+4285,Steamwheedle Supplies,
+4286,Warsong Spoils,
+4287,Steamwheedle Supplies,
+4288,Hidden Stash,
+4289,Mountain Climber's Pack,
+4290,Steamwheedle Supplies,
+4291,Steamwheedle Supplies,
+4292,Fungus-Covered Chest,
+4293,Brilliant Dreampetal,
+4294,Steamwheedle Supplies,
+4295,Appropriated Warsong Supplies,
+4296,Warsong Lockbox,
+4297,Warsong Spear,
+4298,Freshwater Clam,
+4299,Golden Kaliri Egg,
+4300,Warsong Cache,
+4301,Burning Blade Cache,
+4302,Abandoned Cargo,
+4303,Adventurer's Pack,
+4304,A Pile of Dirt,
+4305,Adventurer's Staff,
+4306,Elemental Offering,
+4307,Adventurer's Sack,
+4308,Adventurer's Pack,
+4309,Warsong Supplies,
+4310,Bone-Carved Dagger,
+4311,Genedar Debris,
+4312,Genedar Debris,
+4313,Genedar Debris,
+4314,Genedar Debris,
+4315,Genedar Debris,
+4316,Fragment of Oshu'gun,
+4317,Pokkar's Thirteenth Axe,
+4318,Polished Saberon Skull,
+4319,Elemental Shackles,
+4320,Highmaul Sledge,
+4321,Telaar Defender Shield,
+4322,Ogre Beads,
+4323,Adventurer's Pouch,
+4324,Grizzlemaw's Bonepile,
+4326,Watertight Bag,
+4327,Warsong Helm,
+4328,Gambler's Purse,
+4329,Adventurer's Mace,
+4330,Lost Pendant,
+4331,Adventurer's Pouch,
+4332,Important Exploration Supplies,
+4333,Saberon Stash,
+4334,Goldtoe's Plunder,
+4335,Pale Elixir,
+4336,Bag of Herbs,
+4337,Bounty of the Elements,
+4338,Spirit's Gift,
+4339,Smuggler's Cache,
+4345,Bubbling Cauldron,
+4346,Fantastic Fish,
+4417,[Deprecated] Spark's Stolen Supplies,
+4418,[Deprecated] Pippers' Buried Supplies,
+4419,[Deprecated] Pippers' Buried Supplies,
+4420,[Deprecated] Pippers' Buried Supplies,
+4421,[Deprecated] Pippers' Buried Supplies,
+4424,Lady Sena's Other Materials Stash,
+4425,Unused Wood Pile,
+4531,Ogre Fire,In Conflict
+4532,Ogre Fire,In Conflict
+4533,Ogre Fire,In Conflict
+4534,Ogre Fire,In Conflict
+4563,Strange Spore,
+4564,Burning Blade Cache,
+4566,Sunken Fishing Boat,
+4567,Spirit Coffer,
+4568,False-Bottomed Jar,
+4569,Sethekk Idol,
+4571,Rukhmar's Image,
+4572,Gift of Anzu,
+4574,Gift of Anzu,
+4576,Gift of Anzu,
+4577,Ashlei,Grand Master Pet Tamer
+4578,Gargra,Grand Master Pet Tamer
+4579,Vesharr,Grand Master Pet Tamer
+4580,Tarr the Terrible,Grand Master Pet Tamer
+4581,Cymre Brightblade,Grand Master Pet Tamer
+4582,Taralune,Grand Master Pet Tamer
+4583,Statue of Anzu,
+4584,Forgotten Frostwolf Cache,
+4586,Conquest & Honor Quartermaster,
+4587,Conquest & Honor Quartermaster,
+4854,Strange Sapphire,
+4855,Weathered Axe,
+4856,Stolen Captain's Chest,
+4857,The Blade of Kra'nak,
+4858,Jewel of Hellfire,
+4859,Tome of Secrets,
+4860,Forgotten Sack,
+4861,Lodged Hunting Spear,
+4862,Blackfang Island Cache,
+4863,Crystallized Fel Spike,
+4864,Polished Crystal,
+4865,Snake Charmer's Flute,
+4866,The Perfect Blossom,
+4867,Pale Removal Equipment,
+4868,Forgotten Champion's Blade,
+4869,Bleeding Hollow Warchest,
+4870,Jewel of the Fallen Star,
+4871,Censer of Torment,
+4873,Rune Etched Femur,
+4874,Strange Fruit,
+4875,Discarded Helm,
+4876,Scout's Belongings,
+4877,Forgotten Iron Horde Supplies,
+4878,Crystalized Essence of the Elements,
+4879,Overgrown Relic,
+4880,Jeweled Arakkoa Effigy,
+4881,"""Borrowed"" Enchanted Spyglass",
+4882,Mysterious Corrupted Obelisk,
+4883,Forgotten Shard of the Cipher,
+4884,Looted Bleeding Hollow Treasure,
+4885,Skull of the Mad Chief,
+4886,Axe of the Weeping Wolf,
+4887,Spoils of War,
+4888,Ironbeard's Treasure,
+4889,The Eye of Grannok,
+4890,Stashed Iron Sea Booty,
+4891,Stashed Iron Sea Booty,
+4892,Stashed Iron Sea Booty,
+4893,Book of Zyzzix,
+4894,Fel-Drenched Satchel,
+4895,Sacrificial Blade,
+4896,Stashed Bleeding Hollow Loot,
+4897,Brazier of Awakening,
+4898,Bleeding Hollow Mushroom Stash,
+4899,Looted Mystical Staff,
+4900,The Commander's Shield,
+4901,Dazzling Rod,
+4902,Partially Mined Apexis Crystal,
+4903,Fel-Tainted Apexis Formation,
+4904,Bejeweled Egg,
+4905,Dead Man's Chest,
+5056,The Dark Portal,
+5057,Sanctum of Light,"Portal to the Sanctum of Light, Home of the Silver Hand"
+5058,Sanctum of Light,"Portal to the Sanctum of Light, Home of the Silver Hand"
+5059,Maelstrom,"Portal to the Maelstrom, Home of the Earthen Ring"
+5060,Skyhold,"Entrance to Skyhold, Home of the Valarjar"
+5061,Dreadscar Rift,"Portal to Dreadscar Rift, Home of the Black Harvest"
+5062,Netherlight Temple,"Portal to Netherlight Temple, Home of the Conclave"
+5063,Netherlight Temple,"Portal to Netherlight Temple, Home of the Conclave"
+5066,Acherus,Home of the Knights of the Ebon Blade
+5067,Locked Door,
+5069,Locked Door,
+5070,Locked Door,
+5071,Locked Door,
+5072,Locked Door,
+5073,Locked Door,
+5075,Locked Door,
+5076,Locked Door,
+5077,Locked Door,
+5078,Locked Door,
+5079,Locked Door,
+5080,Locked Door,
+5081,Locked Door,
+5082,Locked Door,
+5083,Locked Door,
+5084,Locked Door,
+5085,Locked Door,
+5086,Locked Door,
+5087,Locked Door,
+5088,Locked Door,
+5089,Locked Door,
+5090,Dalaran Portal,Teleports players to Dalaran.
+5091,Eye of Azshara,Dungeon
+5092,Vault of the Wardens,Dungeon
+5093,Black Rook Hold,Dungeon
+5094,Darkheart Thicket,Dungeon
+5095,The Emerald Nightmare,Raid
+5096,Halls of Valor,Dungeon
+5097,Maw of Souls,Dungeon
+5098,Assault on Violet Hold,Dungeon
+5099,The Arcway,Dungeon
+5100,Court of Stars,Dungeon
+5101,The Nighthold,Raid
+5102,Hall of Shadows,Home of the Uncrowned
+5103,Neltharion's Lair,Dungeon
+5106,Idle Researchers,Begin research to increase Artifact Power gain.
+5107,Idle Researchers,Begin research to increase Artifact Power gain.
+5108,Idle Researchers,Begin research to increase Artifact Power gain.
+5109,Idle Researchers,Begin research to increase Artifact Power gain.
+5110,Idle Researchers,Begin research to increase Artifact Power gain.
+5111,Idle Researchers,Begin research to increase Artifact Power gain.
+5112,Idle Researchers,Begin research to increase Artifact Power gain.
+5113,Idle Researchers,Begin research to increase Artifact Power gain.
+5114,Idle Researchers,Begin research to increase Artifact Power gain.
+5115,Idle Researchers,Begin research to increase Artifact Power gain.
+5116,Idle Researchers,Begin research to increase Artifact Power gain.
+5117,Idle Researchers,Begin research to increase Artifact Power gain.
+5164,Trial of Valor,Raid
+5165,Dadanga,
+5166,Sherazin,
+5167,Giantfin,
+5168,Skrox,
+5169,Queen Zavra,
+5170,Akaridal,
+5171,Clutchmother Zavas,
+5172,Tar Tyrant,
+5173,Sunkeeper Croesus,
+5174,Tyrantus,
+5175,Legion Assault,Azsuna is under attack!
+5177,Legion Assault,Highmountain is under attack!
+5178,Legion Assault,Stormheim is under attack!
+5179,Random Brawls,Speak to a grunt to fight a random brawl.
+5180,Financial Participation Incentive,Speak to Pit Boss Buxdoggle to guess the next fight's winner.
+5181,Brawler's Graveyard,
+5182,Free Drinks,Drinks are on the house!
+5183,Free Potions,No charge for brawlers' potions.
+5184,Free Zeppelin Rides,Enjoy the view!
+5185,Random Brawls,Speak to a bouncer to fight a random brawl.
+5186,Financial Participation Incentive,Speak to Lord Winifred Browne to guess the next fight's winner.
+5187,Brawler's Graveyard,
+5188,Free Drinks,Drinks are on the house!
+5189,Free Potions,No charge for brawlers' potions.
+5190,Free VIP Room,Enjoy the view!
+5191,Cloudwalker Express,Take a balloon tour of the Valley of the Four Winds.
+5192,Schnottz' Hot Air Balloon,Take a balloon tour of Uldum.
+5193,Chen's Balloon,Take a balloon tour of Crystalsong Forest.
+5194,Nagrand Sky Tours,Take a balloon tour of Nagrand.
+5195,Boscoe and Rungle's Sky Chariot,Take a balloon tour of Azsuna.
+5196,Cloudwalker Express,Take a balloon tour of Suramar.
+5197,The Killem'jaro,Take a balloon tour of Highmountain.
+5198,Emi-Lan's Skylounge,Take a balloon tour of Stormheim.
+5199,Lumber Mill,Neutral
+5200,Stables,Neutral
+5201,Gold Mine,Neutral
+5202,Farm,Neutral
+5203,Blacksmith,Neutral
+5204,Blacksmith,Neutral
+5205,Farm,Neutral
+5206,Stables,Neutral
+5207,Gold Mine,Neutral
+5208,Lumber Mill,Neutral
+5210,Legion Assault,Val'sharah is under attack!
+5245,Legionfall,
+5246,Legion Ship,Scenario
+5247,Legion Ship,Scenario
+5248,Legion Ship,Scenario
+5249,Legion Ship,Scenario
+5250,Tomb of Sargeras,Raid
+5251,Cathedral of Eternal Night,Dungeon
+5252,The Sentinax,
+5253,Glowcap Festival,Celebrate the blooming of Fshoo with the Sporelings.
+5254,The Sentinax,
+5255,The Sentinax,
+5256,The Sentinax,
+5257,The Sentinax,
+5258,The Sentinax,
+5259,The Sentinax,
+5260,The Sentinax,
+5261,The Sentinax,
+5262,Green Dunkball,Uncontrolled
+5263,Orange Dunkball,Orange Dunkball
+5264,Purple Dunkball,Purple Dunkball
+5265,Sentinax Attack Point,Use your Attack Beacon here!
+5266,Sentinax Attack Point,Use your Attack Beacon here!
+5267,Sentinax Attack Point,Use your Attack Beacon here!
+5268,Sentinax Attack Point,Use your Attack Beacon here!
+5269,Sentinax Attack Point,Use your Attack Beacon here!
+5270,Legion Assault,Stormheim is under attack!
+5271,Legion Assault,Highmountain is under attack!
+5272,Legion Assault,Val'sharah is under attack!
+5273,Legion Assault,Azsuna is under attack!
+5274,Lighthouse,
+5275,Overlook,
+5276,Coast,
+5277,Crossroad,
+5278,Waterworks,
+5279,Bridge,
+5280,Ledge,
+5281,Mines,
+5282,Power Orb,Uncontrolled
+5283,Power Orb,Uncontrolled
+5284,Malgrazoth,
+5285,Salethan the Broodwalker,
+5286,Malorus the Soulkeeper,
+5287,Emberfire,
+5288,Potionmaster Gloop,
+5289,Felmaw Emberfiend,
+5290,Inquisitor Chillbane,
+5291,Doombringer Zar'thoz,
+5292,Dreadblade Annihilator,
+5293,Felbringer Xar'thok,
+5294,Xorogun the Flamecarver,
+5295,Corrupted Bonebreaker,
+5296,Felcaller Zelthae,
+5297,Dreadeye,
+5298,Lord Hel'Nurath,
+5299,Imp Mother Bruva,
+5300,Flllurlokkr,
+5301,Aqueux,
+5302,Brood Mother Nix,
+5303,Grossir,
+5304,Lady Eldrathe,
+5305,Somber Dawn,
+5306,Duke Sithizi,
+5307,Eye of Gurgh,
+5308,Brother Badatin,
+5309,Void Tear,Crumbling Ruins
+5310,Void Tear,Lower Void Breach
+5311,Void Tear,Lower Nether Gate
+5312,Void Tear,Ruined Overlook
+5313,Void Tear,Upper Void Breach
+5314,Void Tear,Temple Foundation
+5317,Zorathides,
+5318,Obsidian Dragonshrine,
+5319,Talar Icechill,
+5320,Ruby Dragonshrine,
+5321,Void Gargantuan,
+5322,Azure Dragonshrine,
+5323,Thalas Vylethorn,
+5324,Emerald Dragonshrine,
+5325,Chronoportals,
+5326,Argus,Lightforged Beacon to the Vindicaar
+5327,Seat of the Triumvirate,Dungeon
+5328,War Supply Cache,Free For All PvP Active
+5329,War Supply Cache,Free For All PvP Active
+5332,Army of the Light,Light's Shield
+5333,Army of the Light,Light's Shield
+5334,Army of the Light,Light's Shield
+5335,Army of the Light,Light's Shield
+5336,Army of the Light,Light's Shield
+5337,Army of the Light,Light's Shield
+5338,Twilight Grove,
+5339,The Emerald Archives,
+5350,Invasion Point,Invasion Point: Sangua
+5353,Hall of the Moon,
+5354,Twilight Grove,
+5355,Path of Illumination,
+5356,The Emerald Archives,
+5357,Sacristy of Elune,
+5358,Path of Illumination,
+5359,Invasion Point,Invasion Point: Cen'gar
+5360,Invasion Point,Invasion Point: Val
+5366,Invasion Point,Invasion Point: Bonich
+5367,Invasion Point,Invasion Point: Aurinor
+5368,Invasion Point,Invasion Point: Naigtal
+5369,Invasion Point,Invasion Point: Sangua
+5370,Invasion Point,Invasion Point: Cen'gar
+5371,Invasion Point,Invasion Point: Bonich
+5372,Invasion Point,Invasion Point: Val
+5373,Invasion Point,Invasion Point: Aurinor
+5374,Invasion Point,Invasion Point: Naigtal
+5375,Greater Invasion Point,Greater Invasion Point: Mistress Alluradel
+5376,Greater Invasion Point,Greater Invasion Point: Occularus
+5377,Greater Invasion Point,Greater Invasion Point: Pit Lord Vilemus
+5378,The Jeweled Estate,
+5379,Greater Invasion Point,Greater Invasion Point: Inquisitor Meto
+5380,Greater Invasion Point,Greater Invasion Point: Sotanathor
+5381,Greater Invasion Point,Greater Invasion Point: Matron Folnuna
+5388,Court of Stars,
+5391,The Grand Hall,
+5392,The Ravenscrypt,
+5393,Ravenshold,
+5394,The Grand Hall,
+5396,The Rook's Roost,
+5397,Ravenshold,
+5398,Lord Ravencrest's Chamber,
+5399,The Rook's Roost,
+5400,The Raven's Crown,
+5401,Lord Ravencrest's Chamber,
+5403,Field of the Eternal Hunt,
+5404,The High Gate,
+5405,Halls of Valor,
+5407,The High Gate,
+5408,The Hold,
+5409,The Naglfar,
+5410,The Hold,
+5411,Lower Broken Stair,
+5412,Upper Broken Stair,
+5413,Lower Broken Stair,
+5414,The Menagerie,
+5415,Upper Broken Stair,
+5416,Guardian's Library,
+5417,The Menagerie,
+5418,Library Floor,
+5419,Gamesman's Hall,
+5420,Upper Library,
+5421,Netherspace,
+5422,Gamesman's Hall,
+5423,The Guest Chambers,
+5424,Master's Terrace,
+5425,The Banquet Hall,
+5426,Servant's Quarters,
+5427,The Guest Chambers,
+5428,Opera Hall Balcony,
+5429,The Guest Chambers,
+5430,Opera Hall Balcony,
+5431,The Banquet Hall,
+5432,Upper Livery Stables,
+5433,Servant's Quarters,
+5434,The Banquet Hall,
+5435,Servant's Quarters,
+5436,Upper Livery Stables,
+5437,Servant's Quarters,
+5438,The Guest Chambers,
+5439,Vault of the Wardens,
+5440,"Antorus, the Burning Throne",Raid
+5441,The Warden's Court,
+5442,Vault of the Betrayer,
+5443,Vault of the Wardens,
+5444,The Abyssal Throne,
+5445,The Guardian's Sanctum,
+5446,Terrace of the Moon,
+5447,Chamber of the Moon,
+5448,The Abyssal Throne,
+5449,Terrace of the Moon,
+5450,Chamber of the Moon,
+5451,Terrace of the Moon,
+5452,The Abyssal Throne,
+5453,Chamber of the Moon,
+5454,Chamber of the Avatar,
+5455,The Guardian's Sanctum,
+5456,The Twisting Nether,
+5457,Arcing Depths,
+5458,The Nightwell,
+5459,The Nighthold,
+5460,Arcing Depths,
+5461,Captain's Quarters,
+5465,Astromancer's Rise,
+5466,Shal'Dorei Terrace,
+5467,The Nighthold,
+5468,The Balconies,
+5469,The Balconies,
+5470,The Jeweled Estate,
+5471,The Jeweled Estate,
+5472,Master's Terrace,
+5473,Master's Terrace,
+5474,Upper Livery Stables,
+5475,Master's Terrace,
+5476,The Nightspire,
+5477,The Font of Night,
+5478,Trial of Valor,
+5479,Helheim,
+5480,Haustvald,
+5482,Grizzly Hills,
+5483,The Emerald Nightmare,
+5484,Mulgore,
+5485,Clutch of Corruption,
+5486,Core of the Nightmare,
+5487,Moonglade,
+5488,Un'goro Crater,
+5490,Core of the Nightmare,
+5491,Core of the Nightmare,
+5492,Rift of Aln,
+5493,Core of the Nightmare,
+5494,Core of the Nightmare,
+5495,Core of the Nightmare,
+5498,"Vindicaar, Krokuun",
+5499,"Vindicaar, Eredath",
+5500,"Vindicaar, Antoran Wastes",
+5506,Halls of the Boundless Reach,
+5507,The Exhaust,
+5508,Gaze of the Legion,
+5509,Light's Breach,
+5510,Elunaria,
+5511,Halls of the Boundless Reach,
+5512,Elarian Sanctuary,
+5513,Elunaria,
+5514,Light's Breach,
+5515,Door,
+5516,The Burning Throne,
+5517,The Exhaust,
+5518,The World Soul,
+5519,Temple of Anguish,
+5520,Chamber of Anguish,
+5521,Temple of Anguish,
+5522,Main Entrance,7.3 Argus Raid - Eonar - Warp Icon - A - Main Entrance
+5523,Lower Entrance,7.3 Argus Raid - Eonar - Warp Icon - B -Lower Entrance
+5524,High Temple Entrance,7.3 Argus Raid - Eonar - Warp Icon - C - High Temple Entrance
+5525,Light's Breach,
+5526,Sacrificial Pits,
+5527,Sacrificial Pits,
+5528,Atal'Dazar,
+5529,Atal'Dazar,
+5531,Hatchet Ridge,Allows for collection of wood.
+5532,Hatchet Ridge,Allows for collection of wood.
+5533,Northfold Crossing,Secure a foothold in Arathi.
+5534,Northfold Crossing,Secure a foothold in Arathi.
+5535,High Perch,"Construct a tower, providing fast|naccess to captured locations."
+5536,High Perch,"Construct a tower, providing fast|naccess to captured locations."
+5537,Circle of Elements,Construct a Spirit Lodge to bring|npowerful caster units to your army.
+5538,Circle of Elements,Construct a Spirit Lodge to bring|npowerful caster units to your army.
+5539,Drywhisker Mine,Allows for the collection of Iron.
+5540,Drywhisker Mine,Allows for the collection of Iron.
+5541,Newstead,Construct a Bestiary to recruit|nmounted troops.
+5542,Newstead,Construct a Bestiary to recruit|nmounted troops.
+5543,Valorcall Pass,Train Demolishers to lay siege to Stromgarde.
+5544,Valorcall Pass,Capture to lay siege to Stromgarde.
+5545,Valorcall Pass,Horde
+5546,Valorcall Pass,Alliance
+5547,Stormgarde Keep,Horde
+5549,Drywhisker Mine,Allows for the collection of Iron.
+5550,Circle of Elements,Construct a Spirit Lodge to bring|npowerful caster units to your army.
+5551,The Antechamber of Ulduar,
+5552,The Grand Approach,
+5553,The Inner Sanctum of Ulduar,
+5554,The Prison of Yogg-Saron,
+5555,The Inner Sanctum of Ulduar,
+5556,The Spark of Imagination,
+5557,The Inner Sanctum of Ulduar,
+5559,Northfold,Horde
+5560,Destroyed Great Hall,Capture and Rebuild!
+5561,Zidormi,Travel through time to another point in Silithus' history.
+5562,Zidormi,Travel through time to another point in the Blasted Lands' history.
+5563,Zidormi,Travel through time to another point in Dustwallow Marsh's history.
+5564,Zidormi,Travel through time to another point in Kun-Lai Summit's history.
+5565,The Drain,
+5566,Tol Dagor,
+5567,The Drain,
+5568,The Brig,
+5569,Detention Block,
+5570,The Brig,
+5571,Officer's Quarters,
+5572,Detention Block,
+5573,Overseer's Redoubt,
+5574,Officer's Quarters,
+5575,Overseer's Summit,
+5576,Overseer's Redoubt,
+5577,Locked Prison Grate,
+5578,Locked Prison Grate,
+5579,Locked Prison Grate,
+5580,Locked Prison Grate,
+5581,Barracks,Primary troop production building.
+5582,Altar of Storms,Access to powerful player bonuses.
+5583,Workshop,Vehicle production building.
+5585,Great Hall,Main structure which improves the base.
+5586,Barracks,Primary troop production building.
+5587,Altar of Storms,Access to powerful player bonuses.
+5588,Workshop,Vehicle production building.
+5589,Armory,Upgrade the weapons and armor of units.
+5590,Stronghold,Horde
+5592,Stromgarde Keep,Assault and defeat the enemy commander.
+5593,Fortress,Horde
+5595,The Cellar,
+5596,The Cellar,
+5598,Upstairs,
+5599,Upstairs,
+5601,The Grand Foyer,
+5603,The Grand Foyer,
+5604,The Grand Foyer,
+5605,The Grand Foyer,
+5606,The Grand Foyer,
+5608,The Cellar,
+5609,Catacombs,
+5610,Upstairs,
+5612,The Rupture,
+5613,Catacombs,
+5614,Ruins of Undercity,
+5615,High Perch,"Construct a tower, providing fast|naccess to captured locations."
+5616,High Perch,"Construct a tower, providing fast|naccess to captured locations."
+5617,Northfold Crossing,Alliance
+5618,Northfold Crossing,Horde
+5619,Circle of Elements,Construct an Arcane Sanctum to bring|npowerful caster units to your army.
+5620,Circle of Elements,Construct an Arcane Sanctum to bring|npowerful caster units to your army.
+5621,Circle of Elements,Construct an Arcane Sanctum to bring|npowerful caster units to your army.
+5622,Newstead,Construct a Stable to recruit|nmounted troops.
+5623,Newstead,Construct a Stable to recruit|nmounted troops.
+5624,Ar'gorok,Assault and defeat the enemy commander.
+5625,Highlands Mill,Allows for collection of wood.
+5626,Highlands Mill,Allows for collection of wood.
+5627,Galson's Lode,Allows for the collection of Iron.
+5628,Galson's Lode,Allows for the collection of Iron.
+5629,Galson's Lode,Allows for the collection of Iron.
+5757,Zidormi,Travel through time to another point in Tirisfal Glades' history.
+5760,Zidormi,Travel through time to another point in Darkshore's history.
+5792,Upstairs,
+5793,Remains of Darnassus,
+5794,Ruin's Descent,
+5796,Ring of Containment,
+5797,Hall of Sanitation,
+5798,Archives of Eternity,
+5799,Ring of Containment,
+5800,Plague Vault,
+5801,Ring of Containment,
+5802,Gallery of Failures,
+5803,Ring of Containment,
+5804,Chamber of Corruption,
+5805,The Oblivion Door,
+5806,Destroyed Town Hall,Capture and Rebuild!
+5807,Town Hall,Main structure which improves the base.
+5809,Barracks,Primary troop production building.
+5810,Barracks,Primary troop production building.
+5812,Armory,Upgrade the weapons and armor of units.
+5813,Armory,Upgrade the weapons and armor of units.
+5814,Altar of Kings,Access to powerful player bonuses.
+5815,Altar of Kings,Access to powerful player bonuses.
+5816,Workshop,Vehicle production building.
+5817,Workshop,Vehicle production building.
+5818,Keep,Alliance
+5819,Castle,Alliance
+5823,Storm's End,
+5824,The Blessed Path,
+5825,The Bazaar of Watchful Eyes,
+5826,The Galvanized Grotto,
+5828,Ruin's Descent,
+5829,The Underrot,
+5830,Siege of Boralus,Dungeon
+5831,Tol Dagor,Dungeon
+5832,Waycrest Manor,Dungeon
+5833,Siege of Boralus,Dungeon
+5834,Freehold,Dungeon
+5835,Shrine of the Storm,Dungeon
+5836,The MOTHERLODE!!,Dungeon
+5837,The MOTHERLODE!!,Dungeon
+5838,Atal'Dazar,Dungeon
+5839,Kings' Rest,Dungeon
+5840,Temple of Sethraliss,Dungeon
+5841,The Underrot,Dungeon
+5842,Uldir,Raid
+5843,Return to Zuldazar,
+5844,Return to Zuldazar,
+5845,Return to Zuldazar,
+5846,Return to Boralus,
+5847,Return to Boralus,
+5848,Return to Boralus,
+5849,War Headquarters (PvP),
+5850,War Headquarters (PvP),
+5851,The Grand Foyer,
+5852,Upstairs,
+5853,Warfront,
+5854,Warfront,
+5857,Barracks,Primary troop production building.
+5858,Barracks,Primary troop production building.
+5859,Altar of Storms,Access to powerful player bonuses.
+5860,Altar of Kings,Access to powerful player bonuses.
+5861,Armory,Upgrade the weapons and armor of units.
+5862,Armory,Upgrade the weapons and armor of units.
+5863,Keep,Alliance
+5864,Castle,Alliance
+5865,Stronghold,Horde
+5866,Fortress,Horde
+5867,Workshop,Vehicle production building.
+5868,Workshop,Vehicle production building.
+5871,Stronghold,Horde
+5872,Fortress,Horde
+5873,"Boat to Menethil Harbor, Wetlands",
+5874,"Boat to Theramore Isle, Dustwallow Marsh",
+5875,"Boat to Daggercap Bay, Howling Fjord",
+5876,"Boat to Menethil Harbor, Wetlands",
+5877,Boat to Stormwind City,
+5878,"Boat to Valiance Keep, Borean Tundra",
+5879,"Boat to Boralus Harbor, Tiragarde Sound",
+5880,Boat to Stormwind City,
+5881,"Boat to Ratchet, Northern Barrens",
+5882,"Boat to Booty Bay, Stranglethorn Vale",
+5883,Zeppelin to Orgrimmar,
+5884,"Zeppelin to Grom'gol, Stranglethorn Vale",
+5885,"Zeppelin to Warsong Hold, Borean Tundra",
+5886,Zeppelin to Orgrimmar,
+5887,"Boat to Dazar'alor, Zuldazar",
+5888,"Boat to Echo Isles, Durotar",
+5889,"Portal to Honeydew Village, Jade Forest",
+5890,Portal to Orgrimmar,
+5891,"Portal to Paw'don Village, Jade Forest",
+5892,Portal to Stormwind City,
+5896,Assault,Tiragarde Sound is under attack by the Horde!
+5897,Withering Thicket,Allows for the collection of Wood.
+5898,Withering Thicket,Allows for the collection of Wood.
+5899,Cinderfall Grove,Allows wisps to collect wood.
+5900,Cinderfall Grove,Allows wisps to collect wood.
+5903,Lor'danel Landing,Alliance
+5904,Lor'danel Landing,Horde
+5905,Lornesta Mine,Allows for the collection of Iron.
+5906,Lornesta Mine,Allows for the collection of Iron.
+5907,Lornesta Mine,Allows for the collection of Iron.
+5908,Gloomtide Strand,Alliance
+5909,Gloomtide Strand,Horde
+5910,Gloomtide Strand,Neutral
+5911,Bitterstone Quarry,Allows for the collection of Iron.
+5912,Bitterstone Quarry,Allows for the collection of Iron.
+5913,Ashwood Depot,Alliance
+5914,Ashwood Depot,Horde
+5915,Ruins of Auberdine,Alliance
+5916,Ruins of Auberdine,Secure a foothold in Darkshore.
+5917,Forlorn Crossing,Alliance
+5918,Forlorn Crossing,Horde
+5919,Bashal'Aran,Construct a base to recapture Darkshore.
+5921,Injured Tree of Life,Revive!
+5922,Tree of Life,Main structure which improves the base.
+5923,Tree of Ages,Alliance
+5924,Tree of Ages,Alliance
+5925,Tree of Eternity,Alliance
+5926,Tree of Eternity,Alliance
+5927,Glaiveworks,Vehicle production building.
+5928,Glaiveworks,Vehicle production building.
+5929,Glaiveworks,Vehicle production building.
+5930,Ancient of War,Primary troop production building.
+5931,Ancient of War,Primary troop production building.
+5932,Ancient of War,Primary troop production building.
+5933,Hunter's Hall,Upgrade the weapons and armor of units.
+5934,Hunter's Hall,Upgrade the weapons and armor of units.
+5935,Hunter's Hall,Upgrade the weapons and armor of units.
+5936,Altar of Elders,Access to powerful player bonuses.
+5937,Altar of Elders,Access to powerful player bonuses.
+5938,Altar of Elders,Access to powerful player bonuses.
+5943,Ashwood Depot,Horde
+5944,Ashwood Depot,Alliance
+5945,Bashal'Aran,Construct a base to recapture Darkshore.
+5946,Bitterstone Quarry,Allows for the collection of Iron.
+5947,Bitterstone Quarry,Allows for the collection of Iron.
+5948,Cinderfall Grove,Allows for the collection of Wood.
+5949,Cinderfall Grove,Allows for the collection of Wood.
+5950,Forlorn Crossing,Alliance
+5951,Forlorn Crossing,Horde
+5952,Gloomtide Strand,Alliance
+5953,Gloomtide Strand,Horde
+5954,Gloomtide Strand,Neutral
+5955,Lor'danel Landing,Alliance
+5956,Lor'danel Landing,Horde
+5957,Lornesta Mine,Allows for the collection of Iron.
+5958,Lornesta Mine,Allows for the collection of Iron.
+5959,Lornesta Mine,Allows for the collection of Iron.
+5960,Ruins of Auberdine,Horde
+5961,Ruins of Auberdine,Secure a foothold in Darkshore.
+5962,Withering Thicket,Allows for the collection of Wood.
+5963,Withering Thicket,Allows for the collection of Wood.
+5964,Assault,Drustvar is under attack by the Horde!
+5966,Assault,Stormsong Valley is under attack by the Horde!
+5969,Assault,Nazmir is under attack by the Alliance!
+5970,Assault,Vol'dun is under attack by the Alliance!
+5973,Assault,Zuldazar is under attack by the Alliance!
+5974,Altar of Storms,Access to powerful player bonuses.
+5975,Altar of Storms,Access to powerful player bonuses.
+5976,Altar of Storms,Access to powerful player bonuses.
+5977,Barracks,Primary troop production building.
+5978,Barracks,Primary troop production building.
+5979,Barracks,Primary troop production building.
+5980,Plagueworks,Vehicle production building.
+5981,Plagueworks,Vehicle production building.
+5982,Plagueworks,Vehicle production building.
+5983,Stronghold,Horde
+5984,Stronghold,Horde
+5985,Fortress,Horde
+5986,Fortress,Horde
+5987,Destroyed Great Hall,Capture and Rebuild!
+5988,Great Hall,Main structure which improves the base.
+5989,Zidormi,Travel through time to another point in Arathi Highlands' history.
+5995,Thoras'tal Spire,Naga Controlled
+5996,Thoras'tal Spire,Uncontrolled
+5997,Thoras'tal Spire,Alliance Controlled
+5998,Thoras'tal Spire,Horde Controlled
+5999,Alathir Spire,Uncontrolled
+6000,Alathir Spire,Naga Controlled
+6001,Alathir Spire,Horde Controlled
+6002,Alathir Spire,Alliance Controlled
+6003,Lemor'athra Spire,Uncontrolled
+6004,Lemor'athra Spire,Naga Controlled
+6005,Lemor'athra Spire,Horde Controlled
+6006,Lemor'athra Spire,Alliance Controlled
+6007,Realm of the Soultwister,Defeat the Soultwister and take her loot!
+6009,Armory,Upgrade the weapons and armor of units.
+6010,Armory,Upgrade the weapons and armor of units.
+6011,Armory,Upgrade the weapons and armor of units.
+6012,Battle of Dazar'alor,Raid
+6013,Battle of Dazar'alor,Raid
+6014,Stormwind Portal Room,
+6015,Orgrimmar Portal Room,
+6016,Heart of the Empire,Dazar'alor - Zocalo to Walk of Kings
+6017,Walk of Kings,
+6018,Heart of the Empire,
+6019,Loa's Sanctum,
+6020,Walk of Kings,
+6021,The Zocalo,
+6022,Port of Zandalar,
+6023,Halls of Opulence,
+6024,Loa's Sanctum,
+6025,Port of Zandalar,
+6026,Halls of Opulence,
+6027,Wintergrasp Fortress,Epic Battleground
+6028,Wintergrasp Fortress Wall,Epic Battleground
+6029,Wintergrasp Fortress Wall,Epic Battleground
+6030,Wintergrasp Fortress Wall,Epic Battleground
+6031,Wintergrasp Fortress Wall,Epic Battleground
+6032,Wintergrasp Fortress Wall,Epic Battleground
+6033,Wintergrasp Fortress Wall,Epic Battleground
+6034,Wintergrasp Fortress Wall,Epic Battleground
+6035,Wintergrasp Fortress Wall,Epic Battleground
+6036,Wintergrasp Fortress Wall,Epic Battleground
+6037,Wintergrasp Fortress Wall,Epic Battleground
+6038,Wintergrasp Fortress Wall,Epic Battleground
+6039,Wintergrasp Fortress Wall,Epic Battleground
+6040,Wintergrasp Fortress Wall,Epic Battleground
+6041,Wintergrasp Fortress Wall,Epic Battleground
+6042,Wintergrasp Fortress Wall,Epic Battleground
+6043,Wintergrasp Fortress Wall,Epic Battleground
+6045,Wintergrasp Fortress Wall,Epic Battleground
+6046,Wintergrasp Fortress Wall,Epic Battleground
+6047,Wintergrasp Fortress Wall,Epic Battleground
+6048,Wintergrasp Fortress Wall,Epic Battleground
+6049,Wintergrasp Fortress Wall,Epic Battleground
+6050,Wintergrasp Fortress Wall,Epic Battleground
+6051,Wintergrasp Fortress Wall,Epic Battleground
+6052,Wintergrasp Fortress Tower (NW),Epic Battleground
+6053,Wintergrasp Fortress Tower (NE),Epic Battleground
+6054,Wintergrasp Fortress Tower (SE),Epic Battleground
+6055,Wintergrasp Fortress Tower (SW),Epic Battleground
+6056,Wintergrasp Fortress Gate,Epic Battleground
+6059,Sunken Ring Graveyard,Epic Battleground
+6060,Sunken Ring Vehicle Workshop,Epic Battleground
+6061,Broken Temple Vehicle Workshop,EpicBattleground
+6062,Broken Temple Graveyard,EpicBattleground
+6063,Westspark Vehicle Workshop,EpicBattleground
+6064,Southwest Graveyard,EpicBattleground
+6065,Winter's Edge Tower,EpicBattleground
+6066,Flamewatch Tower,EpicBattleground
+6067,Shadowsight Tower,EpicBattleground
+6068,Eastspark Vehicle Workshop,EpicBattleground
+6069,Southeast Graveyard,Epic Battleground
+6070,Fortress Graveyard,Epic Battleground
+6074,Fortress Vehicle Workshop (W),Epic Battleground
+6075,Fortress Vehicle Workshop (E),Epic Battleground
+6076,Gold Mine,Neutral
+6077,Farm,Neutral
+6078,Lumber Mill,Neutral
+6079,Blacksmith,Neutral
+6080,Stables,Neutral
+6100,Tendril of Corruption,Shrine Raid - Pit Down
+6101,Shrine of Shadows,Shrine Raid - Pit Up
+6102,Halls of Sanitation,Nazmir Raid - Halls of Sanitation POI marker
+6103,Ruin's Descent,Nazmir Raid - Ruin's Descent POI marker
+6104,The Oblivion Door,Nazmir Raid - The Oblivion Door
+6105,The Oblivion Door,Nazmir Raid - The Oblivion Door
+6106,Ring of Containment,Nazmir Raid - Ring of Containment
+6107,Ring of Containment,Nazmir Raid - Ring of Containment
+6108,Ring of Containment,Nazmir Raid - Ring of Containment
+6109,The Oblivion Door,Nazmir Raid - The Oblivion Door
+6111,The Festering Core,Nazmir Raid - The Festering Core
+6116,Crucible of Storms,Raid
+6117,Alathir Spire,Nazjatar PvP Event - Tower 04
+6118,Zin-Azshari,Nazjatar PvP Event - Tower 01
+6119,Thoras'tal Spire,Nazjatar PvP Event - Tower 03
+6120,Lemor'athra Spire,Nazjatar PvP Event - Tower 02
+6121,Tidal Conflux,Nazjatar PvP Event - Tower 05
+6122,The Valley of Spirits,
+6123,The Drag,
+6124,The Valley of Honor,
+6125,The Valley of Wisdom,
+6129,Operation: Mechagon,Dungeon
+6130,The Robodrome,
+6131,Mechagon Island,
+6132,The Underjunk,
+6133,The Robodrome,
+6134,Mechagon City,
+6135,The Underjunk,
+6138,Return to Zandalar,
+6139,Boat to Nazjatar,Speak to Captain Rez'okun to travel to Nazjatar
+6140,Boat to Nazjatar,Speak to Cyrus Crestfall to travel to Nazjatar
+6144,Grommash Hold,
+6156,Halls of the Chosen,
+6157,Dais of Eternity,
+6158,Darkest Depths,
+6159,Halls of the Chosen,
+6160,Halls of the Chosen,
+6161,The Traverse,
+6162,The Hatchery,
+6163,The Traverse,
+6164,The Queen's Court,
+6165,The Hatchery,
+6166,Precipice of Dreams,
+6167,The Queen's Court,
+6168,The Last Prison,
+6169,Precipice of Dreams,
+6172,The Dwarven District,
+6173,Trade District,
+6174,Old Town,
+6175,The Mage Quarter,
+6176,Stormwind Cathedral,
+6178,Anima Anomaly,Dark forces are in play here. The Jailer watches this area closely.
+6179,Extraction Point,Return to Oribos
+6402,Irondeep Mine,Alliance Controlled
+6403,Stonehearth Outpost,
+6404,Iceblood Garrison,
+6405,Coldtooth Mine,Horde Controlled
+6406,Frostwolf Keep,
+6407,Stormpike Graveyard,Alliance Controlled
+6408,Snowfall Graveyard,Horde Controlled
+6409,Frostwolf Graveyard,Horde Controlled
+6410,Dun Baldar South Bunker,Alliance Controlled
+6411,Dun Baldar North Bunker,Alliance Controlled
+6412,Icewing Bunker,Alliance Controlled
+6413,Iceblood Tower,Horde Controlled
+6414,Tower Point,Horde Controlled
+6415,East Frostwolf Tower,Horde Controlled
+6416,Dun Baldar,
+6417,Stonehearth Bunker,Alliance Controlled
+6418,Stormpike Aid Station,Alliance Controlled
+6419,Iceblood Graveyard,Horde Controlled
+6420,Stonehearth Graveyard,Alliance Controlled
+6421,Frostwolf Relief Hut,Horde Controlled
+6422,Dun Baldar North Bunker,Destroyed
+6423,Dun Baldar North Bunker,In Conflict
+6424,Dun Baldar North Bunker,In Conflict
+6425,Dun Baldar South Bunker,Destroyed
+6426,Dun Baldar South Bunker,In Conflict
+6427,Dun Baldar South Bunker,In Conflict
+6428,Coldtooth Mine,Alliance Controlled
+6429,Coldtooth Mine,Kobold Controlled
+6430,East Frostwolf Tower,Destroyed
+6431,East Frostwolf Tower,In Conflict
+6432,East Frostwolf Tower,In Conflict
+6433,Frostwolf Graveyard,Alliance Controlled
+6434,Frostwolf Graveyard,In Conflict
+6435,Frostwolf Graveyard,In Conflict
+6436,Frostwolf Relief Hut,Alliance Controlled
+6437,Frostwolf Relief Hut,In Conflict
+6438,Frostwolf Relief Hut,In Conflict
+6439,Iceblood Graveyard,Alliance Controlled
+6440,Iceblood Graveyard,In Conflict
+6441,Iceblood Graveyard,In Conflict
+6442,Iceblood Tower,Destroyed
+6443,Iceblood Tower,In Conflict
+6444,Iceblood Tower,In Conflict
+6445,Icewing Bunker,Destroyed
+6446,Icewing Bunker,In Conflict
+6447,Icewing Bunker,In Conflict
+6448,Irondeep Mine,Horde Controlled
+6449,Irondeep Mine,Trogg Controlled
+6450,Snowfall Graveyard,Alliance Controlled
+6451,Snowfall Graveyard,In Conflict
+6452,Snowfall Graveyard,In Conflict
+6453,Stonehearth Bunker,Destroyed
+6454,Stonehearth Bunker,In Conflict
+6455,Stonehearth Bunker,In Conflict
+6456,Stonehearth Graveyard,Horde Controlled
+6457,Stonehearth Graveyard,In Conflict
+6458,Stonehearth Graveyard,In Conflict
+6459,Stormpike Aid Station,Horde Controlled
+6460,Stormpike Aid Station,In Conflict
+6461,Stormpike Aid Station,In Conflict
+6462,Stormpike Graveyard,Horde Controlled
+6463,Stormpike Graveyard,In Conflict
+6464,Stormpike Graveyard,In Conflict
+6465,Tower Point,Destroyed
+6466,Tower Point,In Conflict
+6467,Tower Point,In Conflict
+6468,West Frostwolf Tower,Horde Controlled
+6469,West Frostwolf Tower,Destroyed
+6470,West Frostwolf Tower,In Conflict
+6471,West Frostwolf Tower,In Conflict
+6472,Pre-alliance POI test,
+6473,Wildpaw Cavern,
+6474,Icewing Cavern,
+6475,Snowfall Graveyard,Uncontrolled
+6485,Temple of Purity (Disabled for BlizzCon Playtest GJC 9/17/19),Progress on empowering the temple.
+6486,Assault: N'Zoth,N'Zoth's forces are invading Uldum!
+6487,Assault: Amathet,The Amathet are assaulting the Forge of Origination!
+6488,Assault: Aqir,The Aqir are swarming across Uldum!
+6489,Assault: N'Zoth,N'Zoth's forces are invading the Vale of Eternal Blossoms!
+6490,Assault: Mogu,The mogu clans are advancing upon the Vale of Eternal Blossoms!
+6491,Assault: Mantid,The mantid swarm is threatening to consume the Vale of Eternal Blossoms!
+6492,Temple of Wisdom (Disabled for BlizzCon Playtest GJC 9/17/19),Progress on empowering the temple.
+6493,Ancient Inferno,Slay the Ancient Inferno to gain the power of the Ancient Artifact
+6494,Solar Sphere,Neutral
+6495,Gold Mine,Neutral
+6496,Scarlet Halls,Dungeon
+6497,Scarlet Monastery,Dungeon
+6498,Blackfathom Deeps,Dungeon
+6499,Blackrock Depths,Dungeon
+6500,The Deadmines,Dungeon
+6501,Dire Maul,Dungeon
+6502,Gnomeregan,Dungeon
+6503,Maraudon,Dungeon
+6504,Hellfire Citadel,Raid
+6505,Blackrock Foundry,Raid
+6506,Highmaul,Raid
+6507,Siege of Orgrimmar,Raid
+6508,Throne of Thunder,Raid
+6509,Terrace of Endless Spring,Raid
+6510,Heart of Fear,Raid
+6511,Mogu'shan Vaults,Raid
+6512,Dragon Soul,Raid
+6513,The Battle for Mount Hyjal,Raid
+6514,Firelands,Raid
+6515,Throne of the Four Winds,Raid
+6516,Bastion of Twilight,Raid
+6517,Blackwing Descent,Raid
+6518,Baradin Hold,Raid
+6519,The Ruby Sanctum,Raid
+6520,The Obsidian Sanctum,Raid
+6521,Icecrown Citadel,Raid
+6522,Trial of the Crusader,Raid
+6523,Ulduar,Raid
+6524,Naxxramas,Raid
+6525,The Eye of Eternity,Raid
+6526,Vault of Archavon,Raid
+6527,Onyxia's Lair,Raid
+6528,Karazhan,Raid
+6529,Gruul's Lair,Raid
+6530,Serpentshrine Cavern,Raid
+6531,Magtheridon's Lair,Raid
+6532,Black Temple,Raid
+6533,Sunwell Plateau,Raid
+6534,The Eye,Raid
+6535,Molten Core,Raid
+6536,Blackwing Lair,Raid
+6537,Temple of Ahn'Qiraj,Raid
+6538,Ruins of Ahn'Qiraj,Raid
+6539,"Ny'alotha, the Waking City",Raid
+6540,"Ny'alotha, the Waking City",Raid
+6542,Vision of N'Zoth,
+6543,Quarry,Neutral
+6544,Market,Neutral
+6545,Shrine,Neutral
+6546,Farm,Neutral
+6547,Ruins,Neutral
+6548,Zidormi,Travel through time to another point in Uldum's history.
+6549,Zidormi,Travel through time to another point in Uldum's history.
+6551,Ny'alotha,
+6552,Annex of Prophecy,
+6553,The Ritual Chamber,
+6554,Ny'alotha,
+6555,The Hive,
+6556,Ny'alotha,
+6557,Terrace of Desolation,
+6558,The Hive,
+6559,Maw of Gor'ma,
+6560,Ny'alotha,
+6561,Maw of Gor'ma,
+6562,Warren of Decay,
+6563,Maw of Gor'ma,
+6564,Chamber of Rebirth,
+6565,Ny'alotha,
+6566,N'Zoth,
+6567,Twilight Landing,
+6568,The Ritual Chamber,
+6569,Lords of the Blade,Raid Level Challenge
+6570,Obalis,Grand Master Pet Tamer
+6571,Aki the Chosen,Grand Master Pet Tamer
+6572,Vision of N'Zoth,
+6573,Zidormi,Travel through time to another point in the Vale's history.
+6574,Zidormi,Travel through time to another point in the Vale's history.
+6576,Astarii Starseeker,Obtain a Cypher of Extrication to free Astarii from her cage.
+6580,Tower of the Progenitors,Use Stygia to create Cyphers or turn in Constellan Writs to Ve'nari.
+6582,The Necrotic Wake,Dungeon
+6583,Spires of Ascension,Dungeon
+6584,Theater of Pain,Dungeon
+6585,Plaguefall,Dungeon
+6586,Mists of Tirna Scithe,Dungeon
+6587,De Other Side,Dungeon
+6588,Halls of Atonement,Dungeon
+6589,Sanguine Depths,Dungeon
+6590,Castle Nathria,Raid
+6593,Ven'ari's Favor,This location has an item of interest for Ven'ari.  |cFFE51D05 |cFFE51D05 (PH: THESE ARE OTHERWISE LOW DROPRATE RANDOM DROPS)
+6639,Hunt: Mist Lurkers,Hunting Mist Lurkers will draw the attention of a powerful beast.  |cFFE51D05 |cFFE51D05
+6640,"Torghast, Tower of the Damned",
+6641,Amphitheater of Sorrow,
+6642,Depths of Despair,
+6660,Upper Blackrock Spire,Dungeon
+6661,Lower Blackrock Spire,Dungeon
+6662,Blackrock Caverns,Dungeon
+6663,The Culling of Stratholme,Dungeon
+6664,The Black Morass,Dungeon
+6665,Well of Eternity,Dungeon
+6666,Old Hillsbrad Foothills,Dungeon
+6667,End Time,Dungeon
+6668,Hour of Twilight,Dungeon
+6669,The Everbloom,Dungeon
+6670,Grimrail Depot,Dungeon
+6671,Iron Docks,Dungeon
+6672,Bloodmaul Slag Mines,Dungeon
+6673,Auchindoun,Dungeon
+6674,Skyreach,Dungeon
+6675,Shadowmoon Burial Grounds,Dungeon
+6676,Temple of the Jade Serpent,Dungeon
+6677,Stormstout Brewery,Dungeon
+6678,Siege of Niuzao Temple,Dungeon
+6679,Shado-Pan Monastery,Dungeon
+6680,Mogu'shan Palace,Dungeon
+6681,Gate of the Setting Sun,Dungeon
+6682,Zul'Gurub,Dungeon
+6683,Zul'Aman,Dungeon
+6684,Throne of the Tides,Dungeon
+6685,The Vortex Pinnacle,Dungeon
+6686,Lost City of the Tol'vir,Dungeon
+6687,The Stonecore,Dungeon
+6688,Halls of Origination,Dungeon
+6689,Grim Batol,Dungeon
+6690,Utgarde Pinnacle,Dungeon
+6691,Utgarde Keep,Dungeon
+6692,Trial of the Champion,Dungeon
+6694,The Oculus,Dungeon
+6695,The Nexus,Dungeon
+6696,The Forge of Souls,Dungeon
+6697,Pit of Saron,Dungeon
+6698,Halls of Reflection,Dungeon
+6699,Halls of Lightning,Dungeon
+6700,Halls of Stone,Dungeon
+6701,Gundrak,Dungeon
+6702,Drak'Tharon Keep,Dungeon
+6703,Azjol-Nerub,Dungeon
+6704,Ahn'kahet: The Old Kingdom,Dungeon
+6705,The Slave Pens,Dungeon
+6706,The Steamvault,Dungeon
+6707,The Underbog,Dungeon
+6708,The Blood Furnace,Dungeon
+6709,Hellfire Ramparts,Dungeon
+6710,The Shattered Halls,Dungeon
+6711,The Botanica,Dungeon
+6712,The Mechanar,Dungeon
+6713,The Arcatraz,Dungeon
+6714,Shadow Labyrinth,Dungeon
+6715,Auchenai Crypts,Dungeon
+6716,Mana-Tombs,Dungeon
+6717,Sethekk Halls,Dungeon
+6718,Magisters' Terrace,Dungeon
+6719,Zul'Farrak,Dungeon
+6720,Wailing Caverns,Dungeon
+6721,Uldaman,Dungeon
+6722,The Temple of Atal'hakkar,Dungeon
+6723,The Stockade,Dungeon
+6724,Stratholme,Dungeon
+6725,Shadowfang Keep,Dungeon
+6726,Scholomance,Dungeon
+6727,Razorfen Kraul,Dungeon
+6728,Razorfen Downs,Dungeon
+6730,Chamber of Conquest,
+6733,Barrow of Carnage,
+6734,Barrow of Carnage,
+6736,Barrow of Carnage,
+6737,Barrow of Carnage,
+6741,Barrow of Carnage,
+6742,Barrow of Carnage,
+6743,Chamber of Conquest,
+6745,Altars of Agony,
+6746,Chamber of Conquest,
+6747,Theater of Pain,
+6768,Terrace of Reanimation,
+6769,Bonebreaker Hall,
+6770,De Other Side,
+6771,Ardenweald,
+6772,De Other Side,
+6773,Mechagon,
+6774,Zul'Gurub,
+6775,De Other Side,
+6776,Gardens of Repose,
+6777,Honor's Ascent,
+6778,Font of Fealty,
+6779,Gardens of Repose,
+6780,Seat of the Archon,
+6781,Font of Fealty,
+6782,Plaguefall,
+6783,Festering Sanctum,
+6784,The Nave of Pain,
+6785,The Narthex of Sins,
+6786,The Sanctuary of Souls,
+6787,The Crimson Apse,
+6788,The Stitchwerks,
+6789,Zolramus,
+6805,The Purloined Stores,
+6806,Halls of the Faithful,
+6807,The Grand Walk,
+6808,The Grand Walk,
+6809,Feast of Arrogance,
+6810,Feast of Arrogance,
+6811,Pride's Prison,
+6812,Halls of the Faithful,
+6813,Halls of the Faithful,
+6814,Halls of the Faithful,
+6815,The Grand Walk,
+6816,Nightcloak Sanctum,
+6817,The Master's Vestibule,
+6818,The Kennels,
+6819,The Master's Vestibule,
+6820,Halls of the Faithful,
+6822,Feast of Arrogance,
+6823,The Master's Vestibule,
+6824,The Purloined Stores,
+6825,The Grand Walk,
+6829,Steward of the Day: Wylia,9.0 Bastion Map Icons for the Steward of the Day repeatable treasures - SBV
+6830,Steward of the Day: Ioanna,9.0 Bastion Map Icons for the Steward of the Day repeatable treasures - SBV
+6832,Steward of the Day: Burnsios,9.0 Bastion Map Icons for the Steward of the Day repeatable treasures - SBV
+6833,Steward of the Day: Platnos,9.0 Bastion Map Icons for the Steward of the Day repeatable treasures - SBV
+6834,Steward of the Day: Pagius,9.0 Bastion Map Icons for the Steward of the Day repeatable treasures - SBV
+6835,Steward of the Day: Alexandros,9.0 Bastion Map Icons for the Steward of the Day repeatable treasures - SBV
+6836,Steward of the Day: Chaddius,9.0 Bastion Map Icons for the Steward of the Day repeatable treasures - SBV
+6837,Steward of the Day: Angeliki,9.0 Bastion Map Icons for the Steward of the Day repeatable treasures - SBV
+6838,Steward of the Day: Covinkles,9.0 Bastion Map Icons for the Steward of the Day repeatable treasures - SBV
+6839,Steward of the Day: Giannakis,Map Icons for the Steward of the Day repeatable treasures
+6840,Chromie,Timewalking Campaign
+6841,Chromie,Timewalking Campaign
+6845,The Violet Hold,
+6846,Ragefire Chasm,Dungeon
+6851,,
+6872,Fatescribe Roh-Tahl,Change Fate and experience Shadowlands in a new way.
+6876,Anima Conductor,
+6877,Anima Conductor,
+6878,Anima Conductor,
+6879,Anima Conductor,
+6880,Transportation Network,
+6881,Sanctum Upgrades,
+6882,Sanctum Upgrades,
+6883,Sanctum Upgrades,
+6884,Sanctum Upgrades,
+6885,Forge of Bonds,
+6886,Forge of Bonds,
+6887,Forge of Bonds,
+6888,Forge of Bonds,
+6889,Path of Ascension,
+6890,Abomination Factory,
+6891,Queen's Conservatory,
+6892,Ember Court,
+6894,Black Bell,|cff20ff20Anima Conductor: Temple of Loyalty|r
+6895,Temple of Humility,|cff20ff20Anima Conductor|r
+6896,Horn of Courage,|cff20ff20Anima Conductor: Temple of Courage|r
+6897,Quests Available,|cff20ff20Anima Conductor: Eternal Forge|r
+6898,Kyrian Enhancements Available,|cff20ff20Anima Conductor: Eonian Archives|r
+6899,Penitence of Purity,|cff20ff20Anima Conductor: Temple of Purity|r
+6900,Chosen Runecoffer,|cff20ff20Anima Conductor: House of the Chosen|r
+6901,Final Thread,|cff20ff20Anima Conductor: House of Constructs|r
+6902,Quests Available,|cff20ff20Anima Conductor: House of Eyes|r
+6903,Necrolord Enhancements Available,|cff20ff20Anima Conductor: House of Rituals|r
+6904,House of Plagues,|cff20ff20Anima Conductor|r
+6905,Spoiling For A Fight,|cff20ff20Anima Conductor: Theater of Pain|r
+6906,Tirna Vaal,|cff20ff20Anima Conductor|r
+6907,Quests Available,|cff20ff20Anima Conductor: Hibernal Hollow|r
+6908,Large Lunarlight Pod,|cff20ff20Anima Conductor: Glitterfall Basin|r
+6909,Dapperdew,|cff20ff20Anima Conductor: Dreamsong Fenn|r
+6910,Sparkling Animaseed,|cff20ff20Anima Conductor: Tirna Scithe|r
+6911,Quests Available,|cff20ff20Anima Conductor: Pridefall Hamlet|r
+6912,Dredterror Ballista,|cff20ff20Anima Conductor: Wanecrypt Hill|r
+6913,Madalav's Hammer,|cff20ff20Anima Conductor: Dominance Keep|r
+6914,Castle Ward,|cff20ff20Anima Conductor|r
+6915,Greater Greedstone,|cff20ff20Anima Conductor: Crypt of the Forgotten|r
+6916,Venthyr Enhancements Available,|cff20ff20Anima Conductor: The Shrouded Asylum|r
+6917,Night Fae Enhancements Available,|cff20ff20Anima Conductor: Claw's Edge|r
+6918,Command Table,
+6919,Command Table,
+6920,Command Table,
+6921,Command Table,
+6922,Transportation Network,
+6923,Heart of the Forest,|cff20ff20Mushroom Network|r
+6925,Sixfold Recluse,|cff20ff20Portal: Seat of the Primus
+6926,House of Rituals,|cff20ff20Portal: Seat of the Primus
+6927,Halls of Atonement,|cff20ff20Mirror Network: Ceremony Ward|r
+6928,Nurakkir,|cff20ff20Portal: Seat of the Primus
+6929,Dominance Keep,|cff20ff20Mirror Network: Military Ward|r
+6930,The Banewood,|cff20ff20Mirror Network: Forest Ward|r
+6931,Feeders' Thicket,|cff20ff20Mirror Network: Village Ward|r
+6932,The Eternal Terrace,|cff20ff20Mirror Network: Castle Ward|r
+6933,Pridefall Hamlet,|cff20ff20Mirror Network: Village Ward|r
+6934,Crumbled Ridge,|cff20ff20Mushroom Network|r
+6935,The Eternal Terrace,|cff20ff20Mirror Network: Castle Ward|r
+6936,Pridefall Hamlet,|cff20ff20Mirror Network: Village Ward|r
+6937,The Banewood,|cff20ff20Mirror Network: Forest Ward|r
+6938,Feeders' Thicket,|cff20ff20Mirror Network: Village Ward|r
+6939,Halls of Atonement,|cff20ff20Mirror Network: Ceremony Ward|r
+6940,Dominance Keep,|cff20ff20Mirror Network: Military Ward|r
+6941,Stillglade,|cff20ff20Mushroom Network|r
+6942,Banks of Life,|cff20ff20Mushroom Network|r
+6943,The Stalks,|cff20ff20Mushroom Network|r
+6944,The Elder Stand,|cff20ff20Mushroom Network|r
+6945,Eventide Grove,|cff20ff20Mushroom Network|r
+6946,Gormhide,|cff20ff20Mushroom Network|r
+6947,Tirna Scithe,|cff20ff20Mushroom Network|r
+6948,Forest's Edge,|cff20ff20Mushroom Network|r
+6949,To the Heart of the Forest,|cff20ff20Mushroom Network|r
+6950,To the Gormhive,|cff20ff20Mushroom Network|r
+6951,To the Crumbled Ridge,|cff20ff20Mushroom Network|r
+6952,To the Great Unknown,|cff20ff20Mushroom Network|r
+6953,To the Banks of Life,|cff20ff20Mushroom Network|r
+6954,To the Stalks,|cff20ff20Mushroom Network|r
+6955,To the Eventide Grove,|cff20ff20Mushroom Network|r
+6956,To the Elder Stand,|cff20ff20Mushroom Network|r
+6957,To the Stillglade,|cff20ff20Mushroom Network|r
+6958,To the Tirna Scithe,|cff20ff20Mushroom Network|r
+6959,To the Deep Unknown,|cff20ff20Mushroom Network|r
+6960,Zerekriss,|cff20ff20Portal: Seat of the Primus
+6962,To the Heart of the Forest,|cff20ff20Mushroom Network|r
+6963,To the Gormhive,|cff20ff20Mushroom Network|r
+6964,To the Crumbled Ridge,|cff20ff20Mushroom Network|r
+6965,To the Great Unknown,|cff20ff20Mushroom Network|r
+6966,To the Banks of Life,|cff20ff20Mushroom Network|r
+6967,To the Stalks,|cff20ff20Mushroom Network|r
+6968,To the Eventide Grove,|cff20ff20Mushroom Network|r
+6969,To the Elder Stand,|cff20ff20Mushroom Network|r
+6970,To the Stillglade,|cff20ff20Mushroom Network|r
+6971,To the Tirna Scithe,|cff20ff20Mushroom Network|r
+6972,To the Deep Unknown,|cff20ff20Mushroom Network|r
+6973,Ring of Fates,
+6974,Ring of Fates,
+6976,The Broker's Den,
+6977,The Broker's Den,
+6978,To the Forest's Edge,|cff20ff20Mushroom Network|r
+6979,Great Vault,"Defeat bosses in the Sanctum of Domination, complete Mythic Keystone dungeons, and earn Honor in Rated PvP to unlock rewards in the Great Vault."
+6980,Timewalking Vendor,Mists of Pandaria
+6981,Timewalking Vendor,The Burning Crusade
+6982,Timewalking Vendor,Wrath of the Lich King
+6983,Timewalking Vendor,Cataclysm
+6984,Timewalking Vendor,Cataclysm
+6985,Timewalking Vendor,Warlords of Draenor
+6986,Timewalking Vendor,Warlords of Draenor
+6987,Great Vault,|cff20ff20Rewards are now available. Return to the Great Vault to claim your reward.|r
+6989,Necrolord Assault,Draka leads the Maldraxxi assault on Perdition Hold!
+6990,Venthyr Assault,Prince Renathal leads the Venthyr assault on the Tremaculum!
+6991,Kyrian Assault,Xandria leads the Kyrian assault on Cocyrus!
+6992,Night Fae Assault,Lord Herne leads the Night Fae assault on Crucible of the Damned
+6994,Sanctum of Domination,Raid
+6995,Shadowsteel Foundry,
+6996,Tazavesh,Myza's Oasis -> Tazavesh
+6997,Myza's Oasis,Tazavesh -> Myza's Oasis
+6998,Tazavesh,The Grand Menagerie -> Tazavesh
+6999,The Grand Menagerie,Tazavesh -> The Grand Menagerie
+7000,Tazavesh,The P.O.S.T. -> Tazavesh
+7001,The P.O.S.T.,Tazavesh -> The P.O.S.T.
+7003,Stormheim,Tazavesh -> Stormheim
+7004,Boralus Harbor,Aggramar's Vault -> Boralus Harbor
+7005,The Opulent Nexus,Boralus Harbor -> The Opulent Nexus
+7006,Stormheim,Aggramar's Vault -> Stormheim
+7007,Aggramar's Vault,Stormheim -> Aggramar's Vault
+7008,The Torment Chambers,
+7009,"Torghast, Tower of the Damned",
+7010,The Torment Chambers,
+7011,The Torment Chambers,
+7012,Shadowsteel Foundry,
+7013,Shadowsteel Foundry,
+7014,Crown of Gorgoa,
+7015,Pinnacle of Domination,
+7016,Crown of Gorgoa,
+7017,Portal to Korthia,
+7018,Timewalking Vendor,Legion
+7019,Portal to Zereth Mortis,
+7020,Waystone to Oribos,
+7021,Sepulcher of the First Ones,Raid
+7022,Genesis Cradle,
+7023,Ephemeral Plains,
+7024,Domination's Grasp,
+7025,Immortal Hearth,
+7026,The Endless Foundry,
+7027,Genesis Cradle,
+7028,Immortal Hearth,
+7029,Immortal Hearth,
+7030,The Grand Design,
+7031,Domination's Grasp,
+7032,Heart of Eternity,
+7033,The Grand Design,
+7035,Great Vault,"Defeat bosses in Fated Shadowlands raids, complete Mythic Keystone dungeons, and earn Honor in Rated PvP to unlock rewards in the Great Vault."
+7037,Between A Rock & A Rock,Available quest
+7038,Expeditionary Effort,The Dragonscale Expedition requires your assistance.
+7047,Primal Storms: Badlands,Primalists have brought forth a fire elemental in hopes to ravage all of Azeroth!
+7048,Vault of the Incarnates,Raid
+7053,Grand Hunting Party,Join Clan Shikaar on a Grand Hunt.
+7058,Primal Storms: Badlands,Primalists have brought forth an air elemental in hopes to ravage all of Azeroth!
+7059,Primal Storms: Badlands,Primalists have brought forth an earth elemental in hopes to ravage all of Azeroth!
+7060,Primal Storms: Badlands,Primalists have brought forth a water elemental in hopes to ravage all of Azeroth!
+7061,Primal Storms: Un'Goro,Primalists have brought forth an air elemental in hopes to ravage all of Azeroth!
+7062,Primal Storms: Northern Barrens,Primalists have brought forth an air elemental in hopes to ravage all of Azeroth!
+7063,Primal Storms: Tirisfal Glades,Primalists have brought forth an air elemental in hopes to ravage all of Azeroth!
+7064,Primal Storms: Un'Goro,Primalists have brought forth a fire elemental in hopes to ravage all of Azeroth!
+7065,Primal Storms: Un'Goro,Primalists have brought forth an earth elemental in hopes to ravage all of Azeroth!
+7066,Primal Storms: Northern Barrens,Primalists have brought forth an earth elemental in hopes to ravage all of Azeroth!
+7067,Primal Storms: Tirisfal Glades,Primalists have brought forth an earth elemental in hopes to ravage all of Azeroth!
+7068,Primal Storms: Tirisfal Glades,Primalists have brought forth a fire elemental in hopes to ravage all of Azeroth!
+7069,Primal Storms: Northern Barrens,Primalists have brought forth a fire elemental in hopes to ravage all of Azeroth!
+7070,Primal Storms: Un'Goro,Primalists have brought forth a water elemental in hopes to ravage all of Azeroth!
+7071,Primal Storms: Northern Barrens,Primalists have brought forth a water elemental in hopes to ravage all of Azeroth!
+7072,Primal Storms: Tirisfal Glades,Primalists have brought forth a water elemental in hopes to ravage all of Azeroth!
+7086,River Mouth Fishing Hole,The Tuskarr have noted that fish are very active in this serene area.
+7087,The Vault of Tyr,
+7088,Hall of the Keepers,
+7089,Grand Hunting Party,Join Clan Shikaar on a Grand Hunt.
+7090,Grand Hunting Party,Join Clan Shikaar on a Grand Hunt.
+7091,Grand Hunting Party,Join Clan Shikaar on a Grand Hunt.
+7092,Grand Hunting Party,Join Clan Shikaar on a Grand Hunt.
+7093,Grand Hunting Party,Join Clan Shikaar on a Grand Hunt.
+7094,Grand Hunting Party,Join Clan Shikaar on a Grand Hunt.
+7095,Grand Hunting Party,Join Clan Shikaar on a Grand Hunt.
+7096,Grand Hunting Party,Join Clan Shikaar on a Grand Hunt.
+7097,Grand Hunting Party,Join Clan Shikaar on a Grand Hunt.
+7098,Grand Hunting Party,Join Clan Shikaar on a Grand Hunt.
+7099,Grand Hunting Party,Join Clan Shikaar on a Grand Hunt.
+7101,Aylaag Camp,Clan Aylaag has stopped at this location for the time being.
+7102,Aylaag Camp,Clan Aylaag has stopped at this location for the time being.
+7103,Aylaag Camp,Clan Aylaag has stopped at this location for the time being.
+7104,Siege on Dragonbane Keep,"The siege is active, and the Outcasts could use your help!"
+7105,The Burning Cauldron,
+7106,Chamber of Flames,
+7107,Ruby Lifeshrine,
+7108,Infusion Chambers,
+7109,Crystal Chambers,
+7110,The Arcane Conservatory,
+7111,Mausoleum of Legends,
+7112,Crystal Chambers,
+7113,The Infinity Seal,
+7114,Mausoleum of Legends,
+7115,Sindragosa's Lament,
+7116,The Arcane Conservatory,
+7117,Den of Decay,
+7118,Den of Decay,
+7120,Brackenhide Hollow,
+7209,Brackenhide Hollow,Dungeon
+7210,Halls of Infusion,Dungeon
+7211,Neltharus,Dungeon
+7212,Ruby Life Pools,Dungeon
+7213,Algeth'ar Academy,Dungeon
+7214,The Azure Vault,Dungeon
+7215,The Nokhud Offensive,Dungeon
+7216,Uldaman: Legacy of Tyr,Dungeon
+7218,Community Feast,"The tuskarr are cooking their feast right now, and they can use your help!"
+7219,Community Feast,The tuskarr will begin their feast soon!
+7220,Community Feast,The cooking is over... but the soup is ready to eat!
+7221,Elemental Storm,"A Primalist thunderstorm buffets Nokhudon Hold, imbuing creatures with new powers and strengths."
+7222,Elemental Storm,"A Primalist sandstorm engulfs Nokhudon Hold, imbuing creatures with new powers and strengths."
+7223,Elemental Storm,"A Primalist firestorm rages through Nokhudon Hold, imbuing creatures with new powers and strengths."
+7224,Elemental Storm,"A Primalist snowstorm chills Nokhudon Hold, imbuing creatures with new powers and strengths."
+7225,Elemental Storm,"A Primalist thunderstorm buffets the Ohn'iri Springs, imbuing creatures with new powers and strengths."
+7226,Elemental Storm,"A Primalist sandstorm engulfs the Ohn'iri Springs, imbuing creatures with new powers and strengths."
+7227,Elemental Storm,"A Primalist firestorm rages through the Ohn'iri Springs, imbuing creatures with new powers and strengths."
+7228,Elemental Storm,"A Primalist snowstorm chills the Ohn'iri Springs, imbuing creatures with new powers and strengths."
+7229,Elemental Storm,"A Primalist thunderstorm buffets Brackenhide Hollow, imbuing creatures with new powers and strengths."
+7230,Elemental Storm,"A Primalist sandstorm engulfs Brackenhide Hollow, imbuing creatures with new powers and strengths."
+7231,Elemental Storm,"A Primalist firestorm rages through Brackenhide Hollow, imbuing creatures with new powers and strengths."
+7232,Elemental Storm,"A Primalist snowstorm chills Brackenhide Hollow, imbuing creatures with new powers and strengths."
+7233,Elemental Storm,"A Primalist thunderstorm buffets the Cobalt Assembly, imbuing creatures with new powers and strengths."
+7234,Elemental Storm,"A Primalist sandstorm engulfs the Cobalt Assembly, imbuing creatures with new powers and strengths."
+7235,Elemental Storm,"A Primalist firestorm rages through the Cobalt Assembly, imbuing creatures with new powers and strengths."
+7236,Elemental Storm,"A Primalist snowstorm chills the Cobalt Assembly, imbuing creatures with new powers and strengths."
+7237,Elemental Storm,"A Primalist thunderstorm buffets Imbu, imbuing creatures with new powers and strengths."
+7238,Elemental Storm,"A Primalist sandstorm engulfs Imbu, imbuing creatures with new powers and strengths."
+7239,Elemental Storm,"A Primalist firestorm rages through Imbu, imbuing creatures with new powers and strengths."
+7240,Elemental Storm,"A Primalist snowstorm chills Imbu, imbuing creatures with new powers and strengths."
+7241,Elemental Storm,"A Primalist thunderstorm buffets the area, imbuing creatures with new powers and strengths."
+7242,Elemental Storm,"A Primalist sandstorm engulfs the area, imbuing creatures with new powers and strengths."
+7243,Elemental Storm,"A Primalist firestorm rages through the area, imbuing creatures with new powers and strengths."
+7244,Elemental Storm,"A Primalist snowstorm chills the area, imbuing creatures with new powers and strengths."
+7245,Elemental Storm,"A Primalist thunderstorm buffets Tyrhold, imbuing creatures with new powers and strengths."
+7246,Elemental Storm,"A Primalist sandstorm engulfs Tyrhold, imbuing creatures with new powers and strengths."
+7247,Elemental Storm,"A Primalist firestorm rages through Tyrhold, imbuing creatures with new powers and strengths."
+7248,Elemental Storm,"A Primalist snowstorm chills Tyrhold, imbuing creatures with new powers and strengths."
+7249,Elemental Storm,"A Primalist thunderstorm buffets Dragonbane Keep, imbuing creatures with new powers and strengths."
+7250,Elemental Storm,"A Primalist sandstorm engulfs Dragonbane Keep, imbuing creatures with new powers and strengths."
+7251,Elemental Storm,"A Primalist firestorm rages through Dragonbane Keep, imbuing creatures with new powers and strengths."
+7252,Elemental Storm,"A Primalist snowstorm chills Dragonbane Keep, imbuing creatures with new powers and strengths."
+7253,Elemental Storm,"A Primalist thunderstorm buffets the Slagmire, imbuing creatures with new powers and strengths."
+7254,Elemental Storm,"A Primalist sandstorm engulfs the Slagmire, imbuing creatures with new powers and strengths."
+7255,Elemental Storm,"A Primalist firestorm rages through the Slagmire, imbuing creatures with new powers and strengths."
+7256,Elemental Storm,"A Primalist snowstorm chills the Slagmire, imbuing creatures with new powers and strengths."
+7257,Elemental Storm,"A Primalist thunderstorm buffets Scalecracker Keep, imbuing creatures with new powers and strengths."
+7258,Elemental Storm,"A Primalist sandstorm engulfs Scalecracker Keep, imbuing creatures with new powers and strengths."
+7259,Elemental Storm,"A Primalist firestorm rages through Scalecracker Keep, imbuing creatures with new powers and strengths."
+7260,Elemental Storm,"A Primalist snowstorm chills Scalecracker Keep, imbuing creatures with new powers and strengths."
+7261,Waking Shores Rally,Join the multiplayer Dragonriding race.
+7262,Ohn'ahran Plains Rally,Join the multiplayer Dragonriding race.
+7263,Azure Span Rally,Join the multiplayer Dragonriding race.
+7264,Thaldraszus Rally,Join the multiplayer Dragonriding race.
+7265,Water-Bound Chest,Face the Trial of the Flood.
+7266,Grimtusk's Fishing Hole,The Tuskarr have noted that this area is perfect for ice fishing.
+7267,Siege on Dragonbane Keep,The Outcasts will begin their siege soon!
+7268,Infusion Chamber,
+7269,Infuser's Rotunda,
+7270,Roaring Dragonsprings Fishing Hole,The Tuskarr have noted that fish at this elevation are surprisingly active.
+7271,Tyrhold Fishing Hole,The Tuskarr have noted that fish at this elevation are surprisingly active.
+7272,Burning Ascent Fishing Hole,The Tuskarr have noted that even the lava in this area is teeming with fish.
+7273,Algeth'ar Academy,
+7274,The Headteacher's Enclave,
+7275,The Pitch,
+7276,The Pitch,
+7277,Algeth'ar Academy,
+7294,Elemental Bound Chest,Face the Trial of the Elements.
+7295,Engine of Innovation,
+7296,Great Vault,"Defeat bosses in Vault of the Incarnates, complete Mythic Keystone dungeons, and earn Honor in Rated PvP to unlock rewards in the Great Vault."
+7297,Great Vault,|cff20ff20Rewards are now available. Return to the Great Vault to claim your reward.|r
+7298,Elemental Storm,"A Primalist thunderstorm buffets the Primalist Future, imbuing creatures with new powers and strengths."
+7299,Elemental Storm,"A Primalist sandstorm engulfs the Primalist Future, imbuing creatures with new powers and strengths."
+7300,Elemental Storm,"A Primalist firestorm rages through the Primalist Future, imbuing creatures with new powers and strengths."
+7301,Elemental Storm,"A Primalist snowstorm chills the Primalist Future, imbuing creatures with new powers and strengths."
+7302,Primal Turtlel Ritual Site,
+7303,The Burning Cauldron,
+7304,Ruby Lifeshrine Loop,Dragonriding Race
+7335,"Boat to the Waking Shores, Dragon Isles",
+7339,Zeppelin to Orgrimmar,
+7340,Boat to Stormwind,
+7341,"Zeppelin to the Waking Shores, Dragon Isles",
+7342,Grand Hunts,Travel to the Ohn'ahran Plains to find the Shikaar Grand Hunt.
+7343,Grand Hunts,Travel to The Waking Shore to find the Shikaar Grand Hunt.
+7344,Grand Hunts,Travel to Thaldraszus to find the Shikaar Grand Hunt.
+7345,Grand Hunts,Travel to The Azure Span to find the Shikaar Grand Hunt.
+7346,The Vault Approach,
+7347,The Elemental Conclave,
+7348,Galewind Crag,
+7349,The Clutchwarren,
+7350,The Primal Bulwark,
+7351,The Elemental Conclave,
+7352,The Primal Bulwark,
+7353,The Primal Bulwark,
+7354,The Primal Convergence,
+7355,The Primal Convergence,
+7356,The Primal Convergence,
+7357,The Clutchwarren,
+7358,The Vault Approach,
+7359,The Vault Approach,
+7360,Iceskitter Hollow,
+7361,Quarry of Infusion,
+7365,Dragonscale Basecamp,"The Dragonscale Expedition have established their temporary headquarters here, high up in the cliffs of the Waking Shores."
+7366,Primal Elements: Badlands,Primalists are calling forth an earth elemental in hopes to ravage all of Azeroth!
+7367,Primal Elements: Badlands,Primalists are calling forth an air elemental in hopes to ravage all of Azeroth!
+7368,Primal Elements: Badlands,Primalists are calling forth a fire elemental in hopes to ravage all of Azeroth!
+7369,Primal Elements: Badlands,Primalists are calling forth a water elemental in hopes to ravage all of Azeroth!
+7370,Primal Elements: Northern Barrens,Primalists are calling forth an air elemental in hopes to ravage all of Azeroth!
+7371,Primal Elements: Northern Barrens,Primalists are calling forth an earth elemental in hopes to ravage all of Azeroth!
+7372,Primal Elements: Northern Barrens,Primalists are calling forth a fire elemental in hopes to ravage all of Azeroth!
+7373,Primal Elements: Northern Barrens,Primalists are calling forth a water elemental in hopes to ravage all of Azeroth!
+7374,Primal Elements: Tirisfal Glades,Primalists are calling forth an air elemental in hopes to ravage all of Azeroth!
+7375,Primal Elements: Tirisfal Glades,Primalists are calling forth an earth elemental in hopes to ravage all of Azeroth!
+7376,Primal Elements: Tirisfal Glades,Primalists are calling forth a fire elemental in hopes to ravage all of Azeroth!
+7377,Primal Elements: Tirisfal Glades,Primalists are calling forth a water elemental in hopes to ravage all of Azeroth!
+7378,Primal Elements: Un'Goro,Primalists are calling forth an air elemental in hopes to ravage all of Azeroth!
+7379,Primal Elements: Un'Goro,Primalists are calling forth an earth elemental in hopes to ravage all of Azeroth!
+7380,Primal Elements: Un'Goro,Primalists are calling forth a fire elemental in hopes to ravage all of Azeroth!
+7381,Primal Elements: Un'Goro,Primalists are calling forth a water elemental in hopes to ravage all of Azeroth!
+7382,Crafting Orders,Valdrakken
+7391,The Seat of the Aspects,"All five dragonflights join together here, in the heart of the Dragon Isles, to form the Valdrakken Accord."
+7392,Maruukai,"While the centaur clans can be found hunting all over the Dragon Isles, the Maruuk Centaur always return here, to their ancestral village."
+7393,Iskaara,"Most of the Iskaara Tuskarr make their home here, fishing and brewing soup in this village by the sea."
+7394,Obsidian Citadel and Dragonbane Keep,"Black dragons and vicious djaradin war over Obsidian Citadel, the ancient home of the black dragonflight."
+7396,T&W Trading Post,
+7397,Zen'shiri Trading Post,
+7407,The Storm's Fury,Primalists are assaulting the Temporal Conflux within the Primalist Future.
+7408,Froststone Vault Primal Storm,Primalists are channeling residual elemental energy. Stop them before they can revive the storm!
+7409,Froststone Vault Primal Storm,Primalists are channeling residual elemental energy. Stop them before they can revive the storm!
+7410,Froststone Vault Primal Storm,Primalists are channeling residual elemental energy. Stop them before they can revive the storm!
+7411,Froststone Vault Primal Storm,Primalists are channeling residual elemental energy. Stop them before they can revive the storm!
+7412,Dragonskull Island Fishing Hole,The Tuskarr have noted that fish are very active in this area.
+7413,Siege on Dragonbane Keep,"The siege is over, and the keep is controlled by the Obsidian Outcasts."
+7414,Zskera Vaults,A mysterious treasury unearthed by the Dragonscale Expedition.
+7415,Storm-Bound Chest,Face the Trial of Storms.
+7429,Fyrakk Assault,Fyrakk is setting fire to the Ohn'ahran Plains. Help is needed!
+7430,Stress Express,Doopurt is almost ready to move his cart!
+7431,Shellfire,A fire elemental is closing in on Olfor and Big Bessie!
+7432,Fyrakk Assault,Fyrakk is setting fire to the Azure Span. Help is needed!
+7433,Fyrakk Assault,Fyrakk's forces are gathering resources at Suffusion Camp: Frostburn. Disrupting them will lure Fyrakk and his disciples out.
+7434,Fyrakk Assault,Azure Span calls for aid! Fyrakk and his disciples are approaching Suffusion Camp: Frostburn.
+7435,Fyrakk Assault,"Fyrakk's disciple, Shadeisethal, is assaulting the Azure Span."
+7437,Ohn'ahran Plains,
+7438,Zaralek Cavern,
+7455,Great Vault,"Defeat bosses in Aberrus, the Shadowed Crucible, complete Mythic Keystone dungeons, and earn Honor in Rated PvP to unlock rewards in the Great Vault."
+7456,Crystalline Survey,The geological survey is about to begin!
+7457,Smelly Scramble,The Smellomancer is getting ready to make his smelliest brew yet!
+7458,Smellincense,Delvert is preparing his cooking wagon!
+7459,Researchers Under Fire: Titan Lockdown,The researchers will be starting an expedition to lift the Titan lockdown soon.
+7460,Researchers Under Fire: Zaqali Ruin Investigation,The researchers will be starting an expedition to investigate the Zaqali ruins soon.
+7461,Researchers Under Fire: Titan Lockdown,Rannan and his team are in the field. Assist them in lifting the titan mining camp lockdown.
+7462,Researchers Under Fire: Zaqali Ruin Investigation,Rannan and his team are in the field. Assist them in investigating the Zaqali ruins.
+7466,Ohn'ahran Plains,
+7467,Zaralek Cavern,
+7468,Azure Span,
+7469,Zaralek Cavern,
+7470,Luminous Luminaries,G.G. Engineering has discovered luminescent creatures in the depths of Vashj'ir and need your help.
+7471,Fyrakk Assault,Fyrakk's forces are gathering resources at Suffusion Camp: Cinderwind. Disrupting them will lure Fyrakk and his disciples out.
+7473,Fyrakk Assault,Ohn'ahran Plains calls for aid! Fyrakk and his disciples are approaching Suffusion Camp: Cinderwind.
+7474,Onyx Laboratory,
+7475,Onyx Laboratory,
+7476,Molten Crucible,
+7477,Molten Crucible,
+7478,Defiant Ramparts,
+7479,Defiant Ramparts,
+7480,Molten Crucible,
+7481,Molten Crucible,
+7482,Neltharion's Sanctum,
+7483,Molten Crucible,
+7484,Edge of Oblivion,
+7485,Neltharion's Sanctum,
+7486,Fyrakk Assault,"Fyrakk's disciple, Kretchenwrath, is assaulting the Ohn'ahran Plains."
+7487,Fyrakk Assault,"Kretchenwrath, Disciple of Fyrakk, is waging war on the locals. Help is needed!"
+7488,Fyrakk Assault,"Shadeisethal, Disciple of Fyrakk, is waging war on the locals. Help is needed!"
+7489,Loamm,"The central home of the Loamm Niffen kith, this town sees constant foot travel by the traders who frequent Azeroth's underground passageways."
+7491,"Aberrus, the Shadowed Crucible",
+7492,Time Rift,
+7494,Felwood Flyover,Join the Kalimdor Cup.
+7495,Winter Wander,Join the Kalimdor Cup.
+7496,Nordrassil Spiral,Join the Kalimdor Cup.
+7497,Hyjal Hotfoot,Join the Kalimdor Cup.
+7498,Rocketway Ride,Join the Kalimdor Cup.
+7499,Ashenvale Ambit,Join the Kalimdor Cup.
+7500,Durotar Tour,Join the Kalimdor Cup.
+7501,Webwinder Weave,Join the Kalimdor Cup.
+7502,Desolace Drift,Join the Kalimdor Cup.
+7503,Great Divide Dive,Join the Kalimdor Cup.
+7504,Razorfen Roundabout,Join the Kalimdor Cup.
+7505,Thousand Needles Thread,Join the Kalimdor Cup.
+7506,Feralas Ruins Ramble,Join the Kalimdor Cup.
+7507,Ahn'Qiraj Circuit,Join the Kalimdor Cup.
+7508,Uldum Tour,Join the Kalimdor Cup.
+7509,Un'Goro Crater Circuit,Join the Kalimdor Cup.
+7525,Dawn of the Infinite,Dungeon
+7526,Infinite Conflux,
+7527,Sanctum of Chronology,
+7528,Millenia's Threshold,
+7529,Locus of Eternity,
+7530,Sanctum of Chronology,
+7531,Millenia's Threshold,
+7532,Spoke of Endless Winter,
+7533,Locus of Eternity,
+7534,Immemorial Battlefield,
+7535,Immemorial Battlefield,
+7536,Twisting Approach,
+7537,Twisting Approach,
+7538,Locus of Eternity,
+7539,Millenia's Threshold,
+7540,Millenia's Threshold,
+7541,Locus of Eternity,
+7542,Spoke of Endless Winter,
+7543,Crossroads of Fate,
+7544,Secrets of Azeroth,The Secrets of Azeroth are being uncovered by a select few in the Roasted Ram inn.
+7545,"Ara-Kara, City of Echoes",
+7546,Nerub-ar Palace,Raid
+7548,City of Threads,
+7552,Great Vault,"Defeat bosses in Amirdrassil, complete Heroic or Mythic Dungeons, and earn Honor in Rated PvP to unlock rewards in the Great Vault."
+7553,Dreamsurge,Thaldraszus is experiencing the Dreamsurge.
+7554,Dreamsurge,The Azure Span is experiencing the Dreamsurge.
+7555,Dreamsurge,The Ohn'ahran Plains are experiencing the Dreamsurge.
+7556,Dreamsurge,The Waking Shores are experiencing the Dreamsurge.
+7571,Gilneas Gambit,Join the Eastern Kingdoms Cup.
+7572,Loch Modan Loop,Join the Eastern Kingdoms Cup.
+7573,Searing Slalom,Join the Eastern Kingdoms Cup.
+7574,Twilight Terror,Join the Eastern Kingdoms Cup.
+7575,Deadwind Derby,Join the Eastern Kingdoms Cup.
+7576,Elwynn Forest Flash,Join the Eastern Kingdoms Cup.
+7577,Gurubashi Gala,Join the Eastern Kingdoms Cup.
+7578,Ironforge Interceptor,Join the Eastern Kingdoms Cup.
+7579,Blasted Lands Bolt,Join the Eastern Kingdoms Cup.
+7580,Plaguelands Plunge,Join the Eastern Kingdoms Cup.
+7581,Booty Bay Blast,Join the Eastern Kingdoms Cup.
+7582,Fuselight Night Flight,Join the Eastern Kingdoms Cup.
+7583,Krazzworks Klash,Join the Eastern Kingdoms Cup.
+7584,Redridge Rally,Join the Eastern Kingdoms Cup.
+7585,,
+7586,,
+7587,,
+7588,,
+7589,Hellfire Hustle,Join the Outland Cup.
+7590,Coilfang Caper,Join the Outland Cup.
+7591,Blade's Edge Brawl,Join the Outland Cup.
+7592,Telaar Tear,Join the Outland Cup.
+7593,Razorthorn Rise Rush,Join the Outland Cup.
+7594,Auchindoun Coaster,Join the Outland Cup.
+7595,Tempest Keep Sweep,Join the Outland Cup.
+7596,Shattrath City Sashay,Join the Outland Cup.
+7597,Shadowmoon Slam,Join the Outland Cup.
+7598,Eco-Dome Excursion,Join the Outland Cup.
+7599,Warmaul Wingding,Join the Outland Cup.
+7600,Skettis Scramble,Join the Outland Cup.
+7601,Fel Pit Fracas,Join the Outland Cup.
+7602,Dreamsurge,Thaldraszus is experiencing the Dreamsurge.
+7603,Dreamsurge,The Waking Shores are experiencing the Dreamsurge.
+7604,Dreamsurge,The Ohn'ahran Plains are experiencing the Dreamsurge.
+7605,Dreamsurge,The Azure Span is experiencing the Dreamsurge.
+7614,Arcane Forge,Energy is building around the city as efforts are made to empower the Arcane Forge.
+7615,Radiant Echoes,Azeroth's memories are bubbling up in Dragonblight!
+7616,The Scorched Hall,
+7617,Verdant Terrace,
+7618,Throne of the Firelord,
+7619,The Blessed Boughs,
+7620,The Charred Arbor,
+7621,The Dream's Tapestry,
+7622,Wellspring Atrium,
+7623,Wellspring Atrium,
+7626,Wellspring Atrium,
+7628,Wellspring Atrium,
+7629,Wellspring Atrium,
+7630,Wellspring Atrium,
+7631,"Amirdrassil, the Dream's Hope",Raid
+7634,Superbloom,Help Sprucecrown bloom life around Amirdrassil!
+7635,Superbloom,Sprucecrown's journey to bloom life around Amirdrassil begins at the top of every hour!
+7636,Central Encampment,"Beneath the roots of Amirdrassil, the Dream Wardens gather to coordinate and protect the sacred world tree."
+7637,Radiant Echoes,Azeroth's memories are bubbling up in the Searing Gorge!
+7638,Heart of Amirdrassil,
+7639,Throne of the Firelord,
+7654,Theater Troupe: The Rivals,Now showing! Join the cast and crew and help with the play!
+7655,The Rookery,Dungeon
+7657,The Big Dig: Traitor's Rest,The Azerothian Archivists are working to uncover the secrets of Traitor's Rest!|n
+7658,Hammerfall,
+7659,Thoradin's Wall,
+7660,Clearfell's Patch,
+7661,Hatchet Ridge,
+7662,Ar'gorok,
+7663,Newstead,
+7664,Highlands Mill,
+7665,Labor's Rest,
+7666,Valorcall Pass,
+7667,Stromgarde Keep,
+7668,High Perch,
+7669,Northfold Crossing,
+7670,Drywhisker Mine,
+7671,Circle of Elements,
+7672,Contested Pass,
+7673,Marrow's Farm,
+7674,Galson's Lode,
+7675,Faldir's Cove,
+7676,Forsaken Wagon,
+7677,The Mangled Chord,
+7678,Refuge Pointe,
+7679,Circle of Outer Binding,
+7680,Dabyrie's Farmstead,
+7681,Go'shek Farm,
+7682,Boulderfist Hall,
+7683,Thandol Span,
+7684,Witherbark Village,
+7685,The Neglected Seat,
+7686,Circle of East Binding,
+7687,Drywhisker Gorge,
+7688,Circle of Inner Binding,
+7689,Scalawag Slither,Join the Northrend Cup.
+7690,Daggercap Dart,Join the Northrend Cup.
+7691,Blackriver Burble,Join the Northrend Cup.
+7692,Zul'Drak Zephyr,Join the Northrend Cup.
+7693,Makers' Marathon,Join the Northrend Cup.
+7694,Crystalsong Crisis,Join the Northrend Cup.
+7695,Dragonblight Dragon Flight,Join the Northrend Cup.
+7696,Citadel Sortie,Join the Northrend Cup.
+7697,Sholazar Spree,Join the Northrend Cup.
+7698,Geothermal Jaunt,Join the Northrend Cup.
+7699,Gundrak Fast Track,Join the Northrend Cup.
+7700,Coldarra Climb,Join the Northrend Cup.
+7718,Infinite Bazaar,
+7719,Infinite Bazaar,
+7720,Infinite Bazaar,
+7721,Infinite Bazaar,
+7722,Infinite Bazaar,
+7723,Infinite Bazaar,
+7724,Infinite Bazaar,
+7725,Aid the Klaxxi,Complete daily quests and exchange Lesser Charms of Good Fortune for bonus rewards.
+7726,Aid the Shado-Pan,Complete daily quests and exchange Lesser Charms of Good Fortune for bonus rewards.
+7727,Aid the Anglers,Complete daily quests and exchange Lesser Charms of Good Fortune for bonus rewards.
+7728,Aid the Order of the Cloud Serpent,Complete daily quests and exchange Lesser Charms of Good Fortune for bonus rewards.
+7729,Aid the Horde,Complete daily quests and exchange Lesser Charms of Good Fortune for bonus rewards.
+7730,Aid the Alliance,Complete daily quests and exchange Lesser Charms of Good Fortune for bonus rewards.
+7731,Aid the Sunreavers Onslaught,Complete daily quests and exchange Lesser Charms of Good Fortune for bonus rewards.
+7732,Aid the Kirin Tor Offensive,Complete daily quests and exchange Lesser Charms of Good Fortune for bonus rewards.
+7733,Aid the Golden Lotus,Complete daily quests and exchange Lesser Charms of Good Fortune for bonus rewards.
+7734,Aid the August Celestials,Complete daily quests and exchange Lesser Charms of Good Fortune for bonus rewards.
+7735,Aid the August Celestials,Complete daily quests and exchange Lesser Charms of Good Fortune for bonus rewards.
+7736,Aid the August Celestials,Complete daily quests and exchange Lesser Charms of Good Fortune for bonus rewards.
+7737,Aid the August Celestials,Complete daily quests and exchange Lesser Charms of Good Fortune for bonus rewards.
+7738,[PH] Timeless Frenzy,[PH] Time is surging! Earn bonus rewards by collecting Timeless Coins from creatures and treasures.
+7739,Great Vault,"Defeat bosses in Awakened Dragonflight raids, complete Heroic or Mythic Dungeons, and earn Honor in Rated PvP to unlock rewards in the Great Vault."
+7740,Ruby Lifeshrine Loop,Dragonriding Race
+7741,Flashfrost Flyover,Dragonriding Race
+7742,Wild Preserve Slalom,Dragonriding Race
+7743,Emberflow Flight,Dragonriding Race
+7744,Apex Canopy River Run,Dragonriding Race
+7745,Uktulut Coaster,Dragonriding Race
+7746,Wingrest Roundabout,Dragonriding Race
+7747,Wild Preserve Circuit,Dragonriding Race
+7748,Sundapple Copse Circuit,Dragonriding Race
+7749,Fen Flythrough,Dragonriding Race
+7750,Ravine River Run,Dragonriding Race
+7751,Emerald Gardens Ascent,Dragonriding Race
+7752,River Rapids Route,Dragonriding Race
+7753,Maruukai Dash,Dragonriding Race
+7754,Mirror of the Sky Dash,Dragonriding Race
+7755,Azure Span Sprint,Dragonriding Race
+7756,Azure Span Slalom,Dragonriding Race
+7757,Vakthros Ascent,Dragonriding Race
+7758,Iskaara Tour,Dragonriding Race
+7759,Frostland Flyover,Dragonriding Race
+7760,Archive Ambit,Dragonriding Race
+7761,Flowing Forest Flight,Dragonriding Race
+7762,Tyrhold Trial,Dragonriding Race
+7763,Cliffside Circuit,Dragonriding Race
+7764,Academy Ascent,Dragonriding Race
+7765,Garden Gallivant,Dragonriding Race
+7766,Caverns Criss-Cross,Dragonriding Race
+7767,Stormsunder Crater Circuit,Dragonriding Race
+7768,Morqut Ascent,Dragonriding Race
+7769,Aerie Chasm Cruise,Dragonriding Race
+7770,Southern Reach Route,Dragonriding Race
+7771,Caldera Coaster,Dragonriding Race
+7772,Forbidden Reach Rush,Dragonriding Race
+7773,Crystal Circuit,Dragonriding Race
+7774,Caldera Cruise,Dragonriding Race
+7775,Brimstone Scramble,Dragonriding Race
+7776,Shimmering Slalom,Dragonriding Race
+7777,Loamm Roamm,Dragonriding Race
+7778,Sulfur Sprint,Dragonriding Race
+7779,Fungal Folly,|cnGREEN_FONT_COLOR:Bountiful Delve
+7780,Mycomancer Cavern,|cnGREEN_FONT_COLOR:Bountiful Delve
+7781,Kriegval's Rest,|cnGREEN_FONT_COLOR:Bountiful Delve
+7782,The Waterworks,|cnGREEN_FONT_COLOR:Bountiful Delve
+7783,The Sinkhole,|cnGREEN_FONT_COLOR:Bountiful Delve
+7784,Tak-Rethan Abyss,|cnGREEN_FONT_COLOR:Bountiful Delve
+7785,Nightfall Sanctum,|cnGREEN_FONT_COLOR:Bountiful Delve
+7786,The Underkeep,|cnGREEN_FONT_COLOR:Bountiful Delve
+7787,Earthcrawl Mines,|cnGREEN_FONT_COLOR:Bountiful Delve
+7788,The Dread Pit,|cnGREEN_FONT_COLOR:Bountiful Delve
+7789,Skittering Breach,|cnGREEN_FONT_COLOR:Bountiful Delve
+7790,The Spiral Weave,|cnGREEN_FONT_COLOR:Bountiful Delve
+7791,Trading Post,
+7792,,
+7793,Dornogal Drift,Dragonriding Race
+7794,Storm's Watch Survey,Dragonriding Race
+7795,Basin Bypass,Dragonriding Race
+7796,The Wold Ways,Dragonriding Race
+7797,Thunderhead Trail,Dragonriding Race
+7798,Orecreg's Doglegs,Dragonriding Race
+7799,Earthenworks Weave,Dragonriding Race
+7800,Ringing Deeps Ramble,Dragonriding Race
+7801,Chittering Concourse,Dragonriding Race
+7802,Cataract River Cruise,Dragonriding Race
+7803,Taelloch Twist,Dragonriding Race
+7804,Opportunity Point Amble,Dragonriding Race
+7805,Dunelle's Detour,Dragonriding Race
+7806,Tenir's Traversal,Dragonriding Race
+7807,Light's Redoubt Descent,Dragonriding Race
+7808,Stillstone Slalom,Dragonriding Race
+7809,Mereldar Meander,Dragonriding Race
+7810,Velhan's Venture,Dragonriding Race
+7811,City of Threads Twist,Dragonriding Race
+7812,Maddening Deep Dip,Dragonriding Race
+7813,The Weaver's Wing,Dragonriding Race
+7814,Rak-Ahat Rush,Dragonriding Race
+7815,Pit Plunge,Dragonriding Race
+7816,Siegehold Scuttle,Dragonriding Race
+7818,Radiant Echoes,Azeroth's memories are bubbling up in the Dustwallow Marsh!
+7820,The Stonevault,
+7821,Darkflame Cleft,
+7823,Special Assignment: Cinderbee Surge,
+7824,Special Assignment: Titanic Resurgence,
+7825,Special Assignment: Shadows Below,
+7826,Special Assignment: When the Deeps Stir,
+7827,Special Assignment: Lynx Rescue,
+7828,Special Assignment: Rise of the Colossals,
+7829,Special Assignment: Bombs from Behind,
+7830,Special Assignment: A Pound of Cure,
+7831,Great Vault,"Defeat bosses in Nerub-ar Palace, complete Heroic or Mythic Dungeons, and complete delves or outdoor activities to unlock rewards in the Great Vault."
+7833,Worldsoul Memory: Descendants of Distant Waters,A painful memory of Azeroth's past. A violent battle once turned these tides red with blood.
+7834,Worldsoul Memory: Reign of the Old Gods,A painful memory of Azeroth's past. The maddening howls of the Old Gods' minions are difficult to forget.
+7835,Worldsoul Memory: Elemental Fury,A painful memory of Azeroth's past. Untamed elements once scarred this land.
+7836,Worldsoul Memory: Primal Predators,A painful memory of Azeroth's past. Bloodthirsty beasts once terrorized these caverns.
+7837,Worldsoul Memory: Ancient Explorers,A painful memory of Azeroth's past. Ruthless pirates once plundered these shores.
+7838,Worldsoul Memory: The Worldcarvers,A painful memory of Azeroth's past. The Titans' creations once carved these cliffs.
+7839,Worldsoul Memory: Old Gods Forsaken,A painful memory of Azeroth's past. The shrieks of a terrible battle still echo here.
+7840,Worldsoul Memory: A Wounded Soul,A painful memory of Azeroth's past. The wound rent by Sargeras' sword still aches and bleeds.
+7857,Cinderbrew Meadery,Dungeon
+7858,Priory of the Sacred Flame,Dungeon
+7859,Priory of the Sacred Flame,
+7860,Priory of the Sacred Flame,
+7861,The Transformatory,City of Threads -> The Transformatory
+7862,City of Threads,The Transformatory -> City of Threads
+7863,Earthcrawl Mines,Delve
+7864,Fungal Folly,Delve
+7865,Kriegval's Rest,Delve
+7866,The Waterworks,Delve
+7867,The Dread Pit,Delve
+7868,Nightfall Sanctum,Delve
+7869,Mycomancer Cavern,Delve
+7870,The Sinkhole,Delve
+7871,Skittering Breach,Delve
+7872,The Underkeep,Delve
+7873,Tak-Rethan Abyss,Delve
+7874,The Spiral Weave,Delve
+7875,Zekvir's Lair,Delve
+7876,Stormrider Barracks,
+7877,Storm's Roost,
+7878,Storm Rookery,
+7879,Stormrider Barracks,
+7880,The Rookery Landing,
+7881,Crashing Storm Hall,
+7882,Crashing Storm Hall,
+7883,Abandoned Mines,
+7884,Stormrider Barracks,
+7885,Crashing Storm Hall,
+7886,Special Assignment: Titanic Resurgence,
+7887,Special Assignment: Titanic Resurgence,
+7888,The Rookery Landing,
+7889,Storm Rookery,
+7890,Stormrider Barracks,
+7891,Storm's Roost,
+7892,The Dawnbreaker,Dungeon
+7893,Mereldar,The Arathi Capital in Hallowfall.
+7898,Dornogal,Earthen capital and fortress protecting the Coreway.
+7899,Theater Troupe: The Wanderer,Now showing! Join the cast and crew and help with the play!
+7900,Theater Troupe: Forget Me Not,Now showing! Join the cast and crew and help with the play!
+7901,Theater Troupe: The Cruelty of Dornic,Now showing! Join the cast and crew and help with the play!
+7902,Theater Troupe: The Thraegar's Descent,Now showing! Join the cast and crew and help with the play!
+7903,Ysera Invitational,Dragonriding Race
+7904,Smoldering Sprint,Dragonriding Race
+7905,Viridescent Venture,Dragonriding Race
+7906,Shoreline Switchback,Dragonriding Race
+7907,Canopy Concours,Dragonriding Race
+7908,Emerald Amble,Dragonriding Race
+7911,Gundargaz,The seat of Earthen industry and home of the Machine Speakers.
+7916,Crafting Orders,Dornogal Crafting Orders
+7940,The Weaver's Lair,Lair of the Severed Threads conspiracy.
+7941,Theater Troupe,The next play will be showing within five minutes!
+7943,Theater Troupe,"""The Wanderer"" will be showing at the top of the hour!"
+7944,"Boat to Stormglen Village, Gilneas",
+7945,"Boat to Belanaar, Bel'ameth",
+7946,The Narthex,
+7947,The Swaying Span,
+7948,Crown of Shadows,
+7949,Silken Court,
+7950,Upper Crown of Shadows,
+7951,Upper Crown of Shadows,
+7952,Crown of Shadows,
+7953,The Pulsing Pit,
+7954,Terrace of Majesty,
+7955,The Congealing Pool,
+7956,The Swaying Span,
+7958,Great Vault,|cff20ff20Rewards are now available. Return to the Great Vault to claim your reward.|r
+7959,Portal to Dalaran,
+7960,Portal to Dalaran,
+7961,Portal to Dalaran,
+7962,Wet Work: Death of a Salesman,Collect Perplexing Contraband in the High Hollows.
+7963,Wet Work: Tithe to Kill,Collect Sureki Tithes in the Umbral Bazaar and High Hollows.
+7964,Wet Work: Step Into Their Parlor,Collect Sureki Intelligence in the High Hollows.
+7965,Dropping Eaves: Spoils of War,Eavesdrop in the Umbral Bazaar.
+7966,Dropping Eaves: Thieving Weave,Eavesdrop in the Umbral Bazaar.
+7967,Dropping Eaves: Saving the Past,Eavesdrop in the High Hollows.
+7968,Information Control: The Right Side of History,Rewrite the Sureki Shadecaster in the Umbral Bazaar.
+7969,Information Control: Ansurek's Truth,Rewrite the Sureki Shadecaster in the Skeins.
+7970,Information Control: Ascended Intrigue,Rewrite the Sureki Shadecaster in the High Hollows.
+7971,Infiltration: Production Blocker,Retrieve manifests from the Mutagen Caches in the Transformatory.
+7972,Infiltration: Terror Made Manifest,Retrieve the Maddening Manifest from the Maddening Deep.
+7973,Infiltration: Hidden Figures,Retrieve Bundles of Coded Silks from Rak-Ahat.
+7974,Bounty: Balaxir the Bully,Execute the sureki loyalist known as Balaxir the Bully in the Burrows.
+7975,Bounty: Chitinous Goliath,Bring down the Chitinous Goliath in the Skeins.
+7976,Bounty: Zorikal the Patron,Assassinate Zorikal the Patron in the Sacrifice Pits.
+7977,Relics of War: Rak-Zakaz,Obtain Kaheti Warblades from Rak-Zakaz.
+7978,Relics of War: The Ruptured Lake,Retrieve Bloodied Insignias in around the Ruptured Lake.
+7979,Relics of War: The Salien Gutter Conflict,Collect Pristine Kobyss Spears around the Salien Gutters.
+7980,Armaments: Arbalests,Sabotage the Unattended Arbalests in the Burrows.
+7981,Armaments: Smithing Tools,Sabotage the Sureki Smithing Tools in the Silken Ward.
+7982,Armaments: Weaponry,Destroy the crates of Queensguard Weaponry in the Burrows.
+7983,Breaking the Phalanx: Threadblades,Slay Loyalist Threadblades in the Skeins and Umbral Bazaar.
+7984,Breaking the Phalanx: Schismatic Sages,Slay the Schismatic Sages in the Skeins.
+7985,Breaking the Phalanx: Royal Appointments,Slay Ansurek's Royal Apointees in the Skeins.
+7986,Wild Reagents: Twitching Gorge,Obtain Writhing Antennae from the Twitching Gorge.
+7987,Wild Reagents: Maddening Deep,Retrieve Fetid Slime Sacs from the Maddening Deep.
+7988,Wild Reagents: Salien Gutters,Retrieve Swollen Kobyss Eyes from the Salien Gutters.
+7989,Testing Formulae: Malodorous Philter,Test the Malodorous Philter in the Skeins.
+7990,Testing Formulae: Gelatinous Unguent,Test the Gelatinous Unguent in the High Hollows.
+7991,Testing Formulae: Roiling Elixir,Test the Roiling Elixir in the Umbral Bazaar.
+7992,Sabotage: Venomancers,Destroy Venomancy Flasks in the Skeins.
+7993,Sabotage: Alchemical Instruments,Destroy Alchemical Instruments in the Umbral Bazaar.
+7994,Sabotage: Transformatory Vessels,Destroy Black Blood Vessels in the Transformatory.
+7995,Requisitions: Brightblooms,Forage Luminescent Umbrashrooms from the Umbral Bazaar.
+7996,Requisitions: Fangpetals,Forage Fragrent Fangpetals from the Burrows.
+7997,Requisitions: Umbrashrooms,Forage Luminescent Umbrashrooms from the Umbral Bazaar.
+7998,Radiant Echoes,Azeroth's memories are bubbling up in Dragonblight!
+7999,Radiant Echoes,Azeroth's memories are bubbling up in the Searing Gorge!
+8000,Radiant Echoes,Azeroth's memories are bubbling up in the Dustwallow Marsh!
+8001,Portal to Azj-Kahet,
+8002,Portal to Dornogal,
+8003,Ringing Deeps,
+8004,Isle of Dorn,
+8005,Isle of Dorn,
+8006,Ringing Deeps,The Orecreg
+8007,Hallowfall,
+8008,Ringing Deeps,
+8009,Ringing Deeps,
+8010,Isle of Dorn,
+8016,Forgotten Memorial,Acolytes of Anub'azal show remembrance by challenging each other to duels in front of these Memorials.
+8017,Forgotten Memorial,Acolytes of Anub'azal show remembrance by challenging each other to duels in front of these Memorials.
+8018,Forgotten Memorial,Acolytes of Anub'azal show remembrance by challenging each other to duels in front of these Memorials.
+8019,Forgotten Memorial,Acolytes of Anub'azal show remembrance by challenging each other to duels in front of these Memorials.
+8020,Forgotten Memorial,Acolytes of Anub'azal show remembrance by challenging each other to duels in front of these Memorials.
+8021,Forgotten Memorial,Acolytes of Anub'azal show remembrance by challenging each other to duels in front of these Memorials.
+8022,Forgotten Memorial,Acolytes of Anub'azal show remembrance by challenging each other to duels in front of these Memorials.
+8023,Forgotten Memorial,Acolytes of Anub'azal show remembrance by challenging each other to duels in front of these Memorials.
+8024,Forgotten Memorial,Acolytes of Anub'azal show remembrance by challenging each other to duels in front of these Memorials.
+8025,Forgotten Memorial,Acolytes of Anub'azal show remembrance by challenging each other to duels in front of these Memorials.
+8026,Forgotten Memorial,Acolytes of Anub'azal show remembrance by challenging each other to duels in front of these Memorials.
+8027,Forgotten Memorial,Acolytes of Anub'azal show remembrance by challenging each other to duels in front of these Memorials.
+8028,Kaheti Excavation,Executor Nizrek seeks lost artifacts to reignite the keheti's passion for their culture.
+8029,Kaheti Excavation,Executor Nizrek seeks lost artifacts to reignite the keheti's passion for their culture.
+8030,Kaheti Excavation,Executor Nizrek seeks lost artifacts to reignite the keheti's passion for their culture.
+8031,Kaheti Excavation,Executor Nizrek seeks lost artifacts to reignite the keheti's passion for their culture.
+8032,Kaheti Excavation,Executor Nizrek seeks lost artifacts to reignite the keheti's passion for their culture.
+8033,Kaheti Excavation,Executor Nizrek seeks lost artifacts to reignite the keheti's passion for their culture.
+8034,Kaheti Excavation,Executor Nizrek seeks lost artifacts to reignite the keheti's passion for their culture.
+8035,Kaheti Excavation,Executor Nizrek seeks lost artifacts to reignite the keheti's passion for their culture.
+8036,Kaheti Excavation,Executor Nizrek seeks lost artifacts to reignite the keheti's passion for their culture.
+8037,Kaheti Excavation,Executor Nizrek seeks lost artifacts to reignite the keheti's passion for their culture.
+8038,Kaheti Excavation,Executor Nizrek seeks lost artifacts to reignite the keheti's passion for their culture.
+8039,Kaheti Excavation,Executor Nizrek seeks lost artifacts to reignite the keheti's passion for their culture.
+8040,Weave-Rat Cache,Widow Araknai's clever helpers have located parcels hidden away by sureki forces.
+8041,Weave-Rat Cache,Widow Araknai's clever helpers have located parcels hidden away by sureki forces.
+8042,Weave-Rat Cache,Widow Araknai's clever helpers have located parcels hidden away by sureki forces.
+8043,Weave-Rat Cache,Widow Araknai's clever helpers have located parcels hidden away by sureki forces.
+8044,Weave-Rat Cache,Widow Araknai's clever helpers have located parcels hidden away by sureki forces.
+8045,Weave-Rat Cache,Widow Araknai's clever helpers have located parcels hidden away by sureki forces.
+8046,Weave-Rat Cache,Widow Araknai's clever helpers have located parcels hidden away by sureki forces.
+8047,Weave-Rat Cache,Widow Araknai's clever helpers have located parcels hidden away by sureki forces.
+8048,Weave-Rat Cache,Widow Araknai's clever helpers have located parcels hidden away by sureki forces.
+8049,Weave-Rat Cache,Widow Araknai's clever helpers have located parcels hidden away by sureki forces.
+8051,Weave-Rat Cache,Widow Araknai's clever helpers have located parcels hidden away by sureki forces.
+8052,Weave-Rat Cache,Widow Araknai's clever helpers have located parcels hidden away by sureki forces.
+8053,Forging a Pact,Choose a member of the Severed Threads to form a Pact with.
+8056,The Undercache,
+8057,Echoing Overlook,
+8060,Radiant Echoes,Azeroth's memories are subdued. They will resurface in the Searing Gorge soon!
+8061,Radiant Echoes,Azeroth's memories are subdued. They will resurface in Dustwallow Marsh soon!
+8062,Radiant Echoes,Azeroth's memories are subdued. They will resurface in Dragonblight soon!
+8063,Awakening the Machine,Speaker Kuldas needs help with routine maintenance! Speak with him to help.
+8064,Spreading the Light,Help the Hallowfall Arathi reclaim some of their land from the darkness and relight the keyflames!
+8065,Respawn Location,
+8066,Respawn Location,
+8067,Respawn Location,
+8068,Respawn Location,
+8069,Respawn Location,
+8070,Respawn Location,
+8071,Respawn Location,
+8072,Respawn Location,
+8073,Respawn Location,
+8074,Respawn Location,
+8075,Respawn Location,
+8076,Theater Troupe,"""The Cruelty of Dornic"" will be showing at the top of the hour!"
+8077,Theater Troupe,"""The Rivals"" will be showing at the top of the hour!"
+8078,Theater Troupe,"""Forget Me Not"" will be showing at the top of the hour!"
+8079,Theater Troupe,"""The Thraegar's Descent"" will be showing at the top of the hour!"
+8080,Theater Troupe,The next play will be showing at the top of the hour!
+8082,Respawn Location,
+8083,Respawn Location,
+8084,Respawn Location,
+8085,Respawn Location,
+8086,Respawn Location,
+8087,Respawn Location,
+8088,Respawn Location,
+8089,Respawn Location,
+8090,Respawn Location,
+8091,Respawn Location,
+8092,Respawn Location,
+8093,Respawn Location,
+8094,Respawn Location,
+8095,Respawn Location,

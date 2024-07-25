@@ -1,0 +1,215 @@
+ID,Description_lang,SortedProperty_lang
+1,Weapons,iLvl
+2,One-Handed,iLvl
+3,One-Handed Axes,iLvl
+4,One-Handed Maces,iLvl
+5,One-Handed Swords,iLvl
+6,Warglaives,iLvl
+7,Daggers,iLvl
+8,Fist Weapons,iLvl
+9,Wands,iLvl
+10,Two-Handed,iLvl
+11,Two-Handed Axes,iLvl
+12,Two-Handed Maces,iLvl
+13,Two-Handed Swords,iLvl
+14,Polearms,iLvl
+15,Staves,iLvl
+16,Ranged,iLvl
+17,Bows,iLvl
+18,Crossbows,iLvl
+19,Guns,iLvl
+20,Thrown,iLvl
+21,Miscellaneous,iLvl
+22,Fishing Poles,iLvl
+23,Other,iLvl
+24,Armor,iLvl
+25,Plate,iLvl
+26,Runecarving,iLvl
+27,Head,iLvl
+28,Shoulder,iLvl
+29,Chest,iLvl
+30,Waist,iLvl
+31,Legs,iLvl
+32,Feet,iLvl
+33,Wrist,iLvl
+34,Hands,iLvl
+35,Mail,iLvl
+36,Runecarving,iLvl
+37,Head,iLvl
+38,Shoulder,iLvl
+39,Chest,iLvl
+40,Waist,iLvl
+41,Legs,iLvl
+42,Feet,iLvl
+43,Wrist,iLvl
+44,Hands,iLvl
+45,Leather,iLvl
+46,Runecarving,iLvl
+47,Head,iLvl
+48,Shoulder,iLvl
+49,Chest,iLvl
+50,Waist,iLvl
+51,Legs,iLvl
+52,Feet,iLvl
+53,Wrist,iLvl
+54,Hands,iLvl
+55,Cloth,iLvl
+56,Runecarving,iLvl
+57,Head,iLvl
+58,Shoulder,iLvl
+59,Chest,iLvl
+60,Waist,iLvl
+61,Legs,iLvl
+62,Feet,iLvl
+63,Wrist,iLvl
+64,Hands,iLvl
+65,Miscellaneous,iLvl
+66,Runecarving,iLvl
+67,Neck,iLvl
+68,Cloak,iLvl
+69,Finger,iLvl
+70,Trinket,iLvl
+71,Held In Off-hand,iLvl
+72,Shields,iLvl
+73,Shirt,iLvl
+74,Head,iLvl
+75,Cosmetic,iLvl
+76,Containers,Slots
+77,Bag,Slots
+78,Mining Bag,Slots
+79,Tackle Box,Slots
+80,Inscription Bag,Slots
+81,Leatherworking Bag,Slots
+82,Herb Bag,Slots
+83,Enchanting Bag,Slots
+84,Engineering Bag,Slots
+85,Gem Bag,Slots
+86,Cooking Bag,Slots
+87,Gems,iLvl
+88,Artifact Relic,iLvl
+89,Intellect,iLvl
+90,Agility,iLvl
+91,Strength,iLvl
+92,Stamina,iLvl
+93,Critical Strike,iLvl
+94,Mastery,iLvl
+95,Haste,iLvl
+96,Versatility,iLvl
+97,Other,iLvl
+98,Multiple Stats,iLvl
+99,Item Enhancements,iLvl
+100,Chest,iLvl
+101,Wrist,iLvl
+102,Hands,iLvl
+103,Misc,iLvl
+104,Head,iLvl
+105,Two-Handed Weapon,iLvl
+106,Shield/Off-hand,iLvl
+107,Shoulder,iLvl
+108,Cloak,iLvl
+109,Weapon,iLvl
+110,Finger,iLvl
+111,Feet,iLvl
+112,Legs,iLvl
+113,Waist,iLvl
+114,Consumables,Level
+115,Vantus Runes,Level
+116,Flasks & Phials,Level
+117,Explosives and Devices,Level
+118,Potions,Level
+119,Elixirs,Level
+120,Food & Drink,Level
+121,Bandages,Level
+122,Other,Level
+123,Glyphs,
+124,Druid,
+125,Warlock,
+126,Mage,
+127,Shaman,
+128,Priest,
+129,Rogue,
+130,Hunter,
+131,Paladin,
+132,Death Knight,
+133,Monk,
+134,Warrior,
+135,Demon Hunter,
+136,Trade Goods,
+137,Cloth,
+138,Leather,
+139,Metal & Stone,
+140,Cooking,
+141,Herb,
+142,Enchanting,
+143,Inscription,
+144,Jewelcrafting,
+145,Parts,
+146,Elemental,
+147,Optional Reagents,
+148,Other,
+149,Recipes,Skill
+150,Inscription,Skill
+151,Tailoring,Skill
+152,Leatherworking,Skill
+153,Jewelcrafting,Skill
+154,Alchemy,Skill
+155,Blacksmithing,Skill
+156,Engineering,Skill
+157,Enchanting,Skill
+158,Cooking,Skill
+159,First Aid,Skill
+160,Fishing,Skill
+161,Book,Skill
+162,Battle Pets,Level
+163,Companion Pets,Level
+164,Quest Items,
+165,Miscellaneous,
+166,Junk,
+167,Reagent,
+168,Holiday,
+169,Other,
+170,Mount,
+171,Mount Equipment,
+172,Profession Equipment,iLvl
+173,Inscription,iLvl
+174,Tailoring,iLvl
+175,Leatherworking,iLvl
+176,Jewelcrafting,iLvl
+177,Alchemy,iLvl
+178,Blacksmithing,iLvl
+179,Engineering,iLvl
+180,Enchanting,iLvl
+181,Cooking,iLvl
+182,Fishing,iLvl
+183,Tools,iLvl
+184,Accessories,iLvl
+185,Tools,iLvl
+186,Accessories,iLvl
+187,Accessories,iLvl
+188,Tools,iLvl
+189,Tools,iLvl
+190,Accessories,iLvl
+191,Tools,iLvl
+192,Accessories,iLvl
+193,Tools,iLvl
+194,Accessories,iLvl
+195,Tools,iLvl
+196,Accessories,iLvl
+197,Tools,iLvl
+198,Accessories,iLvl
+199,Tools,iLvl
+200,Accessories,iLvl
+201,Tools,iLvl
+202,Accessories,iLvl
+203,Mining,iLvl
+204,Herbalism,iLvl
+205,Skinning,iLvl
+206,Accessories,iLvl
+207,Tools,iLvl
+208,Accessories,iLvl
+209,Tools,iLvl
+210,Accessories,iLvl
+211,Tools,iLvl
+212,Neck,iLvl
+215,Reagent Bag,Slots
+217,Finishing Reagents,

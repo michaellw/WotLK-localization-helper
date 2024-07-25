@@ -1,0 +1,707 @@
+ID,Reaction_lang
+1,Stranger
+2,Acquaintance
+3,Buddy
+4,Friend
+5,Good Friend
+6,Best Friend
+59,Stranger
+60,Acquaintance
+61,Buddy
+62,Friend
+63,Good Friend
+64,Best Friend
+65,Stranger
+66,Acquaintance
+67,Buddy
+68,Friend
+69,Good Friend
+70,Best Friend
+71,Stranger
+72,Acquaintance
+73,Buddy
+74,Friend
+75,Good Friend
+76,Best Friend
+77,Stranger
+78,Acquaintance
+79,Buddy
+80,Friend
+81,Good Friend
+82,Best Friend
+83,Stranger
+84,Acquaintance
+85,Buddy
+86,Friend
+87,Good Friend
+88,Best Friend
+89,Stranger
+90,Acquaintance
+91,Buddy
+92,Friend
+93,Good Friend
+94,Best Friend
+95,Stranger
+96,Acquaintance
+97,Buddy
+98,Friend
+99,Good Friend
+100,Best Friend
+101,Stranger
+102,Acquaintance
+103,Buddy
+104,Friend
+105,Good Friend
+106,Best Friend
+107,Stranger
+108,Acquaintance
+109,Buddy
+110,Friend
+111,Good Friend
+112,Best Friend
+113,Apprentice
+114,Apprentice
+115,Journeyman
+116,Journeyman
+117,Journeyman
+118,Expert
+119,Stranger
+120,Pal
+121,Buddy
+122,Friend
+123,Best Friend
+124,Good Friend
+127,Rank 1
+128,Rank 2
+129,Rank 3
+130,Rank 4
+131,Rank 5
+132,Rank 6
+133,Rank 7
+192,Rank 1
+193,Rank 2
+194,Rank 3
+195,Rank 4
+196,Rank 5
+197,Rank 6
+198,Rank 7
+271,Max Rank
+272,Max Rank
+288,Not Supplied
+289,Supplied
+416,Bodyguard
+417,Trusted Bodyguard
+418,Personal Wingman
+422,Bodyguard
+423,Trusted Bodyguard
+424,Personal Wingman
+425,Bodyguard
+426,Trusted Bodyguard
+427,Personal Wingman
+428,Bodyguard
+429,Trusted Bodyguard
+430,Personal Wingman
+431,Bodyguard
+432,Trusted Bodyguard
+433,Personal Wingman
+434,Bodyguard
+435,Trusted Bodyguard
+436,Personal Wingman
+437,Bodyguard
+438,Trusted Bodyguard
+439,Personal Wingman
+443,Rank 1
+444,Rank 2
+445,Rank 3
+446,Rank 4
+447,Rank 5
+448,Rank 6
+449,Rank 7
+450,Rank 8
+451,Rank 1
+452,Rank 2
+453,Rank 3
+454,Rank 4
+455,Rank 5
+456,Rank 6
+457,Rank 7
+458,Rank 8
+466,Withering
+467,Stable
+471,Withering
+472,Stable
+473,Empowered
+476,Withering
+477,Sated
+481,Rank 9
+482,Max Rank
+483,Rank 9
+484,Max Rank
+485,State 0 - Follower
+486,State 2 - Chapter 2
+487,State 1 - Chapter 1
+488,State 3 - Chapter 3
+489,Withering
+490,Stable
+520,Stranger
+521,Pal
+522,Buddy
+523,Friend
+524,Good Friend
+525,Best Friend
+530,Intern
+531,Junior Resident
+532,Senior Resident
+533,First Responder
+534,Sated
+535,Sated
+536,Stable
+543,Bodyguard
+544,Trusted Bodyguard
+545,Personal Wingman
+546,Stranger
+547,Pal
+548,Buddy
+550,Friend
+551,Good Friend
+552,Stranger
+553,Pal
+554,Buddy
+555,Good Friend
+556,Best Friend
+562,Stranger
+563,Pal
+564,Buddy
+565,Good Friend
+566,Best Friend
+572,Stranger
+573,Pal
+574,Buddy
+575,Good Friend
+576,Best Friend
+582,Stranger
+583,Pal
+584,Buddy
+585,Good Friend
+586,Best Friend
+592,Stranger
+593,Curiosity
+594,Non-Threat
+595,Helpful Friend
+596,Best Friend
+597,Best Friend
+598,Friend
+599,Friend
+600,Friend
+601,Friend
+602,Friend
+603,Whelpling
+604,Temporal Trainee
+605,Timehopper
+606,Chrono-Friend
+607,Bronze Ally
+608,Epoch-Mender
+609,Timelord
+611,Rank 1
+612,Rank 2
+613,Rank 3
+614,Rank 4
+615,Rank 5
+616,Rank 6
+617,Rank 7
+618,Rank 8
+619,Rank 9
+620,Max Rank
+631,Rank 1
+632,Rank 2
+633,Rank 3
+634,Rank 4
+635,Rank 5
+636,Rank 6
+637,Rank 7
+638,Rank 8
+639,Rank 9
+640,Max Rank
+641,Hatchling
+642,Juvenile
+643,Sub-Adult
+644,Adult
+746,Hatchling
+750,Rank 1
+751,Rank 2
+752,Rank 3
+753,Rank 4
+754,Rank 1
+755,Rank 2
+756,Rank 3
+757,Rank 4
+758,Rank 1
+760,Rank 3
+761,Rank 4
+766,Rank 1
+767,Rank 2
+768,Rank 3
+769,Rank 4
+774,Rank 5
+775,Rank 6
+776,Rank 7
+777,Rank 8
+778,Rank 9
+779,Rank 10
+780,Rank 11
+781,Rank 12
+782,Rank 13
+783,Rank 14
+784,Rank 15
+785,Rank 16
+786,Rank 17
+787,Rank 18
+788,Rank 19
+789,Rank 20
+790,Rank 21
+791,Rank 22
+792,Rank 23
+793,Rank 24
+794,Rank 25
+795,Rank 26
+796,Rank 27
+797,Rank 28
+798,Rank 29
+799,Rank 30
+821,Juvenile
+822,Maturity
+823,Rank 5
+824,Rank 6
+825,Rank 7
+826,Rank 8
+827,Rank 9
+828,Rank 10
+829,Rank 11
+830,Rank 12
+831,Rank 13
+832,Rank 14
+833,Rank 15
+834,Rank 16
+835,Rank 17
+836,Rank 18
+837,Rank 19
+838,Rank 20
+839,Rank 21
+840,Rank 22
+841,Rank 23
+842,Rank 24
+843,Rank 25
+844,Rank 26
+845,Rank 27
+846,Rank 28
+847,Rank 29
+848,Rank 30
+879,Rank 1
+880,Rank 2
+881,Rank 3
+882,Rank 4
+883,Rank 5
+884,Rank 6
+885,Rank 7
+886,Rank 8
+887,Rank 9
+888,Rank 10
+889,Rank 11
+890,Rank 12
+891,Rank 13
+892,Rank 14
+893,Rank 15
+894,Rank 16
+895,Rank 17
+896,Rank 18
+897,Rank 19
+898,Rank 20
+899,Rank 21
+900,Rank 22
+901,Rank 23
+902,Rank 24
+903,Rank 25
+904,Rank 26
+905,Rank 27
+906,Rank 28
+907,Rank 29
+908,Rank 30
+909,Rank 1
+910,Rank 2
+911,Rank 3
+912,Rank 4
+913,Rank 5
+914,Rank 6
+915,Rank 7
+916,Rank 8
+917,Rank 9
+918,Rank 10
+919,Rank 11
+920,Rank 12
+921,Rank 13
+922,Rank 14
+923,Rank 15
+924,Rank 16
+925,Rank 17
+926,Rank 18
+927,Rank 19
+928,Rank 20
+929,Rank 21
+930,Rank 22
+931,Rank 23
+932,Rank 24
+933,Rank 25
+934,Rank 26
+935,Rank 27
+936,Rank 28
+937,Rank 29
+938,Rank 30
+939,Rank 5
+940,Rank 6
+941,Rank 7
+942,Rank 8
+943,Rank 9
+944,Rank 10
+945,Rank 11
+946,Rank 12
+947,Rank 13
+948,Rank 14
+949,Rank 15
+950,Rank 16
+951,Rank 17
+952,Rank 18
+953,Rank 19
+954,Rank 20
+955,Rank 21
+956,Rank 22
+957,Rank 23
+958,Rank 24
+959,Rank 25
+960,Rank 26
+961,Rank 27
+962,Rank 28
+963,Rank 29
+964,Rank 30
+965,Rank 5
+966,Rank 6
+967,Rank 7
+968,Rank 8
+969,Rank 9
+970,Rank 10
+971,Rank 11
+972,Rank 12
+973,Rank 13
+974,Rank 14
+975,Rank 15
+976,Rank 16
+977,Rank 17
+978,Rank 18
+979,Rank 19
+980,Rank 20
+981,Rank 21
+982,Rank 22
+983,Rank 23
+984,Rank 24
+985,Rank 25
+986,Rank 26
+987,Rank 27
+988,Rank 28
+989,Rank 29
+990,Rank 30
+991,Nascent
+992,Juvenile
+993,Nascent
+994,Juvenile
+995,Nascent
+996,Juvenile
+999,Rank 1
+1000,Rank 2
+1001,Rank 3
+1002,Rank 4
+1003,Rank 5
+1004,Rank 6
+1005,Rank 7
+1006,Rank 8
+1007,Rank 9
+1008,Max Rank
+1009,Rank 1
+1010,Rank 2
+1011,Rank 3
+1012,Rank 4
+1013,Rank 5
+1014,Rank 6
+1015,Rank 7
+1016,Rank 8
+1017,Rank 9
+1018,Max Rank
+1020,Mature
+1021,Mature
+1022,Mature
+1024,Rank 2
+1088,Hatching...
+1089,Larva
+1090,Hatchling
+1091,Adult
+1092,Tentative
+1100,Dubious
+1101,Apprehensive
+1102,Ambivalent
+1103,Cordial
+1107,Appreciative
+1108,Stranger
+1109,Acquaintance
+1110,Buddy
+1111,Friend
+1112,Good Friend
+1113,Best Friend
+1114,Stranger
+1115,Acquaintance
+1116,Buddy
+1117,Friend
+1118,Good Friend
+1119,Best Friend
+1126,Stranger
+1127,Acquaintance
+1128,Buddy
+1129,Friend
+1130,Good Friend
+1131,Best Friend
+1132,Stranger
+1133,Acquaintance
+1134,Buddy
+1135,Friend
+1136,Good Friend
+1137,Best Friend
+1138,Stranger
+1139,Acquaintance
+1140,Buddy
+1141,Friend
+1142,Good Friend
+1143,Best Friend
+1144,Stranger
+1145,Acquaintance
+1146,Buddy
+1147,Friend
+1148,Good Friend
+1149,Best Friend
+1156,Stranger
+1157,Acquaintance
+1158,Buddy
+1159,Friend
+1160,Good Friend
+1161,Best Friend
+1162,Stranger
+1163,Acquaintance
+1164,Buddy
+1165,Friend
+1166,Good Friend
+1167,Best Friend
+1168,Stranger
+1169,Acquaintance
+1170,Buddy
+1171,Friend
+1172,Good Friend
+1173,Best Friend
+1180,Stranger
+1181,Acquaintance
+1182,Buddy
+1183,Friend
+1184,Good Friend
+1185,Best Friend
+1192,Stranger
+1193,Acquaintance
+1194,Buddy
+1195,Friend
+1196,Good Friend
+1197,Best Friend
+1198,Stranger
+1199,Acquaintance
+1200,Buddy
+1201,Friend
+1202,Good Friend
+1203,Best Friend
+1204,Stranger
+1205,Acquaintance
+1206,Buddy
+1207,Friend
+1208,Good Friend
+1209,Best Friend
+1210,Stranger
+1211,Acquaintance
+1212,Buddy
+1213,Friend
+1214,Good Friend
+1215,Best Friend
+1216,Stranger
+1217,Acquaintance
+1218,Buddy
+1219,Friend
+1220,Good Friend
+1221,Best Friend
+1228,Stranger
+1229,Acquaintance
+1230,Buddy
+1231,Friend
+1232,Good Friend
+1233,Best Friend
+1240,Neutral
+1241,Friendly
+1242,Honored
+1243,Revered
+1244,Exalted
+1245,Neutral
+1246,Friendly
+1247,Honored
+1248,Revered
+1249,Exalted
+1250,Neutral
+1251,Friendly
+1252,Honored
+1253,Revered
+1254,Exalted
+1255,Zero
+1256,One
+1257,Two
+1258,Three
+1259,Four
+1260,Five
+1261,Six
+1262,Seven
+1263,Eight
+1264,Nine
+1265,Ten
+1266,Eleven
+1267,Twelve
+1268,Thirteen
+1269,Fourteen
+1270,Fifteen
+1271,Tier 1
+1272,Tier 2
+1273,Tier 3
+1274,Tier 4
+1275,Tier 5
+1276,Tier 6
+1294,Cohort
+1295,Ally
+1296,Fang
+1297,Friend
+1298,True Friend
+1300,Cohort
+1301,Ally
+1302,Fang
+1303,Friend
+1304,True Friend
+1305,Neutral
+1306,Preferred
+1307,Respected
+1308,Valued
+1309,Esteemed
+1316,Low
+1317,Medium
+1318,High
+1319,Maximum
+1322,Empty
+1325,Acquaintance
+1328,Acquaintance
+1344,Aspirational
+1345,Amateur
+1346,Competent
+1347,Skilled
+1348,Professional
+1359,Anomaly
+1360,Future Friend
+1361,Rift-Mender
+1362,Timewalker
+1363,Legend
+1364,Level 1
+1392,Stranger
+1393,Acquaintance
+1394,Crony
+1395,Accomplice
+1396,Collaborator
+1397,Stranger
+1398,Acquaintance
+1399,Crony
+1400,Accomplice
+1401,Collaborator
+1402,Stranger
+1403,Acquaintance
+1404,Crony
+1405,Accomplice
+1406,Collaborator
+1407,Graduate
+1408,Assistant
+1409,Contract
+1410,Resident
+1411,Tenured
+1794,Level 2
+1795,Level 3
+1796,Level 4
+1797,Level 5
+1798,Level 6
+1801,Level 7
+1802,Level 8
+1803,Level 9
+1804,Level 10
+1805,Level 11
+1806,Level 12
+1807,Level 13
+1808,Level 14
+1809,Level 15
+1810,Level 16
+1811,Level 17
+1812,Level 18
+1813,Level 19
+1814,Level 20
+1815,Level 21
+1816,Level 22
+1817,Level 23
+1818,Level 24
+1819,Level 25
+1820,Level 26
+1821,Level 27
+1822,Level 28
+1823,Level 29
+1824,Level 30
+1825,Level 31
+1826,Level 32
+1827,Level 33
+1828,Level 34
+1829,Level 35
+1830,Level 36
+1831,Level 37
+1832,Level 38
+1833,Level 39
+1834,Level 40
+1835,Level 41
+1836,Level 42
+1837,Level 43
+1838,Level 44
+1839,Level 45
+1840,Level 46
+1841,Level 47
+1842,Level 48
+1843,Level 49
+1844,Level 50
+1845,Accessory
+1846,Abettor
+1847,Conspirator
+1848,Mastermind
+1849,Accessory
+1850,Abettor
+1851,Conspirator
+1852,Mastermind
+1853,Accessory
+1854,Abettor
+1855,Conspirator
+1856,Mastermind
+1857,Level 51
+1858,Level 52
+1859,Level 53
+1860,Level 54
+1861,Level 55
+1862,Level 56
+1863,Level 57
+1864,Level 58
+1865,Level 59
+1866,Level 60

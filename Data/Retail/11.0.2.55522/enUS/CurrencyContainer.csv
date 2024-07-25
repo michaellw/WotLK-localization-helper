@@ -1,0 +1,125 @@
+ID,ContainerName_lang,ContainerDescription_lang
+12,Tiny Azerite Splinter,Grants %d |4Artifact Power:Artifact Power; to your Heart of Azeroth.
+13,Small Azerite Fragment,Grants %d |4Artifact Power:Artifact Power; to your Heart of Azeroth.
+14,Small Azerite Shard,Grants %d |4Artifact Power:Artifact Power; to your Heart of Azeroth.
+15,Small Azerite Cluster,Grants %d |4Artifact Power:Artifact Power; to your Heart of Azeroth.
+16,Glowing Azerite Crystal,Grants %d |4Artifact Power:Artifact Power; to your Heart of Azeroth.
+17,Glowing Azerite,Grants %d |4Artifact Power:Artifact Power; to your Heart of Azeroth.
+18,Glowing Azerite Geode,Grants %d |4Artifact Power:Artifact Power; to your Heart of Azeroth.
+19,Radiant Azerite Fragment,Grants %d |4Artifact Power:Artifact Power; to your Heart of Azeroth.
+20,Radiant Azerite Core,Grants %d |4Artifact Power:Artifact Power; to your Heart of Azeroth.
+21,Radiant Azerite Matrix,Grants %d |4Artifact Power:Artifact Power; to your Heart of Azeroth.
+31,Humming Azerite Heart,Grants %d |4Artifact Power:Artifact Power; to your Heart of Azeroth.
+132,7th Legion Commendation,Awards %d reputation with the 7th Legion.
+133,Champions of Azeroth Commendation,Awards %d reputation with the Champions of Azeroth.
+134,Honorbound Commendation,Awards %d reputation with the Honorbound.
+135,Order of Embers Commendation,Awards %d reputation with the Order of Embers.
+136,Proudmoore Admiralty Commendation,Awards %d reputation with the Proudmoore Admiralty.
+137,Storm's Wake Commendation,Awards %d reputation with Storm's Wake.
+138,Tortollan Seekers Commendation,Awards %d reputation with the Tortollan Seekers.
+139,Zandalari Empire Commendation,Awards %d reputation with the Zandalari Empire.
+140,Talanji's Expedition Commendation,Awards %d reputation with Talanji's Expedition.
+141,Voldunai Commendation,Awards %d reputation with the Voldunai.
+142,7th Legion Commendation,Awards %d reputation with the 7th Legion.
+143,Champions of Azeroth Commendation,Awards %d reputation with the Champions of Azeroth.
+144,Honorbound Commendation,Awards %d reputation with the Honorbound.
+145,Order of Embers Commendation,Awards %d reputation with the Order of Embers.
+146,Order of Embers Commendation,Awards %d reputation with the Order of Embers.
+147,Proudmoore Admiralty Commendation,Awards %d reputation with the Proudmoore Admiralty.
+148,Storm's Wake Commendation,Awards %d reputation with Storm's Wake.
+149,Tortollan Seekers Commendation,Awards %d reputation with the Tortollan Seekers.
+150,Zandalari Empire Commendation,Awards %d reputation with the Zandalari Empire.
+151,Talanji's Expedition Commendation,Awards %d reputation with Talanji's Expedition.
+152,Voldunai Commendation,Awards %d reputation with the Voldunai.
+155,Ascended Commendation,Awards %d reputation with the Ascended.
+156,Undying Army Commendation,Awards %d reputation with the Undying Army.
+157,Wild Hunt Commendation,Awards %d reputation with the Wild Hunt.
+158,Court of Harvesters Commendation,Awards %d reputation with the Court of Harvesters.
+159,Emblem of Renown,Increases your Renown with your Covenant by %d.
+160,Ember Court Prestige,Increases the reputation of The Ember Court by %d.
+161,The Countess' Perfumed Thank You Letter,Increases your friendship with The Countess by %d.
+162,Rendle's Hastily Scrawled Thank You Note,Increases your friendship with Rendle and Cudgelface by %d.
+163,Parchment with a Large Thumbprint of Approval,Increases your friendship with Stonehead by %d.
+164,Kassir's 10 Theses on Party Enjoyment,Increases your friendship with Cryptkeeper Kassir by %d.
+165,The Baroness Vashj's Official Thank You Card,Increases your friendship with Baroness Vashj by %d.
+166,Mograine's Tactful and Succinct Thank You,Increases your friendship with Alexandros Mograine by %d.
+167,Thank You Note on the Back of a Bet Ticket,Increases your friendship with Grandmaster Vole by %d.
+168,Slime Soaked Thank You Note,Increases your friendship with Plague Deviser Marileth by %d.
+169,A Gushing Thank You on Formal Parchment,Increases your friendship with Sika by %d.
+170,Pelegos' Thoughtful Thank You Note,Increases your friendship with Kleia and Pelegos by %d.
+171,A Stiff and Formal Thank You,Increases your friendship with Polemarch Adrestes by %d.
+172,A Thank You Scribbled on the back of a Half Finished Blueprint,Increases your friendship with Mikanikos by %d.
+173,Choofa's Glowing Acorn,Increases your friendship with Choofa by %d.
+174,Claw Carved Thank You,Increases your friendship with Droman Aliothe by %d.
+175,A Thank You Dispatch from the Hunt-Captain,Increases your friendship with Hunt-Captain Korayn by %d.
+176,An Enchanted Thank You Note,Increases your friendship with Lady Moonberry by %d.
+182,Bonus Experience,Provides a significant increase to player experience.
+183,Stitchmasters' Commendation,Awards %d reputation with the Stitchmasters.
+184,Sinstone Research,Increases your reputation with the Avowed by %d.
+185,Maw Survivalist's Token,Increases your reputation with Ve'nari by %d.
+186,Death's Advance Commendation,Awards %d reputation with the Death's Advance.
+188,Archivists' Codex Volume,Increases your progress on the Archivists' Codex by %d.
+189,Commendation of the Enlightened,Awards %d reputation with The Enlightened.
+190,Dragon Isles Supply Cache,Contains %d valuable supplies used in trade with the factions of the Dragon Isles.
+191,Iskaara Tuskarr Commendation,Awards %d reputation with the Iskaara Tuskarr.
+192,Dragonscale Expedition Commendation,Awards %d reputation with the Dragonscale Expedition.
+193,Valdrakken Accord Commendation,Awards %d reputation with the Valdrakken Accord.
+194,Maruuk Centaur Commendation,Awards %d reputation with the Maruuk Centaur.
+195,Cobalt Assembly Major Arcana,Awards %d reputation with the Cobalt Assembly.
+196,Cobalt Assembly Moderate Arcana,Awards %d reputation with the Cobalt Assembly.
+197,Cobalt Assembly Minor Arcana,Awards %d reputation with the Cobalt Assembly.
+198,Loamm Niffen Commendation,Awards %d reputation with the Loamm Niffen.
+199,Soridormi Commendation,Awards %d reputation with Soridormi.
+201,1 Whelpling's Dreaming Crest,"Earned from many outdoor activities, Raid Finder Amirdrassil, and Mythic Keystone dungeons up to +5 during Dragonflight Season 3."
+202,2 Whelpling's Dreaming Crests,"Earned from many outdoor activities, Raid Finder Amirdrassil, and Mythic Keystone dungeons up to +5 during Dragonflight Season 3."
+203,3 Whelpling's Dreaming Crests,"Earned from many outdoor activities, Raid Finder Amirdrassil, and Mythic Keystone dungeons up to +5 during Dragonflight Season 3."
+204,4 Whelpling's Dreaming Crests,"Earned from many outdoor activities, Raid Finder Amirdrassil, and Mythic Keystone dungeons up to +5 during Dragonflight Season 3."
+205,5 Whelpling's Dreaming Crests,"Earned from many outdoor activities, Raid Finder Amirdrassil, and Mythic Keystone dungeons up to +5 during Dragonflight Season 3."
+206,6 Whelpling's Dreaming Crests,"Earned from many outdoor activities, Raid Finder Amirdrassil, and Mythic Keystone dungeons up to +5 during Dragonflight Season 3."
+207,7 Whelpling's Dreaming Crests,"Earned from many outdoor activities, Raid Finder Amirdrassil, and Mythic Keystone dungeons up to +5 during Dragonflight Season 3."
+208,8 Whelpling's Dreaming Crests,"Earned from many outdoor activities, Raid Finder Amirdrassil, and Mythic Keystone dungeons up to +5 during Dragonflight Season 3."
+209,9 Whelpling's Dreaming Crests,"Earned from many outdoor activities, Raid Finder Amirdrassil, and Mythic Keystone dungeons up to +5 during Dragonflight Season 3."
+210,10 Whelpling's Dreaming Crests,"Earned from many outdoor activities, Raid Finder Amirdrassil, and Mythic Keystone dungeons up to +5 during Dragonflight Season 3."
+211,11 Whelpling's Dreaming Crests,"Earned from many outdoor activities, Raid Finder Amirdrassil, and Mythic Keystone dungeons up to +5 during Dragonflight Season 3."
+212,12 Whelpling's Dreaming Crests,"Earned from many outdoor activities, Raid Finder Amirdrassil, and Mythic Keystone dungeons up to +5 during Dragonflight Season 3."
+213,13 Whelpling's Dreaming Crests,"Earned from many outdoor activities, Raid Finder Amirdrassil, and Mythic Keystone dungeons up to +5 during Dragonflight Season 3."
+214,14 Whelpling's Dreaming Crests,"Earned from many outdoor activities, Raid Finder Amirdrassil, and Mythic Keystone dungeons up to +5 during Dragonflight Season 3."
+215,15 Whelpling's Dreaming Crests,"Earned from many outdoor activities, Raid Finder Amirdrassil, and Mythic Keystone dungeons up to +5 during Dragonflight Season 3."
+216,16 Whelpling's Dreaming Crests,"Earned from many outdoor activities, Raid Finder Amirdrassil, and Mythic Keystone dungeons up to +5 during Dragonflight Season 3."
+217,17 Whelpling's Dreaming Crests,"Earned from many outdoor activities, Raid Finder Amirdrassil, and Mythic Keystone dungeons up to +5 during Dragonflight Season 3."
+218,18 Whelpling's Dreaming Crests,"Earned from many outdoor activities, Raid Finder Amirdrassil, and Mythic Keystone dungeons up to +5 during Dragonflight Season 3."
+219,19 Whelpling's Dreaming Crests,"Earned from many outdoor activities, Raid Finder Amirdrassil, and Mythic Keystone dungeons up to +5 during Dragonflight Season 3."
+220,20 Whelpling's Dreaming Crests,"Earned from many outdoor activities, Raid Finder Amirdrassil, and Mythic Keystone dungeons up to +5 during Dragonflight Season 3."
+221,1 Drake's Dreaming Crest,"Earned from some outdoor activities, Normal difficulty Amirdrassil, and Mythic Keystone dungeons from +6 to +10 during Dragonflight Season 3."
+222,2 Drake's Dreaming Crests,"Earned from some outdoor activities, Normal difficulty Amirdrassil, and Mythic Keystone dungeons from +6 to +10 during Dragonflight Season 3."
+223,3 Drake's Dreaming Crests,"Earned from some outdoor activities, Normal difficulty Amirdrassil, and Mythic Keystone dungeons from +6 to +10 during Dragonflight Season 3."
+224,4 Drake's Dreaming Crests,"Earned from some outdoor activities, Normal difficulty Amirdrassil, and Mythic Keystone dungeons from +6 to +10 during Dragonflight Season 3."
+225,5 Drake's Dreaming Crests,"Earned from some outdoor activities, Normal difficulty Amirdrassil, and Mythic Keystone dungeons from +6 to +10 during Dragonflight Season 3."
+226,6 Drake's Dreaming Crests,"Earned from some outdoor activities, Normal difficulty Amirdrassil, and Mythic Keystone dungeons from +6 to +10 during Dragonflight Season 3."
+227,7 Drake's Dreaming Crests,"Earned from some outdoor activities, Normal difficulty Amirdrassil, and Mythic Keystone dungeons from +6 to +10 during Dragonflight Season 3."
+228,8 Drake's Dreaming Crests,"Earned from some outdoor activities, Normal difficulty Amirdrassil, and Mythic Keystone dungeons from +6 to +10 during Dragonflight Season 3."
+229,9 Drake's Dreaming Crests,"Earned from some outdoor activities, Normal difficulty Amirdrassil, and Mythic Keystone dungeons from +6 to +10 during Dragonflight Season 3."
+230,10 Drake's Dreaming Crests,"Earned from some outdoor activities, Normal difficulty Amirdrassil, and Mythic Keystone dungeons from +6 to +10 during Dragonflight Season 3."
+231,11 Drake's Dreaming Crests,"Earned from some outdoor activities, Normal difficulty Amirdrassil, and Mythic Keystone dungeons from +6 to +10 during Dragonflight Season 3."
+232,12 Drake's Dreaming Crests,"Earned from some outdoor activities, Normal difficulty Amirdrassil, and Mythic Keystone dungeons from +6 to +10 during Dragonflight Season 3."
+233,13 Drake's Dreaming Crests,"Earned from some outdoor activities, Normal difficulty Amirdrassil, and Mythic Keystone dungeons from +6 to +10 during Dragonflight Season 3."
+234,14 Drake's Dreaming Crests,"Earned from some outdoor activities, Normal difficulty Amirdrassil, and Mythic Keystone dungeons from +6 to +10 during Dragonflight Season 3."
+235,15 Drake's Dreaming Crests,"Earned from some outdoor activities, Normal difficulty Amirdrassil, and Mythic Keystone dungeons from +6 to +10 during Dragonflight Season 3."
+236,16 Drake's Dreaming Crests,"Earned from some outdoor activities, Normal difficulty Amirdrassil, and Mythic Keystone dungeons from +6 to +10 during Dragonflight Season 3."
+237,17 Drake's Dreaming Crests,"Earned from some outdoor activities, Normal difficulty Amirdrassil, and Mythic Keystone dungeons from +6 to +10 during Dragonflight Season 3."
+238,18 Drake's Dreaming Crests,"Earned from some outdoor activities, Normal difficulty Amirdrassil, and Mythic Keystone dungeons from +6 to +10 during Dragonflight Season 3."
+239,19 Drake's Dreaming Crests,"Earned from some outdoor activities, Normal difficulty Amirdrassil, and Mythic Keystone dungeons from +6 to +10 during Dragonflight Season 3."
+240,20 Drake's Dreaming Crests,"Earned from some outdoor activities, Normal difficulty Amirdrassil, and Mythic Keystone dungeons from +6 to +10 during Dragonflight Season 3."
+241,15 Wyrm's Dreaming Crests,Earned from Heroic difficulty Amirdrassil and Mythic Keystone dungeons from +11 to +15 during Dragonflight Season 3.
+242,5 Wyrm's Dreaming Crests,Earned from Heroic difficulty Amirdrassil and Mythic Keystone dungeons from +11 to +15 during Dragonflight Season 3.
+243,15 Aspect's Dreaming Crests,Earned from Mythic difficulty Amirdrassil and Mythic Keystone dungeons from +16 and up during Dragonflight Season 3.
+244,5 Aspect's Dreaming Crests,Earned from Mythic difficulty Amirdrassil and Mythic Keystone dungeons from +16 and up during Dragonflight Season 3.
+245,Dream Wardens Commendation,Awards %d reputation with the Dream Wardens.
+246,Archivist Knowledge,Awards %d reputation with Azerothian Archives.
+248,Council of Dornogal Commendation,Awards %d reputation with the Council of Dornogal.
+249,The Severed Threads Commendation,Awards %d reputation with The Severed Threads.
+250,The Vizier's Commendation,Awards %d reputation with The Vizier.
+251,The Weaver's Commendation,Awards %d reputation with The Weaver.
+252,The General's Commendation,Awards %d reputation with The General.
+253,Hallowfall Arathi Commendation,Awards %d reputation with the Hallowfall Arathi.
+254,The Assembly of the Deeps Commendation,Awards %d reputation with The Assembly of the Deeps.

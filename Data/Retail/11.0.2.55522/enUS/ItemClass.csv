@@ -1,0 +1,21 @@
+ID,ClassName_lang
+1,Consumable
+2,Container
+3,Weapon
+4,Gem
+5,Armor
+6,Reagent
+7,Projectile
+8,Tradeskill
+9,Item Enhancement
+10,Recipe
+11,Money(OBSOLETE)
+12,Quiver
+13,Quest
+14,Key
+15,Permanent(OBSOLETE)
+16,Miscellaneous
+17,Glyph
+18,Battle Pets
+19,WoW Token
+145,Profession

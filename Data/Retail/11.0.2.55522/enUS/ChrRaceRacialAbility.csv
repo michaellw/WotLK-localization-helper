@@ -1,0 +1,142 @@
+ID,Name_lang,Description_lang,DescriptionShort_lang
+1,Will of the Forsaken,"Can remove fear, sleep, and charm.","Remove charm, fear, and sleep effects"
+2,Cannibalize,May consume corpses to regain health and mana.,Consume corpses to regain health and mana
+3,Touch of the Grave,Can drain health from enemies.,Drain health from enemies
+4,Shadow Resistance,Resistant to Shadow damage.,Resistant to Shadow damage
+5,The Human Spirit,"Increased Haste, Critical Strike, Mastery, and Versatility.","Increased Haste, Critical Strike, Mastery, and Versatility"
+6,Diplomacy,Bonus to reputation gains.,Bonus to reputation gains
+7,Every Man for Himself,Can break out of stun effects.,Break out of stun effects
+8,Stoneform,May take on a stone form.,May take on a stone form
+9,Might of the Mountain,Increased effect from critical strikes.,Increased effect from critical strikes
+10,Frost Resistance,Resistant to Frost damage.,Resistant to Frost damage
+11,Explorer,Find additional Archaeology fragments and survey faster.,Find more Archaeology fragments and survey faster
+98,Ancient History,Increases Inscription skill.,Inscription skill increased
+99,Magical Affinity,Increases magical damage.,Increased magical damage
+100,Cantrips,Summon a flying book that acts as a mailbox.,Summon a flying book that acts as a mailbox
+101,Entropic Embrace,Your abilities have a chance to empower you with the essence of the Void.,Become empowered by the Void
+102,Ethereal Connection,Reduces the cost of Void Storage and Transmogrification.,Reduced cost for Void Storage and Transmogrification
+103,Preternatural Calm,Your spell casts are not delayed by taking damage.,Spell casts aren't delayed by damage
+104,Chill of Night,Resistant to Shadow damage.,Resistant to Shadow damage
+105,Spatial Rift,Tear a rift in space and teleport to a destination.,Teleport through a rift in space
+106,Arcane Resistance,Resistant to Arcane damage.,Resistant to Arcane damage
+107,Arcane Pulse,Damage and snare nearby enemies.,Damage and snare nearby enemies
+108,Bull Rush,"Charge forward, knocking down your enemies.","Charge forward, knocking down enemies"
+109,Pride of Ironhorn,Increases mining skill and speed.,Mining skill and speed increased
+110,"Waste Not, Want Not",Chance to gather additional meat and fish.,Chance to gather more meat and fish
+111,Mountaineer,Increases Versatility.,Increased Versatility
+112,Rugged Tenacity,Reduces damage from incoming attacks.,Reduced damage from incoming attacks
+113,Light's Judgment,Deal mighty holy damage to an area.,Deal mighty holy damage to an area
+114,Holy Resistance,Reduces Holy damage taken.,Resistant to Holy damage
+115,Light's Reckoning,"Erupt upon death, dealing Holy damage to nearby enemies and healing nearby allies.","Erupt upon death, damaging nearby enemies and healing nearby allies"
+116,Forge of Light,Increases Blacksmithing skill and allows you to summon an anvil.,Blacksmithing skill increased and can summon a forge
+117,Demonbane,Increased experience gained from killing demons.,Increased experience gained from killing demons
+118,Fireblood,Removes harmful effects and empowers you.,Remove harmful effects to empower you
+119,Dungeon Delver,Move faster while indoors.,Move faster indoors
+120,Mass Production,"Blacksmithing skill increased, and blacksmithing crafts faster.",Blacksmithing skill increased and crafts faster
+121,Mole Machine,"When outdoors, summon a mole machine that tunnels through the earth.",Summon a mole machine to transport through the earth
+122,Forged in Flames,Reduces physical damage taken.,Reduce physical damage taken
+123,Ancestral Call,"Invokes the power of your ancestors, granting you their power.","Invokes your ancestors, granting you their power"
+124,Open Skies,Faster mount speed while outdoors.,Faster mount speed outdoors
+125,Sympathetic Vigor,Pet health increased.,Pet health increased
+126,Savage Blood,"Reduces the duration on all Poisons, Diseases, and Curse effects on you.","Reduced duration on all Poisons, Diseases, and Curses"
+127,Regeneratin',Concentrate to heal yourself rapidly over a short time.,Heal yourself rapidly over a short time
+128,Embrace of the Loa,"Beseech a Loa, obtaining one of six powerful boons.",Beseech a Loa to obtain one of six powerful boons
+129,City of Gold,Discover more gold from creatures.,Discover more gold from creatures
+130,Pterrordax Swoop,Summons a Pterrordax to reduce your falling speed.,Summon a Pterrordax to reduce your falling speed
+131,Haymaker,"Smash your opponent, stunning and knocking them back.","Smash your opponent, stunning and knocking them back"
+132,Jack of All Trades,All tradeskill skills increased.,Skill in all professions increased
+133,Rime of the Ancient Mariner,Resistant to Frost and Nature damage.,Resistant to Frost and Nature damage
+134,Child of the Sea,Swim faster and hold your breath longer underwater.,Swim faster and hold your breath longer underwater
+135,Brush It Off,Increases Versatility and heals a portion of the damage you take.,Increase Versatility and heal a portion of the damage you take
+144,Hyper Organic Light Originator,Summon duplicates to distract your enemies.,Summon duplicates to confuse your foes
+145,Mastercraft,You act as a personal crafting station.,Act as a personal crafting station
+146,Combat Analysis,Gradually gain power as you analyze an enemy in combat.,Increase in strength as you fight an enemy
+147,Skeleton Pinkie,Able to pick locks.,Able to pick locks
+148,Emergency Failsafe,Automatically heal when you are badly injured.,Heal automatically when you're badly injured
+149,Bag of Tricks / Rummage Your Bag,Use a trick to harm an enemy or heal an ally. Collect different kinds of tricks in the world.,Hurl a trick to harm an enemy or help a friend
+150,Make Camp / Return to Camp,"Place a friendly campsite in the world, with the option to return to it later.",Choose a place in the world and make it your camp
+151,Nose For Trouble,Take less damage the first time an enemy hits you.,Take less damage the first time you're hit
+152,Alpaca Saddlebags,Your backpack has 8 additional slots.,Your backpack has 8 additional slots
+153,Fire Resistance,Reduces Fire damage taken.,Resistant to Fire damage
+248,Unburden,"Dissolve into pure anima, dramatically increasing your movement speed, slowing your falling speed, and propelling you forward.
+
+Reduces the radius at which enemies will detect you for the duration.",
+249,Divine Toll,"Instantly cast an empowered Holy Shock, Avenger's Shield, or Judgment, that strikes all nearby targets.",
+250,Amalgamate,"Fuse yourself into an enemy or ally. You become untargetable by enemies, but are unable to attack or cast spells.
+
+If the enemy is your level or lower, take control of them for the duration.",
+251,Blood Oath,"Swear an oath in blood, immediately removing most harmful effects from yourself and causing your abilities to deal additional damage or healing equal to the health spent on this ability.",
+252,Patronus Form,"Turn into a Spirit Fox, increasing your movement speed and causing enemies to ignore you.",
+253,Invoke Lightgrove,"Create a Lightgrove at the targeted area, restoring health to you and an injured ally every 3 sec.
+
+Judgment has a chance to not incur its cooldown when cast against an enemy within the Lightgrove.",
+254,Door of Shadows,"Bend through the shadows, appearing at the targeted location.",
+255,Ashen Sunset,"Draw the Light into you, draining health from nearby enemies to restore yourself.
+
+Draining at least one enemy causes your next ability to be a guaranteed critical strike.",
+490,Shadowmeld,May fade into the shadows.,Can fade into the shadows
+491,Quickness,More difficult to hit.,More difficult to hit
+492,Wisp Spirit,Wisp form while dead for faster movement.,Move faster when dead
+493,Nature Resistance,Resistant to Nature damage.,Resistant to Nature damage
+494,Elusiveness,Faster movement while stealthed.,Faster movement while stealthed
+495,Touch of Elune,Faster attacks at night and increased critical chance during the day.,Faster attacks at night and increased critical chance during the day
+496,Escape Artist,May escape from speed altering effects.,Escape from speed altering effects
+497,Expansive Mind,Increased resource pool.,Increased resource pool
+498,Arcane Resistance,Resistant to Arcane damage.,Resistant to Arcane damage
+499,Engineering Specialization,Engineering skill increased.,Engineering skill increased
+500,Nimble Fingers,Attacks faster.,Attack faster
+501,Gemcutting,Jewelcrafting skill increased.,Jewelcrafting skill increased
+502,Gift of the Naaru,May heal self or others over time.,Heal yourself or others over time
+503,Heroic Presence,"Increased Agility, Intellect, and Strength.","Increased Agility, Intellect, and Strength"
+504,Shadow Resistance,Resistant to Shadow damage.,Resistant to Shadow damage
+505,Darkflight,Can periodically move quickly.,Can periodically move quicker
+506,Viciousness,Critical chance increased.,Critical chance increased
+507,Aberration,Resistant to Nature and Shadow damage.,Resistant to Nature and Shadow damage
+508,Flayer,Skinning skill and speed increased.,Skinning skill and speed increased
+509,Quaking Palm,May put enemies to sleep with a touch of their hand.,Put enemies to sleep with a touch of your hand
+510,Inner Peace,Inner peace means twice as much rested experience.,Receive twice as much rested experience
+511,Epicurean,Increased benefits from eating food.,Increased benefits from eating food
+512,Gourmand,Cooking skill increased.,Cooking skill increased
+513,Bouncy,Bouncy and take less falling damage.,Take less falling damage
+514,Blood Fury,May enrage to increase damage.,Enrage to increase damage
+515,Hardiness,Resistant to stun effects.,Resistant to stun effects
+516,Command,Damage done by pets increased.,Damage done by pets increased
+517,War Stomp,"May stomp, stunning nearby opponents.","Stomp, stunning nearby opponents"
+518,Endurance,Increased Stamina.,Increased Stamina
+519,Cultivation,Herbalism skill and speed increased.,Herbalism skill and speed increased
+520,Nature Resistance,Resistant to Nature damage.,Resistant to Nature damage
+521,Brawn,Increased effect from critical strikes.,Increased effect from critical strikes
+522,Berserking,"Berserk, increasing attack and casting speed.","Berserk, increasing attack and casting speed"
+523,Regeneration,Regeneration increased.,Regeneration increased
+524,Beast Slaying,Increased experience gained from killing beasts.,Increased experience gained from killing beasts
+525,Da Voodoo Shuffle,Reduced duration of movement impairing effects.,Reduced duration of movement impairing effects
+526,Arcane Affinity,Enchanting skill increased.,Enchanting skill increased
+527,Arcane Torrent,"Can restore resources, such as mana or energy.",Restore resources like mana or energy
+528,Arcane Torrent,Can dispel nearby enemies.,Dispel nearby enemies
+529,Arcane Resistance,Resistant to Arcane damage.,Resistant to Arcane damage
+530,Rocket Jump,Can rocket jump forward.,Rocket jump forward
+531,Rocket Barrage,Can launch rockets at enemies.,Launch rockets at enemies
+532,Best Deals Anywhere,Receives vendor discounts.,Receive vendor discounts
+533,Pack Hobgoblin,Can periodically summon a personal bank.,Summon a personal bank
+534,Time is Money,Haste increased.,Haste increased
+535,Better Living Through Chemistry,Alchemy skill and potion healing increased.,Alchemy skill and potion healing increased
+606,Soar / Glide,"Use your wings to glide through the air, and soar from high places.","Use your wings to glide through the air, and soar from high places"
+607,Expedited Takeoff,Utilize skyriding to empower your soaring and take to the skies more often,Utilize skyriding to empower your soaring and take to the skies more often
+608,Tail Swipe / Wing Buffet,Knock enemies away with your wings and tail.,Knock enemies away with your wings and tail
+609,Awakened,Increased Mastery.,Increased Mastery
+610,Discerning Eye,Find additional rare reagents when gathering.,Find additional rare reagents when gathering
+611,Soar / Glide,"Use your wings to glide through the air, and soar from high places.","Use your wings to glide through the air, and soar from high places"
+612,Expedited Takeoff,Utilize skyriding to empower your soaring and take to the skies more often,Utilize skyriding to empower your soaring and take to the skies more often
+613,Tail Swipe / Wing Buffet,Knock enemies away with your wings and tail.,Knock enemies away with your wings and tail
+614,Awakened,Increased Mastery.,Increased Mastery
+615,Discerning Eye,Find additional rare reagents when gathering.,Find additional rare reagents when gathering
+616,Azerite Surge,Deal Fire damage to enemies and heal your allies.,Deal Fire damage to enemies and heal allies
+617,Ingest Minerals,Eat gems to be Well Fed indefinitely.,Eat gems to be Well Fed
+618,Hyper Productive,"Finesse increased, granting a chance to gather additional materials.",Chance to gather additional materials
+619,Titan-Wrought Frame,Increases armor.,Increases armor
+620,Wide-Eyed Wonder,Grants increased exploration experience.,Increases exploration experience
+621,Azerite Surge,Deal Fire damage to enemies and heal your allies.,Deal Fire damage to enemies and heal your allies.
+622,Ingest Minerals,Eat gems to be Well Fed indefinitely.,Eat gems to be Well Fed
+623,Hyper Productive,"Finesse increased, granting a chance to gather additional materials.",Chance to gather additional materials
+624,Titan-Wrought Frame,Increases armor.,Increases armor
+625,Wide-Eyed Wonder,Grants increased exploration experience.,Increases exploration experience

@@ -1,0 +1,450 @@
+ID,Name_lang
+2,Jeweler's Gems
+3,Healthstone
+4,Mana Gem
+6,Stormjewel
+7,Enchanted Pearl
+8,Binding Light
+9,Binding Stone
+10,Death's Choice
+11,Death's Verdict
+12,Eitrigg's Oath
+13,Fervor of the Frostborn
+14,Fetish of Volatile Power
+15,Juggernaut's Vitality
+16,Reign of the Dead
+17,Reign of the Unliving
+18,Satrina's Impeding Scarab
+19,Solace of the Defeated
+20,Solace of the Fallen
+21,Talisman of Volatile Power
+22,Vengeance of the Forsaken
+23,Victor's Call
+24,Band of Callous Aggression
+25,Band of Deplorable Violence
+26,Band of the Traitor King
+27,Band of the Twin Val'kyr
+28,Band of the Violent Temperment
+29,Carnivorous Band
+30,Circle of the Darkmender
+31,Firestorm Band
+32,Firestorm Ring
+33,Gormok's Band
+34,Loop of the Twin Val'kyr
+35,Lurid Manifestation
+36,Planestalker Band
+37,Planestalker Signet
+38,Ring of Callous Aggression
+39,Ring of Callous Aggression
+40,Ring of the Darkmender
+41,Ring of the Violent Temperament
+42,Signet of the Traitor King
+43,Test Ring Limit
+44,Althor's Abacus
+45,Bauble of True Blood
+46,Corpse Tongue Coin
+47,Deathbringer's Will
+48,Dislodged Foreign Object
+49,Phylactery of the Nameless Lich
+50,Tiny Abomination in a Jar
+51,Sindragosa's Flawless Fang
+52,Abomination's Bloody Ring
+53,Signet of Putrefaction
+54,Cerise Coiled Ring
+55,Rotface's Rupturing Ring
+56,Saurfang's Cold-Forged Band
+57,Seal of the Twilight Queen
+58,Thrice Fanged Signet
+59,Band of the Bone Colossus
+60,Devium's Eternally Cold Ring
+61,Seal of Many Mouths
+62,Frostbrood Sapphire Ring
+63,Juggernaut Band
+64,Loop of the Endless Labyrinth
+65,Marrowgar's Frigid Eye
+66,Memory of Malygos
+67,Might of Blight
+68,Ring of Maddening Whispers
+69,Ring of Rapid Ascent
+70,Skeleton Lord's Circle
+71,Valanar's Other Signet Ring
+72,Incarnadine Band of Mending
+73,Muradin's Spyglass
+74,Sliver of Pure Ice
+75,Unidentifiable Organ
+76,Whispering Fanged Skull
+77,Twilight Scale
+78,Ring of Phased Regeneration
+79,Saviana's Tribute
+80,Signet of Twilight
+81,Zarithrian's Offering
+82,Sharpened Twilight Scale
+83,Petrified Twilight Scale
+84,Glowing Twilight Scale
+85,Charred Twilight Scale
+86,Guild Flask
+89,Crushing Weight
+90,Essence of the Cyclone
+91,Fall of Mortality
+92,Heart of Ignacious
+93,Theralion's Mirror
+94,Vial of Stolen Memories
+95,Bell of Enraging Resonance
+96,Heart of Rage
+97,Jar of Ancient Remedies
+98,Prestor's Talisman of Machination
+99,Symbiotic Worm
+100,Might of the Ocean
+101,Porcelain Crab
+102,Sea Star
+103,Grace of the Herald
+104,Witching Hourglass
+105,Key to the Endless Chamber
+106,Leaden Despair
+107,Magnetite Mirror
+108,Tear of Blood
+109,Tendrils of Burrowing Dark
+110,Heart of Thunder
+111,Rainsong
+112,Heart of Solace
+113,Sorrowsong
+114,Tia's Grace
+115,Anhuur's Hymnal
+116,Blood of Isiset
+117,Left Eye of Rajh
+118,Right Eye of Rajh
+119,Corrupted Egg Shell
+120,Gale of Shadows
+121,Mark of Khardros
+122,Skardyn's Grace
+123,Throngus's Finger
+129,Bile-O-Tron Nut
+130,Alchemist Stone
+132,Scales of Life
+133,Variable Pulse Lightning Capacitor
+134,Jaws of Defeat
+135,The Hungerer
+136,Apparatus of Khaz'goroth
+137,Spidersilk Spindle
+138,Necromantic Focus
+139,Eye of Blazing Power
+140,Matrix Restabilizer
+141,Vessel of Acceleration
+142,Stay of Execution
+143,Rune of Zeth
+145,Fiery Quintessence
+146,Ancient Petrified Seed
+147,Essence of the Eternal Flame
+148,Blazejewel
+150,Signet of the Avengers
+151,Widow's Kiss
+152,Crystal Prison Band
+153,Alysrazor's Band
+155,Brimstone Ring
+158,Theck's Emberseal
+166,Emergency Descent Loop
+167,Seal of the Grand Architect
+168,Band of Reconstruction
+169,Signet of the Resolute
+170,Ring of Torn Flesh
+171,Breathstealer Band
+172,Hardheart Ring
+173,Seal of Primordial Shadow
+174,Infinite Loop
+175,Signet of Suturing
+176,Signet of Grasping Mouths
+177,Ring of the Riven
+178,Curled Twilight Claw
+179,Reflection of the Light
+180,Bottled Wishes
+181,Kiroptyric Sigil
+182,Rotting Skull
+183,Fire of the Deep
+184,Eye of Unmaking
+185,Wrath of Unchaining
+186,Resolve of Undying
+187,Will of Unbinding
+188,Heart of Unliving
+189,Creche of the Final Dragon
+190,Soulshifter Vortex
+191,Bone-Link Fetish
+192,Vial of Shadows
+193,Indomitable Pride
+194,Cunning of the Cruel
+195,Windward Heart
+196,Starcatcher Compass
+197,Seal of the Seven Signs
+198,Insignia of the Corrupted Mind
+201,Mogu Treasure
+203,Jeweler's Facet
+204,Familiar Stone
+205,Brilliant Mana Gem
+206,Darkmoon Card of the Mists
+207,Crystal of Fear
+208,Bottle of Infinite Stars
+209,Darkmist Vortex
+210,Essence of Terror
+211,Jade Bandit Figurine
+212,Jade Charioteer Figurine
+213,Jade Courtesan Figurine
+214,Jade Magistrate Figurine
+215,Jade Warlord Figurine
+216,Lei Shen's Final Orders
+217,Light of the Cosmos
+218,Qin-xi's Polarizing Seal
+219,Spirits of the Sun
+220,Stuff of Nightmares
+221,Terror in the Mists
+222,Vial of Dragon's Blood
+223,Band of Bursting Novas
+224,Circuit of the Frail Soul
+225,Dread Shadow Ring
+226,Feng's Ring of Dreams
+227,Feng's Seal of Binding
+228,Fragment of Fear Made Flesh
+229,Painful Thorned Ring
+230,Regail's Band of the Endless
+231,Ring of the Bladed Tempest
+232,Ring of the Shattered Shell
+233,Seal of the Profane
+234,Vizier's Ruby Signet
+235,Watersoul Signet
+236,Curios of the Golden Lotus
+237,Curios of the Shado-Pan
+238,Curios of the Shado-Pan
+239,Flashy Black Diamond Rings
+240,Sturdy Trap
+241,Brutal Insignia of the Dominance Offensive
+242,Greater Insignia of Operation: Shieldwall
+243,Lesser Insignia of the Dominance Offensive
+244,Lesser Insignia of Operation: Shieldwall
+245,Curios of Operation: Shieldwall
+246,Curios of the Dominance Offensive
+247,Challenge Card
+249,Gore-Soaked Gear
+250,Curios of the Shado-Pan Assault
+251,Jin'rokh's Soulcrystal
+252,Ring of Shamuru
+253,Jin'rokh's Dreamshard
+254,Durumu's Captive Eyeball
+255,Spinescale Seal
+256,Sign of the Bloodied God
+257,Durumu's Severed Tentacle
+258,Ro'shak's Remembrance
+259,Band of the Scaled Tyrant
+260,Petrified Eye of the Basilisk
+261,Bad Juju
+262,Breath of the Hydra
+263,Cha-Ye's Essence of Brilliance
+264,Delicate Vial of the Sanguinaire
+265,Fabled Feather of Ji-Kun
+266,Fortitude of the Zandalari
+267,Gaze of the Twins
+268,Horridon's Last Gasp
+269,Inscribed Bag of Hydra-Spawn
+270,Ji-Kun's Rising Winds
+271,Lightning-Imbued Chalice
+272,Primordius' Talisman of Rage
+273,Renataki's Soul Charm
+274,Rune of Re-Origination
+275,Soul Barrier
+276,Spark of Zandalar
+277,Stolen Relic of Zuldazar
+278,Talisman of Bloodlust
+279,Unerring Vision of Lei Shen
+280,Wushoolay's Final Choice
+281,Curios of the Kirin Tor Offensive
+282,Curios of the Sunreaver Onslaught
+283,Talismans of the Shado-Pan Assault
+287,Cloak of Virtue
+288,
+289,
+290,
+291,
+292,
+293,
+294,
+295,Discipline of Xuen
+296,Yu'on's Bite
+297,Contemplation of Chi-Ji
+298,Alacrity of Xuen
+299,Resolve of Niuzao
+300,Petrified Pennyroyal Ring
+301,Extinguished Ember of Galakras
+302,Iyyokuk's Hereditary Seal
+303,Seal of Eternal Sorrow
+304,Seal of Sullen Fury
+305,Laser-Slice Signet
+306,Signet of the Dinomancers
+307,Sorrowpath Signet
+308,Asgorathian Blood Seal
+309,Seal of the Forgotten Kings
+310,PH
+311,Bloodclaw Band
+312,Galakrond Control Band
+313,Ring of the Iron Tomb
+314,Devilfang Band
+315,PH
+316,Reality Ripper Ring
+317,Swift Serpent Signet
+318,Ring of Restless Energy
+319,Kil'ruk's Band of Ascendancy
+320,Assurance of Consequence
+321,Purified Bindings of Immerseus
+322,Nazgrim's Burnished Insignia
+323,Fusion-Fire Core
+324,Rook's Unlucky Talisman
+325,Juggernaut's Focusing Crystal
+326,Evil Eye of Galakras
+327,Prismatic Prison of Pride
+328,Kardris' Toxic Totem
+329,Haromm's Talisman
+330,Sigil of Rampage
+331,Frenzied Crystal of Rage
+332,Thok's Acid-Grooved Tooth
+333,Thok's Tail Tip
+334,Vial of Living Corruption
+335,Curse of Hubris
+336,Skeer's Bloodsoaked Talisman
+337,Dysmorphic Samophlange of Discontinuity
+338,Black Blood of Y'Shaarj
+339,Ticking Ebon Detonator
+340,Blackrock Crucible
+341,Warlords Crafted
+342,Engineering Workshop Item
+343,Garrison Fruit
+344,Enchanter's Illusion
+345,Band of the Archmage
+346,Legion Crafted
+347,Ghost Pirate Ring
+348,Saber's Eye
+349,Demonbane
+350,Crafted Relic
+351,Crimson Vial
+352,Nimble Brew
+353,Test Item Limit Category Crafted
+357,Legion Legendary
+358,Invader Bands
+359,Invader Trinkets
+360,Violet Seals
+361,Eyes of the Hounds
+362,Path of the Titans
+463,Kraken's Eye
+464,Kraken's Eye Loop
+465,Red Punchcard
+466,Yellow Punchcard
+467,Blue Punchcard
+468,Leviathan's Eye
+469,Leviathan's Eye Loop
+471,Phial of Serenity
+472,Darkmoon Deck
+473,Shadowlands Crafted Legendary
+474,Gladiator's Medallions
+481,Shadowlands Crafted
+482,Blood Shard of Rev
+483,Blood Shard of Jas
+484,Blood Shard of Bek
+486,Frost Shard of Cor
+487,Frost Shard of Kyr
+488,Frost Shard of Tel
+489,Unholy Shard of Dyz
+490,Unholy Shard of Oth
+491,Unholy Shard of Zed
+492,Personal Melody
+493,Battle Rhythms
+494,Pocopoc Harmony
+496,Enlightened Legendary
+501,Primalist Gem
+502,Idol of the Aspects
+503,Inscription Head
+504,Conjured Dessert
+505,Toolkit
+506,Head
+507,Enchanting Focus
+508,Back
+509,Magnifying Glass
+510,Chest
+511,Hands
+512,Embellished
+513,Back
+514,Chest
+515,Hands
+516,Head
+517,Toolkit
+518,Back
+519,Chest
+520,Hands
+521,Head
+522,Back
+523,Chest
+524,Hands
+525,Head
+526,Toolkit
+527,Back
+528,Chest
+529,Hands
+530,Head
+531,Toolkit
+532,Back
+533,Chest
+534,Hands
+535,Head
+536,Back
+537,Chest
+538,Hands
+539,Head
+540,Back
+541,Chest
+542,Hands
+543,Head
+544,Toolkit
+545,Back
+546,Chest
+547,Hands
+548,Head
+549,Toolkit
+550,Back
+551,Chest
+552,Hands
+553,Head
+554,Toolkit
+555,Back
+556,Chest
+557,Hands
+558,Head
+559,Back
+560,Chest
+561,Hands
+562,Head
+563,Back
+564,Chest
+565,Hands
+566,Head
+567,Toolkit
+568,Cobalt Ring of Power
+569,Alarm-O-Turret
+570,Arclight Vital Correctors
+571,Breath of Neltharion
+572,Grounded Circuitry
+573,Plane Displacer
+574,Polarity Amplifier
+575,Supercollide-O-Tron
+596,Mojo Crystal
+597,Rot Resistant Cauldron
+598,Fleeting Phial
+599,Shadowflame Rockets
+600,Delves Keystone
+607,Fleeting Flask
+608,Fleeting Potion
+614,Algari Diamond
+643,Prototype
+644,Feet
+645,Lightning Tether
+646,Overclocked S.E.L.F.I.E. Camera
+647,Earthen Delivery Drill
+648,Heartseeking Health Injector
+649,Profession Bag
+650,Weaverline Threads
+651,Weaverline Skill Thread
+652,Ghoulfish
+653,Best Friend

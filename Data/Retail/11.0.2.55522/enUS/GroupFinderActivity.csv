@@ -1,0 +1,1003 @@
+ID,FullName_lang,ShortName_lang
+2,Teldrassil,Teldrassil
+3,Westfall,Westfall
+4,Siege of Orgrimmar (Normal),Normal
+6,Arena (2v2),2v2
+7,Arena (3v3),3v3
+9,Molten Core,Molten Core
+14,Arena Skirmish (2v2),2v2
+15,Battlegrounds,Battlegrounds
+16,Custom PvE,Custom
+17,Custom PvP,Custom PvP
+18,Deadmines (Normal),Normal
+19,Rated Battlegrounds,Rated Battlegrounds
+21,Bloodmaul Slag Mines (Normal),Normal
+22,Iron Docks (Normal),Normal
+23,Auchindoun (Normal),Normal
+24,Skyreach (Normal),Normal
+25,Grimrail Depot (Normal),Normal
+26,The Everbloom (Normal),Normal
+27,Shadowmoon Burial Grounds (Normal),Normal
+28,Upper Blackrock Spire (Normal),Normal
+29,Bloodmaul Slag Mines (Heroic),Heroic
+30,Iron Docks (Heroic),Heroic
+31,Auchindoun (Heroic),Heroic
+32,Skyreach (Heroic),Heroic
+33,Grimrail Depot (Heroic),Heroic
+34,The Everbloom (Heroic),Heroic
+35,Shadowmoon Burial Grounds (Heroic),Heroic
+36,Upper Blackrock Spire (Heroic),Heroic
+37,Highmaul (Normal),Normal
+38,Highmaul (Heroic),Heroic
+39,Blackrock Foundry (Normal),Normal
+40,Blackrock Foundry (Heroic),Heroic
+41,Siege of Orgrimmar (Heroic),Heroic
+42,Siege of Orgrimmar (Mythic),Mythic
+43,Naxxramas (10 Player),10 Player
+44,Naxxramas (25 Player),25 Player
+45,Karazhan,Karazhan
+46,Icecrown Citadel (10 Normal),10 Normal
+47,Icecrown Citadel (10 Heroic),10 Heroic
+48,Icecrown Citadel (25 Normal),25 Normal
+49,Icecrown Citadel (25 Heroic),25 Heroic
+50,Wailing Caverns (Normal),Wailing Caverns
+51,Scholomance (Normal),Normal
+52,Ragefire Chasm (Normal),Ragefire Chasm
+53,Shadowfang Keep (Normal),Normal
+54,Blackfathom Deeps (Normal),Blackfathom Deeps
+55,Stormwind Stockade (Normal),Stormwind Stockade
+56,Gnomeregan (Normal),Gnomeregan
+57,Razorfen Kraul (Normal),Razorfen Kraul
+58,Razorfen Downs (Normal),Razorfen Downs
+59,Uldaman (Normal),Uldaman
+60,Zul'Farrak (Normal),Zul'Farrak
+61,Maraudon (Normal),Maraudon
+62,Sunken Temple (Normal),Sunken Temple
+63,Blackrock Depths (Normal),Blackrock Depths
+64,Lower Blackrock Spire (Normal),Lower Blackrock Spire
+65,Dire Maul (Normal),Dire Maul
+66,Stratholme (Normal),Stratholme
+67,Hellfire Ramparts (Normal),Normal
+68,Blood Furnace (Normal),Normal
+69,Shattered Halls (Normal),Normal
+70,Slave Pens (Normal),Normal
+71,Underbog (Normal),Normal
+72,The Steamvault (Normal),Normal
+73,Mana-Tombs (Normal),Normal
+74,Auchenai Crypts (Normal),Normal
+75,Sethekk Halls (Normal),Normal
+76,Shadow Labyrinth (Normal),Normal
+77,Scarlet Halls (Normal),Normal
+78,Scarlet Monastery (Normal),Normal
+79,The Escape from Durnholde (Normal),Normal
+80,Opening of the Dark Portal (Normal),Normal
+81,The Mechanar (Normal),Normal
+82,The Botanica (Normal),Normal
+83,The Arcatraz (Normal),Normal
+84,Auchenai Crypts (Heroic),Heroic
+85,Mana-Tombs (Heroic),Heroic
+86,Sethekk Halls (Heroic),Heroic
+87,Shadow Labyrinth (Heroic),Heroic
+88,Opening of the Dark Portal (Heroic),Heroic
+89,The Escape from Durnholde (Heroic),Heroic
+90,Slave Pens (Heroic),Heroic
+91,The Steamvault (Heroic),Heroic
+92,Underbog (Heroic),Heroic
+93,Blood Furnace (Heroic),Heroic
+94,Hellfire Ramparts (Heroic),Heroic
+95,Shattered Halls (Heroic),Heroic
+96,The Arcatraz (Heroic),Heroic
+97,The Botanica (Heroic),Heroic
+98,The Mechanar (Heroic),Heroic
+99,Magisters' Terrace (Normal),Normal
+100,Magisters' Terrace (Heroic),Heroic
+101,Utgarde Keep (Normal),Normal
+102,Utgarde Pinnacle (Normal),Normal
+103,Azjol-Nerub (Normal),Normal
+104,The Oculus (Normal),Normal
+105,Halls of Lightning (Normal),Normal
+106,Halls of Stone (Normal),Normal
+107,The Culling of Stratholme (Normal),Normal
+108,Drak'Tharon Keep (Normal),Normal
+109,Gundrak (Normal),Normal
+110,Ahn'kahet: The Old Kingdom (Normal),Normal
+111,Violet Hold (Normal),Normal
+112,The Nexus (Normal),Normal
+113,Trial of the Champion (Normal),Normal
+114,The Forge of Souls (Normal),Normal
+115,Pit of Saron (Normal),Normal
+116,Halls of Reflection (Normal),Normal
+117,Utgarde Pinnacle (Heroic),Heroic
+118,The Culling of Stratholme (Heroic),Heroic
+119,The Oculus (Heroic),Heroic
+120,Halls of Lightning (Heroic),Heroic
+121,Halls of Stone (Heroic),Heroic
+122,Drak'Tharon Keep (Heroic),Heroic
+123,Gundrak (Heroic),Heroic
+124,Ahn'kahet: The Old Kingdom (Heroic),Heroic
+125,Violet Hold (Heroic),Heroic
+126,The Nexus (Heroic),Heroic
+127,Azjol-Nerub (Heroic),Heroic
+128,Utgarde Keep (Heroic),Heroic
+129,Trial of the Champion (Heroic),Heroic
+130,The Forge of Souls (Heroic),Heroic
+131,Pit of Saron (Heroic),Heroic
+132,Halls of Reflection (Heroic),Heroic
+133,Throne of the Tides (Normal),Normal
+134,Blackrock Caverns (Normal),Normal
+135,Grim Batol (Normal),Normal
+136,Halls of Origination (Normal),Normal
+137,The Stonecore (Normal),Normal
+138,The Vortex Pinnacle (Normal),Normal
+139,Lost City of the Tol'vir (Normal),Normal
+140,The Vortex Pinnacle (Heroic),Heroic
+141,The Stonecore (Heroic),Heroic
+142,Halls of Origination (Heroic),Heroic
+143,Grim Batol (Heroic),Heroic
+144,Blackrock Caverns (Heroic),Heroic
+146,Throne of the Tides (Heroic),Heroic
+147,Lost City of the Tol'vir (Heroic),Heroic
+148,Deadmines (Heroic),Heroic
+149,Shadowfang Keep (Heroic),Heroic
+150,Zul'Gurub (Heroic),Zul'Gurub
+151,Zul'Aman (Heroic),Zul'Aman
+152,End Time (Heroic),End Time
+153,Well of Eternity (Heroic),Well of Eternity
+154,Hour of Twilight (Heroic),Hour of Twilight
+155,Temple of the Jade Serpent (Normal),Normal
+156,Stormstout Brewery (Normal),Normal
+157,Shado-Pan Monastery (Normal),Normal
+158,Mogu'shan Palace (Normal),Normal
+159,Siege of Niuzao Temple (Normal),Normal
+160,Gate of the Setting Sun (Normal),Normal
+163,Temple of the Jade Serpent (Heroic),Heroic
+164,Stormstout Brewery (Heroic),Heroic
+165,Shado-Pan Monastery (Heroic),Heroic
+166,Mogu'shan Palace (Heroic),Heroic
+167,Gate of the Setting Sun (Heroic),Heroic
+168,Scholomance (Heroic),Heroic
+169,Scarlet Monastery (Heroic),Heroic
+170,Scarlet Halls (Heroic),Heroic
+171,Siege of Niuzao Temple (Heroic),Heroic
+172,Frostfire Ridge,Frostfire Ridge
+173,Shadowmoon Valley (Draenor),Shadowmoon Valley
+174,Gorgrond,Gorgrond
+175,Talador,Talador
+176,Spires of Arak,Spires of Arak
+177,Nagrand (Draenor),Nagrand
+179,Bloodmaul Slag Mines (Challenge),Challenge
+180,Iron Docks (Mythic Keystone),Mythic+
+181,Auchindoun (Challenge),Challenge
+182,Skyreach (Challenge),Challenge
+183,Grimrail Depot (Mythic Keystone),Mythic+
+184,The Everbloom (Mythic Keystone),Mythic+
+186,Upper Blackrock Spire (Challenge),Challenge
+187,New Tinkertown,New Tinkertown
+188,Coldridge Valley,Coldridge Valley
+189,Northshire,Northshire
+190,Gilneas City,Gilneas City
+191,Sunstrider Isle,Sunstrider Isle
+192,Deathknell,Deathknell
+193,Dun Morogh,Dun Morogh
+194,Tirisfal Glades,Tirisfal Glades
+195,Eversong Woods,Eversong Woods
+196,Elwynn Forest,Elwynn Forest
+197,Gilneas,Gilneas
+198,Loch Modan,Loch Modan
+199,Ghostlands,Ghostlands
+200,Silverpine Forest,Silverpine Forest
+201,Ruins of Gilneas,Ruins of Gilneas
+202,Redridge Mountains,Redridge Mountains
+203,Wetlands,Wetlands
+204,Duskwood,Duskwood
+205,Hillsbrad Foothills,Hillsbrad Foothills
+206,Arathi Highlands,Arathi Highlands
+207,Northern Stranglethorn,Northern Stranglethorn
+208,The Cape of Stranglethorn,The Cape of Stranglethorn
+209,The Hinterlands,The Hinterlands
+210,Stranglethorn Vale,Stranglethorn Vale
+211,Western Plaguelands,Western Plaguelands
+212,Burning Steppes,Burning Steppes
+213,Searing Gorge,Searing Gorge
+214,Badlands,Badlands
+215,Eastern Plaguelands,Eastern Plaguelands
+217,Twilight Highlands,Twilight Highlands
+219,Vashj'ir,Vashj'ir
+221,Isle of Quel'Danas,Isle of Quel'Danas
+222,Blasted Lands,Blasted Lands
+223,Plaguelands: The Scarlet Enclave,Plaguelands: The Scarlet Enclave
+224,Swamp of Sorrows,Swamp of Sorrows
+225,Deadwind Pass,Deadwind Pass
+226,Blackrock Mountain,Blackrock Mountain
+227,Shadowglen,Shadowglen
+228,Ammen Vale,Ammen Vale
+229,Valley of Trials,Valley of Trials
+230,Echo Isles,Echo Isles
+231,Camp Narache,Camp Narache
+232,Azuremyst Isle,Azuremyst Isle
+234,Mulgore,Mulgore
+235,Durotar,Durotar
+236,Darkshore,Darkshore
+237,Bloodmyst Isle,Bloodmyst Isle
+238,Northern Barrens,Northern Barrens
+239,Tanaris,Tanaris
+240,Thousand Needles,Thousand Needles
+241,Feralas,Feralas
+242,Dustwallow Marsh,Dustwallow Marsh
+243,Desolace,Desolace
+244,Southern Barrens,Southern Barrens
+245,Stonetalon Mountains,Stonetalon Mountains
+246,Ashenvale,Ashenvale
+247,Moonglade,Moonglade
+248,Azshara,Azshara
+249,Molten Front,Molten Front
+250,Uldum,Uldum
+251,Mount Hyjal,Mount Hyjal
+252,Silithus,Silithus
+253,Winterspring,Winterspring
+254,Un'Goro Crater,Un'Goro Crater
+255,Felwood,Felwood
+256,Hellfire Peninsula,Hellfire Peninsula
+257,Zangarmarsh,Zangarmarsh
+258,Terokkar Forest,Terokkar Forest
+259,Nagrand,Nagrand
+260,Blade's Edge Mountains,Blade's Edge Mountains
+261,Netherstorm,Netherstorm
+262,Shadowmoon Valley,Shadowmoon Valley
+263,Borean Tundra,Borean Tundra
+264,Howling Fjord,Howling Fjord
+265,Dragonblight,Dragonblight
+266,Grizzly Hills,Grizzly Hills
+267,Sholazar Basin,Sholazar Basin
+268,Zul'Drak,Zul'Drak
+269,Icecrown,Icecrown
+270,The Storm Peaks,The Storm Peaks
+271,Hrothgar's Landing,Hrothgar's Landing
+272,Crystalsong Forest,Crystalsong Forest
+273,Wintergrasp,Wintergrasp
+274,Tol Barad,Tol Barad
+275,Tol Barad Peninsula,Tol Barad Peninsula
+276,Deepholm,Deepholm
+277,Darkmoon Island,Darkmoon Island
+278,Kezan,Kezan
+279,The Lost Isles,The Lost Isles
+280,The Wandering Isle,The Wandering Isle
+281,The Jade Forest,The Jade Forest
+282,Krasarang Wilds,Krasarang Wilds
+283,Kun-Lai Summit,Kun-Lai Summit
+284,Valley of the Four Winds,Valley of the Four Winds
+285,The Veiled Stair,The Veiled Stair
+286,Townlong Steppes,Townlong Steppes
+287,Dread Wastes,Dread Wastes
+288,Isle of Giants,Isle of Giants
+289,Vale of Eternal Blossoms,Vale of Eternal Blossoms
+290,Isle of Thunder,Isle of Thunder
+291,Timeless Isle,Timeless Isle
+293,Blackwing Lair,Blackwing Lair
+294,Ruins of Ahn'Qiraj,Ruins of Ahn'Qiraj
+295,Ahn'Qiraj Temple,Ahn'Qiraj Temple
+296,Gruul's Lair,Gruul's Lair
+297,Magtheridon's Lair,Magtheridon's Lair
+298,Serpentshrine Cavern,Serpentshrine Cavern
+299,Tempest Keep,Tempest Keep
+300,Black Temple,Black Temple
+301,The Sunwell,The Sunwell
+303,Ulduar,Ulduar
+304,Trial of the Crusader (10 Normal),10 Normal
+305,Trial of the Crusader (10 Heroic),10 Heroic
+306,Trial of the Crusader (25 Normal),25 Normal
+307,Trial of the Crusader (25 Heroic),25 Heroic
+308,The Ruby Sanctum (10 Normal),10 Normal
+309,The Ruby Sanctum (10 Heroic),10 Heroic
+310,The Ruby Sanctum (25 Normal),25 Normal
+311,The Ruby Sanctum (25 Heroic),25 Heroic
+313,Blackwing Descent (10 Normal),10 Normal
+316,Blackwing Descent (25 Normal),25 Normal
+317,Blackwing Descent (10 Heroic),10 Heroic
+318,Blackwing Descent (25 Heroic),25 Heroic
+319,The Bastion of Twilight (10 Normal),10 Normal
+320,The Bastion of Twilight (10 Heroic),10 Heroic
+321,The Bastion of Twilight (25 Heroic),25 Heroic
+322,The Bastion of Twilight (25 Normal),25 Normal
+323,Throne of the Four Winds (10 Normal),10 Normal
+324,Throne of the Four Winds (10 Heroic),10 Heroic
+325,Throne of the Four Winds (25 Heroic),25 Heroic
+326,Throne of the Four Winds (25 Normal),25 Normal
+331,Dragon Soul (10 Normal),10 Normal
+332,Dragon Soul (10 Heroic),10 Heroic
+333,Dragon Soul (25 Heroic),25 Heroic
+334,Dragon Soul (25 Normal),25 Normal
+335,Mogu'shan Vaults (10 Normal),10 Normal
+336,Mogu'shan Vaults (10 Heroic),10 Heroic
+337,Mogu'shan Vaults (25 Normal),25 Normal
+338,Mogu'shan Vaults (25 Heroic),25 Heroic
+339,Heart of Fear (10 Normal),10 Normal
+340,Heart of Fear (10 Heroic),10 Heroic
+341,Heart of Fear (25 Normal),25 Normal
+342,Heart of Fear (25 Heroic),25 Heroic
+343,Terrace of Endless Spring (10 Normal),10 Normal
+344,Terrace of Endless Spring (10 Heroic),10 Heroic
+345,Terrace of Endless Spring (25 Normal),25 Normal
+346,Terrace of Endless Spring (25 Heroic),25 Heroic
+347,Throne of Thunder (10 Normal),10 Normal
+348,Throne of Thunder (10 Heroic),10 Heroic
+349,Throne of Thunder (25 Heroic),25 Heroic
+350,Throne of Thunder (25 Normal),25 Normal
+351,Battlegrounds,Battlegrounds
+352,Battlegrounds,Battlegrounds
+353,Battlegrounds,Battlegrounds
+354,Battlegrounds,Battlegrounds
+355,Battlegrounds,Battlegrounds
+356,Battlegrounds,Battlegrounds
+360,Arena Skirmish (3v3),3v3
+363,Random Pandaria Dungeon (Normal),Normal
+364,Random Pandaria Dungeon (Heroic),Heroic
+389,Arena Skirmish (2v2),2v2
+390,Arena Skirmish (3v3),3v3
+391,Arena Skirmish (2v2),2v2
+392,Arena Skirmish (3v3),3v3
+393,Arena Skirmish (2v2),2v2
+394,Arena Skirmish (3v3),3v3
+395,Random Warlords Dungeon (Normal),Normal
+396,Random Warlords Dungeon (Heroic),Heroic
+397,World Bosses (Pandaria),World Bosses
+398,World Bosses (Draenor),World Bosses
+399,Highmaul (Mythic),Mythic
+400,Blackrock Foundry (Mythic),Mythic
+401,Bloodmaul Slag Mines (Mythic),Mythic
+402,Iron Docks (Mythic),Mythic
+403,Auchindoun (Mythic),Mythic
+404,Skyreach (Mythic),Mythic
+405,Grimrail Depot (Mythic),Mythic
+406,The Everbloom (Mythic),Mythic
+407,Shadowmoon Burial Grounds (Mythic),Mythic
+408,Upper Blackrock Spire (Mythic),Mythic
+409,Hellfire Citadel (Normal),Normal
+410,Hellfire Citadel (Heroic),Heroic
+411,Tanaan Jungle,Tanaan Jungle
+412,Hellfire Citadel (Mythic),Mythic
+413,Emerald Nightmare (Normal),Normal
+414,Emerald Nightmare (Heroic),Heroic
+415,The Nighthold (Normal),Normal
+416,The Nighthold (Heroic),Heroic
+417,Random Legion Dungeon (Normal),Normal
+418,Random Legion Dungeon (Heroic),Heroic
+419,Azsuna,Azsuna
+420,Val'sharah,Val'sharah
+421,Highmountain,Highmountain
+422,Stormheim,Stormheim
+423,Suramar,Suramar
+425,Eye of Azshara (Normal),Normal
+426,Darkheart Thicket (Normal),Normal
+427,Halls of Valor (Normal),Normal
+428,Neltharion's Lair (Normal),Normal
+429,Assault on Violet Hold (Normal),Normal
+430,Black Rook Hold (Normal),Normal
+431,Vault of the Wardens (Normal),Normal
+432,Maw of Souls (Normal),Normal
+433,Court of Stars (Normal),Normal
+434,The Arcway (Normal),Normal
+435,Eye of Azshara (Heroic),Heroic
+436,Darkheart Thicket (Heroic),Heroic
+437,Halls of Valor (Heroic),Heroic
+438,Neltharion's Lair (Heroic),Heroic
+439,Assault on Violet Hold (Heroic),Heroic
+440,Black Rook Hold (Heroic),Heroic
+441,Vault of the Wardens (Heroic),Heroic
+442,Maw of Souls (Heroic),Heroic
+443,Court of Stars (Heroic),Heroic
+444,The Arcway (Heroic),Heroic
+445,Eye of Azshara (Mythic),Mythic
+446,Darkheart Thicket (Mythic),Mythic
+447,Halls of Valor (Mythic),Mythic
+448,Neltharion's Lair (Mythic),Mythic
+449,Assault on Violet Hold (Mythic),Mythic
+450,Black Rook Hold (Mythic),Mythic
+451,Vault of the Wardens (Mythic),Mythic
+452,Maw of Souls (Mythic),Mythic
+453,Court of Stars (Mythic),Mythic
+454,The Arcway (Mythic),Mythic
+455,Return to Karazhan (Mythic),Mythic
+456,Trial of Valor (Normal),Normal
+457,Trial of Valor (Heroic),Heroic
+458,World Bosses (Legion),World Bosses
+459,Eye of Azshara (Mythic Keystone),Mythic+
+460,Darkheart Thicket (Mythic Keystone),Mythic+
+461,Halls of Valor (Mythic Keystone),Mythic+
+462,Neltharion's Lair (Mythic Keystone),Mythic+
+463,Black Rook Hold (Mythic Keystone),Mythic+
+464,Vault of the Wardens (Mythic Keystone),Mythic+
+465,Maw of Souls (Mythic Keystone),Mythic+
+466,Court of Stars (Mythic Keystone),Mythic+
+467,The Arcway (Mythic Keystone),Mythic+
+468,Emerald Nightmare (Mythic),Mythic
+469,Broken Shore,Broken Shore
+470,Lower Karazhan (Heroic),Heroic
+471,Lower Karazhan (Mythic Keystone),Mythic+
+472,Upper Karazhan (Heroic),Heroic
+473,Upper Karazhan (Mythic Keystone),Mythic+
+474,Cathedral of Eternal Night (Heroic),Heroic
+475,Cathedral of Eternal Night (Mythic),Mythic
+476,Cathedral of Eternal Night (Mythic Keystone),Mythic+
+478,Tomb of Sargeras (Heroic),Heroic
+479,Tomb of Sargeras (Normal),Normal
+480,Trial of Valor (Mythic),Mythic
+481,The Nighthold (Mythic),Mythic
+482,"Antorus, the Burning Throne (Normal)",Normal
+483,"Antorus, the Burning Throne (Heroic)",Heroic
+484,Seat of the Triumvirate (Heroic),Heroic
+485,Seat of the Triumvirate (Mythic),Mythic
+486,Seat of the Triumvirate (Mythic Keystone),Mythic+
+487,Krokuun,Krokuun
+488,Antoran Wastes,Antoran Wastes
+489,Eredath,Eredath
+490,Arena Skirmish (3v3),3v3
+491,Arena Skirmish (2v2),2v2
+492,Tomb of Sargeras (Mythic),Mythic
+493,"Antorus, the Burning Throne (Mythic)",Mythic
+494,Uldir (Normal),Normal
+495,Uldir (Heroic),Heroic
+496,Uldir (Mythic),Mythic
+497,Random Battle for Azeroth Dungeon (Normal),Normal
+498,Random Battle for Azeroth Dungeon (Heroic),Heroic
+499,Atal'Dazar (Mythic),Mythic
+500,Atal'Dazar (Heroic),Heroic
+501,Atal'Dazar (Normal),Normal
+502,Atal'Dazar (Mythic Keystone),Mythic+
+503,Temple of Sethraliss (Normal),Normal
+504,Temple of Sethraliss (Mythic Keystone),Mythic+
+505,Temple of Sethraliss (Heroic),Heroic
+506,The Underrot (Normal),Normal
+507,The Underrot (Mythic Keystone),Mythic+
+508,The Underrot (Heroic),Heroic
+509,THE MOTHERLODE (Normal),Normal
+510,THE MOTHERLODE (Mythic Keystone),Mythic+
+511,THE MOTHERLODE (Heroic),Heroic
+512,Kings' Rest (Normal),Normal
+513,Kings' Rest (Mythic),Mythic
+514,Kings' Rest (Mythic Keystone),Mythic+
+515,Kings' Rest (Heroic),Heroic
+516,Freehold (Normal),Normal
+517,Freehold (Mythic),Mythic
+518,Freehold (Mythic Keystone),Mythic+
+519,Freehold (Heroic),Heroic
+520,Shrine of the Storm (Normal),Normal
+521,Shrine of the Storm (Mythic),Mythic
+522,Shrine of the Storm (Mythic Keystone),Mythic+
+523,Shrine of the Storm (Heroic),Heroic
+524,Tol Dagor (Normal),Normal
+525,Tol Dagor (Mythic),Mythic
+526,Tol Dagor (Mythic Keystone),Mythic+
+527,Tol Dagor (Heroic),Heroic
+528,Waycrest Manor (Normal),Normal
+529,Waycrest Manor (Mythic),Mythic
+530,Waycrest Manor (Mythic Keystone),Mythic+
+531,Waycrest Manor (Heroic),Heroic
+532,Siege of Boralus (Normal),Normal
+533,Siege of Boralus (Mythic),Mythic
+534,Siege of Boralus (Mythic Keystone),Mythic+
+535,Siege of Boralus (Heroic),Heroic
+536,Waycrest Manor (Normal),Normal
+537,Tol Dagor (Normal),Normal
+538,Shrine of the Storm (Normal),Normal
+539,Freehold (Normal),Normal
+540,THE MOTHERLODE (Normal),Normal
+541,The Underrot (Normal),Normal
+542,Temple of Sethraliss (Normal),Normal
+543,Atal'Dazar (Normal),Normal
+644,The Underrot (Mythic),Mythic
+645,Temple of Sethraliss (Mythic),Mythic
+646,THE MOTHERLODE (Mythic),Mythic
+647,Tiragarde Sound,Tiragarde Sound
+648,Drustvar,Drustvar
+649,Stormsong Valley,Stormsong Valley
+650,Zuldazar,Zuldazar
+651,Nazmir,Nazmir
+652,Vol'dun,Vol'dun
+653,Random Island (Normal),Normal
+654,Random Island (Heroic),Heroic
+655,Random Island (Mythic),Mythic
+657,World Bosses (Battle for Azeroth),World Bosses
+658,Siege of Boralus (Mythic),Mythic
+659,Siege of Boralus (Mythic Keystone),Mythic+
+660,Kings' Rest (Mythic),Mythic
+661,Kings' Rest (Mythic Keystone),Mythic+
+662,Random Island (PvP),PvP
+663,Battle of Dazar'alor (Normal),Normal
+664,Battle of Dazar'alor (Heroic),Heroic
+665,Battle of Dazar'alor (Mythic),Mythic
+666,Crucible of Storms (Mythic),Mythic
+667,Crucible of Storms (Heroic),Heroic
+668,Crucible of Storms (Normal),Normal
+669,Operation: Mechagon (Mythic),Mythic
+670,The Eternal Palace (Mythic),Mythic
+671,The Eternal Palace (Heroic),Heroic
+672,The Eternal Palace (Normal),Normal
+673,Battle for Stromgarde (Heroic),Heroic
+674,Nazjatar,Nazjatar
+675,Mechagon,Mechagon
+676,Firelands (Normal),Normal
+677,Firelands (Heroic),Heroic
+679,Mechagon Junkyard (Mythic Keystone),Mythic+
+682,Mechagon Junkyard (Heroic),Heroic
+683,Mechagon Workshop (Mythic Keystone),Mythic+
+684,Mechagon Workshop (Heroic),Heroic
+685,"Ny'alotha, the Waking City (Mythic)",Mythic
+686,"Ny'alotha, the Waking City (Heroic)",Heroic
+687,"Ny'alotha, the Waking City (Normal)",Normal
+688,Plaguefall (Normal),Normal
+689,Plaguefall (Heroic),Heroic
+690,Plaguefall (Mythic),Mythic
+691,Plaguefall (Mythic Keystone),Mythic+
+692,De Other Side (Normal),Normal
+693,De Other Side (Heroic),Heroic
+694,De Other Side (Mythic),Mythic
+695,De Other Side (Mythic Keystone),Mythic+
+696,Halls of Atonement (Normal),Normal
+697,Halls of Atonement (Heroic),Heroic
+698,Halls of Atonement (Mythic),Mythic
+699,Halls of Atonement (Mythic Keystone),Mythic+
+700,Mists of Tirna Scithe (Normal),Normal
+701,Mists of Tirna Scithe (Heroic),Heroic
+702,Mists of Tirna Scithe (Mythic),Mythic
+703,Mists of Tirna Scithe (Mythic Keystone),Mythic+
+704,Sanguine Depths (Normal),Normal
+705,Sanguine Depths (Mythic Keystone),Mythic+
+706,Sanguine Depths (Mythic),Mythic
+707,Sanguine Depths (Heroic),Heroic
+708,Spires of Ascension (Normal),Normal
+709,Spires of Ascension (Mythic Keystone),Mythic+
+710,Spires of Ascension (Mythic),Mythic
+711,Spires of Ascension (Heroic),Heroic
+712,The Necrotic Wake (Normal),Normal
+713,The Necrotic Wake (Mythic Keystone),Mythic+
+714,The Necrotic Wake (Mythic),Mythic
+715,The Necrotic Wake (Heroic),Heroic
+716,Theater of Pain (Normal),Normal
+717,Theater of Pain (Mythic Keystone),Mythic+
+718,Theater of Pain (Mythic),Mythic
+719,Theater of Pain (Heroic),Heroic
+720,Castle Nathria (Normal),Normal
+721,Castle Nathria (Mythic),Mythic
+722,Castle Nathria (Heroic),Heroic
+723,World Bosses (Shadowlands),World Bosses
+724,Skoldus Hall,Layer 1
+725,Twisting Corridors,Layer 1
+726,Fracture Chambers,Layer 1
+727,Soulforges,Layer 1
+728,Coldheart Interstitia,Layer 1
+729,Mort'regar,Layer 1
+730,The Upper Reaches,Layer 1
+731,Arena Skirmish (2v2),2v2
+732,Arena Skirmish (2v2),2v2
+733,Arena Skirmish (3v3),3v3
+734,Arena Skirmish (3v3),3v3
+735,Arkoban Hall,Arkoban Hall
+736,Torment Chamber: Jaina,Torment Chamber: Jaina
+737,Torment Chamber: Thrall,Torment Chamber: Thrall
+738,Ardenweald,Ardenweald
+739,Bastion,Bastion
+740,Maldraxxus,Maldraxxus
+741,Revendreth,Revendreth
+742,The Maw,The Maw
+743,Sanctum of Domination (Normal),Normal
+744,Sanctum of Domination (Heroic),Heroic
+745,Sanctum of Domination (Mythic),Mythic
+746,"Tazavesh, the Veiled Market (Mythic)",Mythic
+940,Twisting Corridors,Layer 2
+941,Twisting Corridors,Layer 3
+942,Twisting Corridors,Layer 4
+943,Twisting Corridors,Layer 5
+944,Twisting Corridors,Layer 6
+945,Twisting Corridors,Layer 7
+946,Twisting Corridors,Layer 8
+947,Twisting Corridors,Layer 9
+948,Twisting Corridors,Layer 10
+949,Twisting Corridors,Layer 11
+950,Twisting Corridors,Layer 12
+951,Skoldus Hall,Layer 2
+952,Skoldus Hall,Layer 3
+953,Skoldus Hall,Layer 4
+955,Skoldus Hall,Layer 5
+956,Skoldus Hall,Layer 6
+957,Skoldus Hall,Layer 7
+958,Skoldus Hall,Layer 8
+959,Skoldus Hall,Layer 9
+960,Skoldus Hall,Layer 10
+961,The Upper Reaches,Layer 2
+962,The Upper Reaches,Layer 3
+963,The Upper Reaches,Layer 4
+964,The Upper Reaches,Layer 5
+965,The Upper Reaches,Layer 6
+966,The Upper Reaches,Layer 7
+967,The Upper Reaches,Layer 8
+968,The Upper Reaches,Layer 9
+969,The Upper Reaches,Layer 10
+970,Skoldus Hall,Layer 11
+971,The Upper Reaches,Layer 11
+972,The Upper Reaches,Layer 12
+973,Soulforges,Layer 2
+974,Soulforges,Layer 3
+975,Soulforges,Layer 4
+976,Soulforges,Layer 5
+977,Soulforges,Layer 6
+978,Soulforges,Layer 7
+979,Soulforges,Layer 8
+980,Soulforges,Layer 9
+981,Soulforges,Layer 10
+982,Soulforges,Layer 11
+983,Mort'regar,Layer 2
+984,Mort'regar,Layer 3
+985,Mort'regar,Layer 4
+986,Mort'regar,Layer 5
+987,Mort'regar,Layer 6
+988,Mort'regar,Layer 7
+989,Mort'regar,Layer 8
+990,Mort'regar,Layer 9
+991,Mort'regar,Layer 10
+992,Mort'regar,Layer 11
+993,Mort'regar,Layer 12
+994,Fracture Chambers,Layer 2
+995,Fracture Chambers,Layer 3
+996,Fracture Chambers,Layer 4
+997,Fracture Chambers,Layer 5
+998,Fracture Chambers,Layer 6
+999,Fracture Chambers,Layer 7
+1000,Fracture Chambers,Layer 8
+1001,Fracture Chambers,Layer 9
+1002,Fracture Chambers,Layer 10
+1003,Fracture Chambers,Layer 11
+1004,Fracture Chambers,Layer 12
+1005,Coldheart Interstitia,Layer 2
+1006,Coldheart Interstitia,Layer 3
+1007,Coldheart Interstitia,Layer 4
+1008,Coldheart Interstitia,Layer 5
+1009,Coldheart Interstitia,Layer 6
+1010,Coldheart Interstitia,Layer 7
+1011,Coldheart Interstitia,Layer 8
+1012,Coldheart Interstitia,Layer 9
+1013,Coldheart Interstitia,Layer 10
+1014,Coldheart Interstitia,Layer 11
+1015,Coldheart Interstitia,Layer 12
+1016,Tazavesh Streets (Mythic Keystone),Mythic+
+1017,Tazavesh Gambit (Mythic Keystone),Mythic+
+1018,Tazavesh Streets (Heroic),Heroic
+1019,Tazavesh Gambit (Heroic),Heroic
+1020,Sepulcher of the First Ones (Normal),Normal
+1021,Sepulcher of the First Ones (Heroic),Heroic
+1022,Sepulcher of the First Ones (Mythic),Mythic
+1024,Coldheart Interstitia,Layer 13
+1025,Coldheart Interstitia,Layer 14
+1026,Coldheart Interstitia,Layer 15
+1027,Coldheart Interstitia,Layer 16
+1028,Fracture Chambers,Layer 13
+1029,Fracture Chambers,Layer 14
+1030,Fracture Chambers,Layer 15
+1031,Fracture Chambers,Layer 16
+1032,Mort'regar,Layer 13
+1033,Mort'regar,Layer 14
+1034,Mort'regar,Layer 15
+1035,Mort'regar,Layer 16
+1036,Skoldus Hall,Layer 12
+1037,Skoldus Hall,Layer 13
+1038,Skoldus Hall,Layer 14
+1039,Skoldus Hall,Layer 15
+1040,Skoldus Hall,Layer 16
+1041,Soulforges,Layer 12
+1042,Soulforges,Layer 13
+1043,Soulforges,Layer 14
+1044,Soulforges,Layer 15
+1045,Soulforges,Layer 16
+1046,The Upper Reaches,Layer 13
+1047,The Upper Reaches,Layer 14
+1048,The Upper Reaches,Layer 15
+1049,The Upper Reaches,Layer 16
+1050,The Jailer's Gauntlet,Layer 1
+1051,The Jailer's Gauntlet,Layer 2
+1052,The Jailer's Gauntlet,Layer 3
+1053,The Jailer's Gauntlet,Layer 4
+1054,The Jailer's Gauntlet,Layer 5
+1055,The Jailer's Gauntlet,Layer 6
+1056,The Jailer's Gauntlet,Layer 7
+1057,The Jailer's Gauntlet,Layer 8
+1058,The Waking Shores,The Waking Shores
+1059,Ohn'ahran Plains,Ohn'ahran Plains
+1060,The Azure Span,The Azure Span
+1061,Thaldraszus,Thaldraszus
+1062,Zereth Mortis,Zereth Mortis
+1063,Korthia,Korthia
+1146,World Bosses (Dragonflight),World Bosses
+1157,Algeth'ar Academy (Normal),Normal
+1158,Algeth'ar Academy (Heroic),Heroic
+1159,Algeth'ar Academy (Mythic),Mythic
+1160,Algeth'ar Academy (Mythic Keystone),Mythic+
+1161,Brackenhide Hollow (Normal),Normal
+1162,Brackenhide Hollow (Heroic),Heroic
+1163,Brackenhide Hollow (Mythic),Mythic
+1164,Brackenhide Hollow (Mythic Keystone),Mythic+
+1165,Halls of Infusion (Normal),Normal
+1166,Halls of Infusion (Heroic),Heroic
+1167,Halls of Infusion (Mythic),Mythic
+1168,Halls of Infusion (Mythic Keystone),Mythic+
+1169,Neltharus (Normal),Normal
+1170,Neltharus (Heroic),Heroic
+1171,Neltharus (Mythic),Mythic
+1172,Neltharus (Mythic Keystone),Mythic+
+1173,Ruby Life Pools (Normal),Normal
+1174,Ruby Life Pools (Heroic),Heroic
+1175,Ruby Life Pools (Mythic),Mythic
+1176,Ruby Life Pools (Mythic Keystone),Mythic+
+1177,The Azure Vault (Normal),Normal
+1178,The Azure Vault (Heroic),Heroic
+1179,The Azure Vault (Mythic),Mythic
+1180,The Azure Vault (Mythic Keystone),Mythic+
+1181,The Nokhud Offensive (Normal),Normal
+1182,The Nokhud Offensive (Heroic),Heroic
+1183,The Nokhud Offensive (Mythic),Mythic
+1184,The Nokhud Offensive (Mythic Keystone),Mythic+
+1185,Uldaman: Legacy of Tyr (Normal),Normal
+1186,Uldaman: Legacy of Tyr (Heroic),Heroic
+1187,Uldaman: Legacy of Tyr (Mythic),Mythic
+1188,Uldaman: Legacy of Tyr (Mythic Keystone),Mythic+
+1189,Vault of the Incarnates (Normal),Normal
+1190,Vault of the Incarnates (Heroic),Heroic
+1191,Vault of the Incarnates (Mythic),Mythic
+1192,Temple of the Jade Serpent (Mythic Keystone),Mythic+
+1193,Shadowmoon Burial Grounds (Mythic Keystone),Mythic+
+1194,Uldaman: Legacy of Tyr (Normal),Normal
+1195,The Vortex Pinnacle (Mythic Keystone),Mythic+
+1196,The Forbidden Reach,The Forbidden Reach
+1235,Aberrus (Normal),Normal
+1236,Aberrus (Heroic),Heroic
+1237,Aberrus (Mythic),Mythic
+1243,Zaralek Cavern,Zaralek Cavern
+1244,Dawn of the Infinite (Mythic),Mythic
+1245,Galakrond's Fall - Dawn of the Infinite (Heroic),Heroic
+1246,Murozond's Rise - Dawn of the Infinite (Heroic),Heroic
+1247,Galakrond's Fall - Dawn of the Infinite (Mythic Keystone),Mythic+
+1248,Murozond's Rise - Dawn of the Infinite (Mythic Keystone),Mythic+
+1249,Emerald Dream,Emerald Dream
+1251,Amirdrassil (Normal),Normal
+1252,Amirdrassil (Heroic),Heroic
+1253,Amirdrassil (Mythic),Mythic
+1274,Throne of the Tides (Mythic Keystone),Mythic+
+1275,Darkflame Cleft (Normal),Normal
+1276,Darkflame Cleft (Heroic),Heroic
+1277,Darkflame Cleft (Mythic),Mythic
+1278,"Ara-Kara, City of Echoes (Normal)",Normal
+1279,"Ara-Kara, City of Echoes (Heroic)",Heroic
+1280,"Ara-Kara, City of Echoes (Mythic)",Mythic
+1281,Priory of the Sacred Flame (Mythic Keystone),Mythic+
+1282,Darkflame Cleft (Mythic Keystone),Mythic+
+1283,The Rookery (Mythic Keystone),Mythic+
+1284,"Ara-Kara, City of Echoes (Mythic Keystone)",Mythic+
+1285,The Dawnbreaker (Mythic Keystone),Mythic+
+1286,Cinderbrew Meadery (Mythic Keystone),Mythic+
+1287,The Stonevault (Mythic Keystone),Mythic+
+1288,City of Threads (Mythic Keystone),Mythic+
+1289,World Bosses (War Within),World Bosses
+1290,Grim Batol (Mythic Keystone),Mythic+
+1291,The Dawnbreaker (Mythic),Mythic
+1292,The Stonevault (Mythic),Mythic
+1293,City of Threads (Mythic),Mythic
+1294,Grim Batol (Mythic),Mythic
+1295,Fungal Folly,Tier 1
+1296,Kriegval's Rest,Tier 1
+1297,Earthcrawl Mines,Tier 1
+1298,Zekvir's Lair,Tier ??
+1299,The Waterworks,Tier 1
+1300,The Dread Pit,Tier 1
+1301,Nightfall Sanctum,Tier 1
+1302,Mycomancer Cavern,Tier 1
+1303,The Sinkhole,Tier 1
+1304,Skittering Breach,Tier 1
+1305,The Underkeep,Tier 1
+1306,Tak-Rethan Abyss,Tier 1
+1307,The Spiral Weave,Tier 1
+1308,The Rookery (Normal),Normal
+1309,The Rookery (Heroic),Heroic
+1310,The Rookery (Mythic),Mythic
+1311,The Jade Forest,The Jade Forest
+1312,Valley of the Four Winds,Valley of the Four Winds
+1313,Krasarang Wilds,Krasarang Wilds
+1314,The Veiled Stair,The Veiled Stair
+1315,Kun-Lai Summit,Kun-Lai Summit
+1316,Townlong Steppes,Townlong Steppes
+1317,Dread Wastes,Dread Wastes
+1318,Vale of Eternal Blossoms,Vale of Eternal Blossoms
+1319,Isle of Giants,Isle of Giants
+1320,Isle of Thunder,Isle of Thunder
+1321,Timeless Isle,Timeless Isle
+1322,Mogu'shan Vaults (10 Heroic),10 Heroic
+1323,Mogu'shan Vaults (10 Normal),10 Normal
+1324,Heart of Fear (10 Heroic),10 Heroic
+1325,Heart of Fear (10 Normal),10 Normal
+1326,Terrace of Endless Spring (10 Heroic),10 Heroic
+1327,Terrace of Endless Spring (10 Normal),10 Normal
+1328,Throne of Thunder (10 Heroic),10 Heroic
+1329,Throne of Thunder (10 Normal),10 Normal
+1330,Siege of Orgrimmar (Mythic),Mythic
+1331,Siege of Orgrimmar (Heroic),Heroic
+1332,Siege of Orgrimmar (Normal),Normal
+1333,Temple of the Jade Serpent (Heroic),Heroic
+1334,Temple of the Jade Serpent (Normal),Normal
+1335,Scarlet Halls (Heroic),Heroic
+1336,Scarlet Halls (Normal),Normal
+1337,Scarlet Monastery (Heroic),Heroic
+1338,Scarlet Monastery (Normal),Normal
+1339,Scholomance (Heroic),Heroic
+1340,Scholomance (Normal),Normal
+1341,Stormstout Brewery (Heroic),Heroic
+1342,Stormstout Brewery (Normal),Normal
+1343,Shado-Pan Monastery (Heroic),Heroic
+1344,Shado-Pan Monastery (Normal),Normal
+1345,Siege of Niuzao Temple (Heroic),Heroic
+1346,Siege of Niuzao Temple (Normal),Normal
+1347,Mogu'shan Palace (Heroic),Heroic
+1348,Mogu'shan Palace (Normal),Normal
+1349,Gate of the Setting Sun (Heroic),Heroic
+1350,Gate of the Setting Sun (Normal),Normal
+1351,Greenstone Village (Normal),Normal
+1353,A Brewing Storm (Heroic),Heroic
+1354,A Brewing Storm (Normal),Normal
+1355,Unga Ingoo (Normal),Normal
+1356,Arena of Annihilation (Normal),Normal
+1357,Brewmoon Festival (Normal),Normal
+1358,Crypt of Forgotten Kings (Normal),Normal
+1359,Crypt of Forgotten Kings (Heroic),Heroic
+1360,Assault on Zan'vess (Normal),Normal
+1361,Dagger in the Dark (Normal),Normal
+1362,Dagger in the Dark (Normal),Normal
+1363,A Little Patience (Normal),Normal
+1364,A Little Patience (Normal),Normal
+1365,Domination Point (Normal),Normal
+1366,Lion's Landing (Normal),Normal
+1367,Battle on the High Seas (Heroic),Heroic
+1368,Battle on the High Seas (Normal),Normal
+1369,Battle on the High Seas (Normal),Normal
+1370,Battle on the High Seas (Heroic),Heroic
+1371,Theramore's Fall (Normal),Normal
+1372,Theramore's Fall (Normal),Normal
+1373,Blood in the Snow (Normal),Normal
+1374,Blood in the Snow (Heroic),Heroic
+1375,Dark Heart of Pandaria (Normal),Normal
+1376,Dark Heart of Pandaria (Heroic),Heroic
+1377,The Secrets of Ragefire (Normal),Normal
+1378,The Secrets of Ragefire (Heroic),Heroic
+1382,City of Threads (Normal),Normal
+1383,City of Threads (Heroic),Heroic
+1384,Fungal Folly,Tier 2
+1385,Kriegval's Rest,Tier 2
+1386,Earthcrawl Mines,Tier 2
+1387,The Waterworks,Tier 2
+1388,The Dread Pit,Tier 2
+1389,Nightfall Sanctum,Tier 2
+1390,Mycomancer Cavern,Tier 2
+1391,The Sinkhole,Tier 2
+1392,Skittering Breach,Tier 2
+1393,The Underkeep,Tier 2
+1394,Tak-Rethan Abyss,Tier 2
+1395,The Spiral Weave,Tier 2
+1396,Fungal Folly,Tier 3
+1397,Kriegval's Rest,Tier 3
+1398,Earthcrawl Mines,Tier 3
+1399,The Waterworks,Tier 3
+1400,The Dread Pit,Tier 3
+1401,Nightfall Sanctum,Tier 3
+1402,Mycomancer Cavern,Tier 3
+1403,The Sinkhole,Tier 3
+1404,Skittering Breach,Tier 3
+1405,The Underkeep,Tier 3
+1406,Tak-Rethan Abyss,Tier 3
+1407,The Spiral Weave,Tier 3
+1408,Fungal Folly,Tier 4
+1409,Kriegval's Rest,Tier 4
+1410,Earthcrawl Mines,Tier 4
+1411,The Waterworks,Tier 4
+1412,The Dread Pit,Tier 4
+1413,Nightfall Sanctum,Tier 4
+1414,Mycomancer Cavern,Tier 4
+1415,The Sinkhole,Tier 4
+1416,Skittering Breach,Tier 4
+1417,The Underkeep,Tier 4
+1418,Tak-Rethan Abyss,Tier 4
+1419,The Spiral Weave,Tier 4
+1420,Fungal Folly,Tier 5
+1421,Kriegval's Rest,Tier 5
+1422,Earthcrawl Mines,Tier 5
+1423,The Waterworks,Tier 5
+1424,The Dread Pit,Tier 5
+1425,Nightfall Sanctum,Tier 5
+1426,Mycomancer Cavern,Tier 5
+1427,The Sinkhole,Tier 5
+1428,Skittering Breach,Tier 5
+1429,The Underkeep,Tier 5
+1430,Tak-Rethan Abyss,Tier 5
+1431,The Spiral Weave,Tier 5
+1432,Fungal Folly,Tier 6
+1433,Kriegval's Rest,Tier 6
+1434,Earthcrawl Mines,Tier 6
+1435,The Waterworks,Tier 6
+1436,The Dread Pit,Tier 6
+1437,Nightfall Sanctum,Tier 6
+1438,Mycomancer Cavern,Tier 6
+1439,The Sinkhole,Tier 6
+1440,Skittering Breach,Tier 6
+1441,The Underkeep,Tier 6
+1442,Tak-Rethan Abyss,Tier 6
+1443,The Spiral Weave,Tier 6
+1444,Fungal Folly,Tier 7
+1445,Kriegval's Rest,Tier 7
+1446,Earthcrawl Mines,Tier 7
+1447,The Waterworks,Tier 7
+1448,The Dread Pit,Tier 7
+1449,Nightfall Sanctum,Tier 7
+1450,Mycomancer Cavern,Tier 7
+1451,The Sinkhole,Tier 7
+1452,Skittering Breach,Tier 7
+1453,The Underkeep,Tier 7
+1454,Tak-Rethan Abyss,Tier 7
+1455,The Spiral Weave,Tier 7
+1456,Fungal Folly,Tier 8
+1457,Kriegval's Rest,Tier 8
+1458,Earthcrawl Mines,Tier 8
+1459,The Waterworks,Tier 8
+1460,The Dread Pit,Tier 8
+1461,Nightfall Sanctum,Tier 8
+1462,Mycomancer Cavern,Tier 8
+1463,The Sinkhole,Tier 8
+1464,Skittering Breach,Tier 8
+1465,The Underkeep,Tier 8
+1466,Tak-Rethan Abyss,Tier 8
+1467,The Spiral Weave,Tier 8
+1468,Fungal Folly,Tier 9
+1469,Kriegval's Rest,Tier 9
+1470,Earthcrawl Mines,Tier 9
+1471,The Waterworks,Tier 9
+1472,The Dread Pit,Tier 9
+1473,Nightfall Sanctum,Tier 9
+1474,Mycomancer Cavern,Tier 9
+1475,The Sinkhole,Tier 9
+1476,Skittering Breach,Tier 9
+1477,The Underkeep,Tier 9
+1478,Tak-Rethan Abyss,Tier 9
+1479,The Spiral Weave,Tier 9
+1480,Fungal Folly,Tier 10
+1481,Kriegval's Rest,Tier 10
+1482,Earthcrawl Mines,Tier 10
+1483,The Waterworks,Tier 10
+1484,The Dread Pit,Tier 10
+1485,Nightfall Sanctum,Tier 10
+1486,Mycomancer Cavern,Tier 10
+1487,The Sinkhole,Tier 10
+1488,Skittering Breach,Tier 10
+1489,The Underkeep,Tier 10
+1490,Tak-Rethan Abyss,Tier 10
+1491,The Spiral Weave,Tier 10
+1492,Fungal Folly,Tier 11
+1493,Kriegval's Rest,Tier 11
+1494,Earthcrawl Mines,Tier 11
+1495,The Waterworks,Tier 11
+1496,The Dread Pit,Tier 11
+1497,Nightfall Sanctum,Tier 11
+1498,Mycomancer Cavern,Tier 11
+1499,The Sinkhole,Tier 11
+1500,Skittering Breach,Tier 11
+1501,The Underkeep,Tier 11
+1502,Tak-Rethan Abyss,Tier 11
+1503,The Spiral Weave,Tier 11
+1504,Nerub-ar Palace (Mythic),Mythic
+1505,Nerub-ar Palace (Normal),Normal
+1506,Nerub-ar Palace (Heroic),Heroic
+1507,Cinderbrew Meadery (Normal),Normal
+1508,Cinderbrew Meadery (Heroic),Heroic
+1509,Cinderbrew Meadery (Mythic),Mythic
+1510,Priory of the Sacred Flame (Normal),Normal
+1511,Priory of the Sacred Flame (Heroic),Heroic
+1512,Priory of the Sacred Flame (Mythic),Mythic
+1513,The Ringing Deeps,The Ringing Deeps
+1518,The Dawnbreaker (Normal),Normal
+1519,The Dawnbreaker (Heroic),Heroic
+1520,Zekvir's Lair,Tier 8
+1521,The Stonevault (Heroic),Heroic
+1535,The Stonevault (Normal),Normal

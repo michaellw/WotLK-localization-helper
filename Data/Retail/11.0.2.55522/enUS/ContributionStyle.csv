@@ -1,0 +1,8 @@
+ID,StateName_lang,TooltipLine_lang
+1,Under Construction,%s Built
+2,Active,Active
+3,Under Attack,Time Left: %s
+4,Destroyed,Destroyed
+5,Contributing,%s Contributed
+6,Siege,Siege
+8,Patrol,Patrol

@@ -1,0 +1,369 @@
+ID,Description_lang,PendingText_lang
+2,,
+3,,
+30,,A delivery of delicious fish is coming soon!
+31,"Generate a shipment of Alchemical Catalysts.
+
+You can view the progress of shipments in the Garrison Report.
+
+Once the building is Level 2 or higher, you can assign a follower from the architect table to increase your yield.",Alchemical Catalyst
+32,"Generates a shipment of meat, leather, or fur, depending on the creature captured.
+
+If the building is Level 2 or higher, you can assign a follower from the architect table to increase your yield.",Barn Shipment
+36,"Generates a shipment of Garrison Resources from timber harvested from around Draenor.
+
+You can view the progress of shipments in the Garrison Report. 
+
+Return to collect goods when they are complete.",Lumber Mill Shipment
+37,"Generate a shipment of Hexweave Cloth. 
+
+You can view the progress of shipments in the Garrison Report.
+
+Once the building is Level 2 or higher, you can assign a follower from the architect table to increase your yield.",Hexweave Cloth
+49,"Generate a shipment of Truesteel Ingots.
+
+You can view the progress of shipments in the Garrison Report.
+
+Once the building is Level 2 or higher, you can assign a follower from the architect table to increase your yield.",Truesteel Ingot
+50,"Generate a shipment of Burnished Leather.
+
+You can view the progress of shipments in the Garrison Report.
+
+If the building is Level 2 or higher, you can assign a follower from the architect table to increase your yield.",Burnished Leather
+51,"Generate a shipment of Taladite Crystal.
+
+You can view the progress of shipments in the Garrison Report.
+
+If the building is Level 2 or higher, you can assign a follower from the architect table to increase your yield.",Taladite Crystal
+52,"Generate a shipment of enchanting crystals.
+
+You can view the progress of shipments in the Garrison Report.
+
+Once the building is Level 2 or higher, you can assign a follower from the architect table to increase your yield.",Temporal Crystal
+53,"Generate a shipment of Gearspring Parts.
+
+You can view the progress of shipments in the Garrison Report.
+
+If the building is Level 2 or higher, you can assign a follower from the architect table to increase your yield.",Gearspring Parts
+54,"Generate a shipment of War Paints.
+
+You can view the progress of shipments in the Garrison Report.
+
+If the building is Level 2 or higher, you can assign a follower from the architect table to increase your yield.",War Paints
+55,"Generates a shipment of herbs from draenic seeds you have gathered.
+
+You can view the progress of shipments in the Garrison Report. 
+
+Return to collect goods when they are complete.",Garden Shipment
+56,"Generates a shipment of ore from Draenic Stone you have mined.
+
+You can view the progress of shipments in the Garrison Report. 
+
+Return to collect goods when they are complete.",Mine Shipment
+57,"Generate a shipment of Alchemical Catalysts.
+
+You can view the progress of shipments in the Garrison Report.
+
+Once the building is Level 2 or higher, you can assign a follower from the architect table to increase your yield.",Alchemical Catalyst
+58,"Generate a shipment of Truesteel Ingots.
+
+You can view the progress of shipments in the Garrison Report.
+
+Once the building is Level 2 or higher, you can assign a follower from the architect table to increase your yield.",Truesteel Ingot
+59,"Generate a shipment of enchanting crystals.
+
+You can view the progress of shipments in the Garrison Report.
+
+Once the building is Level 2 or higher, you can assign a follower from the architect table to increase your yield.",Temporal Crystal
+60,"Generate a shipment of Gearspring Parts.
+
+You can view the progress of shipments in the Garrison Report.
+
+If the building is Level 2 or higher, you can assign a follower from the architect table to increase your yield.",Gearspring Parts
+61,"Generate a shipment of War Paints.
+
+You can view the progress of shipments in the Garrison Report.
+
+If the building is Level 2 or higher, you can assign a follower from the architect table to increase your yield.",War Paints
+62,"Generate a shipment of Taladite Crystal.
+
+You can view the progress of shipments in the Garrison Report.
+
+If the building is Level 2 or higher, you can assign a follower from the architect table to increase your yield.",Taladite Crystal
+63,"Generate a shipment of Burnished Leather.
+
+You can view the progress of shipments in the Garrison Report.
+
+If the building is Level 2 or higher, you can assign a follower from the architect table to increase your yield.",Burnished Leather
+64,"Generate a shipment of Hexweave Cloth. 
+
+You can view the progress of shipments in the Garrison Report.
+
+Once the building is Level 2 or higher, you can assign a follower from the architect table to increase your yield.",Hexweave Cloth
+65,"Turn in pieces of your enemies at the Altar of Bones to earn a tribute of riches and powerful items.
+
+You can view the progress of your offering in the Garrison Report.",Conqueror's Tribute
+66,"Trade in raw tradeskill materials for Garrison Resources.
+
+You can view the progress of shipments in the Garrison Report. 
+
+Return to collect goods when they are complete.",Garrison Resources
+70,"Trade in raw tradeskill materials for Garrison Resources.
+
+You can view the progress of shipments in the Garrison Report. 
+
+Return to collect goods when they are complete.",Garrison Resources
+74,"Produces an Overcharged Demolisher. 
+
+You can view the progress of shipments in the Garrison Report. 
+
+Return to collect goods when they are complete.",Overcharged Demolisher
+75,"Produces an Overcharged Siege Engine.
+
+You can view the progress of shipments in the Garrison Report. 
+
+Return to collect goods when they are complete.",Overcharged Siege Engine
+77,"Trade in Garrison Resources for follower upgrades and armor scraps.
+
+You can view the progress of shipments in the Garrison Report. 
+
+Return to collect goods when they are complete.",
+78,"Trade in Garrison Resources for follower upgrades and armor scraps.
+
+You can view the progress of shipments in the Garrison Report. 
+
+Return to collect goods when they are complete.",
+79,"Generates a shipment of ore from Draenic Stone you have mined.
+
+You can view the progress of shipments in the Garrison Report. 
+
+Return to collect goods when they are complete.",Mine Shipment
+80,"Generates a shipment of herbs from draenic seeds you have gathered.
+
+You can view the progress of shipments in the Garrison Report. 
+
+Return to collect goods when they are complete.",Garden Shipment
+100,"Trade in Ogre Waystones for Apexis Crystals and Mission Completion Orders.
+
+You can view the progress of shipments in the Garrison Report. 
+
+Return to collect goods when they are complete.",
+101,"Trade in Ogre Waystones for Apexis Crystals and Mission Completion Orders.
+
+You can view the progress of shipments in the Garrison Report. 
+
+Return to collect goods when they are complete.",
+103,"Drops explosive shells into the water, destroying submerged craft.
+
+|cFFFFD200Build Time: 30m|r
+
+|cffb2f0ffCounters: |r
+|TInterface\ICONS\Ships_ABILITY_Stealth.blp:24:24:0:0|t |cffffffff Submarine|r",
+104,"A destructive diving vessel that can be used on naval missions.
+
+|cFFFFD200Build Time: 2hrs|r
+
+|cffb2f0ffCounters: |r
+|TInterface\ICONS\Ships_ABILITY_Bombers.blp:24:24:0:0|t |cffffffff Carrier|r",
+105,"A powerful ship with large cannons that can be used on naval missions.
+
+|cFFFFD200Build Time: 1hr|r
+
+|cffb2f0ffCounters: |r
+|TInterface\ICONS\Ships_ABILITY_DepthCharges.blp:24:24:0:0|t |cffffffff Destroyer|r",
+106,"A large ship used to transport troops and recover materials on naval missions.
+
+|cFFFFD200Build Time: 30m|r
+
+|cffb2f0ffCounters: |r
+|TInterface\ICONS\ABILITY_ROGUE_FLEETFOOTED.BLP:24:24:0:0|t |cffffffff Land Objective|r",
+107,"A strategic ship that can launch air attacks at sea for naval missions.
+
+|cFFFFD200Build Time: 2hrs|r
+
+|cffb2f0ffCounters: |r
+|TInterface\ICONS\Ships_ABILITY_ArmorPiercingAmmo.blp:24:24:0:0|t |cffffffff Battleship|r",
+109,"A large ship used to transport troops and recover materials on naval missions.
+
+|cFFFFD200Build Time: 1m|r
+
+|cffb2f0ffCounters: |r
+|TInterface\ICONS\ABILITY_ROGUE_FLEETFOOTED.BLP:24:24:0:0|t |cffffffff Land Objective|r",
+111,"A destructive diving vessel that can be used on naval missions.
+
+|cFFFFD200Build Time: 2hrs|r
+
+|cffb2f0ffCounters: |r
+|TInterface\ICONS\Ships_ABILITY_Bombers.blp:24:24:0:0|t |cffffffff Carrier|r",
+112,"A powerful ship with large cannons that can be used on naval missions.
+
+|cFFFFD200Build Time: 1hr|r
+
+|cffb2f0ffCounters: |r
+|TInterface\ICONS\Ships_ABILITY_DepthCharges.blp:24:24:0:0|t |cffffffff Destroyer|r",
+113,"Drops explosive shells into the water, destroying submerged craft.
+
+|cFFFFD200Build Time: 30m|r
+
+|cffb2f0ffCounters: |r
+|TInterface\ICONS\Ships_ABILITY_Stealth.blp:24:24:0:0|t |cffffffff Submarine|r",
+114,"Drops explosive shells into the water, destroying submerged craft.
+
+|cFFFFD200Build Time: 1m|r
+
+|cffb2f0ffCounters: |r
+|TInterface\ICONS\Ships_ABILITY_Stealth.blp:24:24:0:0|t |cffffffff Submarine|r",
+115,"Drops explosive shells into the water, destroying submerged craft.
+
+|cFFFFD200Build Time: 1m|r
+
+|cffb2f0ffCounters: |r
+|TInterface\ICONS\Ships_ABILITY_Stealth.blp:24:24:0:0|t |cffffffff Submarine|r",
+119,"Drops explosive shells into the water, destroying submerged craft.
+
+|cFFFFD200Build Time: 1m|r
+
+|cffb2f0ffCounters: |r
+|TInterface\ICONS\Ships_ABILITY_Stealth.blp:24:24:0:0|t |cffffffff Submarine|r",
+121,"Drops explosive shells into the water, destroying submerged craft.
+
+|cFFFFD200Build Time: 1m|r
+
+|cffb2f0ffCounters: |r
+|TInterface\ICONS\Ships_ABILITY_Stealth.blp:24:24:0:0|t |cffffffff Submarine|r",
+122,Nomi will research new recipes for you.,Test Kitchen Results
+124,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+125,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+126,"Requisition a squad of Crane Initiates which can accompany followers on missions to increase chance at a bonus reward.
+
+|cFFFFD200Build Time: 30m|r",Troop Shipment
+128,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+129,Summon a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+130,"Requisition a host of Felguard Demons to fight on missions for you.
+
+|cFFFFD200Build Time: 1hr|r",Felguard Demons
+131,Summon a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+132,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troop Shipment
+133,"Requisition a squad of [units] to fight on missions for you.
+
+|cFFFFD200Build Time: 30m|r",Troop Shipment
+134,Raise a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+135,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+136,"Requisition a squad of troops which can accompany Champions on missions to increase chance of success.
+|cFFFFD200Build Time: 30m|r",Troop Shipment
+137,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+138,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+139,"Requisition a squad of troops which can accompany Champions on missions to increase chance of success.
+
+|cFFFFD200Build Time: 30m|r",Troop Shipment
+140,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+141,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+142,"Requisition a squad of Keepers of the Grove to fight on missions for you.
+
+|cFFFFD200Build Time: 30m|r",Troop Shipment
+143,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+144,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+145,"Requisition a squad of [units] to fight on missions for you.
+
+|cFFFFD200Build Time: 30m|r",Troop Shipment
+146,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+147,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+148,"Requisition a squad of [units] to fight on missions for you.
+
+|cFFFFD200Build Time: 30m|r",Troop Shipment
+149,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+150,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+151,"Requisition a squad of troops which can accompany Champions on missions to increase chance of success.
+
+|cFFFFD200Build Time: 30m|r",Troop Shipment
+152,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+153,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+154,"Requisition a squad of troops which can accompany Champions on missions to increase chance of success.
+
+|cFFFFD200Build Time: 30m|r",Troop Shipment
+155,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+156,Summon a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+157,Summon a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+158,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+159,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+160,"Requisition a squad of troops which can accompany Champions on missions to increase chance of success.
+|cFFFFD200Build Time: 30m|r",Troop Shipment
+161,"Requisition a squad of Crane Adepts which can accompany followers on missions to increase chance at a bonus reward.
+
+|cFFFFD200Build Time: 30m|r",Troop Shipment
+163,"Requisition a squad of Tiger Adepts which can accompany followers on missions to increase chance of success.
+
+|cFFFFD200Build Time: 30m|r",Troop Shipment
+164,Summon a powerful ally which can accompany Champions on missions to increase chance of success.,Troops Training
+165,"Requisition a squad of Ox Adepts which can accompany followers on missions to increase chance of success.
+
+|cFFFFD200Build Time: 30m|r",Troop Shipment
+166,"Requisition a Pack of Wild Imps to fight on missions for you.
+
+|cFFFFD200Build Time: 15m|r",Pack of Wild Imps
+167,"Requisition a host of Fel Wrathguard Demons to fight on missions for you.
+
+|cFFFFD200Build Time: 1hr|r",Fel Wrathguard Demons
+168,"Requisition a mob of Black Harvest Invokers to fight on missions for you.
+
+|cFFFFD200Build Time: 30m|r",Black Harvest Invokers
+171,Requisition a shipment of Champion Armaments and Equipment.,Troop Shipment
+173,Begin additional research on your artifact weapons. Resulting knowledge will increase the rate at which you gain Artifact Power.,Pending Research Notes
+177,Requisition a Seal of Broken Fate.,Seal of Broken Fate Shipment
+178,Requisition a Frost Wyrm to unleash.,Summoning Frost Wyrm
+179,"Summon an Infernal and contain it within a Demonic Phylactery, which can be unleashed to complete a World Quest.",Enslaving Infernal
+180,"Channel the power of order into the Focusing Crystal, allowing you to unleash the Might of Dalaran and complete a World Quest.",Channelling the power of Dalaran.
+181,Begin additional research on your artifact weapons. Resulting knowledge will increase the rate at which you gain Artifact Power.,Pending Research Notes
+182,Begin additional research on your artifact weapons. Resulting knowledge will increase the rate at which you gain Artifact Power.,Pending Research Notes
+183,Begin additional research on your artifact weapons. Resulting knowledge will increase the rate at which you gain Artifact Power.,Pending Research Notes
+184,Begin additional research on your artifact weapons. Resulting knowledge will increase the rate at which you gain Artifact Power.,Pending Research Notes
+185,Begin additional research on your artifact weapons. Resulting knowledge will increase the rate at which you gain Artifact Power.,Pending Research Notes
+186,Begin additional research on your artifact weapons. Resulting knowledge will increase the rate at which you gain Artifact Power.,Pending Research Notes
+187,Begin additional research on your artifact weapons. Resulting knowledge will increase the rate at which you gain Artifact Power.,Pending Research Notes
+188,Begin additional research on your artifact weapons. Resulting knowledge will increase the rate at which you gain Artifact Power.,Pending Research Notes
+189,Begin additional research on your artifact weapons. Resulting knowledge will increase the rate at which you gain Artifact Power.,Pending Research Notes
+190,Begin additional research on your artifact weapons. Resulting knowledge will increase the rate at which you gain Artifact Power.,Pending Research Notes
+191,Begin additional research on your artifact weapons. Resulting knowledge will increase the rate at which you gain Artifact Power.,Pending Research Notes
+192,"Begin the recruitment of the Vanguard of the Silver Hand, to unleash them on a World Quest.",Raising the Vanguard
+193,"Call upon the prayers of the order to bless your Champions, increasing their chance of success on missions.",Ritual of Blessings
+194,"Begin calling the Val'kyr, allowing you to deploy them to complete a World Quest.",Calling the Val'kyr
+195,"Channel the wrath of the order to empower the Rift Core, allowing you to deploy the Rift Cannon to complete a World Quest.",Channel the wrath of the order.
+196,Summon a powerful ally which can accompany Champions on missions to increase chance of success.,Troop Shipment
+197,Requisition a shipment of Champion armaments and equipment.,Troop Shipment
+198,Requisition a shipment of Champion armaments and equipment.,Troop Shipment
+199,Requisition a shipment of Champion armaments and equipment.,Troop Shipment
+200,Requisition a shipment of Champion armaments and equipment.,Troop Shipment
+201,Requisition a shipment of Champion armaments and equipment.,Troop Shipment
+202,Requisition a shipment of Champion armaments and equipment.,Troop Shipment
+203,Requisition a shipment of Champion armaments and equipment.,Troop Shipment
+204,Requisition a shipment of Champion armaments and equipment.,Troop Shipment
+205,Requisition a shipment of Champion armaments and equipment.,Troop Shipment
+206,Requisition a shipment of Champion armaments and equipment.,Troop Shipment
+207,Requisition a shipment of Champion armaments and equipment.,Troop Shipment
+208,Requisition a shipment of Champion armaments and equipment.,Troop Shipment
+209,Requisition a Seal of Broken Fate.,Seal of Broken Fate Shipment
+210,Requisition a Seal of Broken Fate.,Seal of Broken Fate Shipment
+211,Requisition a Seal of Broken Fate.,Seal of Broken Fate Shipment
+212,Requisition a Seal of Broken Fate.,Seal of Broken Fate Shipment
+213,Requisition a Seal of Broken Fate.,Seal of Broken Fate Shipment
+214,Requisition a Seal of Broken Fate.,Seal of Broken Fate Shipment
+215,Requisition a Seal of Broken Fate.,Seal of Broken Fate Shipment
+216,Requisition a Seal of Broken Fate.,Seal of Broken Fate Shipment
+217,Requisition a Seal of Broken Fate.,Seal of Broken Fate Shipment
+218,Requisition a Seal of Broken Fate.,Seal of Broken Fate Shipment
+219,Requisition a Seal of Broken Fate.,Seal of Broken Fate Shipment
+220,Requisition a Seal of Broken Fate.,Seal of Broken Fate Shipment
+223,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troop Shipment
+224,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+225,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+226,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+227,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+228,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+229,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+230,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+231,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+232,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+233,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+234,Train a squad of troops which can accompany Champions on missions to increase chance of success.,Troops Training
+238,Looking for reinforcements? Place the order and I'll arrange the transport for additional Troops from Stormwind.,Alliance troops have been deployed.
+239,Looking for reinforcements? Place the order and I'll arrange the transport for additional Troops from Orgrimmar.,Horde troops have been deployed.

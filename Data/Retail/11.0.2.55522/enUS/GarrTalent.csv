@@ -1,0 +1,1253 @@
+ID,Name_lang,Description_lang
+39,Bloodlust,"Enables the Bloodlust ability, which increases the success chance of the first mission you send each day by ${$a701}%."
+40,Reincarnation,"Enables the Reincarnation ability for all missions, granting a ${$a772}% chance on mission success to recover an expired Troop with $m772 Vitality."
+41,Ancestral Gift,Enables a chance on mission success for your Champions to return with Champion armaments or equipment.
+42,Ancestral Legends,Increase the number of Legendary items you can equip by ${$a898}.
+43,Elemental Knowledge,"Newly recruited Lesser Elementals become Greater Elementals, increasing their chance of mission success by ${$a638-$a637}%."
+44,Whispers of the Earth,"Newly recruited Circles of Earthcallers become Earthen Ring Geomancers, which gain:
+
+|TInterface\ICONS\ABILITY_RHYOLITH_MAGMAFLOW_WAVE.BLP:20:20:0:0|t |CffffffffMagma Storm|R
+$@garrabdesc583"
+46,Rise!,"Allows you to recruit Ascendants.
+
+Ascendants increase success chance by ${$a650}% on missions with either |C00b3ffffHazards|R, |C00b3ffffSpells|R or |C00b3ffffMinions|R, chosen at random, in addition to:
+
+|TInterface\ICONS\ABILITY_DUALWIELDSPECIALIZATION.BLP:20:20:0:0|t |CffffffffAscendant's Fury|R
+$@garrabdesc531"
+49,Spirit Walk,Allows you to place a work order for 1 of your 3 weekly Seals of Broken Fate in exchange for Order Resources.
+52,Training Grounds,"Increases the maximum number of Lesser and Greater Elementals, Earthcallers and Geomancers you can recruit by ${$a702}."
+53,Elemental Binding,"Grants access to the Lords of Fire, Earth, Wind and Water.  Each day a random Lord will appear in your Order Hall who can provide you with a powerful combat bonus."
+54,The Spirit's Call,Increases the chance for quest rewards to get a rare or epic Bonus Upgrade from non-repeatable quests.
+248,Auspicious Fortune,Increases the chance for quest rewards to get a rare or epic Bonus Upgrade from non-repeatable quests.
+249,Enlightenment,"Newly recruited troops have a chance to be promoted one rank, making them more powerful.  
+
+Initiates have a chance to become Adepts, and Adepts have a chance to become Masters."
+250,Path of the Ox,"Newly recruited Ox Initiates become Ox Adepts, increasing their chance of mission success by ${$a897-$a695}%."
+251,Path of the Tiger,"Newly recruited Tiger Initiates become Tiger Adepts, which gain:
+
+|TInterface\ICONS\ABILITY_MONK_CRANEKICK_NEW.BLP:20:20:0:0|t |CffffffffSpinning Crane Kick|R
+$@garrabdesc576"
+252,Living Quarters,"Increases the maximum number of Ox Initiates, Ox Adepts, Tiger Initiates and Tiger Adepts you can recruit by ${$a694}."
+253,Lucky Envelope,"Enables the Lucky Envelope ability, which increases the success chance of the first mission you send each day by ${$a693}%."
+254,Brewhouse,"Grants you access to the Bubbling Keg inside the Stormstout Inn once a day.  
+
+Tapping the Bubbling Keg will grant valuable bonuses to assist you while questing in the Broken Isles."
+255,Pilgrimage,Enables a chance on mission success for your Champions to return with Champion armaments or equipment.
+256,One with Destiny,Allows you to place a work order for 1 of your 3 weekly Seals of Broken Fate in exchange for Order Resources.
+257,Celestial Favor,"Allows you to recruit Celestials.  
+
+Celestials have a random Monk Specialization and can counter a |C00b3ffffBoss|R, in addition to:
+
+|TInterface\ICONS\INV_CELESTIALSERPENTMOUNT.BLP:20:20:0:0|t |CffffffffEcho of the Celestial|R
+$@garrabdesc749"
+258,Fists of Legend,Increase the number of Legendary items you can equip by ${$a898}.
+347,Elune's Favor,Increases the chance for quest rewards to get a rare or epic Bonus Upgrade from non-repeatable quests.
+348,Reclamation,Enables a chance on mission success for your Champions to return with Champion armaments or equipment.
+349,Travel Form,"Enables the Travel Form ability for all missions, reducing mission duration by ${100-$a715*100}%."
+350,Hibernation,"Increases the maximum number of Dreamgrove Treants, Daughters of Cenarius, Druids of the Claw and Keepers of the Grove you can recruit by ${$a900}."
+351,Laughing Sisters,"Newly recruited Dreamgrove Treants become Daughters of Cenarius, increasing their chance of mission success by ${$a679-$a678}%."
+352,Force of the Forest,"Newly recruited Druids of the Claw become Keepers of the Grove and gain:
+
+|TInterface\ICONS\ABILITY_DRUID_FLOURISH.BLP:20:20:0:0|t |CffffffffWild Growth|R
+$@garrabdesc558"
+353,Roots,"Enables the Roots ability, which increases the success chance of the first mission you send each day by ${$a714}% if that mission has |C00b3ffffMinions|R."
+354,Evergreen,"Grants access to two plots of rich soil, allowing you to grow and harvest plants that provide helpful items once every 3 days to use on the Broken Isles."
+355,Elune's Chosen,Allows you to place a work order for 1 of your 3 weekly Seals of Broken Fate in exchange for Order Resources.
+356,Ancient of War,"Allows you to recruit an Ancient of War.  
+
+Ancients of War have a random Druid Specialization and can counter a |C00b3ffffBoss|R, in addition to:
+
+|TInterface\ICONS\INV_PET_ANCIENTPROTECTOR.BLP:20:20:0:0|t |CffffffffStrength of the Ancients|R
+$@garrabdesc435"
+357,Natural Legend,Increase the number of Legendary items you can equip by ${$a898}.
+358,Dark Bargain,Increases the chance for quest rewards to get a rare or epic Bonus Upgrade from non-repeatable quests.
+359,Summon Doomguard,"Enables the Summon Doomguard ability, which increases the success chance of the first mission you send each day by ${$a616}%."
+360,Ritual of Summoning,"Enables the Ritual of Summoning ability for all missions, reducing mission duration by ${100-$a615*100}%."
+361,Training Grounds,"Increases the maximum number of Imps, Wild Imps, Acolytes and Invokers you can recruit by ${$a614}."
+362,Dark Mastery,"Newly recruited Black Harvest Acolytes become Black Harvest Invokers, which gain:
+
+|TInterface\ICONS\ABILITY_WARLOCK_INFERNOGREEN.BLP:20:20:0:0|t |CffffffffRain of Fel Fire|R
+$@garrabdesc485"
+363,Grim Harvest,Completing World Quests with a Combat Ally provides Order Resources.
+364,Shadow Pact,Allows you to place work orders for Champion armaments or equipment in exchange for Order Resources.
+365,Grimoire of Servitude,"Newly recruited Packs of Imps become Swarms of Wild Imps, which have:
+
+|TInterface\ICONS\SPELL_SHADOW_ANTISHADOW.BLP:20:20:0:0|t |CffffffffDemonic Pact|R
+$@garrabdesc497"
+366,Demonic Offering,"Grants you access to Ritual of Doom, allowing you and four compatriots to summon mighty demons in search of empowering magics and demonic treasures."
+367,Seed of Corruption,Increases success chance of missions with |C00b3ffffMinions|R by ${$a1516}%.
+368,Legends of the Fel,Increase the number of Legendary items you can equip by ${$a898}.
+369,Rugged Upgrades,Increases the chance for quest rewards to get a rare or epic Bonus Upgrade from non-repeatable quests.
+370,Long Range,"Enables the Long Range ability, which increases the success chance of the first mission you send each day by ${$a707}%."
+371,Disengage,"Enables the Disengage ability for all missions, which increases success chance of missions with |C00b3ffffHazards|R by ${$a787}%."
+372,Sturdy Tents,"Increases the maximum number of Archers, Marksmen, Trackers and Pathfinders you can recruit by ${$a708}."
+373,Keen Eye,"Newly recruited Squads of Archers become Unseen Marksmen, increasing their chance of mission success by ${$a634-$a633}%."
+374,Wild Calling,"Newly recruited Bands of Trackers become Pathfinders which gain:
+
+|TInterface\ICONS\SPELL_FIRE_FLARE.BLP:20:20:0:0|t |CffffffffFlare|R
+$@garrabdesc520"
+375,Eagle Ally,"Allows access to the Eagle Flight Network, a number of flight paths scattered across the Broken Isles."
+376,Foraging,Completing World Quests with a Combat Ally provides Order Resources.
+377,Unseen Path,Allows you to place a work order for 1 of your 3 weekly Seals of Broken Fate in exchange for Order Resources.
+378,Fletchery,Allows you to place work orders for Champion armaments or equipment in exchange for Order Resources.
+379,Legends of the Wild,Increase the number of Legendary items you can equip by ${$a898}.
+380,Arcane Provenance,Increases the chance for quest rewards to get a rare or epic Bonus Upgrade from non-repeatable quests.
+381,Frost Nova,"Enables the Frost Nova ability, which increases the success chance of the first mission you send each day by ${$a710}% if that mission has |C00b3ffffMinions|R."
+382,Blink,"Enables the Blink ability for all missions, reducing mission duration by ${100-$a712*100}%."
+383,Arcane Library,"Increases the maximum number of Water Elementals, Arcane Golems, Tirisgarde Apprentices and Kirin Tor Invokers you can recruit by ${$a711}."
+384,Elemental Power,"Newly recruited Water Elementals become Arcane Golems, increasing their chance of mission success by ${$a677-$a676}%."
+385,Higher Learning,"Newly recruited Tirisgarde Apprentices become Kirin Tor Invokers which gain:
+
+|TInterface\ICONS\SPELL_NATURE_ENCHANTARMOR.BLP:20:20:0:0|t |CffffffffPresence of Mind|R
+$@garrabdesc552"
+386,Teleportation Nexus,"Grants access to the Teleportation Nexus, an array of portals distributed across the Broken Isles, allowing you to quickly move around the world."
+387,Arcane Divination,Allows you to place a work order for 1 of your 3 weekly Seals of Broken Fate in exchange for Order Resources.
+388,Arcane Intuition,Quests grant you bonus resources while you have a Combat Ally active.
+389,Arcane Armaments,Allows you to place work orders for Champion armaments or equipment in exchange for Order Resources.
+390,Legends of the Tirisgarde,Increase the number of Legendary items you can equip by ${$a898}.
+391,Light's Favor,Increases the chance for quest rewards to get a rare or epic Bonus Upgrade from non-repeatable quests.
+392,Blessing of Kings,"Enables the Blessing of Kings ability, which increases the success chance of the first mission you send each day by ${$a718}%."
+393,Righteous Blessing,"Enables the Righteous Blessing ability for all missions, which increases success chance of missions with |C00b3ffffMinions|R by ${$a716}%."
+394,Argent Call,"Increase the maximum number of Squires, Shieldbearers, Knights and Templar you can recruit by ${$a717}."
+395,As One,"Newly recruited Squads of Squires become a Shieldbearer Phalanx, increasing their chance of mission success by ${$a638-$a637}%."
+396,Templar of the Silver Hand,"Newly recruited Silver Hand Knights become Silver Hand Templars which gain:
+
+|TInterface\ICONS\SPELL_HOLY_HEROISM.BLP:20:20:0:0|t |CffffffffGuardians of Kings|R
+$@garrabdesc562"
+397,Argent Steed,"Grants access to the Argent Charger Hitching Post once a day, allowing you to summon a Charger which allows you to perform mounted combat for a short duration."
+398,Holy Purpose,Allows you to place a work order for 1 of your 3 weekly Seals of Broken Fate in exchange for Order Resources.
+399,Grand Crusade,Quests grant you bonus resources while you have a Combat Ally active.
+400,Plowshares to Swords,Allows you to place work orders for Champion armaments or equipment in exchange for Order Resources.
+401,Legends of the Righteous,Increase the number of Legendary items you can equip by ${$a898}.
+402,Odyn's Favor,Increases the chance for quest rewards to get a rare or epic Bonus Upgrade from non-repeatable quests.
+403,Rallying Cry,"Enables the Rallying Cry ability, which increases the success chance of the first mission you send each day by ${$a719}% per troop Vitality."
+404,Forced March,"Enables the Forced March ability for all missions, reducing mission duration by ${100-$a720*100}%."
+405,Abundant Valor,"Increases the maximum number of Valarjar Aspirants, Stormforged Valarjar, Shieldmaiden Warbands and Valkyra Shieldmaidens you can recruit by ${$a721}."
+406,Trial by Fire,"Newly recruited Valajar Aspirants become Stormforged Valarjar, increasing their chance of mission success by ${$a725-$a722}%."
+407,Ascension,"Newly recruited Shieldmaiden Warbands become Valkyra Shieldmaidens, which gain:
+
+|TInterface\ICONS\Ability_Paladin_TowerofLight.blp:20:20:0:0|t |CffffffffFlight of the Valkyra|R
+$@garrabdesc601"
+408,For Honor and Glory,Grants you the ability to see the Skyhold Chest of Riches within the perilous Circle of Glory.  Compete with your fellow Warriors for the chance to loot its riches once a week.
+409,Spoils of War,Completing World Quests with a Combat Ally provides Order Resources.
+410,Bladestorm,Increases success chance of missions with |C00b3ffffMinions|R by ${$a1514}%.
+411,Heavenly Forge,Allows you to place work orders for Champion armaments or equipment in exchange for Order Resources.
+412,Legends of Ragnarok,Increase the number of Legendary items you can equip by ${$a898}.
+413,Well Prepared,Increases the chance for quest rewards to get a rare or epic Bonus Upgrade from non-repeatable quests.
+414,The Hunt,"Enables The Hunt ability, which increases the success chance of the first mission you send each day by ${$a738}%."
+415,Vengeful Retreat,"Enables the Vengeful Retreat ability for all missions, which increases success chance of missions with |C00b3ffffMinions|R by ${$a740}%."
+416,Training Grounds,"Increases the maximum number of Ashtongue Warriors, Naga Myrmidon, Illidari Adepts and Transformed Illidari Adepts you can recruit by ${$a739}."
+417,Naga Myrmidons,Newly recruited Ashtongue Warriors become Naga Myrmidons increasing their chance of mission success by ${$a728-$a726}%.
+418,Demonic Power,"Newly recruited Illidari Adepts become Transformed Illidari Adepts which gain:
+
+|TInterface\ICONS\ABILITY_WARLOCK_SHADOWFURYTGA.BLP:20:20:0:0|t |CffffffffDemon Form|R
+$@garrabdesc606"
+419,Twisting Nether,"Grants you access to Portal to the Twisting Nether, summoning a mighty demon that you and your allies may defeat for fortifying bonuses and potential treasure."
+420,Focused War Effort,Allows you to place a work order for 1 of your 3 weekly Seals of Broken Fate in exchange for Order Resources.
+421,Fel Hammer's Wrath,Increases success chance of missions with |C00b3ffffMinions|R by ${$a716}%.
+422,Fel Armaments,Allows you to place work orders for Champion armaments or equipment in exchange for Order Resources.
+423,Demonic Fate,Increase the number of Legendary items you can equip by ${$a898}.
+424,Death's Boon,Increases the chance for quest rewards to get a rare or epic Bonus Upgrade from non-repeatable quests.
+425,Swarm,"Enables the Swarm ability, which increases the success chance of the first mission you send each day by ${$a755}% when a Pack of Ghouls or Geist Swarm is on the mission."
+426,Death's Advance,"Enables the Death's Advance ability for all missions, which increases the success chance for missions with |C00b3ffffHazards|R by ${$a754}%."
+427,Call of the Grave,"Increases the maximum number of Ghouls, Geists, Knights and Ravagers you can recruit by ${$a753}."
+428,Construct Quarter,"Newly recruited Packs of Ghouls become Geist Swarms, increasing their chance of mission success by ${$a742-$a741}%."
+429,Live by the Sword,"Newly recruited Ebon Knights become Ebon Ravagers.  
+
+Ebon Ravagers gain a random Specialization and can counter a |C00b3ffffBoss|R."
+430,Dark Horsemen,"Grants access to the Deathcharger Hitching Post once a day, used to summon a Deathcharger which allows you to perform mounted combat for a short duration."
+431,Reanimation,"Successful missions have a chance to return a Pile of Bits and Bones which can be combined into Abominations.
+
+Abominations increase success chance by ${$a650}% on missions with either |C00b3ffffHazards|R, |C00b3ffffSpells|R or |C00b3ffffMinions|R, chosen at random, in addition to:
+
+|TInterface\ICONS\SPELL_DEATHKNIGHT_EXPLODE_GHOUL.BLP:20:20:0:0|t |CffffffffVile Aberration|R
+$@garrabdesc778"
+432,Unholy Reclamation,Quests grant you bonus resources while you have a Combat Ally active.
+433,Brothers in Arms,Allows you to place work orders for Champion armaments or equipment in exchange for Order Resources.
+434,Legends from the Grave,Increase the number of Legendary items you can equip by ${$a898}.
+435,Lucky Streak,Increases the chance for quest rewards to get a rare or epic Bonus Upgrade from non-repeatable quests.
+436,Sneak Attack,"Enables the Sneak Attack ability, which increases the success chance of the first mission you send each day by ${$a769}%."
+437,Assassination,"Enables the Assassination ability for all missions, which increases success chance of missions with |C00b3ffffMinions|R by ${$a770}%."
+438,Prizefights,"Increases the maximum number of Bandits, Thieves, Pirates and Duelists you can recruit by ${$a771}."
+439,Defiant Legacy,"Newly recruited Bandits become Defias Thieves, which have:
+
+|TInterface\ICONS\INV_MISC_BAG_11.BLP:20:20:0:0|t |CffffffffPick Pocket|R
+$@garrabdesc634"
+440,Crimson Sails,"Newly recruited Pirates become Uncrowned Duelists, which gain:
+
+|TInterface\ICONS\ABILITY_PARRY.BLP:20:20:0:0|t |CffffffffEn Garde|R
+$@garrabdesc635"
+441,The Vault,"Grants a chance for Champions on successful missions to return with a Vault Ticket.
+
+Vault Tickets grant you permission to loot a random reward from the Uncrowned Vault once a week, containing riches beyond your wildest dreams."
+442,Under the Table,Completing World Quests with a Combat Ally provides Order Resources.
+443,Plunder,Allows you to place a work order for 1 of your 3 weekly Seals of Broken Fate in exchange for Order Resources.
+444,Weapons Smuggler,Allows you to place work orders for Champion armaments or equipment in exchange for Order Resources.
+445,Armed to the Teeth,Increase the number of Legendary items you can equip by ${$a898}.
+446,Divine Fate,Increases the chance for quest rewards to get a rare or epic Bonus Upgrade from non-repeatable quests.
+447,Daily Prayers,"Enables the Daily Prayers ability, which increases the success chance of the first mission you send each day by ${$a785}%."
+448,Tithe,Completing World Quests with a Combat Ally provides Order Resources.
+449,Communal Living,"Increases the maximum number of Acolytes, Paragons, Zealots and Dark Zealots you can recruit by ${$a784}."
+450,Inquisition,"Newly recruited Acolytes become Paragons, increasing their chance of mission success by ${$a774-$a773}%."
+451,Shadow Heresy,"Newly recruited Zealots become Dark Zealots, which gain:
+
+|TInterface\ICONS\ABILITY_WARLOCK_SOULSWAP.BLP:20:20:0:0|t |CffffffffSoul Reapers|R
+$@garrabdesc650"
+452,Altars of Blessing,"Grants you permission to access either the Light Well or the Shadow Well once a day.
+
+Praying to either of these Altars will grant valuable bonuses to assist you while questing in the Broken Isles."
+453,Pain Suppression,"Enables the Pain Suppression ability for all missions, granting a chance for a random troop to not take ${$a786} vitality damage."
+454,Blessed Seals,Allows you to place a work order for 1 of your 3 weekly Seals of Broken Fate in exchange for Order Resources.
+455,Armaments of Light,Allows you to place work orders for Champion armaments or equipment in exchange for Order Resources.
+456,Armed by Faith,Increase the number of Legendary items you can equip by ${$a898}.
+480,Silver Hand Crusaders,"You are now able to recruit Silver Hand Crusaders, a powerful troop type.
+
+Silver Hand Crusaders have a random Ability and can counter either |C00b3ffffMinions|R, |C00b3ffffSpells|R or |C00b3ffffHazards|R, in addition to:
+
+|TInterface\ICONS\ACHIEVEMENT_REPUTATION_ARGENTCRUSADER.BLP:20:20:0:0|t |CffffffffThundering Assault|R
+$@garrabdesc889"
+481,Roster of Champions,$@garrabdesc892
+483,Guardians of the Kirin Tor,"You are now able to recruit Kirin Tor Guardians, a powerful troop type.
+
+Guardians have a random Ability and can counter either |C00b3ffffMinions|R, |C00b3ffffSpells|R or |C00b3ffffHazards|R, in addition to:
+
+|TInterface\ICONS\SPELL_MAGE_TEMPORALSHIELD.BLP:20:20:0:0|t |CffffffffPrismatic Armor|R
+$@garrabdesc876"
+484,Roster of Champions,$@garrabdesc892
+486,Frost and Death,"You are now able to recruit Ebon Knight Frostreavers, a powerful troop type.
+
+Frostreavers have a random Ability and can counter either |C00b3ffffMinions|R, |C00b3ffffSpells|R or |C00b3ffffHazards|R, in addition to:
+
+|TInterface\ICONS\artifactability_FrostMage_Ebonbolt.blp:20:20:0:0|t |CffffffffFrost Reaver|R
+$@garrabdesc877"
+487,Roster of Champions,$@garrabdesc892
+489,Blades of Death,"You are now able to recruit Shivarra, a powerful troop type.
+
+Shivarra have a random Ability and can counter either |C00b3ffffMinions|R, |C00b3ffffSpells|R or |C00b3ffffHazards|R, in addition to:
+
+|TInterface\ICONS\INV_WEAPON_SHORTBLADE_31.BLP:20:20:0:0|t |CffffffffShattering Blades|R
+$@garrabdesc885"
+490,Roster of Champions,$@garrabdesc892
+492,Wardens of the Grove,"You are now able to recruit Dreamgrove Wardens, a powerful troop type.
+
+Dreamgrove Wardens have a random Ability and can counter either |C00b3ffffMinions|R, |C00b3ffffSpells|R or |C00b3ffffHazards|R, in addition to:
+
+|TInterface\ICONS\SPELL_NATURE_MOONGLOW.BLP:20:20:0:0|t |CffffffffStars Fury|R
+$@garrabdesc879"
+493,Roster of Champions,$@garrabdesc892
+495,Born of the Night,"You are now able to recruit Nightborne Hunters, a powerful troop type.
+
+Nightborne Hunters have a random Ability and can counter either |C00b3ffffMinions|R, |C00b3ffffSpells|R or |C00b3ffffHazards|R, in addition to:
+
+|TInterface\ICONS\ABILITY_ROGUE_MASTEROFSUBTLETY.BLP:20:20:0:0|t |CffffffffShadow Assault|R
+$@garrabdesc884"
+496,Roster of Champions,$@garrabdesc892
+498,Masters of the Path,"You are now able to recruit Masters of Serenity, a powerful troop type.
+
+Masters of Serenity have a random Ability and can counter either |C00b3ffffMinions|R, |C00b3ffffSpells|R or |C00b3ffffHazards|R, in addition to:
+
+|TInterface\ICONS\ABILITY_MONK_SERENITY.blp:20:20:0:0|t |CffffffffSerene Strike|R
+$@garrabdesc891"
+499,Roster of Champions,$@garrabdesc892
+501,Hooded Priests,"You are now able to recruit Hooded Priests, a powerful troop type.
+
+Hooded Priests have a random Ability and can counter either |C00b3ffffMinions|R, |C00b3ffffSpells|R or |C00b3ffffHazards|R, in addition to:
+
+|TInterface\ICONS\INV_MISC_HERB_WHISPERVINE.BLP:20:20:0:0|t |CffffffffWhispers of Death|R
+$@garrabdesc888"
+502,Roster of Champions,$@garrabdesc892
+504,Ravenholdt's Finest,"You are now able to recruit Ravenholdt Assassins, a powerful troop type.
+
+Ravenholdt Assassins have a random ability and can counter either |C00b3ffffMinions|R, |C00b3ffffSpells|R or |C00b3ffffHazards|R, in addition to:
+
+|TInterface\ICONS\INV_Helm_Cloth_ShadowmoonClan_B_01.blp:20:20:0:0|t |CffffffffShadow Death|R
+$@garrabdesc890"
+505,Roster of Champions,$@garrabdesc892
+507,Ring of Earth,"You are now able to recruit Earthen Ring Protectors, a powerful troop type.
+
+Earthen Ring Protectors have a random Ability and can counter either |C00b3ffffMinions|R, |C00b3ffffSpells|R or |C00b3ffffHazards|R, in addition to:
+
+|TInterface\ICONS\SPELL_SHAMAN_UNLEASHWEAPON_EARTH.BLP:20:20:0:0|t |CffffffffEarth's Vengeance|R
+$@garrabdesc886"
+508,Roster of Champions,$@garrabdesc892
+510,Demonic Brutes,"You are now able to recruit Felguard Brutes, a powerful troop type.
+
+Felguard Brutes have a random Ability and can counter either |C00b3ffffMinions|R, |C00b3ffffSpells|R or |C00b3ffffHazards|R, in addition to:
+
+|TInterface\ICONS\Ability_DemonHunter_FelRush.blp:20:20:0:0|t |CffffffffFel Charge|R
+$@garrabdesc887"
+511,Roster of Champions,$@garrabdesc892
+513,Strike Hard,"You are now able to recruit a Shock Force, a powerful troop type.
+
+Shock Forces have a random Ability and can counter either |C00b3ffffMinions|R, |C00b3ffffSpells|R or |C00b3ffffHazards|R, in addition to:
+
+|TInterface\ICONS\ACHIEVEMENT_FACTION_SHADOPAN_ASSAULT.BLP:20:20:0:0|t |CffffffffHard Assault|R
+$@garrabdesc878"
+514,Roster of Champions,$@garrabdesc892
+530,Tier 1 - Aura 1,"Points: $p
+$@garrspelldesc"
+531,Tier 2 - Aura 3,Applies Tier 2 Aura 3
+532,Tier 4 - Aura 1,Applies Tier 2 Aura 1
+533,Tier 2 - Aura 2,Applies Tier 2 Aura 2
+534,Dragon Crash,$@spelldesc247089
+535,Accelerated Aggression,$@spelldesc245600
+536,Rapid Recovery,$@spelldesc247097
+537,Dragon's Determination,$@spelldesc245604
+538,Chrono Charisma,$@spelldesc247099
+540,Blessing of the Bronze Dragonflight,$@spelldesc247111
+541,Time Stop,$@spelldesc247103
+542,Acceleration,$@spelldesc247104
+543,Keepsake Continuum,$@spelldesc247692
+544,Infinite Velocity,$@spelldesc247110
+545,Fortuitous,$@spelldesc247094
+546,Insight,$@spelldesc247088
+547,Seafarer's Hearth,"Harness the power of the sea, reducing the cooldown of your Hearthstone by ${$a1658}% when used in Kul Tiras and Zandalar."
+548,Swift Landing,"Capture the momentum from your recent flight path, increasing your mounted movement speed by ${$a1661}% for ${$a1662} minutes upon landing."
+549,Upgraded Troop Barracks,"Construct a larger barracks for your army, increasing the maximum number of troops you can house by ${$a1664}."
+550,Troop Portal Network,"Open a portal for transportation of troops from Orgrimmar, allowing troops to be recruited instantly."
+551,Seafarer's Hearth,"Harness the power of the sea, reducing the cooldown of your Hearthstone by ${$a1658}% when used in Kul Tiras and Zandalar."
+552,Swift Landing,"Capture the momentum from your recent flight path, increasing your mounted movement speed by ${$a1661}% for ${$a1662} minutes upon landing."
+553,Upgraded Troop Barracks,"Construct a larger barracks for your army, increasing the maximum number of troops you can house by ${$a1664}."
+554,Troop Portal Network,"Open a portal for transportation of troops from Stormwind, allowing troops to be recruited instantly."
+655,Island Plunderer,"Learn the pirate secrets of spotting treasure, granting you a chance to receive additional Seafarer's Dubloons on Island Expeditions."
+656,Island Archeologist,"Learn the secrets of ancient civilizations, increasing the duration of effects from shrines by ${$a1667}%."
+657,World Azerite Detector,"Construct an Azerite detector on your ship, granting you a chance to find additional Azerite when completing World Quests."
+658,Local Transportation,"Upgrade your Flight Master's Whistle, allowing you to call for a quick flight back to Zuldazar when using your whistle directly next to a flight master on Zandalar or Kul Tiras."
+659,Warfront Resourcer,"Establish access to resources outside of the Warfront, allowing you to enter the battle with ${$a1672} Iron and ${$a1710} Wood."
+660,Warfront General,"Learn how to best inspire allies in combat, increasing the effectiveness of your recruited troops by ${$a1674}% while fighting in a Warfront."
+661,Horde Ambassador,"Open up additional lines of trade with your new allies, granting additional War Resources from emissary quests."
+662,Island Plunderer,"Learn the pirate secrets of spotting treasure, granting you a chance to receive additional Seafarer's Dubloons on Island Expeditions."
+663,Island Archeologist,"Learn the secrets of ancient civilizations, increasing the duration of effects from shrines by ${$a1667}%."
+664,World Azerite Detector,"Construct an Azerite detector on your ship, granting you a chance to find additional Azerite when completing World Quests."
+665,Local Transportation,"Upgrade your Flight Master's Whistle, allowing you to call for a quick flight back to Boralus when using your whistle directly next to a flight master on Zandalar or Kul Tiras."
+666,Warfront Resourcer,"Establish access to resources outside of the Warfront, allowing you to enter the battle with ${$a1672} Iron and ${$a1710} Wood."
+667,Warfront General,"Learn how to best inspire allies in combat, increasing the effectiveness of your recruited troops by ${$a1674}% while fighting in a Warfront."
+668,Alliance Ambassador,"Open up additional lines of trade with your new allies, granting additional War Resources from emissary quests."
+695,Let There Be Light,Allows for you to discover torches which regenerate Sanity inside the Visions of N'Zoth. [NYI]
+696,Know No Fear,Increases your max sanity.[NYI]
+697,The Penitent Shall Pass,Your sanity now passively regenerates. [NYI]
+698,My Name Is Fury,"Whenever you take damage that causes you to lose sanity, deal damage to the enemy as well. [NYI]"
+699,Friends In The Darkness,"Whenever you lose Sanity, chance to summon a friendly void fiend to fight by your side for a short time.[NYI]"
+700,Rich Cache,Chests now have a chance to contain stronger torches and greater scrolls in them. [NYI]
+701,Fleeting Vision,"Whenever you are inside the Vision, your movement speed is increased. [NYI]"
+702,Bountiful Vision,Increases the number of Corrupted Mementos that drop for you. [NYI]
+703,Stalwart Mind,"Whenever you are afflicted by a madness, chance instead to benefit from a Boon of Resolve. {NYI]"
+709,Emergency Cranial Defibrillation,$@spelldesc304815
+721,Cleansing Procedures,$@spelldesc304844
+722,Sanitation Mastery,$@spelldesc304852
+723,Inversion,$@spelldesc304872
+728,Synchronized Mind Stabilizer,$@spelldesc305111
+729,Portable Clarity,$@spelldesc305146
+730,Expansive Mind,$@spelldesc305159
+731,Experimental Endeavor Expertise,$@spelldesc305169
+732,Experimental Destabilization,$@spelldesc305380
+733,Leveraged Materials,$@spelldesc307515
+734,Sanitation Mastery,$@spelldesc307517
+735,Vision Hunter,$@spelldesc307518
+736,Clear Sight,$@spelldesc307519
+737,Vision Cartography,$@spelldesc307520
+738,Vision Reorganization,$@spelldesc307525
+739,Reverse Protocol,$@spelldesc307527
+740,Repurposed Visage Techniques,$@spelldesc307528
+742,Tier 3 - Aura 1,
+749,Tier 4 - Aura 2,
+750,Tier 4 - Aura 3,
+751,Tier 5 - Aura 1,
+752,Tier 5 - Aura 2,
+753,Tier 6 - Aura 1,
+755,Tier 7 - Aura 1,
+756,Tier 7 - Aura 2,
+757,Tier 7 - Aura 3,
+758,Tier 7 - Aura 1,
+759,Tier 2 - Aura 4,
+760,Tier 4 - Aura 5,
+785,Tier 3 - Aura 2,
+786,Tier 4 - Aura 4,
+787,Tier 5 - Aura 3,
+788,TGier 6 - Aura 3,
+791,Orb Operation Manual,$@spelldesc307527
+792,Gift of the Titans,$@spelldesc307528
+794,Singular Sanitation Expertise,$@garrspelldesc
+795,Emergency Cranial Defibrillation,$@spelldesc304815
+798,Expansive Mind,$@garrspelldesc
+800,Synchronized Mind Stabilizer,$@spelldesc305111
+802,Clear Sight,$@garrspelldesc
+804,Experimental Destabilization,$@garrspelldesc
+805,Elite Extermination,$@spelldesc310720
+806,Vision Hunter,$@garrspelldesc
+807,Skillful Duelist,$@spelldesc307876
+808,Swift Impale,$@spelldesc307875
+809,Deflecting Flourish,$@spelldesc307874
+811,Payment in Advance,$@spelldesc307883
+812,Exacting Preparation,$@spelldesc307882
+814,Fancy Footwork,$@spelldesc307880
+815,Inspiring Panache,$@spelldesc307878
+816,Keep It Interesting,$@spelldesc308390
+824,Field of Poppies,$@garrspelldesc
+826,Social Butterfly,$@garrspelldesc
+827,Soothing Voice,$@garrspelldesc
+828,Empowered Chrysalis,$@garrspelldesc
+829,Endurance Conduit,
+830,Potency Conduit,
+831,Finesse Conduit,
+832,Endurance Conduit,
+833,Faerie Dust,$@garrspelldesc
+834,Somnambulist,$@garrspelldesc
+835,Finesse Conduit,
+836,Potency Conduit,
+837,Podtender,$@garrspelldesc
+844,Care Package,$@garrspelldesc
+849,Endurance Conduit,
+850,Potency Conduit,
+851,Finesse Conduit,
+858,Niya's Tools: Burrs,$@garrspelldesc
+859,Niya's Tools: Poison,$@garrspelldesc
+860,Niya's Tools: Herbs,$@garrspelldesc
+862,Stay on the Move,$@garrspelldesc
+863,Run Without Tiring,$@garrspelldesc
+864,Cycle of Seasons,$@garrspelldesc
+866,Swift Patrol,$@garrspelldesc
+870,Endurance Conduit,
+994,Potency Conduit,
+995,Endurance Conduit,
+997,Endurance Conduit,
+998,Built for War,$@garrspelldesc
+999,Hold Your Ground,$@garrspelldesc
+1000,Finesse Conduit,
+1001,Potency Conduit,
+1005,Finesse Conduit,
+1006,Endurance Conduit,
+1009,Endurance Conduit,
+1010,Finesse Conduit,
+1047,"Mirror, Mirror","This mysterious network of ancient mirrors can allow the user to move between various points across Revendreth.
+
+By reactivating the network, you initially restore mirrors in The Eternal Terrace and Pridefall Hamlet."
+1048,Looking Glass,"Restore additional power to the Mirror Network. Doing so opens up more locations to expand your influence across Revendreth.
+
+Diverting this additional anima to the network will restore mirrors in The Halls of Atonement and The Banewood."
+1049,Mirror's Edge,"Your mastery of Mirrors will be complete.
+
+This final restoration effort will restore the mirrors in The Feeders' Thicket and Dominance Keep.
+
+Now at full power the network provides you the ability to find and repair damaged mirrors across Revendreth. Venturing through these special mirrors can lead to new discoveries, and even unique rewards you can only access through these mirrors.
+
+Adds a portal to Oribos within Sinfall."
+1050,Ziggurat Now,"Begin to master knowledge of the massive Necropolis' that dominates the sky above Maldraxxus. 
+
+Unlocks additional travel options through the Necropolis."
+1051,A Keep Above,"Unlock a portal connecting the Seat of the Primus to the necropolis, Zerekriss. 
+
+This fully mobile necropolis provides an aerial advantage over all the houses of Maldraxxus. Use this to your advantage. Allows access across the entire zone."
+1052,Flying Fortress,"Unlock a portal beneath the necropolis, Exoramas, deep within the House of Rituals. 
+
+Access to this portal is as dangerous as it is potentially advantageous.
+
+Adds a portal to Oribos within your Sanctum."
+1053,Nurtured Roots,"Activates the mysterious mushroom network that connects sites across Ardenweald. 
+
+You can travel between the Heart of the Forest, and Forest's Edge, The Stalks, or Stillglade."
+1054,Fun with Fungi,"The tendrils of the wondrous mushroom network grow further, restoring access to the Banks of Life, the Elder Stand, and Gormhive. 
+
+Discover the hidden underground caverns that can only be accessed through the network. 
+
+Improve your reputation with Marasmius to earn unique rewards for your efforts aiding the growth of the network."
+1055,Blossoming Network,"The mushroom network rediscovers its full potential, restoring the connections to the Crumbled Ridge, Eventide Grove, and Tirna Scithe 
+
+Allows you access to the mysterious islands that can be found at the very edges of the realm. 
+
+Provides more opportunities to work towards gaining an exalted reputation with Marasmius to earn his rarest gifts!
+
+Adds a portal to Oribos within the Heart of the Forest."
+1056,Step of Faith,"Allows travel to Elysian Hold, Hero's Rest, Aspirant's Rest, and the Temple of Courage.
+
+After arriving at a location cast Unburden, greatly increasing movement speed, and propelling you forward."
+1057,Leap of Power,"Allows travel to Sagehaven, the Temple of Purity, and the Seat of Eternal Hymns.
+
+Unburden duration increased by 100%.
+
+Your Summon Steward ability can now create an Elysian Beacon, granting you access to the network in the field."
+1058,Eternal Paths,"Allows travel to the Temple of Humility and the Terrace of the Collectors.
+
+Unburden additionally reduces the radius at which enemies will detect you while active.
+
+Your steward's Elysian Beacon can now be used by party members.
+
+Establishes a portal to Oribos within Elysian Hold."
+1062,Flowing Tendrils,"Allows you to channel anima to Purity's Pinnacle and the Temple of Courage, granting access to a special treasure and an enemy champion. Allows covenant callings to award Grateful Offerings in addition to other rewards."
+1063,Streaming Threads,"Allows you to channel anima to the Temple of Humility and the Eternal Forge, granting access to a new World Quest and new Daily Quests. Increases the number of Grateful Offerings awarded by covenant callings."
+1064,Flowing Power,"Allows you to channel anima to the Eonian Archives and the Citadel of Loyalty, granting access to Kyrian enhancements and an elite foe. Increases the number of Grateful Offerings earned from covenant callings to their highest level."
+1065,Flowing Tendrils,"Allows you to channel anima to the House of the Chosen and the House of Constructs, granting access to a special treasure and an enemy champion. Allows covenant callings to award Grateful Offerings in addition to other rewards."
+1066,Streaming Threads,"Allows you to channel anima to the House of Plagues and the House of Eyes, granting access to a new World Quest and new Daily Quests. Increases the number of Grateful Offerings awarded by covenant callings."
+1067,Flowing Power,"Allows you to channel anima to the House of Rituals and the Theater of Pain, granting access to Necrolord enhancements and an elite foe. Increases the number of Grateful Offerings earned from covenant callings to their highest level."
+1068,Flowing Tendrils,"Allows you to channel anima to the Crypt of the Forgotten and Wanecrypt Hill, granting access to a special treasure and an enemy champion. Allows covenant callings to award Grateful Offerings in addition to other rewards."
+1069,Streaming Threads,"Allows you to channel anima to the Court of Harvesters and Pridefall Hamlet, granting access to a new World Quest and new Daily Quests. Increases the number of Grateful Offerings awarded by covenant callings."
+1070,Flowing Power,"Allows you to channel anima to the Shrouded Asylum and Dominance Keep, granting access to Venthyr enhancements and an elite foe. Increases the number of Grateful Offerings earned from covenant callings to their highest level."
+1071,Flowing Tendrils,"Allows you to channel anima to Glitterfall Basin and Dreamsong Fen, granting access to a special treasure and an enemy champion. Allows covenant callings to award Grateful Offerings in addition to other rewards."
+1072,Streaming Threads,"Allows you to channel anima to Tirna Vaal and the Hibernal Hollow, granting access to a new World Quest and new Daily Quests. Increases the number of Grateful Offerings awarded by covenant callings."
+1073,Flowing Power,"Allows you to channel anima to Claw's Edge and Tirna Scithe, granting access to Night Fae enhancements and an elite foe. Increases the number of Grateful Offerings earned from covenant callings to their highest level."
+1074,Tactical Insight,Grants access to Adventures and their rewards.
+1075,Grovetender's Gift,Increases the rate at which companions naturally heal by 25%.
+1076,Hidden Pathways,Decreases the time an adventure takes to complete by 25%.
+1077,Tactical Insight,Grants access to Adventures and their rewards.
+1078,Enhanced Purification,Increases the rate at which companions naturally heal by 25%.
+1079,Wings of Light,Decreases the time an adventure takes to complete by 25%.
+1080,Tactical Insight,Grants access to Adventures and their rewards.
+1081,Deserved Feast,Increases the rate at which companions naturally heal by 25%.
+1082,Superior Efficiency,Decreases the time an adventure takes to complete by 25%.
+1083,Tactical Insight,Grants access to Adventures and their rewards.
+1084,Recuperative Treatments,Increases the rate at which companions naturally heal by 25%.
+1085,Forced March,Decreases the time an adventure takes to complete by 25%.
+1086,First Planting,"Restore the Queen's Conservatory, a sacred garden where you can nurture the wildseeds of powerful lost souls and prepare them for rebirth."
+1087,Initial Growth,"Grants you access to catalyst plots, and activates an additional wildseed. 
+
+Conservator Aoni will now offer daily catalyst quests.
+
+You can also seek out a powerful, rare, and unusual spirit that may be able to aid your efforts in the Conservatory."
+1088,Nurtured Souls,"This additional infusion of anima activates additional wildseed and catalyst plots to expand your growing potential.
+
+Find another rare spirit who can lead you on a journey of enlightenment across Azeroth and beyond."
+1089,Flourishing Beds,"Grants you access to additional wildseed and catalyst plots. 
+
+You can now use the wildseed that has three possible catalyst connections. Increasing your potential for earning unique rewards.
+
+Embark on a quest to find a rare spirit who can draw spirit animals to reside in your garden."
+1090,Final Forms,"Restore the Conservatory to its former glory.
+
+This final infusion of anima to the Conservatory activates the final wildseed plot.
+
+That Wildseed can benefit from four possible catalyst links. This allows you to maximize your opportunites for unique rewards."
+1091,First Steps,"Unlocks the sacred trial of the Path of Ascension, facilitating the capture of six Shadowlands memories for your soulbinds to train against for unique rewards."
+1092,Sacred Trials,"Allows the capture of four more Shadowlands memories for training in the Path of Ascension.
+
+Empowers some of your memories with accumulated anima, granting you access to their second trial.
+
+Unlocks access to weekly quests."
+1093,Continued Training,"Empowers more of your captured memories, unlocking the rest of the Trials of Loyalty as well as the first of the Trials of Wisdom.
+
+The Brazier of Lessons Learned has been activated, increasing your soulbinds' health and damage in Ascension Coliseum."
+1094,Teachings of Wisdom,"Your collected anima strengthens the remaining memories, granting access to the remaining Trials of Wisdom.
+
+Unlocks access to a second weekly quest."
+1095,Trials of Humility,"Unlocks the final trial for all of your captured memories, the Trial of Humility. 
+
+The Brazier of Inward Reflection has been activated, increasing your soulbinds' health and damage in Ascension Coliseum."
+1096,Build a Buddy,"Restoring anima to this area grants you the first rank of Abominable Stitching. Allowing you to build your own constructs!
+
+Welcome Chordy and a variety of other useful constructs to aid you in gathering resources to build out the rest your construct forces."
+1097,Crafting Limbs,"Grants you the second rank of prowess in Abominable Stitching. 
+
+Allows you to build additional constructs. Gain access to a new battle pet, a construct disguise and other useful consumables."
+1098,Bring Them to Life,"Grants you the third rank of prowess in Abominable Stitching.
+
+Gain the ability to call in Emeni to aid you in combat. Allows you to build additional constructs to bolster your forces."
+1099,Forged Friends,"Grants you the fourth rank of prowess in Abominable Stitching.
+
+You can now create two dangerous high-end constructs, as well as a bag of treats to lure Twigin to your side. Use your constructs to access more unique rewards."
+1100,Best Fiends Forever,"Grants you the final rank of prowess in Abominable Stitching.
+
+Welcome the Soulfused Construct to your ranks and create the awesome Bonesewn Fleshroc. Marshal your entire stable of constructs to earn the rarest prizes."
+1111,A New Court,"Re-establish the Ember Court, and start on a journey to restore it to its former glory. 
+
+Help Theotar build this new court that will expand the influence of the Venthyr covenant across Revendreth and beyond."
+1112,Discerning Taste,"This infusion of anima continues to build upon the Ember Courts growing reputation. 
+
+Attract the attention of even the most discerning guests, allowing you to invite a fourth guest to each Ember Court. This expands further your opportunities for earning the respect of your guests."
+1113,Homegrown Help,"Infuse more anima into the restoration of the Ember Court.
+
+You will now be able to create a dredger butler to assist you in hosting the Ember Court."
+1114,Court Influencer,"Increase the capacity for guests within the Ember Court.
+
+Now you can expand the guest list, allowing you to invite a third guest to each Ember Court. Increasing your options for earning unique rewards from your guests."
+1115,The Professionals,"The Ember Court reaches its full potential, and the daily parties are now the talk of all the realms.
+
+You are now able to hire five specialist staff who will help you foster the perfect atmosphere in each and every Ember Court event. This gives you the best opportunity yet to earn the best rewards your guests have to offer!"
+1121,Finesse Conduit,
+1122,Potency Conduit,
+1123,Endurance Conduit,
+1124,Volatile Solvent,$@garrspelldesc
+1125,Travel with Bloop,$@garrspelldesc
+1126,Ooz's Frictionless Coating,$@garrspelldesc
+1127,Plaguey's Watchful Eye,$@garrspelldesc
+1128,Endurance Conduit,
+1129,Kevin's Keyring,"Allows opening of locks that require up to 600 skill. 12 hour cooldown.
+
+Each second spent channeling Warlord's Blade reduces Kevin's Keyring's cooldown by one hour."
+1130,Plagueborn Cleansing Slime,$@garrspelldesc
+1132,Endurance Conduit,
+1133,Finesse Conduit,
+1135,Potency Conduit,
+1136,Ultimate Form,$@garrspelldesc
+1137,Expanding Potential,The potential power of the anima reservoir remains untapped for now.
+1138,Growing Power,The potential power of the anima reservoir remains untapped for now.
+1139,Final Capacity,The potential power of the anima reservoir remains untapped for now.
+1140,Expanding Potential,The possible power of the anima reservoir remains untapped for now.
+1141,Growing Power,The possible power of the anima reservoir remains untapped for now.
+1142,Final Capacity,The possible power of the anima reservoir remains untapped for now.
+1143,Expanding Potential,The possible power of the anima reservoir remains untapped for now.
+1144,Growing Power,The possible power of the anima reservoir remains untapped for now.
+1145,Final Capacity,The possible power of the anima reservoir remains untapped for now.
+1146,Expanding Potential,The possible power of the anima reservoir remains untapped for now.
+1147,Growing Power,The possible power of the anima reservoir remains untapped for now.
+1148,Final Capacity,The possible power of the anima reservoir remains untapped for now.
+1154,Lead By Example,$@garrspelldesc
+1155,Cartilaginous Legs,$@garrspelldesc
+1156,Hearth Kidneystone,$@garrspelldesc
+1158,Sulfuric Emission,$@garrspelldesc
+1160,Gristled Toes,$@garrspelldesc
+1161,Gnashing Chompers,$@garrspelldesc
+1163,Emeni's Magnificent Skin,$@garrspelldesc
+1164,Throughput Conduit,
+1165,Finesse Conduit,
+1167,Endurance Conduit,
+1168,Potency Conduit,
+1169,Endurance Conduit,
+1170,Endurance Conduit,
+1202,Wild Hunt's Charge,$@garrspelldesc
+1203,Wild Hunt Tactics,$@garrspelldesc
+1204,Horn of the Wild Hunt,$@garrspelldesc
+1205,Face Your Foes,
+1206,First Strike,$@garrspelldesc
+1207,Hold the Line,$@garrspelldesc
+1208,Vorkai Sharpening Techniques,$@garrspelldesc
+1209,Potency Conduit,
+1210,Finesse Conduit,
+1211,Endurance Conduit,
+1212,Potency Conduit,
+1213,Endurance Conduit,
+1214,Finesse Conduit,
+1215,Endurance Conduit,
+1216,Get In Formation,$@garrspelldesc
+1217,Chris Test Talent 1,
+1218,Chris Test Talent 2,
+1237,Purity's Pinnacle,"Channel Anima to Purity's Pinnacle, allowing access to a special treasure."
+1238,Temple of Courage,"Channel Anima to the Temple of Courage, allowing you to fight an enemy champion."
+1239,Temple of Humility,"Channel Anima to the Temple of Humility, unlocking a new World Quest."
+1240,Eternal Forge,"Channel Anima to the Eternal Forge, unlocking new Daily Quests."
+1241,Citadel of Loyalty,"Channel Anima to the Citadel of Loyalty, allowing you and your allies to challenge an elite foe."
+1242,Eonian Archives,"Channel Anima to the Eonian Archives, allowing access to mighty Kyrian enhancements."
+1243,Glitterfall Basin,"Channel Anima to Glitterfall Basin, allowing access to a special treasure."
+1244,Dreamsong Fenn,"Channel Anima to Dreamsong Fenn, allowing you to fight an enemy champion."
+1245,Tirna Vaal,"Channel Anima to Tirna Vaal, unlocking a new World Quest."
+1246,Hibernal Hollow,"Channel Anima to the Hibernal Hollow, unlocking new Daily Quests."
+1247,Tirna Scithe,"Channel Anima to Tirna Scithe, allowing you and your allies to challenge an elite foe."
+1248,Claw's Edge,"Channel Anima to Claw's Edge, allowing access to mighty Night Fae enhancements."
+1249,House of the Chosen,"Channel Anima to the House of the Chosen, allowing access to a special treasure."
+1250,House of Constructs,"Channel Anima to the House of Constructs, allowing you to fight an enemy champion."
+1251,House of Plagues,"Channel Anima to the House of Plagues, unlocking a new World Quest."
+1252,House of Eyes,"Channel Anima to the House of Eyes, unlocking new Daily Quests."
+1253,Theater of Pain,"Channel Anima to the Theater of Pain, allowing you and your allies to challenge an elite foe."
+1254,House of Rituals,"Channel Anima to the House of Rituals, allowing access to mighty Necrolord enhancements."
+1255,Crypt of the Forgotten,"Channel Anima to the Crypt of the Forgotten, allowing access to a special treasure."
+1256,Wanecrypt Hill,"Channel Anima to Wanecrypt Hill, allowing you to fight an enemy champion."
+1257,Court of the Harvesters,"Channel Anima to the Court of the Harvesters, unlocking a new World Quest."
+1258,Pridefall Hamlet,"Channel Anima to Pridefall Hamlet, unlocking new Daily Quests."
+1259,Dominance Keep,"Channel Anima to Dominance Keep, allowing you and your allies to challenge an elite foe."
+1260,The Shrouded Asylum,"Channel Anima to the Shrouded Asylum, allowing access to mighty Venthyr enhancements."
+1263,Endurance Conduit,
+1264,Potency Conduit,
+1265,Potency Conduit,
+1266,Serrated Shoulder Blades,$@garrspelldesc
+1267,Resourceful Fleshcrafting,$@garrspelldesc
+1268,Heirmir's Arsenal: Ravenous Pendant,$@garrspelldesc
+1269,Heirmir's Arsenal: Alacritous Boots,$@garrspelldesc
+1270,Bone Spurs,$@garrspelldesc
+1271,Smithing Expertise,$@garrspelldesc
+1272,Forgeborne Reveries,$@garrspelldesc
+1273,Endurance Conduit,
+1274,Endurance Conduit,
+1275,Finesse Conduit,
+1276,Finesse Conduit,
+1277,Heirmir's Arsenal: Marrowed Gemstone,$@garrspelldesc
+1303,Let Go of the Past,$@garrspelldesc
+1305,Potency Conduit,
+1306,Finesse Conduit,
+1308,Focusing Mantra,$@garrspelldesc
+1309,Phial of Patience,$@garrspelldesc
+1310,Cleansed Vestments,$@garrspelldesc
+1311,Endurance Conduit,
+1312,Endurance Conduit,
+1313,Finesse Conduit,
+1314,Bond of Friendship,$@garrspelldesc
+1315,Potency Conduit,
+1316,Combat Meditation,$@garrspelldesc
+1317,Road of Trials,$@garrspelldesc
+1364,Potency Conduit,
+1365,Finesse Conduit,
+1366,Potency Conduit,
+1367,Ascendant Phial,$@garrspelldesc
+1368,Mentorship,$@garrspelldesc
+1369,Kyrian Insight,$@garrspelldesc
+1370,Kyrian Grace,$@garrspelldesc
+1371,Kyrian Perseverence,$@garrspelldesc
+1372,Cleansing Rites,$@garrspelldesc
+1373,Ever Forward,$@garrspelldesc
+1374,Endurance Conduit,
+1375,Endurance Conduit,
+1377,Endurance Conduit,
+1378,Valiant Strikes,$@garrspelldesc
+1379,Finesse Conduit,
+1380,Endurance Conduit,
+1381,Potency Conduit,
+1393,Agent of Chaos,$@garrspelldesc
+1394,Fancy Footwork,$@garrspelldesc
+1395,Potency Conduit,
+1396,Endurance Conduit,
+1397,Finesse Conduit,
+1398,Friends in Low Places,$@garrspelldesc
+1399,Finesse Conduit,
+1400,Potency Conduit,
+1401,Endurance Conduit,
+1402,Exacting Preparation,$@garrspelldesc
+1403,Familiar Predicaments,$@garrspelldesc
+1404,Dauntless Duelist,$@garrspelldesc
+1405,Endurance Conduit,
+1406,Thrill Seeker,$@garrspelldesc
+1407,Elite Mixture,$@garrspelldesc
+1408,Forgelite Filter,$@garrspelldesc
+1409,Endurance Conduit,
+1410,Hammer of Genesis,$@garrspelldesc
+1411,Sparkling Driftglobe Core,$@garrspelldesc
+1412,Soulsteel Clamps,$@garrspelldesc
+1413,Finesse Conduit,$@garrspelldesc
+1414,Endurance Conduit,
+1415,Potency Conduit,
+1416,Regenerating Materials,$@garrspelldesc
+1417,Steward's Resilience,$@garrspelldesc
+1418,Forgelite Prime's Expertise,$@garrspelldesc
+1419,Unbreakable Body,$@garrspelldesc
+1420,Expedition Leader,$@garrspelldesc
+1421,Superior Tactics,$@garrspelldesc
+1422,Endurance Conduit,
+1423,Potency Conduit,
+1424,Enduring Gloom,$@garrspelldesc
+1425,Move As One,$@garrspelldesc
+1426,Service in Stone,$@garrspelldesc
+1545,Watch the Shoes!,$@garrspelldesc
+1546,Leisurely Gait,$@garrspelldesc
+1547,Potency Conduit,
+1548,Finesse Conduit,
+1549,Endurance Conduit,
+1550,Refined Palate,$@garrspelldesc
+1551,Soothing Shade,$@garrspelldesc
+1552,Token of Appreciation,$@garrspelldesc
+1553,Finesse Conduit,
+1554,Potency Conduit,
+1555,Endurance Conduit,
+1556,Endurance Conduit,
+1557,Life of the Party,$@garrspelldesc
+1559,Exquisite Ingredients,$@garrspelldesc
+1560,Wasteland Propriety,$@garrspelldesc
+1561,Summon Steward,$@garrspelldesc
+1562,Shackle the Unworthy,$@garrspelldesc
+1563,Spear of Bastion,$@garrspelldesc
+1564,Divine Toll,$@garrspelldesc
+1565,Elysian Decree,$@garrspelldesc
+1566,Boon of the Ascended,$@garrspelldesc
+1567,Kindred Spirits,$@garrspelldesc
+1568,Echoing Reprimand,$@garrspelldesc
+1569,Resonating Arrow,$@garrspelldesc
+1570,Vesper Totem,$@garrspelldesc
+1571,Radiant Spark,$@garrspelldesc
+1572,Scouring Tithe,$@garrspelldesc
+1573,Weapons of Order,$@garrspelldesc
+1575,Fleshcraft,$@garrspelldesc
+1576,Abomination Limb,$@garrspelldesc
+1577,Vanquisher's Hammer,$@garrspelldesc
+1578,Fodder to the Flame,$@garrspelldesc
+1579,Unholy Nova,$@garrspelldesc
+1580,Adaptive Swarm,$@garrspelldesc
+1581,Serrated Bone Spike,$@garrspelldesc
+1582,Death Chakram,$@garrspelldesc
+1583,Primordial Wave,$@garrspelldesc
+1584,Deathborne,$@garrspelldesc
+1585,Decimating Bolt,$@garrspelldesc
+1586,Bonedust Brew,$@garrspelldesc
+1587,Conqueror's Banner,$@garrspelldesc
+1588,Door of Shadows,$@garrspelldesc
+1589,Swarming Mist,$@garrspelldesc
+1590,Ashen Hallow,$@garrspelldesc
+1591,Sinful Brand,$@garrspelldesc
+1592,Mindgames,$@garrspelldesc
+1593,Ravenous Frenzy,$@garrspelldesc
+1594,Flagellation,$@garrspelldesc
+1595,Flayed Shot,$@garrspelldesc
+1596,Chain Harvest,$@garrspelldesc
+1597,Mirrors of Torment,$@garrspelldesc
+1598,Impending Catastrophe,$@garrspelldesc
+1599,Fallen Order,$@garrspelldesc
+1600,Condemn,$@garrspelldesc
+1601,Soulshape,$@garrspelldesc
+1602,Death's Due,$@garrspelldesc
+1603,Blessing of the Seasons,$@garrspelldesc
+1604,The Hunt,$@garrspelldesc
+1605,Fae Blessings,$@garrspelldesc
+1606,Convoke the Spirits,$@garrspelldesc
+1607,Sepsis,$@garrspelldesc
+1608,Wild Spirits,$@garrspelldesc
+1609,Fae Transfusion,$@garrspelldesc
+1610,Shifting Power,$@garrspelldesc
+1611,Soul Rot,$@garrspelldesc
+1612,Faeline Stomp,$@garrspelldesc
+1613,Ancient Aftershock,$@garrspelldesc
+1765,Endurance Conduit,
+1766,Finesse Conduit,
+1767,Finesse Conduit,
+1770,Emeni's Ambulatory Flesh,$@garrspelldesc
+1783,Blessing of the Ancients,$@garrspelldesc
+1784,Freed from Torment,$@garrspelldesc
+1785,Empowered Perseverance,$@garrspelldesc
+1786,Inexplicable Power,$@garrspelldesc
+1787,Empowered Swiftness,$@garrspelldesc
+1788,The Adamant Vaults,$@garrspelldesc
+1789,Enduring Souls,$@garrspelldesc
+1790,Good Reflexes,$@garrspelldesc
+1791,Death Denied,$@garrspelldesc
+1792,Discovered Cache,$@garrspelldesc
+1793,Undeterred,$@garrspelldesc
+1794,Efficient Looter,"Automatically loot enemies, excluding Torghast Bosses."
+1799,Potency Conduit,
+1800,Overwhelming Discharge,
+1801,Endurance Conduit,
+1802,Pustule Eruption,
+1803,Resilient Stitching,
+1804,Finesse Conduit,
+1805,Potency Conduit,
+1806,Carver's Eye,
+1807,Waking Bone Breastplate,
+1808,Endurance Conduit,
+1809,Finesse Conduit,
+1810,Mnemonic Weaponry,
+1811,Potency Conduit,
+1812,Better Together,
+1813,Path of the Devoted,
+1814,Endurance Conduit,
+1815,Finesse Conduit,
+1816,Newfound Resolve,
+1819,Potency Conduit,
+1820,Viscous Trail,
+1821,Undulating Maneuvers,
+1822,Endurance Conduit,
+1823,Finesse Conduit,
+1824,Kevin's Oozeling,
+1825,Potency Conduit,
+1826,Spear of the Archon,
+1827,Hope Springs Eternal,
+1828,Endurance Conduit,
+1829,Finesse Conduit,
+1830,Light the Path,
+1831,Potency Conduit,
+1832,Soulglow Spectrometer,
+1833,Reactive Retrofitting,
+1834,Endurance Conduit,
+1835,Finesse Conduit,
+1836,Effusive Anima Accelerator,
+1837,Potency Conduit,
+1838,Called Shot,
+1839,Survivor's Rally,
+1840,Endurance Conduit,
+1841,Finesse Conduit,
+1842,Bonded Hearts,
+1843,Potency Conduit,
+1844,Cunning Dreams,
+1845,Waking Dream,
+1846,Endurance Conduit,
+1847,Finesse Conduit,
+1848,Dream Delver,
+1849,Potency Conduit,
+1850,Vorkai Ambush,
+1851,Hunt's Exhilaration,
+1852,Endurance Conduit,
+1853,Finesse Conduit,
+1854,Wild Hunt Strategem,
+1855,Potency Conduit,
+1856,Regenerative Stone Skin,
+1857,Intimidation Tactics,
+1858,Finesse Conduit,
+1859,Endurance Conduit,
+1860,Battlefield Presence,
+1861,Unflinching,$@garrspelldesc
+1863,Elite Slayer,$@garrspelldesc
+1864,Meddle With Fate,$@garrspelldesc
+1865,Anima Plunderer,$@garrspelldesc
+1866,Potency Conduit,
+1867,Sinful Preservation,
+1868,Nimble Steps,
+1869,Finesse Conduit,
+1870,Endurance Conduit,
+1871,Fatal Flaw,
+1872,Potency Conduit,
+1873,It's Always Tea Time,
+1874,Always Room For More,
+1875,Finesse Conduit,
+1876,Endurance Conduit,
+1877,Party Favors,
+1878,Empowered Nova,$@garrspelldesc
+1881,Blue Dragonflight Affinity,[TEMP] Passive Bonus from the Blue Dragonflight.
+1882,Green Dragonflight Affinity,[TEMP] Passive Bonus from the Green Dragonflight.
+1883,Red Dragonflight Affinity,[TEMP] Passive Bonus from the Red Dragonflight.
+1884,Black Dragonflight Affinity,[TEMP] Passive Bonus from the Black Dragonflight.
+1885,Gold Dragonflight Affinity,[TEMP] Passive Bonus from the Gold Dragonflight.
+1886,Vent Mastery,[TEMP] Allows you to harnass primal vents in the Dragon Isles that can refresh your drake's flight energy.
+1887,Winds Mastery,[TEMP] Increases the amount of time your drake can maintain flight.
+1888,Airstream Novice,[TEMP] Increases your speed when using airstreams across the Dragon Isles.
+1889,Primal Mastery,[TEMP] Allows your drake to harnass the power of primal vents in the [zone 1 and zone 2] of the Dragon Isles.
+1890,Escape Artist,[TEMP] [ACTIVE] Calls your drake to come and rescue you from combat.
+1891,Improved Vent Mastery,[TEMP] Using a primal vent now refreshes more flight energy.
+1892,Stronger Wings,[TEMP] Increases your drake flying speed.
+1893,Improved Primal Mastery,[TEMP] Allows your drake to harnass the power of primal vents in the [zone 3] of the Dragon Isles.
+1894,Fire from Above,[TEMP] [ACTIVE] Your drake swoops down and uses a breath attack against enemies in a cone in front of you.
+1895,Improved Escape Artist,[TEMP] Decreases the cooldown of Escape Artist.
+1896,Winds Mastery,[TEMP] Increases the amount of time your drake can maintain flight.
+1897,Airstream Mastery,[TEMP] Allows the use of volitile streams in the Dragon Isles.
+1898,Free Flight,Unlocks unlimited flying in the Dragon Isles.
+1899,Gathering Mastery,[TEMP] Allows you to gather resources while mounted on your drake.
+1900,Mounting Mastery,[TEMP] Mitigates being dismounted from your drake by combat.
+1901,Metrial Understanding,"Activates Pocopoc, and grants access to Lore Concordances in Zereth Mortis.
+
+|L290-Pocopoc generates 1 Energy every 6 min, up to a maximum of 10.
+
+Activating a Lore Concordance will grant a beneficial combat effect to all players within 50 yds for 10 min if you have full understanding of the Concordance.|l"
+1902,Altonian Understanding,"|L290-Allows you to communicate, interact, and quest with various Jiro in the Terrace of Formation and Pilgrim's Grace.|l"
+1904,Aealic Understanding,"|L290-Grants access to Enhancement Consoles in Exile's Hollow, Haven, and Pilgrim's Grace.
+
+Spending Pocopoc Energy at an Enhancement Console grants you a choice of temporary powers that work in Shadowlands outdoor areas and Oribos.|l"
+1907,Trebalim Understanding,"|L290-Enhances Pocopoc to allow you to choose an Aggressive or Supportive combat focus, and grants Pocopoc a new combat ability while in one of these roles.
+
+Allows you to completely understand Lore Concordances.|l"
+1913,Jump Jets,Allows usage of Jump Jets
+1914,Device 2,Allows usage of device 2
+1915,Device 3,Allows usage of device 3
+1916,Upgrade Device 1,
+1917,Upgrade Device 1,
+1918,Upgrade Device 2,
+1919,Upgrade Device 2,
+1920,Upgrade Device 3,
+1921,Upgrade Device 3,
+1922,Upgrade Device 1,
+1923,Upgrade Device 1,
+1924,Upgrade Device 1,
+1925,Upgrade Device 2,
+1926,Upgrade Device 2,
+1927,Upgrade Device 2,
+1928,Upgrade Device 3,
+1929,Upgrade Device 3,
+1930,Upgrade Device 3,
+1931,Sopranian Understanding,"|L290-Allows you to communicate, interact, and quest with Automa in the Untamed Verdure, Arrangement Index and Endless Sands.
+
+Improves your understanding of the Synthesis Forge, allowing for the discovery and creation of larger creatures.|l"
+1932,Dealic Understanding,"|L290-Allows Pocopoc to temporarily take control of Coreless Automa.
+
+Increases your understanding of Lore Concordances.
+
+Grants you access to the Synthesis Forge south of Pilgrim's Grace, which can be used in the discovery and creation of small creatures.|l"
+1934,Data Miner,Core will locate sources of data that can be used to learn the language of the First Ones
+1935,Friend of Jiro,Can take over deactivated Jiro
+1936,Decryption Matrix,Can decrypt Lore entires and enter them into the Lore Console
+1937,Automa Hacking,"Can take control of Automa Units.
+Rank 1: Tier 1 Automa
+Rank 2: Tier 2 Automa
+Rank 3: Automa Oracles"
+1938,Combat Frame,Core will now assist you in combat.
+1939,Guardian Consoles,Can use Guardian Consoles to create and temporarily take-over an Automa form.
+1940,Mighty Flap,[TEMP] Increases your drake flight speed temporarily upon taking off.
+1941,Winds Mastery,[TEMP] Increases your Dragon Companion flight duration.
+1942,Free Flight,Allows unlimited flight in Dragon Isles.
+1943,Escape Artist,[TEMP] [Active] Call your drake to come and rescue you from combat.
+1944,Fire From Above,[TEMP] [Active] Your drake swoops in and does a cone attack in front of you.
+1948,Friend of Jiro (Region X),Can interact wtih deactivated Jiro in Region  X
+1949,Friend of Jiro (Region Y),Can interact wtih deactivated Jiro in Region  X
+1950,Friend of Jiro (Region Z),Can interact wtih deactivated Jiro in Region Z
+1951,Lore Console - Flora,Can interact with Lore Consoles - Flora
+1952,Lore Console - Fauna,Can interact with Lore Consoles - Fauna
+1953,Lore Console - Unnatural,Can interact with Lore Consoles - Unnatural
+1954,Mini-Game Consoles 01,Can interact with Mini-Game Consoles type 01
+1955,Mini-Game Consoles 02,Can interact with Mini-Game Consoles type 02
+1956,Mini-Game Consoles 03,Can interact with Mini-Game Consoles type 03
+1957,Mini-Game Consoles 04,Can interact with Mini-Game Consoles type 04
+1958,Mini-Game Consoles 05,Can interact with Mini-Game Consoles type 05
+1959,Pet can be TANK,Pet can be TANK
+1960,Pet can be MOUNT,Pet can be MOUNT
+1961,Pet can be SUPPORT,Pet can be SUPPORT
+1969,Visial,"|L290-Grants access to the Core Configuration Console in Exile's Hollow, allowing you to customize Pocopoc's appearance.|l"
+1970,Echial,|L290-Allows you to ask Pocopoc to seek out and mark nearby Echoed Jiro on your minimap.|l
+1971,Corial,"|L290-Allows you to ask Pocopoc to seek out and mark nearby Coreless Automa on your minimap.
+
+Allows Pocopoc to communicate with wildlife and asks it to track valuables in hard-to-reach locations. Valuables may include forgotten treasure vaults, or elusive herbs and mineral deposits.|l"
+1972,Cachial Understanding,"|L290-Allows you to attempt to decrypt Caches of Creation. Ask Pocopoc to seek out and mark nearby Caches on your minimap.
+
+Successfully decrypting Caches of Creation awards Cyphers of the First Ones.|l"
+1975,Boost!,Unlock the ability to gain a temporary speed boost.
+1976,Creatian,"|L290-Allows Pocopoc to activate Echoed Jiro, granting you increased movement speed, additional Progenitor Essentia from gathering, or reducing the radius at which enemies will detect you.
+
+$@garrspelldesc|l"
+1980,Destrian,|L290-$@garrspelldesc|l
+1982,Enrian,|L290-$@garrspelldesc|l
+1983,Allian,|L290-$@garrspelldesc|l
+1988,Elic,|L290-$@garrspelldesc|l
+1989,Simlic,|L290-$@garrspelldesc|l
+1990,Enlic,|L290-$@garrspelldesc|l
+1991,Tilic,|L290-$@garrspelldesc|l
+1992,Deflim,|L290-$@garrspelldesc|l
+1993,Suplim,|L290-$@garrspelldesc|l
+1997,Maxlim,|L290-$@garrspelldesc|l
+1998,Bassalim Understanding,|L290-$@garrspelldesc|l
+2000,Roll,[Test] Do a roll. Start-Roll-End Animations
+2001,Roll2,[Test] Do a roll. Roll-End Animations  (No Start)
+2002,Contrail Visual Test,Toggleable Contrail Visuals
+2003,Cobalt and Copper Body,Change Pocopoc body color to Cobalt and Copper.
+2004,Pearl and Silver Body,Change Pocopoc body color to Pearl and Silver.
+2005,Bronze and Gold Body,Change Pocopoc body color to Bronze and Gold.
+2006,Beryllium and Silver Body,Change Pocopoc body color to Beryllium and Silver.
+2017,No Vambraces,Uninstall vambraces from Pocopoc.
+2018,Long Vambraces,Install long vambraces on Pocopoc.
+2019,Diamond Vambraces,Install diamond-shaped vambraces on Pocopoc.
+2020,No Face Decoration,Uninstall face decoration from Pocopoc.
+2021,Face Decoration,Install face decoration on Pocopoc.
+2022,Unshielded Core,Uninstall core shield from Pocopoc.
+2023,Shielded Core,Install core shield on Pocopoc.
+2024,Default Core,Downgrade Pocopoc's core.
+2025,Upgraded Core,Upgrade Pocopoc's core.
+2026,Ruby and Platinum Body,Change Pocopoc body color to Ruby and Platinum.
+2027,Lead Body,Change Pocopoc body color to Lead.
+2028,Copper and Cobalt Components,Change Pocopoc components color to Copper and Cobalt.
+2029,Platinum and Emerald Components,Change Pocopoc components color to Platinum and Emerald.
+2030,Gold and Ruby Components,Change Pocopoc components color to Gold and Ruby.
+2031,Silver and Beryllium Components,Change Pocopoc components color to Silver and Beryllium.
+2032,Lead and Emerald Components,Change Pocopoc components color to Lead and Emerald
+2033,Silver and Diamond Components,Change Pocopoc components color to Silver and Diamond.
+2036,Empty,
+2037,Empty,
+2038,Empty,
+2039,Empty,
+2040,Empty,
+2042,Empty,
+2045,Wind's Guidance: Thunder Lizard,Mounted movement speed increased by 10% while in the Ohn'aran Plains.
+2046,Shikaar Lightning Rod,$@garrspelldesc
+2047,Mammoth Memories,"While in the Mammoth Graveyard, you can commune with Mammoth Tusks to summon a Mammoth. The Mammoth shields all behind it for 100% of their health. If you have this trait, you gain +10% increased damage done for 10 sec after the shield expires or breaks."
+2048,Charge Forward,"While traveling the Otter Banks, the slow effect of the mud pools is decreased by 75%."
+2049,Hawk's Sight,"While the Thunder Lizard is obscured in Dark Clouds, you may interact with a nearby Hawk to see it more clearly."
+2057,Deadly Poison,Deals damage over time.
+2058,Weakening Poison,Reduces damage dealt.
+2061,Ancestor's Grace Charm,Improves chance of good loot.
+2062,Common Spearhead,Applies poison normally.
+2063,Sharpened Spearhead,"Empowers poison effect, but shortens its duration."
+2064,Jagged Spearhead,"Poison affects enemy indefinitely, but its effect is weakened."
+2065,Misericorde,Your Offhand Dirk has a Chance to instantly finish off a Monster below 20% health.
+2066,Comfortable Offhand Dirk Handle,Offhand Dirk usability window is longer.
+2069,Steel Offhand Blade,Deals melee damage.
+2070,Offhand Knuckle,Stuns.
+2072,Light Offhand Dirk Handle,Offhand Dirk is usable more often.
+2073,Heavy Offhand Dirk Handle,Offhand Dirk effect is empowered.
+2078,Dragonriding,"After falling for a second, your dragon isle drake extends its wings to propel you both forward. Pointing your drake toward any given direction propels you both forward."
+2079,Draconic Dive,Pointing your drake downward grants more momentum. Evening out can transfer that momentum forward.
+2080,Prepare for Landing,"Pointing your drake's nose upward slows you both. When at your slowest, your drake starts to fall slowly toward the ground, forward and down."
+2081,Surge Forward,"Flap forward a short distance, gaining speed."
+2082,Skyward Ascent,"Flap upward, gaining height at the cost of some momentum."
+2083,Winds of the Isles,"You can detect and utilize strong winds throughout the Dragon Isles. These winds redirect your Dragon Isle Drake, propelling you in their direction at high speeds."
+2084,Whirling Surge,"Spiral forward a great distance, increasing speed."
+2085,Bronze Rewind,"When taking off, you leave an imprint of yourself behind. Your imprint fades 3 sec after you land. Activate to return to your imprint."
+2086,Lift Off,"When standing, double jump to launch upward and start gliding forward."
+2087,Drake and Rider Training,Your Vigor is increased to 4.
+2088,Dragonriding Learner,Your Vigor is increased to 5.
+2089,Beyond Infinity,Your Vigor is increased to 6.
+2090,Dynamic Stretching,Your Vigor regeneration rate is accelerated to 1 Vigor every 25 sec while grounded.
+2091,Restorative Travels,Your Vigor regeneration rate is accelerated to 1 Vigor every 20 sec while grounded.
+2092,Yearning for the Sky,Your Vigor regeneration rate is accelerated to 1 Vigor every 15 sec while grounded.
+2093,Vigor,Dragonriding abilities spend Vigor. Spending time on the ground regenerates 1 Vigor every 30 sec.
+2094,Thrill of the Skies,"While dragonriding at high speeds, you regenerate Vigor."
+2095,Thrill Chaser,Thrill of the Skies expires 5 sec more quickly.
+2096,At Home Aloft,Thrill of the Skies expires 5 sec more quickly.
+2097,Help from Above [NYI],"When outdoors, your spells and abilities have a chance to summon one of your dragon isle drakes, who bombards or heals your current target."
+2098,Bakar Hunting Companion,"You may hunt alongside a bakar during Shikaar hunting parties.
+
+|CFF71d5ffInvigorating Takedown|r
+$@spelldesc385472"
+2099,Ohuna Hunting Companion,"You may hunt alongside an ohuna during Shikaar hunting parties.
+
+|CFF71d5ffRaptor's Grace|r
+$@spelldesc385469"
+2100,Bakar Training: Fatal Bite,"You may select the following additional training for your hunting companion. Your companion may only have one additional ability.
+
+|CFF71d5ffFatal Bite|r
+$@spelldesc383971"
+2101,Ohuna Training: Avian Alacrity,"You may select the following additional training for your hunting companion. Your companion may only have one additional ability.
+
+|CFF71d5ffAvian Alacrity|r
+$@spelldesc384130"
+2102,Proof of Prowess,"Enable the following effect during Shikaar hunting parties.
+
+|CFF71d5ffProof of Prowess|r
+$@spelldesc376282"
+2103,Bakar Training: Harrowing Howl,"You may select the following additional training for your hunting companion. Your companion may only have one additional ability.
+
+|CFF71d5ffHarrowing Howl|r
+$@spelldesc385479"
+2104,Ohuna Training: Razor Winds,"You may select the following additional training for your hunting companion. Your companion may only have one additional ability.
+
+|CFF71d5ffRazor Winds|r
+$@spelldesc385484"
+2110,Dragonrider's Initiative [NYI],Dismounting damages nearby enemies and slows them by 30% for 5 sec.
+2111,White Ohuna,Change the color of your ohuna companion.
+2112,Sepia Ohuna,Change the color of your ohuna companion.
+2113,Gold Bakar,Change the color of your bakar companion.
+2114,Golden Brown Bakar,Change the color of your bakar companion.
+2115,White Bakar,Change the color of your bakar companion.
+2123,Caravan Objective,PH
+2124,Repeatable Reagent Quest Bonus,PH
+2125,Teerai War Banner,PH
+2126,Nomad Treasure Reveal,PH
+2128,Caravan Boss Unlock,PH
+2129,Nomad Rare Combat,PH
+2130,Caravan Prevent Death,PH
+2131,Nomad Elite Quest,PH
+2135,Red Ohuna,Change the color of your ohuna companion.
+2136,Dark Ohuna,Change the color of your ohuna companion.
+2137,Black Bakar,Change the color of your bakar companion.
+2140,Shikaar Mentorship,"Enable the following effect during Shikaar hunting parties.
+
+|CFF71d5ffShikaar Mentorship|r
+Shikaar Hunters will grant you a boon, increasing one of your secondaries for the duration of the hunting party."
+2141,Blessing: Quickening Gale,"You may select the following Blessing of Ohn'ara for use during Shikaar hunting parties.
+
+|CFF71d5ffQuickening Gale|r
+$@spelldesc384184"
+2142,Blessing: Warding Winds,"You may select the following Blessing of Ohn'ara for use during Shikaar hunting parties.
+
+|CFF71d5ffWarding Winds|r
+$@spelldesc384183"
+2143,Apex Hunter,"Enable the following effect during Shikaar hunting parties.
+
+|CFF71d5ffApex Hunter|r
+$@spelldesc376281"
+2144,Blessing: Purifying Breeze,"You may select the following Blessing of Ohn'ara for use during Shikaar hunting parties.
+
+|CFF71d5ffPurifying Breeze|r
+$@spelldesc385440"
+2149,Highlands Fishing,Allows you to spot fishing pools in mountain lakes across Dragon Isles.
+2150,Lava Fishing,Gives you access to fishing pools in lava across Dragon Isles.
+2151,Ice Fishing,Allows you to crack open holes and fish in frozen pools across Dragon Isles.
+2152,Irontree Harpoon Handle,Find a good irontree log and bring it to Tavio in Iskaara to improve your harpoon handle.
+2153,Sharkbone Harpoon Head,Find a nice piece of sharkbone and bring it to Tavio in Iskaara to improve your harpoon head.
+2154,Seavine Harpoon Rope,Find a strong long seavine stalk and bring it to Tavio in Iskaara to improve your harpoon rope.
+2155,Dragonrider's Compassion [NYI],Dismounting shields nearby allies and increases their movement speed by 20% for 5 sec.
+2156,Ohn'ahra's Gusts [NYI],Surge Forward blocks Djaradin projectiles.
+2157,Airborne Tumbling [NYI],"Whirling Surge allows you to evade elemental attacks for 1 sec. In addition, you may use Whirling Surge to dismount enemy flying players you come into contact with."
+2158,Draconic Cultivation [NYI],Acquiring herbs or minerals increases your Vigor recharge rate by 10% for 10 sec.
+2159,Draconic Hunt [NYI],Defeating an enemy increases your Vigor recharge rate by 10% for 3 sec.
+2164,Cartographer's Flag,Unlocks the ability to place a flag on the highest peaks of the Dragon Isles. Explore to find the marker on your minimap.
+2165,Anomaly Detection Spell Framework,"This magnificent spell framework allows the detection of objects of interest through physical barriers in the Dragon Isles outdoor world, displaying nearby treasures on your minimap.
+
+Grants the ability Anomaly Detection Mark I."
+2166,Mechanism Bypass,"The Explorer's League has long used a variety of gadgets to bypass locks, traps, and other mechanisms. With the help of the Reliquary, these gadgets have been magically imbued and can open nearly any locked chest in the Dragon Isles outdoor world.
+
+Grants the ability Mechanism Bypass."
+2167,Quick Draw Film Holster,"No more digging around in your pack to find film. Automatically reloads film at a rapid speed when you run out.
+
+Functions while on cataloging world quests."
+2168,Pictronic Gadget Upgrade,"Improve your device's performance allowing you to take more pictures per roll of film.
+
+Functions while on cataloging world quests."
+2169,Lucky Rock,"Add this lucky rock to your pack. According to legend, this rock draws out even the shyest of creatures so you can snap their picture.
+
+Functions while on cataloging world quests."
+2170,Spiked Cleats,"Activate to ignore the negative effects of any Hazards for next 2 seconds.
+
+Functions while on climbing world quests."
+2171,Rupert's Helping Hand,"Activate temporary handholds along climbing paths that help you shortcut the usual routes.
+
+Functions while on climbing world quests."
+2172,Jeb's Monocle,"Passive. You can find lost supplies along climbing routes that you can salvage for additional resources.
+
+Functions while on climbing world quests."
+2173,Tireless Grip Chalk,"Passive. Doubles the amount of Grip you have, so you can climb further without falling. Thanks, chalk!
+
+Functions while on climbing world quests."
+2174,Auto-Grappler,"Passive. The first time you run out of Grip, you automatically grapple back to the nearest handhold and restore Grip.
+
+Functions while on climbing world quests."
+2176,Bakar Hunting Companion,"Hunt alongside a bakar which grants the following additional effect:
+
+|CFFFFFFFFPassive|R
+$@spelldesc385472"
+2177,Ohuna Hunting Companion,"Hunt alongside an ohuna which grants the following additional effect:
+
+|CFFFFFFFFPassive|R
+$@spelldesc385469"
+2178,Fatal Bite,"|CFFFFFFFF1 min cooldown|R
+$@spelldesc383971"
+2179,Harrowing Howl,"|CFFFFFFFFPassive|R
+$@spelldesc385479"
+2180,Razor Winds,"|CFFFFFFFFPassive|R
+$@spelldesc385484"
+2181,Avian Alacrity,"|CFFFFFFFF1 min cooldown|R
+$@spelldesc384130"
+2182,Blessing: Warding Winds,"|CFFFFFFFF1.5 min cooldown|R
+$@spelldesc384183"
+2183,Blessing: Purifying Breeze,"|CFFFFFFFFPassive|R
+$@spelldesc385440"
+2184,Blessing: Quickening Gale,"|CFFFFFFFF1.5 min cooldown|R
+$@spelldesc384184"
+2187,Brown Ohuna,Change the color of your ohuna companion.
+2188,Orange Bakar,Change the color of your bakar companion.
+2189,Brown Bakar,Change the color of your bakar companion.
+2190,Boon of the Covenants,$@garrspelldesc
+2191,Boon of the Covenants,$@garrspelldesc
+2192,Boon of the Covenants,$@garrspelldesc
+2193,Boon of the Covenants,$@garrspelldesc
+2194,Bluefeather Cliffs Fishing Pool,
+2195,Scalecracker Crater Fishing Pool,
+2196,Vakthros Lake Fishing Pool,
+2197,Saronite Net Weight,Find a nice saronite piece and bring it to Tavio in Iskaara to improve your fishing net capacity.
+2198,Imbu Knot,Find a good old fishing net woven in Imbu and bring it to Tavio in Iskaara to make your nets accumulate fish faster.
+2199,Tuskarr Harpoon,"Allows you to hapoon BIG FISH, should you encounter one across the Dragon Isles."
+2200,Fishing Nets,Allows you to set fishing nets across Dragon Isles.
+2201,Empty,
+2202,Empty,
+2203,Empty,
+2204,,
+2205,Empty,
+2206,Empty,
+2207,Empty,
+2209,ZzOLD Extra Wild Arcana,Adds a fourth choice to your Wild Arcana abilities.
+2210,Extra Wild Arcana,Adds a fourth choice to your Wild Arcana abilities.
+2211,Cobalt Reputation,Increase your reputation gain with the Cobalt Assembly by 30%.
+2212,Arcane Shield,Chance to gain an arcane absorb shield after you choose a Wild Arcana power.
+2213,Azure Arise,"You can manipulate the wild arcana in the Cobalt Assembly to return you from death once every 60 minutes. When activated, you return to full health and stun all enemies nearby you."
+2214,Arcane Instability,$@spelldesc390661
+2215,Unhelpful Fireworks,$@spelldesc390640
+2216,Cobalt Cutthroat,$@spelldesc394258
+2221,Climbing Gear,A collection of gear to assist with climbing world quests.
+2222,Cataloging Gear,A collection of gear to assist with Cataloging world quests.
+2230,Rexxar's Aid,"Rexxar has a chance to show up in combat to aid you during a delve run.
+
+Rexxar's focus is dealing as much damage as he can before leaving."
+2231,More Rexxar,Rexxar will stick around longer when he arrives to help you.
+2232,I Must Axe You A Question,"Rexxar's battle tactics leave even the most experienced warrior inspired.
+
+After showing up to aid you, your primary stat will increase for 5 minutes."
+2233,Misha Likes You,"Rexxar's loyal follower, Misha, has taken a liking to you. When Rexxar departs, Misha will show up to help you for a little longer."
+2234,Will of the Machine,Speaker Kuldas has 100% more health.
+2235,Skin of the Earth,Speaker Kuldas takes 25% less damage.
+2236,Rites of Flame,You become immune to fire damage.
+2237,Rites of Lightning,You become immune to lightning damage.
+2238,Rites of Metal,You become immune to physical damage.
+2239,Plan Ahead [WIP],Permanently bank 10 of your Awakening Currency.
+2240,Wrath of the Machine [WIP],"Each time you kill a creature, increase your haste and movement speed by 1%."
+2241,Fury of the Earth [WIP],"For every five creatures you kill, your attacks deal an additional 1% nature damage."
+2242,Armageddon Crystal,"On use, clears the current wave. Single use only."
+2243,Preservation Crystal,"On use, restores Speaker Kuldas to full health. Single use only."
+2246,,
+2247,,
+2248,,
+2249,Ability: Woven Cocoon,"As an agent of the Weaver, conjure enchanted webs to conceal yourself from foes--or to ensnare your enemies in a deadly trap."
+2250,Rumors,Explore the City of Threads and beyond to uncover unique opportunities to leverage your influence with your patron.
+2251,Pheromones: High Hollows,Explore the luxury of high Nerubian society without fear of reprisal. (Warning: ascended patrols can see through your veil!)
+2252,Treasures: Weave-Rat Caches,Spindle will lead you to various treasures buried deep within the Kingdom--so long as you can keep up.
+2253,The Weaver's Request,Widow Arak'nai has a new task for you. Seek her out in the Weaver's Lair.
+2254,World Buff: Weaver's Tutelage,"When aligned with the Weaver, Professions Crafting and Gathering speed increased by 20%."
+2255,Notoriety Pays Off,"The cache received from completing ""Eyes of the Weaver"" will contain additional rewards."
+2256,World Buff: Weaver's Prodigy,"When aligned with the Weaver, Professions Crafting and Gathering speed increased by 40%."
+2257,The Weaver's Legacy,Widow Arak'nai has an important task for you. Seek her out in the Weaver's Lair.
+2258,Insidious Jawcrawler,One of the Weaver's personal menagerie can now be purchased from the Severed Threads Quartermaster.
+2259,Title: Silksinger,Display a title befitting your status as one of the Weaver's foremost allies.
+2260,Weaver's Hearthstone,"A new hearthstone is purchasable from the Severed Threads Quartermaster, allowing you to return to the Weaver's Lair in style."
