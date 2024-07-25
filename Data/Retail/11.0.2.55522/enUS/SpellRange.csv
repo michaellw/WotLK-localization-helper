@@ -1,0 +1,209 @@
+ID,DisplayName_lang,DisplayNameShort_lang
+1,Self Only,Self
+2,Combat Range,Combat
+3,Twenty yards,Short
+4,Medium Range,Medium
+5,Long Range,Long
+6,Vision Range (AOI),Vision
+7,Ten yards,Very Short
+8,"Min Range 10, 20",Short
+9,Medium Range,Medium
+10,10-40,Long
+11,Fifteen yards,Shorter
+12,Interact Range,Interact
+13,Anywhere - Unlimited,Anywhere - Unlimited
+14,Extra Long Range,Extra Long
+34,Twenty-Five yards,Medium-Short
+35,Medium-Long,Medium-Long
+36,Longer Range,Longer
+37,Extended Range,Extended
+38,"Min-Range 10, 25",Extra Medium
+54,Monster Shoot,Monster Shoot Range
+74,Ranged Weapon,Ranged
+94,Sting,Sting
+95,Charge,Charge
+96,Trap,Trap
+114,Hunter Range,Hunter
+134,Tower 80,Tower
+135,Tower 100,Tower
+136,Thirty-to-80,Thirty-to-80
+137,Eight yards,Shorter
+139,Long Range Hunter Shoot,Hunter Long
+140,Six yards,Six yards
+141,Seven yards,Seven yards
+150,Quest - Valgarde 8/100,Quest - Valgarde
+151,Long Range Hunter Shoot,Hunter 45
+152,Super Long,Super Long
+153,"Charge, 60",Huge Charge
+154,"Tower 80, 10",Tower 10
+155,Hunter Range (Long),Hunter (Long)
+156,Boulder Range,Boulder
+157,Ninety,Ninety
+158,"Super Long, 15 Min",Super Long
+160,Medium/Long Range,Medium/Long
+161,Short/Long Range,Short/Long
+162,Medium/Short Range,Medium/Short
+163,Death Grip,Death Grip
+164,Catapult Range,Catapult
+165,Fourteen yards,Shorter
+166,Thirteen yards,Shorter
+167,"Min Range 70, 150",70-150
+168,Medium-Long Range (38),Medium-Long
+169,Three Yards,Three Yards
+170,Fifty Five Yards,Extended
+171,"Min Range 1, 10",Very Short
+172,Eleven yards,Shorter
+173,Anywhere (Combat Min Range),Hunter Long
+174,One Thousand Yards,1000 Yards
+176,Seventy yards,Extended
+177,Donut 20-40,Donut 20-40
+178,Forty-to-80,Forty-to-80
+179,"Min Range 5, 15",Shorter
+180,Tournament - Ranged,Argent Tournament - Ranged
+181,Two-Hundred Yard Range,200
+182,Fifty-to-100,Fifty-to-100
+184,"Min Range 5, 25",Medium
+186,Nine yards,Very Short
+187,Three Hundred Yards,300
+188,"Min Range 5, 60",Five-to-60
+190,"Min Range, 20, 40",Long
+191,Fifty-Seven Yards,Fifty-Seven Yards
+192,20-to-100,20-to-100
+193,"Tower 80, 5",Tower 5
+195,Fourty-One Yards,41
+196,10-to-100,10-to-100
+197,"Long Range (Hunter, Hardcoded Min Range, Don't Use)",Long
+198,Twenty Yards,Hunter (Short)
+199,Three-hundred (Min 100),300 (Min 100)
+200,70-to-90,70-to-90
+201,Thirty-to-50,Thirty-to-50
+202,"10-40 Hostile, 0-40 Friendly","10-40 Hostile, 0-40 Friendly"
+203,"Min Range 5, 10",Shorter
+204,Fifteen-to-Fifty,Long
+214,10-to-300,10-to-100
+236,15-to-80,15-to-80
+240,Twenty-Four yards,Medium-Short
+241,Flying Dragon Kick,Flying Dragon Kick
+244,Melee Anywhere - Unlimited,Melee Anywhere - Unlimited
+245,Five Hundred Yards,500 Yards
+248,Medium Range,Medium
+250,"Min-Range 15, 25",Extra Medium 2
+252,20-to-60,20-to-60
+253,30-to-60,Thirty-to-60
+254,One Yard,One Yard
+257,Forty-to-200,Forty-to-200
+258,"Min Range 8, 40",Eight-to-40
+261,Anywhere (60yd Min Range),Anywhere (60yd Min Range)
+266,30-to-90,Thirty-to-90
+271,5-to-200,5-to-200
+273,"Min Range 2, 60",Two-to-60
+275,Slightly Longer Range,Longer
+276,Four Yards,Four Yards
+281,One Hundred-to-Five Hundred,100-500
+282,15-to-50,15-to-50
+285,"Tower110, 15",Tower 10
+286,Eighteen yards,Short
+287,15-to-40,15-to-40
+288,Large Minimum Range (8-30),Large Min Range (8-30)
+289,One Hundred Seventy Five Yard Range,175
+290,Donut 10-40,Donut 10-40
+291,Fifteen yards,Short
+292,Charge,Charge
+293,18-to-60,18-to-60
+294,Twelve yards,Shorter
+295,15-to-60,15-to-60
+296,"Min Range 5, 40",Five-to-40
+297,"Min Range 12, 60",12-to-60
+298,12-100,12-to-100
+299,Fifty-to-150,Fifty-to-150
+300,25-to-150,25-to-150
+304,"Min Range 10, 40",10-to-40
+306,Longer Range,Longer
+307,Combat Range (Extended),Combat (Extended)
+308,"Min Range 8, 60",Eight-to-60
+309,"Min Range 8, 50",Eight-to-50
+310,"Min Range 5, 40",Five-to-40
+311,"Min Range 12, 15",12-15
+315,Five yards,Shortest
+316,120,120
+317,"Min Range 10, 80",10-to-80
+318,Short Range Charge,Min 3 Max 10
+319,One Point Five Yards,1.5 Yards
+320,50-to-300,50-to-300
+321,95,95
+322,Sixty yards,Sixty
+324,Fourty-to-150,Fourty-to-150
+326,"Min Range 5, 40",Five-to-40
+327,Donut (39-to-40),39-to-40
+328,Forty-to-60,Forty-to-80
+329,6.5 Yards,6.5 Yards
+330,Combat Range (Special - Melee),Combat
+331,10-to-60,10-to-60
+333,"8-25 Hostile, 0-25 Friendly","8-25 Hostile, 0-25 Friendly"
+334,Sixty Five Yards,Sixty Five
+335,Fifty Two Yards,Fifty Two
+336,Seventy Five Yards,Extended
+437,"Min Range 15, 20",Mid Range
+438,"Min Range 15, 30",Mid Range
+439,One Hundred Seventy Five Yards,175 Yards
+444,"Tower 80, AI Ranged",Tower
+445,27-to-300,27-to-300
+446,Two Point Five Yards,2.5 Yards
+447,Sixteen yards,Short
+448,99,99
+449,Twenty-One,Medium-Short
+460,60-to-300,60-to-300
+461,"Min Range 10, 100",10-to-100
+462,One Hundred-Sixty-Five,165
+463,"Min Range 8, 40",Eight-to-40
+464,"Min Range, 20, 50",20-50
+465,"Min Range, 20, 60",Long
+466,Charge,Charge
+467,"Min Range 10, 60","Min Range, 10, 60"
+468,Charge (Felguard),Charge
+469,Ninety-to-110,90-110
+470,0.1 yards,0.1 yards
+473,"Min Range 70, 160",70-160
+474,Twenty-Two,Medium-Short
+475,15-to-200,15-to-200
+477,Tower 110,110
+482,5-to-25,Rescue
+483,8-25 Hostile and Friendly,"8-25 Hostile, 8-25 Friendly"
+485,WoWLabs - BR: Ranged,Ranged
+486,50-250,50-250
+488,250,250
+489,"Min Range 20, 70",20-70
+490,Just Under Twenty to Twenty,Just Under Twenty to Twenty
+491,"Min Range 5, 35",Five-to-35
+492,300 (Melee Combat),Combat
+493,15 to 28 yards,15 to 28 yards
+496,190yd,190yd
+497,"Min Range, 15, 50",15-50
+502,30-to-100,30-to-100
+503,"Min Range 8, 30",Eight-to-30
+506,Twelve yards,Shorter
+507,"Min Range 7, 8 (7-8)","Min Range 7, 8 (7-8)"
+508,Min 6 - 12,Min 6 - 12
+512,"Charge, 30",Medium Charge
+513,Short to Long Range,(0-300)
+514,Anywhere (5yd Min Range),Anywhere (5yd Min Range)
+516,10 Yards - Melee,10 Yard (Melee Flag)
+518,0.2 Yard,0.2 Yard
+519,"Min Range 5, 40",Five-to-40 (Ranged)
+520,"Min Range 5, 40",(Five-to-40) (Ranged)
+522,Twenty yards (Special - Melee),Combat
+523,40 Yards - Melee,40 Yard (Melee Flag)
+524,Delves - Companion Range,Delves
+525,Charge (8-35),Charge (8-35)
+526,Two Yards,2.0 Yards
+530,"Min Range 20, 100",20-100
+532,Seventeen yards,Shorter
+533,Nineteen yards,Shorter
+534,Twenty-Three,Medium-Short
+535,Twenty-Six,Medium-Short
+536,Twenty-Eight,Medium-Short
+537,Light's Gambit Movement,Light's Gambit Movement
+538,Light's Gambit Holy Assault,Light's Gambit Movement
+539,"Min Range 3, 15",Shortly
+540,Light's Gambit Knight Movement,Light's Gambit Movement
+542,"Min Range 5, 100",5-100

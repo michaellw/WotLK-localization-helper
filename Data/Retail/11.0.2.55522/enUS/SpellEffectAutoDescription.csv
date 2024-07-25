@@ -1,0 +1,449 @@
+ID,EffectDescription_lang,AuraDescription_lang
+1,Inflicts $s@effectindex Physical damage to an enemy.,
+2,Inflicts $s@effectindex Holy damage to an enemy.,
+3,Inflicts $s@effectindex Fire damage to an enemy.,
+4,Inflicts $s@effectindex Nature damage to an enemy.,
+5,Inflicts $s@effectindex Frost damage to an enemy.,
+6,Inflicts $s@effectindex Shadow damage to an enemy.,
+7,Inflicts $s@effectindex Arcane damage to an enemy.,
+8,Inflicts $s@effectindex Chaos damage to an enemy.,
+9,Inflicts $s@effectindex Physical damage to enemies within $A@effectindex yards of the impact.,
+10,Inflicts $s@effectindex Holy damage to enemies within $A@effectindex yards of the impact.,
+11,Inflicts $s@effectindex Fire damage to enemies within $A@effectindex yards of the impact.,
+12,Inflicts $s@effectindex Nature damage to enemies within $A@effectindex yards of the impact.,
+13,Inflicts $s@effectindex Frost damage to enemies within $A@effectindex yards of the impact.,
+14,Inflicts $s@effectindex Shadow damage to enemies within $A@effectindex yards of the impact.,
+15,Inflicts $s@effectindex Arcane damage to enemies within $A@effectindex yards of the impact.,
+16,Inflicts $s@effectindex Chaos damage to enemies within $A@effectindex yards of the impact.,
+17,Inflicts $s@effectindex Physical damage to enemies within $A@effectindex yards.,
+18,Inflicts $s@effectindex Holy damage to enemies within $A@effectindex yards.,
+19,Inflicts $s@effectindex Fire damage to enemies within $A@effectindex yards.,
+20,Inflicts $s@effectindex Nature damage to enemies within $A@effectindex yards.,
+21,Inflicts $s@effectindex Frost damage to enemies within $A@effectindex yards.,
+22,Inflicts $s@effectindex Shadow damage to enemies within $A@effectindex yards.,
+23,Inflicts $s@effectindex Arcane damage to enemies within $A@effectindex yards.,
+24,Inflicts $s@effectindex Chaos damage to enemies within $A@effectindex yards.,
+25,Inflicts $s@effectindex Physical damage to an enemy every $t@effectindex sec for $d.,$s@effectindex Physical damage inflicted every $t@effectindex sec.
+26,Inflicts $s@effectindex Holy damage to an enemy every $t@effectindex sec for $d.,$s@effectindex Holy damage inflicted every $t@effectindex sec.
+27,Inflicts $s@effectindex Fire damage to an enemy every $t@effectindex sec for $d.,$s@effectindex Fire damage inflicted every $t@effectindex sec.
+28,Inflicts $s@effectindex Nature damage to an enemy every $t@effectindex sec for $d.,$s@effectindex Nature damage inflicted every $t@effectindex sec.
+29,Inflicts $s@effectindex Frost damage to an enemy every $t@effectindex sec for $d.,$s@effectindex Frost damage inflicted every $t@effectindex sec.
+30,Inflicts $s@effectindex Shadow damage to an enemy every $t@effectindex sec for $d.,$s@effectindex Shadow damage inflicted every $t@effectindex sec.
+31,Inflicts $s@effectindex Arcane damage to an enemy every $t@effectindex sec for $d.,$s@effectindex Arcane damage inflicted every $t@effectindex sec.
+32,Inflicts $s@effectindex Chaos damage to an enemy every $t@effectindex sec for $d.,$s@effectindex Chaos damage inflicted every $t@effectindex sec.
+33,"Stuns an enemy, rendering it unable to move or attack for $d.",Stunned.
+34,Increases the attacking and casting speed of all allies within $A@effectindex yards of the impact by $s@effectindex% for $d.,Attacking and casting speed increased by $s@effectindex%.
+35,"Stuns all enemies within $A@effectindex yards, rendering them unable to move or attack for $d.",Stunned.
+36,"Stuns all enemies within $A@effectindex yards of the impact, rendering them unable to move or attack for $d.",Stunned.
+37,Heals an ally for $s@effectindex% of their maximum health.,
+38,Immobilizes an enemy for up to $d.,Immobilized.
+42,Inflicts Shadow damage to an enemy every $t@effectindex sec for $d.,Shadow damage inflicted every $t@effectindex sec.
+43,Inflicts Physical damage to an enemy.,
+44,Inflicts Holy damage to an enemy.,
+45,Inflicts Fire damage to an enemy.,
+46,Inflicts Nature damage to an enemy.,
+47,Inflicts Frost damage to an enemy.,
+48,Inflicts Shadow damage to an enemy.,
+49,Inflicts Arcane damage to an enemy.,
+50,Inflicts Chaos damage to an enemy.,
+51,Inflicts Physical damage to an enemy every $t@effectindex sec for $d.,Physical damage inflicted every $t@effectindex sec.
+52,Inflicts Holy damage to an enemy every $t@effectindex sec for $d.,Holy damage inflicted every $t@effectindex sec.
+53,Inflicts Fire damage to an enemy every $t@effectindex sec for $d.,Fire damage inflicted every $t@effectindex sec.
+54,Inflicts Nature damage to an enemy every $t@effectindex sec for $d.,Nature damage inflicted every $t@effectindex sec.
+55,Inflicts Frost damage to an enemy every $t@effectindex sec for $d.,Frost damage inflicted every $t@effectindex sec.
+56,Inflicts Arcane damage to an enemy every $t@effectindex sec for $d.,Arcane damage inflicted every $t@effectindex sec.
+57,Inflicts Chaos damage to an enemy every $t@effectindex sec for $d.,Chaos damage inflicted every $t@effectindex sec.
+58,Inflicts $s@effectindex Physical damage to an enemy every $t@effectindex sec for $d.,$s@effectindex Physical damage inflicted every $t@effectindex sec.
+59,Inflicts $s@effectindex Holy damage to an enemy every $t@effectindex sec for $d.,$s@effectindex Holy damage inflicted every $t@effectindex sec.
+60,Inflicts $s@effectindex Fire damage to an enemy every $t@effectindex sec for $d.,$s@effectindex Fire damage inflicted every $t@effectindex sec.
+61,Inflicts $s@effectindex Nature damage to an enemy every $t@effectindex sec for $d.,$s@effectindex Nature damage inflicted every $t@effectindex sec.
+62,Inflicts $s@effectindex Frost damage to an enemy every $t@effectindex sec for $d.,$s@effectindex Frost damage inflicted every $t@effectindex sec.
+63,Inflicts $s@effectindex Shadow damage to an enemy every $t@effectindex sec for $d.,$s@effectindex Shadow damage inflicted every $t@effectindex sec.
+64,Inflicts $s@effectindex Arcane damage to an enemy every $t@effectindex sec for $d.,$s@effectindex Arcane damage inflicted every $t@effectindex sec.
+65,Inflicts $s@effectindex Chaos damage to an enemy every $t@effectindex sec for $d.,$s@effectindex Chaos damage inflicted every $t@effectindex sec.
+66,Inflicts Physical damage to an enemy every $t@effectindex sec for $d.,Physical damage inflicted every $t@effectindex sec.
+67,Inflicts Holy damage to an enemy every $t@effectindex sec for $d.,Holy damage inflicted every $t@effectindex sec.
+68,Inflicts Fire damage to an enemy every $t@effectindex sec for $d.,Fire damage inflicted every $t@effectindex sec.
+69,Inflicts Nature damage to an enemy every $t@effectindex sec for $d.,Nature damage inflicted every $t@effectindex sec.
+70,Inflicts Frost damage to an enemy every $t@effectindex sec for $d.,Frost damage inflicted every $t@effectindex sec.
+71,Inflicts Arcane damage to an enemy every $t@effectindex sec for $d.,Arcane damage inflicted every $t@effectindex sec.
+72,Inflicts Chaos damage to an enemy every $t@effectindex sec for $d.,Chaos damage inflicted every $t@effectindex sec.
+83,Heals the caster for $s@effectindex% of maximum health every $t@effectindex sec for $d.,Heals $s@effectindex% of maximum health every $t@effectindex sec.
+85,Heals the caster for $s@effectindex% of their maximum health.,
+91,Interrupts spellcasting of all enemies within $A@effectindex yards for $d.,
+92,Interrupts spellcasting of an enemy for $d.,
+93,Silences an enemy preventing spell casting for $d.,Unable to cast spells.
+94,Reduces attacking and casting speed by $s@effectindex% for $d.,Attacking and casting speed reduced by $s@effectindex%.
+96,Knocks an enemy back.,
+97,Surrounds the caster with a shield that lasts $d and can absorb up to $s@effectindex of all damage.,Absorbs $s@effectindex damage.
+98,Surrounds the caster with a shield that lasts $d and can absorb up to $s@effectindex Physical damage.,Absorbs $s@effectindex Physical damage.
+99,Surrounds the caster with a shield that lasts $d and can absorb up to $s@effectindex Holy damage.,Absorbs $s@effectindex Holy damage.
+100,Surrounds the caster with a shield that lasts $d and can absorb up to $s@effectindex Fire damage.,Absorbs $s@effectindex Fire damage.
+101,Surrounds the caster with a shield that lasts $d and can absorb up to $s@effectindex Nature damage.,Absorbs $s@effectindex Nature damage.
+102,Surrounds the caster with a shield that lasts $d and can absorb up to $s@effectindex Frost damage.,Absorbs $s@effectindex Frost damage.
+103,Surrounds the caster with a shield that lasts $d and can absorb up to $s@effectindex Shadow damage.,Absorbs $s@effectindex Shadow damage.
+104,Surrounds the caster with a shield that lasts $d and can absorb up to $s@effectindex Arcane damage.,Absorbs $s@effectindex Arcane damage.
+105,Increases the caster's attacking and casting speed by $s@effectindex% for $d.,Attacking and casting speed increased by $s@effectindex%.
+106,Reduces attacking and casting speed by $s@effectindex% for $d.,Attacking and casting speed reduced by $s@effectindex%.
+107,Reduces movement speed by $s@effectindex%.,Movement speed reduced by $s@effectindex%.
+108,Inflicts Physical damage to all enemies within $A@effectindex yards of the impact.,
+109,Inflicts Holy damage to all enemies within $A@effectindex yards of the impact.,
+110,Inflicts Fire damage to all enemies within $A@effectindex yards of the impact.,
+111,Inflicts Nature damage to all enemies within $A@effectindex yards of the impact.,
+112,Inflicts Frost damage to all enemies within $A@effectindex yards of the impact.,
+113,Inflicts Shadow damage to all enemies within $A@effectindex yards of the impact.,
+114,Inflicts Arcane damage to all enemies within $A@effectindex yards of the impact.,
+115,Inflicts Chaos damage to all enemies within $A@effectindex yards of the impact.,
+116,Increases the movement speed of the caster by $s@effectindex% for $d.,Movement speed increased by $s@effectindex%.
+118,Knocks all enemies within $A@effectindex yards of the impact back.,
+119,Inflicts Physical damage to all enemies within $A@effectindex yards.,
+120,Inflicts Holy damage to all enemies within $A@effectindex yards.,
+121,Inflicts Fire damage to all enemies within $A@effectindex yards.,
+122,Inflicts Nature damage to all enemies within $A@effectindex yards.,
+123,Inflicts Frost damage to all enemies within $A@effectindex yards.,
+124,Inflicts Shadow damage to all enemies within $A@effectindex yards.,
+125,Inflicts Arcane damage to all enemies within $A@effectindex yards.,
+126,Inflicts Chaos damage to all enemies within $A@effectindex yards.,
+127,Reduces the movement speed of all enemies within $A@effectindex yards by $s@effectindex% for $d.,Movement speed reduced by $s@effectindex%.
+128,Inflicts Physical damage to all enemies in front of the caster.,
+129,Inflicts Fire damage to all enemies in front of the caster.,
+130,Causes the caster to inflict $s@effectindex% increased damage.,Damage done increased by $s@effectindex%.
+131,Reduces an enemy's armor by $s@effectindex% for $d.,Armor reduced by $s@effectindex%.
+132,Inflicts Physical damage to all enemies within $A@effectindex yards.,
+136,Inflicts $s@effectindex Shadow damage to all enemies in front of the caster.,
+137,Inflicts $s@effectindex Physical damage to all enemies in front of the caster.,
+138,Inflicts $s@effectindex Fire damage to all enemies in front of the caster.,
+139,Inflicts $s@effectindex Holy damage to all enemies in front of the caster.,
+140,Inflicts $s@effectindex Nature damage to all enemies in front of the caster.,
+141,Inflicts $s@effectindex Frost damage to all enemies in front of the caster.,
+142,Inflicts $s@effectindex Arcane damage to all enemies in front of the caster.,
+143,Inflicts $s@effectindex Chaos damage to all enemies in front of the caster.,
+144,Causes an enemy to take $s@effectindex% increased Physical damage for $d.,Physical damage taken increased by $s@effectindex%.
+145,Causes an enemy to take $s@effectindex% increased Holy damage for $d.,Holy damage taken increased by $s@effectindex%.
+146,Causes an enemy to take $s@effectindex% increased Fire damage for $d.,Fire damage taken increased by $s@effectindex%.
+147,Causes an enemy to take $s@effectindex% increased Nature damage for $d.,Nature damage taken increased by $s@effectindex%.
+148,Causes an enemy to take $s@effectindex% increased Frost damage for $d.,Frost damage taken increased by $s@effectindex%.
+149,Causes an enemy to take $s@effectindex% increased Shadow damage for $d.,Shadow damage taken increased by $s@effectindex%.
+150,Causes an enemy to take $s@effectindex% increased Arcane damage for $d.,Arcane damage taken increased by $s@effectindex%.
+151,Causes an enemy to take $s@effectindex% increased damage for $d.,Damage taken increased by $s@effectindex%.
+152,Causes all enemies within $A@effectindex yards to take $s@effectindex% increased Physical damage for $d.,Physical damage taken increased by $s@effectindex%.
+153,Causes all enemies within $A@effectindex yards to take $s@effectindex% increased Holy damage for $d.,Holy damage taken increased by $s@effectindex%.
+154,Causes all enemies within $A@effectindex yards to take $s@effectindex% increased Fire damage for $d.,Fire damage taken increased by $s@effectindex%.
+155,Causes all enemies within $A@effectindex yards to take $s@effectindex% increased Nature damage for $d.,Nature damage taken increased by $s@effectindex%.
+156,Causes all enemies within $A@effectindex yards to take $s@effectindex% increased Frost damage for $d.,Frost damage taken increased by $s@effectindex%.
+157,Causes all enemies within $A@effectindex yards to take $s@effectindex% increased Shadow damage for $d.,Shadow damage taken increased by $s@effectindex%.
+158,Causes all enemies within $A@effectindex yards to take $s@effectindex% increased Arcane damage for $d.,Arcane damage taken increased by $s@effectindex%.
+159,Causes all enemies within $A@effectindex yards to take $s@effectindex% increased damage for $d.,Damage taken increased by $s@effectindex%.
+160,Charges to an enemy.,
+161,Charges to an enemy.,
+162,Charges to an enemy.,
+163,Inflicts Chaos damage to all enemies in front of the caster.,
+164,Inflicts Arcane damage to all enemies in front of the caster.,
+165,Inflicts Frost damage to all enemies in front of the caster.,
+166,Inflicts Nature damage to all enemies in front of the caster.,
+167,Inflicts Holy damage to all enemies in front of the caster.,
+170,Inflicts Shadow damage to all enemies in front of the caster.,
+171,Knocks all enemies in front of the caster back.,
+172,Causes all allies within $A@effectindex yards to inflict $s@effectindex% increased damage.,Damage done increased by $s@effectindex%.
+173,Reduces the movement speed of all enemies within $A@effectindex yards by $s@effectindex% for $d.,Movement speed reduced by $s@effectindex%.
+174,Reduces the movement speed of the target by $s@effectindex% for $d.,Movement speed reduced by $s@effectindex%.
+175,Causes an enemy to inflict $s@effectindex% reduced damage for $d.,Damage done reduced by $s@effectindex%.
+176,"Drains health from the target every $t@effectindex sec, trasferring it to the caster.",Drains health every $t@effectindex sec.
+177,Reduces the healing received of all enemies in a cone in front of the caster by $s@effectindex% for $d.,Healing received reduced by $s@effectindex%.
+178,Inflicts Shadow damage to all enemies in a cone in front of the caster.,
+179,Inflicts Nature damage to all enemies within $A@effectindex yards.,
+180,"Silences all enemies within $A@effectindex yards, preventing them from casting spells for $d.",Unable to cast spells.
+181,Causes the caster to take $s@effectindex% reduced damage for $d.,Damage taken reduced by $s@effectindex%.
+182,Teleports to a location.,
+183,Inflicts $s@effectindex% of maximum health as Physical damage to an enemy every $t@effectindex sec for $d.,$s@effectindex% of maximum health inflicted as Physical damage every $t@effectindex sec.
+184,Inflicts $s@effectindex% of maximum health as Holy damage to an enemy every $t@effectindex sec for $d.,$s@effectindex% of maximum health inflicted as Holy damage every $t@effectindex sec.
+185,Inflicts $s@effectindex% of maximum health as Fire damage to an enemy every $t@effectindex sec for $d.,$s@effectindex% of maximum health inflicted as Fire damage every $t@effectindex sec.
+186,Inflicts $s@effectindex% of maximum health as Nature damage to an enemy every $t@effectindex sec for $d.,$s@effectindex% of maximum health inflicted as Nature damage every $t@effectindex sec.
+187,Inflicts $s@effectindex% of maximum health as Frost damage to an enemy every $t@effectindex sec for $d.,$s@effectindex% of maximum health inflicted as Frost damage every $t@effectindex sec.
+188,Inflicts $s@effectindex% of maximum health as Shadow damage to an enemy every $t@effectindex sec for $d.,$s@effectindex% of maximum health inflicted as Shadow damage every $t@effectindex sec.
+189,Inflicts $s@effectindex% of maximum health as Arcane damage to an enemy every $t@effectindex sec for $d.,$s@effectindex% of maximum health inflicted as Arcane damage every $t@effectindex sec.
+190,Inflicts $s@effectindex% of maximum health as Chaos damage to an enemy every $t@effectindex sec for $d.,$s@effectindex% of maximum health inflicted as Chaos damage every $t@effectindex sec.
+291,Causes all enemies within $A@effectindex yards of the impact to take $s@effectindex% increased damage for $d.,Damage taken increased by $s@effectindex%.
+292,Causes all enemies within $A@effectindex yards of the impact to take $s@effectindex% increased Arcane damage for $d.,Arcane damage taken increased by $s@effectindex%.
+293,Causes all enemies within $A@effectindex yards of the impact to take $s@effectindex% increased Shadow damage for $d.,Shadow damage taken increased by $s@effectindex%.
+294,Causes all enemies within $A@effectindex yards of the impact to take $s@effectindex% increased Frost damage for $d.,Frost damage taken increased by $s@effectindex%.
+295,Causes all enemies within $A@effectindex yards of the impact to take $s@effectindex% increased Nature damage for $d.,Nature damage taken increased by $s@effectindex%.
+296,Causes all enemies within $A@effectindex yards of the impact to take $s@effectindex% increased Fire damage for $d.,Fire damage taken increased by $s@effectindex%.
+297,Causes all enemies within $A@effectindex yards of the impact to take $s@effectindex% increased Holy damage for $d.,Holy damage taken increased by $s@effectindex%.
+298,Causes all enemies within $A@effectindex yards of the impact to take $s@effectindex% increased Physical damage for $d.,Physical damage taken increased by $s@effectindex%.
+299,Causes all enemies within $A@effectindex yards to inflict $s@effectindex% increased damage for $d.,Damage done increased by $s@effectindex%.
+300,Causes an enemy to inflict $s@effectindex% increased damage for $d.,Damage done increased by $s@effectindex%.
+301,Inflicts Spellstrike damage to an enemy.,
+302,Inflicts Fire damage to enemies within $A@effectindex yards of the impact.,
+303,Causes all enemies within $A@effectindex yards of the impact to take Fire damage every $t@effectindex sec for $d.,Fire damage inflicted every $t@effectindex sec.
+304,Reduces the movement speed of the target by $s@effectindex% for $d.,Movement speed reduced by $s@effectindex%.
+305,Heals the caster and all allies within $A@effectindex yards for $s@effectindex% of maximum health every $t@effectindex sec for $d.,Heals $s@effectindex% of maximum health every $t@effectindex sec.
+306,Heals the caster and all allies within $A@effectindex yards for $s@effectindex% of maximum health every $t@effectindex sec for $d.,Heals $s@effectindex% of maximum health every $t@effectindex sec.
+308,Inflicts Nature damage to all enemies within $A@effectindex.,
+309,Inflicts Shadow damage to all enemies within $A@effectindex yards every $t@effectindex sec for $d.,Shadow damage inflicted every $t@effectindex sec.
+310,Inflicts Nature damage to all enemies within $A@effectindex yards every $t@effectindex sec for $d.,Nature damage inflicted every $t@effectindex sec.
+321,Causes the target to flee in fear for $d.,Fleeing in fear.
+322,Increases movement speed by $s@effectindex% for all allies within $A@effectindex yards for $d.,Movement speed increased by $s@effectindex%.
+326,test,test
+327,Disorients the target for $d.,Disoriented.
+329,Inflicts $s@effectindex Shadow damage to all enemies within $A@effectindex yards of the caster every $t@effectindex sec for $d.,$s@effectindex Shadow damage inflicted every $t@effectindex sec.
+330,Inflicts $s@effectindex Fire damage to an enemy.,
+331,Inflicts Spellstrike damage.,
+332,Inflicts $s@effectindex Shadow damage to an enemy.,
+333,Inflicts Physical damage.,
+334,Inflicts Nature damage.,
+335,Inflicts Holy damage.,
+336,Inflicts $s@effectindex Frost damage to an enemy.,
+337,Inflicts Chaos damage.,
+338,Inflicts Arcane damage.,
+339,Inflicts Shadow damage to all enemies in front of the caster every $t@effectindex sec for $d.,Shadow damage inflicted every $t@effectindex sec.
+340,Inflicts Physical damage to all enemies in front of the caster every $t@effectindex sec for $d.,Physical damage inflicted every $t@effectindex sec.
+341,Inflicts Nature damage to all enemies in front of the caster every $t@effectindex sec for $d.,Nature damage inflicted every $t@effectindex sec.
+342,Inflicts Holy damage to all enemies in front of the caster every $t@effectindex sec for $d.,Holy damage inflicted every $t@effectindex sec.
+343,Inflicts Frost damage to all enemies in front of the caster every $t@effectindex sec for $d.,Frost damage inflicted every $t@effectindex sec.
+344,Inflicts Fire damage to all enemies in front of the caster every $t@effectindex sec for $d.,Fire damage inflicted every $t@effectindex sec.
+345,Inflicts Chaos damage to all enemies in front of the caster every $t@effectindex sec for $d.,Chaos damage inflicted every $t@effectindex sec.
+346,Inflicts Arcane damage to all enemies in front of the caster every $t@effectindex sec for $d.,Arcane damage inflicted every $t@effectindex sec.
+347,Disorients all enemies in front of the caster for $d.,Disoriented.
+348,Disorients enemies within $A@effectindex yards of the impact for $d.,Disoriented.
+349,Knocks an enemy back.,
+350,"Stuns all enemies in front of the caster, rendering them unable to move or attack for $d.",Stunned.
+351,Immobilizes all enemies in front of the caster for $d.,Immobilized.
+352,Immobilizes all enemies within $A@effectindex yards of the impact for $d.,Immobilized.
+353,Immobilizes all enemies within $A@effectindex yards of the caster for $d.,Immobilized.
+354,Causes all enemies within $A@effectindex yards of the impact to take Nature damage every $t@effectindex sec for $d.,Nature damage inflicted every $t@effectindex sec.
+355,Causes all enemies within $A@effectindex yards of the impact to take Physical damage every $t@effectindex sec for $d.,Physical damage inflicted every $t@effectindex sec.
+356,Causes all enemies within $A@effectindex yards of the impact to take Holy damage every $t@effectindex sec for $d.,Holy damage inflicted every $t@effectindex sec.
+357,Causes all enemies within $A@effectindex yards of the impact to take Frost damage every $t@effectindex sec for $d.,Frost damage inflicted every $t@effectindex sec.
+358,Causes all enemies within $A@effectindex yards of the impact to take Shadow damage every $t@effectindex sec for $d.,Shadow damage inflicted every $t@effectindex sec.
+359,Causes all enemies within $A@effectindex yards of the impact to take Arcane damage every $t@effectindex sec for $d.,Arcane damage inflicted every $t@effectindex sec.
+360,Immobilizes an enemy for up to $d.,Immobilized.
+361,Reduces the movement speed of all enemies within $A@effectindex yards of the impact by $s@effectindex% for $d.,Movement speed reduced by $s@effectindex%.
+362,Reduces the movement speed of all enemies in front of the caster by $s@effectindex% for $d.,Movement speed reduced by $s@effectindex%.
+363,Knocks all enemies within $A@effectindex yards of the caster back.,
+364,Inflicts $s@effectindex Physical damage to all enemies within $A@effectindex yards of the caster every $t@effectindex sec for $d.,$s@effectindex Physical damage inflicted every $t@effectindex sec.
+365,Inflicts $s@effectindex Holy damage to all enemies within $A@effectindex yards of the caster every $t@effectindex sec for $d.,$s@effectindex Holy damage inflicted every $t@effectindex sec.
+366,Inflicts $s@effectindex Fire damage to all enemies within $A@effectindex yards of the caster every $t@effectindex sec for $d.,$s@effectindex Fire damage inflicted every $t@effectindex sec.
+367,Inflicts $s@effectindex Nature damage to all enemies within $A@effectindex yards of the caster every $t@effectindex sec for $d.,$s@effectindex Nature damage inflicted every $t@effectindex sec.
+368,Inflicts $s@effectindex Frost damage to all enemies within $A@effectindex yards of the caster every $t@effectindex sec for $d.,$s@effectindex Frost damage inflicted every $t@effectindex sec.
+369,Inflicts $s@effectindex Arcane damage to all enemies within $A@effectindex yards of the caster every $t@effectindex sec for $d.,$s@effectindex Arcane damage inflicted every $t@effectindex sec.
+370,Inflicts $s@effectindex Chaos damage to all enemies within $A@effectindex yards of the caster every $t@effectindex sec for $d.,$s@effectindex Chaos damage inflicted every $t@effectindex sec.
+371,Inflicts $s@effectindex Chaos damage to all enemies within $A@effectindex yards of the impact every $t@effectindex sec for $d.,$s@effectindex Chaos damage inflicted every $t@effectindex sec.
+372,Inflicts $s@effectindex Arcane damage to all enemies within $A@effectindex yards of the impact every $t@effectindex sec for $d.,$s@effectindex Arcane damage inflicted every $t@effectindex sec.
+373,Inflicts $s@effectindex Frost damage to all enemies within $A@effectindex yards of the impact every $t@effectindex sec for $d.,$s@effectindex Frost damage inflicted every $t@effectindex sec.
+374,Inflicts $s@effectindex Nature damage to all enemies within $A@effectindex yards of the impact every $t@effectindex sec for $d.,$s@effectindex Nature damage inflicted every $t@effectindex sec.
+375,Inflicts $s@effectindex Fire damage to all enemies within $A@effectindex yards of the impact every $t@effectindex sec for $d.,$s@effectindex Fire damage inflicted every $t@effectindex sec.
+376,Inflicts $s@effectindex Holy damage to all enemies within $A@effectindex yards of the impact every $t@effectindex sec for $d.,$s@effectindex Holy damage inflicted every $t@effectindex sec.
+377,Inflicts $s@effectindex Physical damage to all enemies within $A@effectindex yards of the impact every $t@effectindex sec for $d.,$s@effectindex Physical damage inflicted every $t@effectindex sec.
+378,Inflicts $s@effectindex Shadow damage to all enemies within $A@effectindex yards of the impact every $t@effectindex sec for $d.,$s@effectindex Shadow damage inflicted every $t@effectindex sec.
+379,Inflicts $s@effectindex Shadow damage to all enemies in front of the caster every $t@effectindex sec for $d.,$s@effectindex Shadow damage inflicted every $t@effectindex sec.
+380,Inflicts $s@effectindex Physical damage to all enemies in front of the caster every $t@effectindex sec for $d.,$s@effectindex Physical damage inflicted every $t@effectindex sec.
+381,Inflicts $s@effectindex Holy damage to all enemies in front of the caster every $t@effectindex sec for $d.,$s@effectindex Holy damage inflicted every $t@effectindex sec.
+382,Inflicts $s@effectindex Fire damage to all enemies in front of the caster every $t@effectindex sec for $d.,$s@effectindex Fire damage inflicted every $t@effectindex sec.
+383,Inflicts $s@effectindex Nature damage to all enemies in front of the caster every $t@effectindex sec for $d.,$s@effectindex Nature damage inflicted every $t@effectindex sec.
+384,Inflicts $s@effectindex Frost damage to all enemies in front of the caster every $t@effectindex sec for $d.,$s@effectindex Frost damage inflicted every $t@effectindex sec.
+385,Inflicts $s@effectindex Arcane damage to all enemies in front of the caster every $t@effectindex sec for $d.,$s@effectindex Arcane damage inflicted every $t@effectindex sec.
+386,Inflicts $s@effectindex Chaos damage to all enemies in front of the caster every $t@effectindex sec for $d.,$s@effectindex Chaos damage inflicted every $t@effectindex sec.
+387,Disorients enemies within $A@effectindex yards of the caster for $d.,Disoriented.
+388,Inflicts Physical damage to all enemies within $A@effectindex yards every $t@effectindex sec for $d.,Physical damage inflicted every $t@effectindex sec.
+389,Inflicts Holy damage to all enemies within $A@effectindex yards every $t@effectindex sec for $d.,Holy damage inflicted every $t@effectindex sec.
+390,Inflicts Fire damage to all enemies within $A@effectindex yards every $t@effectindex sec for $d.,Fire damage inflicted every $t@effectindex sec.
+395,Inflicts Frost damage to all enemies within $A@effectindex yards every $t@effectindex sec for $d.,Frost damage inflicted every $t@effectindex sec.
+396,Inflicts Arcane damage to all enemies within $A@effectindex yards every $t@effectindex sec for $d.,Arcane damage inflicted every $t@effectindex sec.
+397,Knocks all enemies in front of the caster back.,
+398,Knocks all enemies within $A@effectindex yards of the caster back.,
+399,Knocks all enemies within $A@effectindex yards of the impact back.,
+400,Knocks an enemy back.,
+401,Knocks an enemy back.,
+402,Knocks all enemies in front of the caster back.,
+403,Knocks all enemies within $A@effectindex yards of the caster back.,
+404,Knocks all enemies within $A@effectindex yards of the impact back.,
+405,Knocks an enemy back.,
+406,Knocks an enemy back.,
+407,Fears the target for $d.,Feared.
+408,Fears enemies within $A@effectindex yards of the impact for $d.,Feared.
+409,Fears enemies within $A@effectindex yards of the caster for $d.,Feared.
+410,Fears all enemies in front of the caster for $d.,Feared.
+411,Causes an enemy to take $s@effectindex% increased Fire damage for $d.,Fire damage taken increased by $s@effectindex%.
+412,Causes an enemy to take $s@effectindex% increased Physical damage for $d.,Physical damage taken increased by $s@effectindex%.
+413,Causes an enemy to take $s@effectindex% increased Holy damage for $d.,Holy damage taken increased by $s@effectindex%.
+414,Causes an enemy to take $s@effectindex% increased Frost damage for $d.,Frost damage taken increased by $s@effectindex%.
+415,Causes an enemy to take $s@effectindex% increased Shadow damage for $d.,Shadow damage taken increased by $s@effectindex%.
+416,Causes an enemy to take $s@effectindex% increased Arcane damage for $d.,Arcane damage taken increased by $s@effectindex%.
+417,Causes an enemy to take $s@effectindex% increased Nature damage for $d.,Nature damage taken increased by $s@effectindex%.
+418,Causes an enemy to take $s@effectindex% increased damage for $d.,Damage taken increased by $s@effectindex%.
+419,Reduces the max health of the target by $s@effectindex% for $d.,Maximum health reduced by $s@effectindex%.
+420,Reduces the max health of all enemies in front of the caster by $s@effectindex% for $d.,Maximum health reduced by $s@effectindex%.
+421,Reduces the max health of all enemies within $A@effectindex yards of the caster by $s@effectindex% for $d.,Maximum health reduced by $s@effectindex%.
+422,Reduces the max health of all enemies within $A@effectindex yards of the impact by $s@effectindex% for $d.,Maximum health reduced by $s@effectindex%.
+423,Reduces the attack speed of all enemies within $A@effectindex yards of the impact by $s@effectindex% for $d.,Attack speed reduced by $s@effectindex%.
+424,Reduces the attack speed of all enemies within $A@effectindex yards of the caster by $s@effectindex% for $d.,Attack speed reduced by $s@effectindex%.
+425,Reduces the attack speed of all enemies in front of the caster by $s@effectindex% for $d.,Attack speed reduced by $s@effectindex%.
+426,Reduces the attack speed of the target by $s@effectindex% for $d.,Attack speed reduced by $s@effectindex%.
+427,Inflicts Arcane damage to all enemies in a cone in front of the caster.,
+428,Inflicts Frost damage to all enemies in a cone in front of the caster.,
+429,Inflicts Nature damage to all enemies in a cone in front of the caster.,
+430,Inflicts Fire damage to all enemies in a cone in front of the caster.,
+431,Inflicts Holy damage to all enemies in a cone in front of the caster.,
+432,Inflicts Physical damage to all enemies in a cone in front of the caster.,
+435,Inflicts $s@effectindex Shadowflame damage to enemies within $A@effectindex yards.,
+436,Inflicts $s@effectindex Shadowflame damage to enemies within $A@effectindex yards of the impact.,
+437,Inflicts $s@effectindex Shadowflame damage to an enemy.,
+438,Inflicts $s@effectindex Shadowflame damage to an enemy every $t@effectindex sec for $d.,$s@effectindex Shadowflame damage inflicted every $t@effectindex sec.
+439,Inflicts $s@effectindex Shadowflame damage to an enemy every $t@effectindex sec for $d.,$s@effectindex Shadowflame damage inflicted every $t@effectindex sec.
+440,Inflicts $s@effectindex Shadowflame damage to all enemies within $A@effectindex yards of the impact every $t@effectindex sec for $d.,$s@effectindex Shadowflame damage inflicted every $t@effectindex sec.
+441,Inflicts $s@effectindex Shadowflame damage to all enemies within $A@effectindex yards of the caster every $t@effectindex sec for $d.,$s@effectindex Shadowflame damage inflicted every $t@effectindex sec.
+442,Inflicts $s@effectindex Shadowflame damage to all enemies in front of the caster.,
+443,Inflicts $s@effectindex Shadowflame damage to all enemies in front of the caster every $t@effectindex sec for $d.,$s@effectindex Shadowflame damage inflicted every $t@effectindex sec.
+444,Surrounds the target with a shield that lasts $d and can absorb up to $s@effectindex Shadow damage.,Absorbs $s@effectindex Shadow damage.
+445,Surrounds the target with a shield that lasts $d and can absorb up to $s@effectindex Physical damage.,Absorbs $s@effectindex Physical damage.
+446,Surrounds the target with a shield that lasts $d and can absorb up to $s@effectindex of all damage.,Absorbs $s@effectindex damage.
+447,Surrounds the target with a shield that lasts $d and can absorb up to $s@effectindex Nature damage.,Absorbs $s@effectindex Nature damage.
+448,Surrounds the target with a shield that lasts $d and can absorb up to $s@effectindex Holy damage.,Absorbs $s@effectindex Holy damage.
+449,Surrounds the target with a shield that lasts $d and can absorb up to $s@effectindex Frost damage.,Absorbs $s@effectindex Frost damage.
+450,Surrounds the target with a shield that lasts $d and can absorb up to $s@effectindex Fire damage.,Absorbs $s@effectindex Fire damage.
+451,Surrounds the target with a shield that lasts $d and can absorb up to $s@effectindex Arcane damage.,Absorbs $s@effectindex Arcane damage.
+452,Increases the caster's attack speed by $s@effectindex% for $d.,Attack speed increased by $s@effectindex%.
+460,Heals the caster and all allies within $A@effectindex yards for $s@effectindex% of maximum health.,
+461,Heals the caster and all allies within $A@effectindex yards for $s@effectindex% of maximum health.,
+462,Transfers health from the caster to the target every $t@effectindex sec.,Transfers health every $t@effectindex sec.
+464,Causes the caster to inflict $s@effectindex% increased Fire damage.,Fire damage done increased by $s@effectindex%.
+465,Causes the caster to inflict $s@effectindex% increased Holy damage.,Holy damage done increased by $s@effectindex%.
+466,Causes the caster to inflict $s@effectindex% increased Nature damage.,Nature damage done increased by $s@effectindex%.
+467,Causes the caster to inflict $s@effectindex% increased Frost damage.,Frost damage done increased by $s@effectindex%.
+468,Causes the caster to inflict $s@effectindex% increased Shadow damage.,Shadow damage done increased by $s@effectindex%.
+469,Causes the caster to inflict $s@effectindex% increased Arcane damage.,Arcane damage done increased by $s@effectindex%.
+470,Reduces the healing received of an enemy by $s@effectindex% for $d.,Healing received reduced by $s@effectindex%.
+471,Causes an enemy to inflict $s@effectindex% decreased Arcane damage.,Arcane damage done decreased by $s@effectindex%.
+472,Causes an enemy to inflict $s@effectindex% decreased Shadow damage.,Shadow damage done decreased by $s@effectindex%.
+473,Causes an enemy to inflict $s@effectindex% decreased Frost damage.,Frost damage done decreased by $s@effectindex%.
+474,Causes an enemy to inflict $s@effectindex% decreased Nature damage.,Nature damage done decreased by $s@effectindex%.
+475,Causes an enemy to inflict $s@effectindex% decreased Fire damage.,Fire damage done decreased by $s@effectindex%.
+476,Causes an enemy to inflict $s@effectindex% decreased Holy damage.,Holy damage done decreased by $s@effectindex%.
+477,Causes an enemy to inflict $s@effectindex% decreased Physical damage.,Physical damage done decreased by $s@effectindex%.
+478,Causes the caster to inflict $s@effectindex% increased Physical damage.,Physical damage done increased by $s@effectindex%.
+479,"Stuns the caster, rendering it unable to move or attack for $d.",Stunned.
+480,Reduces the healing received of all enemies in a cone in front of the caster by $s@effectindex% for $d.,Healing received reduced by $s@effectindex%.
+481,Reduces the movement speed of the target by $s@effectindex% for $d.,Movement speed reduced by $s@effectindex%.
+482,Chance to dodge attacks increased by $s@effectindex% for $d.,Dodge chance increased by $s@effectindex%.
+483,Chance to resist harmful spells increased by $s@effectindex% for $d.,Chance to resist harmful spells increased by $s@effectindex%.
+484,Causes all enemies within $A@effectindex yards of the impact to inflict $s@effectindex% reduced damage for $d.,Damage done reduced by $s@effectindex%.
+485,Causes all enemies within $A@effectindex yards to inflict $s@effectindex% reduced damage for $d.,Damage done reduced by $s@effectindex%.
+486,Increases the max health of all allies within $A@effectindex yards of the impact by $s@effectindex% for $d.,Maximum health increased by $s@effectindex%.
+487,Increases the max health of all allies within $A@effectindex yards of the caster by $s@effectindex% for $d.,Maximum health increased by $s@effectindex%.
+488,Increases the max health of all allies in front of the caster by $s@effectindex% for $d.,Maximum health increased by $s@effectindex%.
+489,Increases the max health of the target by $s@effectindex% for $d.,Maximum health increased by $s@effectindex%.
+490,Increases the attack speed of the target by $s@effectindex% for $d.,Attack speed increased by $s@effectindex%.
+491,Increases the attack speed of all allies in front of the caster by $s@effectindex% for $d.,Attack speed increased by $s@effectindex%.
+492,Increases the attack speed of all allies within $A@effectindex yards of the caster by $s@effectindex% for $d.,Attack speed increased by $s@effectindex%.
+493,Increases the attack speed of all allies within $A@effectindex yards of the impact by $s@effectindex% for $d.,Attack speed increased by $s@effectindex%.
+494,Increases the caster's attack speed by $s@effectindex% for $d.,Attack speed increased by $s@effectindex%.
+495,Reduces attack speed by $s@effectindex% for $d.,Attack speed reduced by $s@effectindex%.
+498,Reduces attack speed by $s@effectindex% for $d.,Attack speed reduced by $s@effectindex%.
+499,Decreases the attack speed of all enemies in front of the caster by $s@effectindex% for $d.,Attack speed decreased by $s@effectindex%.
+500,Decreases the attack speed of all enemies within $A@effectindex yards of the caster by $s@effectindex% for $d.,Attack speed decreased by $s@effectindex%.
+501,Decreases the attack speed of all enemies within $A@effectindex yards of the impact by $s@effectindex% for $d.,Attack speed decreased by $s@effectindex%.
+502,Decreases the casting speed of all enemies within $A@effectindex yards of the impact by $s@effectindex% for $d.,Casting speed decreased by $s@effectindex%.
+503,Decreases the casting speed of all enemies within $A@effectindex yards of the caster by $s@effectindex% for $d.,Casting speed decreased by $s@effectindex%.
+504,Decreases the casting speed of all enemies in front of the caster by $s@effectindex% for $d.,Casting speed decreased by $s@effectindex%.
+505,Reduces casting speed by $s@effectindex% for $d.,Casting speed reduced by $s@effectindex%.
+506,Reduces casting speed by $s@effectindex% for $d.,Casting speed reduced by $s@effectindex%.
+507,Increases the casting speed of all allies in front of the caster by $s@effectindex% for $d.,Casting speed increased by $s@effectindex%.
+508,Increases the casting speed of all allies within $A@effectindex yards of the caster by $s@effectindex% for $d.,Casting speed increased by $s@effectindex%.
+509,Increases the casting speed of all allies within $A@effectindex yards of the impact by $s@effectindex% for $d.,Casting speed increased by $s@effectindex%.
+510,Increases the casting speed of the target by $s@effectindex% for $d.,Casting speed increased by $s@effectindex%.
+511,Increases the caster's casting speed by $s@effectindex% for $d.,Casting speed increased by $s@effectindex%.
+512,Increases Arcane damage taken by $s@effectindex% for $d.,Arcane damage taken increased by $s@effectindex%.
+513,Causes all enemies within $A@effectindex yards to miss $s@effectindex% of attacks for $d.,Chance to hit reduced by $s@effectindex%.
+514,Causes all enemies within $A@effectindex yards to miss $s@effectindex% of spells for $d.,Chance to hit with spells reduced by $s@effectindex%.
+515,Heals an ally for $s@effectindex% of their maximum health every $T@effectindex sec for $D.,Healing for $s@effectindex% of maximum health every $T@effectindex sec.
+516,Causes the caster to take $s@effectindex% reduced Physical damage for $d.,Physical damage taken reduced by $s@effectindex%.
+517,"Stuns all enemies in front of the caster, rendering them unable to move or attack for $d.",Stunned.
+518,"Stuns an enemy, rendering it unable to move or attack for $d.",Stunned.
+519,"Stuns the caster, rendering it unable to move or attack for $d.",Stunned.
+520,"Stuns all enemies within $A@effectindex yards, rendering them unable to move or attack for $d.",Stunned.
+521,"Stuns all enemies within $A@effectindex yards of the impact, rendering them unable to move or attack for $d.",Stunned.
+522,Inflicts $s@effectindex Flamestrike damage to all enemies in front of the caster every $t@effectindex sec for $d.,$s@effectindex Flamestrike damage inflicted every $t@effectindex sec.
+523,Inflicts $s@effectindex Flamestrike damage to all enemies within $A@effectindex yards of the caster every $t@effectindex sec for $d.,$s@effectindex Flamestrike damage inflicted every $t@effectindex sec.
+524,Inflicts $s@effectindex Flamestrike damage to all enemies within $A@effectindex yards of the impact every $t@effectindex sec for $d.,$s@effectindex Flamestrike damage inflicted every $t@effectindex sec.
+525,Inflicts $s@effectindex Flamestrike damage to an enemy every $t@effectindex sec for $d.,$s@effectindex Flamestrike damage inflicted every $t@effectindex sec.
+526,Inflicts $s@effectindex Flamestrike damage to an enemy every $t@effectindex sec for $d.,$s@effectindex Flamestrike damage inflicted every $t@effectindex sec.
+527,Inflicts $s@effectindex Shadowstrike damage to all enemies in front of the caster every $t@effectindex sec for $d.,$s@effectindex Shadowstrike damage inflicted every $t@effectindex sec.
+528,Inflicts $s@effectindex Shadowstrike damage to all enemies within $A@effectindex yards of the caster every $t@effectindex sec for $d.,$s@effectindex Shadowstrike damage inflicted every $t@effectindex sec.
+529,Inflicts $s@effectindex Shadowstrike damage to all enemies within $A@effectindex yards of the impact every $t@effectindex sec for $d.,$s@effectindex Shadowstrike damage inflicted every $t@effectindex sec.
+530,Inflicts $s@effectindex Shadowstrike damage to an enemy every $t@effectindex sec for $d.,$s@effectindex Shadowstrike damage inflicted every $t@effectindex sec.
+531,Inflicts $s@effectindex Shadowstrike damage to an enemy every $t@effectindex sec for $d.,$s@effectindex Shadowstrike damage inflicted every $t@effectindex sec.
+532,Immobilizes an enemy for up to $d.,Immobilized.
+533,Immobilizes all enemies within $A@effectindex yards of the caster for $d.,Immobilized.
+534,Immobilizes all enemies within $A@effectindex yards of the impact for $d.,Immobilized.
+535,Immobilizes all enemies in front of the caster for $d.,Immobilized.
+536,Immobilizes an enemy for up to $d.,Immobilized.
+537,Increases the movement speed of the caster by $s@effectindex% for $d.,Movement speed increased by $s@effectindex%.
+538,Causes the caster to heal $s@effectindex health every $t@effectindex sec for $d.,$s@effectindex health healed every $t@effectindex sec.
+539,Causes the caster to heal $s@effectindex health every $t@effectindex sec for $d.,$s@effectindex health healed every $t@effectindex sec.
+540,Causes the caster to heal $s@effectindex health every $t@effectindex sec for $d.,$s@effectindex health healed every $t@effectindex sec.
+541,Causes the caster to heal $s@effectindex health every $t@effectindex sec for $d.,$s@effectindex health healed every $t@effectindex sec.
+542,Causes the caster to heal $s@effectindex health every $t@effectindex sec for $d.,$s@effectindex health healed every $t@effectindex sec.
+543,Causes the caster to heal $s@effectindex health every $t@effectindex sec for $d.,$s@effectindex health healed every $t@effectindex sec.
+544,Causes the caster to heal $s@effectindex health every $t@effectindex sec for $d.,$s@effectindex health healed every $t@effectindex sec.
+545,Inflicts $s@effectindex Cosmic damage to all enemies within $A@effectindex yards of the caster every $t@effectindex sec for $d.,$s@effectindex Cosmic damage inflicted every $t@effectindex sec.
+546,Inflicts $s@effectindex Cosmic damage to all enemies in front of the caster every $t@effectindex sec for $d.,$s@effectindex Cosmic damage inflicted every $t@effectindex sec.
+547,Inflicts $s@effectindex Cosmic damage to all enemies within $A@effectindex yards of the impact every $t@effectindex sec for $d.,$s@effectindex Cosmic damage inflicted every $t@effectindex sec.
+548,Inflicts $s@effectindex Cosmic damage to an enemy every $t@effectindex sec for $d.,$s@effectindex Cosmic damage inflicted every $t@effectindex sec.
+549,Inflicts $s@effectindex Cosmic damage to an enemy every $t@effectindex sec for $d.,$s@effectindex Cosmic damage inflicted every $t@effectindex sec.
+550,Pacifies an enemy preventing attacks for $d.,Unable to attack.
+551,"Pacifies all enemies within $A@effectindex yards, preventing them from attacking for $d.",Unable to attack.
+552,Silences and pacifies an enemy preventing attacking and spellcasting for $d.,Unable to attack or cast spells.
+553,"Silences and pacifies all enemies within $A@effectindex yards, preventing them from attacking or spellcasting for $d.",Unable to attack or cast spells.
+554,Silences an enemy preventing spellcasting for $d.,Unable to cast spells.
+555,Pacifies an enemy preventing attacks for $d.,Unable to attack.
+556,Silences and pacifies an enemy preventing attacking and spellcasting for $d.,Unable to attack or cast spells.
+557,Inflicts $s@effectindex Shadowflame damage to an enemy.,
+558,Inflicts Shadowflame damage to all enemies in a cone in front of the caster.,
+559,Inflicts Shadowflame damage to enemies within $A@effectindex yards of the impact.,
+560,Inflicts Shadowflame damage to all enemies in front of the caster.,
+561,Inflicts Shadowflame damage to all enemies within $A@effectindex yards.,
+562,Inflicts Shadowflame damage to all enemies within $A@effectindex yards of the impact.,
+563,Inflicts Shadowflame damage to an enemy.,
+564,Inflicts $s@effectindex% of maximum health as Shadowflame damage to an enemy every $t@effectindex sec for $d.,$s@effectindex% of maximum health inflicted as Shadowflame damage inflicted every $t@effectindex sec.
+565,Causes all enemies within $A@effectindex yards to take $s@effectindex% increased Shadowflame damage for $d.,Shadowflame damage taken increased by $s@effectindex%.
+566,Causes all enemies within $A@effectindex yards of the impact to take $s@effectindex% increased Shadowflame damage for $d.,Shadowflame damage taken increased by $s@effectindex%.
+567,Causes an enemy to take $s@effectindex% increased Shadowflame damage for $d.,Shadowflame damage taken increased by $s@effectindex%.
+568,Causes an enemy to take $s@effectindex% increased Shadowflame damage for $d.,Shadowflame damage taken increased by $s@effectindex%.
+569,Causes an enemy to inflict $s@effectindex% decreased Shadowflame damage.,Shadowflame damage done decreased by $s@effectindex%.
+570,Causes the caster to inflict $s@effectindex% increased Shadowflame damage.,Shadowflame damage done increased by $s@effectindex%.
+571,Inflicts Shadowflame damage to all enemies in front of the caster every $t@effectindex sec for $d.,Shadowflame damage inflicted every $t@effectindex sec.
+572,Inflicts Shadowflame damage to all enemies within $A@effectindex yards every $t@effectindex sec for $d.,Shadowflame damage inflicted every $t@effectindex sec.
+573,Causes all enemies within $A@effectindex yards of the impact to take Shadowflame damage every $t@effectindex sec for $d.,Shadowflame damage inflicted every $t@effectindex sec.
+574,Inflicts Shadowflame damage to an enemy every $t@effectindex sec for $d.,Shadowflame damage inflicted every $t@effectindex sec.
+575,Inflicts Shadowflame damage to an enemy every $t@effectindex sec for $d.,Shadowflame damage inflicted every $t@effectindex sec.
+576,Surrounds the target with a shield that lasts $d and can absorb up to $s@effectindex Shadowflame damage.,Absorbs $s@effectindex Shadowflame damage.
+577,Surrounds the caster with a shield that lasts $d and can absorb up to $s@effectindex Shadowflame damage.,Absorbs $s@effectindex Shadowflame damage.
+578,Inflicts Frost damage to enemies within $A@effectindex yards of the impact.,
+579,Inflicts $s@effectindex Cosmic damage to all enemies in front of the caster.,
+580,Inflicts $s@effectindex Cosmic damage to enemies within $A@effectindex yards.,
+581,Inflicts $s@effectindex Cosmic damage to enemies within $A@effectindex yards of the impact.,
+582,Inflicts $s@effectindex Cosmic damage to an enemy.,
+583,Inflicts $s@effectindex Cosmic damage to an enemy.,
+584,Inflicts Cosmic damage to all enemies in a cone in front of the caster.,
+585,Inflicts Cosmic damage to enemies within $A@effectindex yards of the impact.,
+586,Inflicts Cosmic damage to all enemies in front of the caster.,
+587,Inflicts Cosmic damage to all enemies within $A@effectindex yards.,
+588,Inflicts Cosmic damage to all enemies within $A@effectindex yards of the impact.,
+589,Inflicts Cosmic damage to an enemy.,
+590,Inflicts $s@effectindex% of maximum health as Cosmic damage to an enemy every $t@effectindex sec for $d.,$s@effectindex% of maximum health inflicted as Cosmic damage inflicted every $t@effectindex sec.
+591,Causes all enemies within $A@effectindex yards to take $s@effectindex% increased Cosmic damage for $d.,Cosmic damage taken increased by $s@effectindex%.
+592,Causes all enemies within $A@effectindex yards of the impact to take $s@effectindex% increased Cosmic damage for $d.,Cosmic damage taken increased by $s@effectindex%.
+593,Causes an enemy to take $s@effectindex% increased Cosmic damage for $d.,Cosmic damage taken increased by $s@effectindex%.
+594,Causes an enemy to take $s@effectindex% increased Cosmic damage for $d.,Cosmic damage taken increased by $s@effectindex%.
+595,Causes an enemy to inflict $s@effectindex% decreased Cosmic damage.,Cosmic damage done decreased by $s@effectindex%.
+596,Causes the caster to inflict $s@effectindex% increased Cosmic damage.,Cosmic damage done increased by $s@effectindex%.
+597,Inflicts Cosmic damage to all enemies in front of the caster every $t@effectindex sec for $d.,Cosmic damage inflicted every $t@effectindex sec.
+598,Inflicts Cosmic damage to all enemies within $A@effectindex yards every $t@effectindex sec for $d.,Cosmic damage inflicted every $t@effectindex sec.
+599,Causes all enemies within $A@effectindex yards of the impact to take Cosmic damage every $t@effectindex sec for $d.,Cosmic damage inflicted every $t@effectindex sec.
+600,Inflicts Cosmic damage to an enemy every $t@effectindex sec for $d.,Cosmic damage inflicted every $t@effectindex sec.
+601,Inflicts Cosmic damage to an enemy every $t@effectindex sec for $d.,Cosmic damage inflicted every $t@effectindex sec.
+602,Surrounds the target with a shield that lasts $d and can absorb up to $s@effectindex Cosmic damage.,Absorbs $s@effectindex Cosmic damage.
+603,Surrounds the caster with a shield that lasts $d and can absorb up to $s@effectindex Cosmic damage.,Absorbs $s@effectindex Cosmic damage.
+604,Inflicts Shadow damage to enemies within $A@effectindex yards of the impact.,
+605,Inflicts Shadow damage to an enemy every $t@effectindex sec for $d.,Shadow damage inflicted every $t@effectindex sec.

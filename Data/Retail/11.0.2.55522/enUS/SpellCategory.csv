@@ -1,0 +1,985 @@
+ID,Name_lang
+1,Default
+2,Direct Damage - Spell
+4,Item - Combat Cons. (Potion)
+11,Item - Food
+12,Healing - Spell
+17,Quick Buff (Resist) - Spell
+18,Damage Over Time - Spell
+19,Quick Damage - Spell
+20,Invulnerability (Other)
+21,Quick Buff - Spell
+22,Quick Debuff - Spell
+23,Summoning
+24,Item - Combat Cons. (Aggressive)
+25,Quick Heal - Spell
+26,Resurrection (Full)
+27,Item - Scroll
+28,Item - Quick Buff
+29,Item - Debuff
+30,Item - Healing
+31,Conjure (Short)
+32,Stun
+33,Mez
+34,Root
+35,Direct Damage (AE) - Spell
+36,Debuff - Spell
+37,Invulnerability
+38,Aura
+39,Shapeshift
+40,Melee (Generic)
+41,Critical
+42,Snare
+43,Shout
+44,Speed
+45,Totem (Stoneclaw)
+46,Healing (Group) - Spell
+47,Combat States
+49,Direct Damage (AE) - Ability
+50,Direct Damage (AE-Cone) - Ability
+51,Quick Debuff (DPS) - Spell
+52,Quick Debuff (DR) - Spell
+54,Quick Buff (DR) - Spell
+55,Quick Buff (DPS) - Spell
+56,Instant Heal - Spell
+57,Quick Heal (Group) - Spell
+58,Instant Heal (Group) - Spell
+59,Item - Drink
+60,Invulnerability (Temp)
+61,Energize (Group) - Spell
+62,Energize - Spell
+63,Big Direct Damage - Spell
+64,Minimap Special
+65,Melee (Special)
+66,Dodge Maneuver
+67,Block Maneuver
+68,Parry Maneuver
+72,Direct Damage (AE-Persistent) Spell
+73,Martial Arts (Generic)
+74,Martial Arts (Special)
+75,Detect
+76,Shoot/Throw
+77,Trade - Herbalism
+78,Trade - Mining
+79,Item - Potion (Non-Combat)
+82,Taunt/Detaunt
+83,Taming
+84,Taunt (AE)
+85,Direct Damage (AE-Chain) - Ability
+86,Pet
+87,Conjure (Long)
+88,Silence
+89,Portal
+93,Charm
+94,Item - Summoning
+95,Racial Ability
+96,Racial Ability 2
+97,Secondary - Survival
+98,Big Direct Damage - Spell (2)
+99,Instant Spell
+100,Item - Mana Gem
+101,Felhunter
+102,Item - Long Buff
+103,Item - Epic
+104,Totem (Healing)
+105,Totem (Serpent)
+106,Totem (Slowing)
+107,Totem (Mana)
+108,Totem (Invisibility)
+109,Melee (Disarm)
+132,Discipline
+133,Global
+150,Item - Bandage
+170,Finishing Move (Weapon-scaled)
+190,Banish
+230,Totem (Grounding)
+250,Blast Wave
+270,Kidney Shot
+290,Pyroblast
+310,Transmute - Alchemy
+330,Mount
+350,Inner Rage
+351,Ranged Weapon
+371,Lightning Shield
+391,Quest - Felcurse
+411,Trap (Frost)
+431,Holy Nova
+451,Holy Fire
+471,Ice Barrier
+511,Astral Recall
+531,Nature's Grasp
+551,Aura of the Pious
+571,Hurricane
+591,Totem (Mana Tide)
+611,Wings of Hope
+631,Soul Fire
+633,Death Coil
+634,Howl of Terror
+651,Class - Warlock - Shadowburn
+671,Desperate Prayer
+672,Class - Warlock - Conflagrate
+691,Devouring Plague
+731,Warlock - Summon Guardian
+751,Tree Form
+791,Item - Salt Shaker
+811,Divine Intervention
+831,Soulstone
+851,Restoration
+871,Shadowmeld
+891,Whirlwind
+892,Holy Shock
+911,Distracting Shot
+931,Holy Shield
+932,Consecration
+951,PvP Battlefield Item - LONG (30 mins)
+971,Class - Warrior - Mortal Strike
+991,Item - SnowMaster
+1011,Frenzied Healing
+1031,Item - Half Hour
+1051,Item - Jumper Cables
+1071,Item - Hatch Jubling
+1091,Battlegrounds Recall
+1111,Wyvern Sting
+1131,Hammer of Vengeance
+1132,Intimidation
+1133,Faerie Fire (Feral)
+1134,Riposte
+1135,Counterattack
+1136,Holiday - Firework Rockets
+1137,Holiday - Firecracker
+1138,RC Weapons
+1139,Item - Quest (10 minutes)
+1140,Item - Quest (1 min)
+1141,Item - Burst Trinket
+1142,Holiday - Love
+1143,Item - Target Dummy
+1144,Priest Racial
+1145,Lightwell
+1146,Item - Enchanting Rod
+1147,Revive Champion
+1148,Spellstone
+1149,Quest - 1 Hour
+1150,ShadowThunderstrike
+1151,Talent - DPS
+1152,Creature Special 1
+1153,Item - Combat Cons. (Non-Aggressive)
+1154,Jewelcrafting - Cut Jewel
+1155,Arathi Basin Trinket
+1156,Reincarnation (Pet Talent)
+1157,Item - Quest (10 sec)
+1158,Intercept
+1159,Creature Special 2
+1160,Item - Priest Epic Staff
+1161,Reincarnation (Player)
+1162,Invisibility
+1163,"Chess Cooldown, Move"
+1164,Quest - Azuremyst Mount
+1165,Pain Spike
+1166,PvP Trinket/WOTF
+1167,Quest - Throw Boulder
+1168,Smoke Flare
+1169,Shadow Word: Death
+1170,Quest - Aerial Assault
+1171,Class - Hunter - Survival - Kill Command
+1172,Swift Shot
+1173,Arcane Shot
+1174,Enchanting
+1175,PvP - Hunter Stings
+1176,Hearthstone
+1177,Ritual of Souls/Refreshment
+1178,Stealth Start
+1179,Curse of Doom
+1180,Goblin Rocket Helm
+1181,Prayer of Mending
+1182,PvP Class Trinkets
+1183,Item - Netherwing Whelp
+1184,Zone Flask - Blade's Edge
+1185,Zone Flask - Shattrath
+1186,Class - Paladin - Hand of Sacrifice
+1187,Blind
+1188,Chastise
+1189,Arcane Barrage
+1190,Item - PvP Health Increase
+1191,Shatter Shield
+1192,Starshards
+1193,Item - Repair Bot
+1194,Zone Buff - Sunwell
+1195,Earth Shield
+1196,Death Strike
+1197,Holiday - Snowball
+1198,Transmute - Alchemy (Metals)
+1199,Transmute - Alchemy (Legion)
+1200,Transmute - Alchemy (Gems)
+1201,Shockwave
+1202,Nature's Swiftness (Shaman)
+1203,Item - Speed
+1204,Circle of Healing
+1205,Feral Charge
+1206,Class - Rogue - Shadowstep
+1207,Blood Strike
+1208,Berserk
+1209,Shield Slam
+1210,Judgment
+1211,Class - Warrior - Heroic Leap
+1212,Teleport - Dalaran (Ring)
+1213,Item - Tracking
+1214,Living Bomb
+1215,Dragon's Breath
+1216,Item - Engineering Enchant
+1217,Typhoon
+1218,Starfall
+1219,Charge
+1221,Deep Freeze
+1222,Haunt
+1223,Thunderstorm
+1224,Quest - Lava Burst
+1225,Class - Warlock - Demonic Empowerment
+1226,Kill Shot
+1227,Bomber - Damage Control
+1228,Class - Shaman - Riptide
+1229,Item - Scroll of Recall
+1230,Class - Priest - Penance
+1231,Concussive Shot
+1232,Item - Darkmoon Tarot Cards
+1233,Windfury Weapon
+1234,Holiday - Thanksgiving Table
+1235,Icecrown Bomber - Switch Seats
+1236,Darkmoon - Ride Items
+1237,Wild Growth
+1238,Tracking
+1239,Tracking
+1240,Corpse Explosion
+1241,Cower
+1242,AP/POM
+1243,Power Word: Barrier
+1244,Tournament - Mounted Melee
+1245,Raise Dead
+1246,Tournament - Banner
+1247,Froststorm Breath
+1248,Howling Blast
+1249,Trap (Nature)
+1250,Trap (Fire)
+1251,Temporary Health
+1252,Goblin Rocket Belt
+1253,Horn of Winter
+1254,Class - Shaman - Stormstrike
+1255,Quest - Vehicle
+1256,Test - Ron's test
+1257,Stampeding Roar
+1258,Tree Climbing
+1259,Class - Shaman - Fire Nova
+1260,Skull Bash
+1261,Warrior Shout Buffs
+1262,Ardent Defender
+1263,Inscription - Create Recipe
+1264,Crusader Strike (OLD)
+1265,Heroic Strike
+1266,Fear (Warlock)
+1267,Forged Documents
+1268,Priest - Archangel
+1269,Flame Orb
+1271,Soul Swap
+1272,Entangling Roots
+1273,Inscription - Forged Documents
+1274,Alchemy Research - Northrend
+1275,Inscription Research - Minor
+1276,Inscription Research - Northrend
+1277,Guild Page/Herald
+1278,Tailoring - Dreamcloth (Air)
+1279,Tailoring - Dreamcloth (Water)
+1280,Tailoring - Dreamcloth (Fire)
+1281,Tailoring - Dreamcloth (Earth)
+1282,Tailoring - Dreamcloth (Life)
+1283,Engineering - Belt Enchantment
+1284,Cosmetic - Summon
+1285,Tailoring - Glacial Bag
+1286,Archaeology Survey
+1288,Centering Move
+1289,Last Stand
+1290,Bird Attacks
+1291,Jewelcrafting - Prism
+1298,Shield Wall
+1328,Tailoring - Dreamcloth (ALL)
+1329,Rogue - Survival
+1330,Deadly Calm
+1331,Quest - Monastery Training
+1332,Enchantment - Windsong
+1333,Incarnation
+1334,Guardian
+1335,Dragon Soul Legendary
+1336,Warlock - Grimoire of Service
+1339,Inscription - Scroll of Wisdom - 5.0 Daily Cooldown
+1345,War Banner
+1347,Guild Banner
+1348,Warlock - Demonic Circle
+1349,Player Farm - Plot 1 Harvest Cooldown VFW: (DLA)
+1350,Player Farm - Plot 2 Harvest Cooldown VFW: (DLA)
+1351,Player Farm - Plot 3 Harvest Cooldown VFW: (DLA)
+1352,Player Farm - Plot 4 Harvest Cooldown VFW: (DLA)
+1353,Player Farm - Plot 5 Harvest Cooldown VFW: (DLA)
+1354,Player Farm - Plot 6 Harvest Cooldown VFW: (DLA)
+1355,Player Farm - Plot 7 Harvest Cooldown VFW: (DLA)
+1356,Shaman Elemental Totems
+1357,Enchanting - Crystal Transformation
+1358,Demonic Slash
+1359,Barkskin
+1360,Chakra
+1361,Scenario - Item - Damage
+1362,Scenario - Item - Stun
+1363,Warlock - Summon Demon
+1364,Scenario - Item - Heal
+1365,Class - Monk - Roll
+1366,Priest - Halo
+1367,Monk - Serpent Statue
+1372,Wild Mushroom
+1373,Class - Priest - Angelic Feather
+1374,Monk - Roll <Celerity>
+1376,Druid - Savage Defense
+1377,Monk - Healing Sphere
+1378,Dire Beast
+1380,Divine Star
+1383,Heart of the Wild
+1384,Priest - Psyfiend
+1385,Class - Warrior - Shield Block
+1386,Class - Warrior - Charge
+1387,Engineering - Blingtron
+1388,Alter Time
+1389,Cascade
+1390,Class - Paladin - Hand of Freedom
+1391,Hand of Salvation
+1392,Class - Paladin - Hand of Protection
+1393,Player Farm - Plot 8 Harvest Cooldown VFW: (DLA)
+1394,Player Farm - Plot 9 Harvest Cooldown VFW: (DLA)
+1395,Player Farm - Plot 10 Harvest Cooldown VFW: (DLA)
+1396,Player Farm - Plot 11 Harvest Cooldown VFW: (DLA)
+1397,Player Farm - Plot 12 Harvest Cooldown VFW: (DLA)
+1398,Player Farm - Plot 13 Harvest Cooldown VFW: (DLA)
+1399,Player Farm - Plot 14 Harvest Cooldown VFW: (DLA)
+1400,Player Farm - Plot 15 Harvest Cooldown VFW: (DLA)
+1401,Player Farm - Plot 16 Harvest Cooldown VFW: (DLA)
+1402,Tailoring - Imperial Silk
+1407,Challenger's Path
+1409,Pandaria - Jewelcrafting - Research
+1415,Warrior Stances
+1416,Item - The Pigskin
+1417,Priest - Shadowfiend
+1418,Class - Monk - Invoke Celestial
+1419,Fury Ward
+1420,Solar Beam
+1421,Default (Bug 336222)
+1422,Brawl - Playing Dirty
+1423,Scenario - Fort - Activated Ability
+1424,Scenario - Fort - Shotgun
+1425,Unstable Explosion
+1426,Vol'jin Scenario - Land Mines
+1427,Summon Krasarang Presence
+1428,Class - Death Knight - Death Grip
+1429,Symbiosis
+1430,Item - Combat Cons. (Landshark)
+1431,Incomplete Drakkari Colossus Abilities
+1432,Zandalari Council - Soul Fragment
+1433,Blacksmithing - Lightning Steel Ingot - 5.2 Daily Cooldown
+1434,Leatherworking - Magnificent Hide - 5.2 Daily Cooldown
+1435,Leatherworking - Magnificent Hide - 5.2 Daily Cooldown - spare
+1436,Jewelcrafting - Serpent's Heart - 5.2 Daily Cooldown
+1437,Ring of Frost
+1438,Engineering - Stabilized Lightning Source - 5.2 Daily Cooldown
+1439,Scenario - Shimmer - Sniper
+1440,Force of Nature
+1441,Leatherworking - Hardened Magnificent Hide - 5.4 Daily Cooldown
+1442,Tailoring - Grand Imperial Silk
+1443,Blacksmithing - Improved Lightning Steel Ingot - 5.4 Daily Cooldown
+1444,Item - Push Loot
+1445,Hamstring
+1446,Class - Mage - Blink
+1447,Warlock - Dark Soul
+1448,Class - Hunter - Deterrence Base
+1449,Class - Hunter - Disengage
+1450,Scenario - Naaru's Momentum
+1451,Chi Brew
+1452,Class - Mage - Ice Floes
+1453,Class - Hunter - Deterrence Talented
+1454,Leap Charge Protection
+1456,Class - Paladin - Sacred Shield
+1457,Trade - Cooking
+1458,Wild Mushroom (Resto)
+1461,Event - AO - Tallstrider
+1463,Event - AO - Powermonger - 2 charge
+1464,"Event - AO - Powermonger - 2 charge, Slot 2"
+1465,6.0 Professions - Blacksmithing - Blackrock Crucible
+1466,Quest - Call Thaelin Darkanvil
+1467,OLD
+1468,Seduction
+1469,Class - Druid - Survival Instincts
+1470,Slow Fall
+1471,Shield Charge
+1472,Warrior - Interrupt
+1473,Item - Portable Mailbox - Engineering
+1474,Monk - Guard
+1475,Rune Tap
+1476,Item - On Use - Helm Visual
+1477,6.0 Professions - Alchemy - Daily Cooldown
+1479,"Transmute - Alchemy (Wild, Legion)"
+1480,Garrison - Artillery Strike
+1481,6.0 Professions - Engineering - Material
+1482,Trap (Physical)
+1483,Paladin - Beacon of Light
+1484,6.0 Professions - Alchemy - 3 Charges 24 hr Cooldown
+1485,Starsurge / Starfall
+1486,Supernova / Blastwave
+1487,Ice Nova
+1488,Client Scene Triggered Spell
+1489,Aspects
+1490,Class - Monk - Keg Smash
+1491,Garrison - Land Mine
+1493,6.0 Tradeskills - Enchanting
+1494,6.0 Tradeskills - Inscription
+1495,6.0 Tradeskills - Enchanting (3)
+1497,6.0 Tradeskills - Inscription (3)
+1498,6.0 Professions - Tailoring - Daily Cooldown
+1499,6.0 Professions - Tailoring - 3 Charges 24 hr Cooldown
+1500,Class - Mage - Fire Blast
+1501,6.0 Professions - Jewelcrafting - Daily Cooldown
+1502,6.0 Professions - Jewelcrafting - 3 Charges 24 hr Cooldown
+1503,Battle Pets - Revive
+1504,Icy Veins
+1505,6.0 Professions - Leatherworking - Daily Cooldown
+1506,6.0 Professions - Leatherworking - 3 Charges 24 hr Cooldown
+1507,6.0 Professions - Blacksmithing - Daily Cooldown
+1508,6.0 Professions - Blacksmithing - 3 Charges 24 hr Cooldown
+1509,Class - Priest - Purify
+1510,Class - Druid - Nature's Cure
+1511,Class - Monk - Detox
+1512,Class - Paladin - Cleanse
+1513,Class - Shaman - Purify Spirit
+1516,Toy Use Charges
+1517,Monk - Renewing Mist
+1518,Class - Monk - Rising Sun Kick
+1519,6.0 Professions - Alchemy - Research
+1520,6.0 Professions - Blacksmithing - Research
+1521,6.0 Professions - Tailoring - Research
+1522,6.0 Professions - Leatherworking - Research
+1523,6.0 Professions - Jewelcrafting - Research
+1524,Garrison Hearthstone
+1526,Explosive Slag Mines
+1527,6.0 Professions - Engineering - 3 Charges (24h)
+1528,6.0 Professions - Engineering - Secrets
+1529,6.0 Professions - Inscription - Material
+1530,6.0 Professions - Inscription - Secrets
+1531,6.0 Professions - Inscription - 3 Charges (24h)
+1532,6.0 Professions - Enchanting - Material
+1533,6.0 Professions - Enchanting - Secrets
+1534,6.0 Professions - Enchanting - 3 Charges (24h)
+1535,Garrisons - Inscription Perk
+1536,Class - Shaman - Lava Burst
+1537,Class - Shaman - Earthquake
+1538,Class - Shaman - Lava Lash
+1539,Class - Shaman - Unleash Life
+1540,Class - Shaman - Spirit Link Totem
+1541,Demon Hunter - Fiery Brand
+1542,Crusader Strike
+1543,Class - Paladin - Shield of the Righteous
+1544,Inspiring Shot
+1545,Demon Hunter - Fel Rush
+1547,Legendary Rings
+1548,Demon Hunter - Evade
+1550,Class - Paladin - Avenging Wrath
+1551,Shaman - Tempest Totem
+1552,Demon Hunter - Fracture
+1553,Demon Hunter - Infernal Strike
+1554,7.0 Quest - Black Rook Hold - Glaive Thrower
+1555,Raise Ally
+1556,6.2 Tanaan - Seeking Crystal
+1557,Class - Hunter - Mongoose Bite
+1558,Death Strike
+1559,7.0 Inscription - Vantus Rune
+1560,Class - Mage - Ice Block
+1561,Monk - Brewmaster - Blackout Kick
+1562,Class - Monk - Brewmaster Brews
+1563,Scroll of Forgotten Knowledge
+1564,Ancient Mana
+1565,Zen Pilgrimage
+1566,Solar Flare
+1568,Class - Druid - Frenzied Regeneration
+1569,Class - Shaman - Healing Stream Totem
+1570,Class - Paladin - Hammer of the Righteous
+1571,Class - Monk - Mistwalk
+1572,Fire/Storm Elemental
+1574,Inter-Dalaran Wormhole
+1575,Class - Hunter - Throwing Axes
+1576,Class - Druid - Swiftmend
+1577,Demon Hunter - Metamorphosis (Havoc)
+1578,Class - Hunter - Traps
+1579,7.0 Quest - Suramar Collapse - Naga Cannon - twh
+1580,Class - Monk - Flying Serpent Kick
+1581,Class - Druid - Brutal Slash
+1582,Demon Hunter - Eye Beam
+1583,Class - Paladin - Crusader Flurry
+1584,Scythe of Elune
+1585,Infernal Will
+1586,Demon Hunter - Demon Spikes
+1587,Class - Paladin - Hand of Reckoning
+1588,Class - Mage - Frost Nova
+1589,Class - Warlock - Shadowflame
+1590,Class - Priest - Shadow Word: Void
+1592,"Class - Monk - Storm, Earth, and Fire"
+1593,Class - Mage - Rune of Power
+1595,7.0 Suramar - Powder Keg Throw - twh
+1598,Class - Warrior - Furious Slash
+1599,Class - Hunter - Black Arrow
+1600,Class - Shaman - Earth Shock
+1601,Demon Hunter - Vengeful Retreat
+1602,Class - Priest - Mind Blast
+1603,Doug Test - Cooldown Category
+1604,Artifacts - Light of the Naaru
+1605,Demon Hunter - Sigil of Flame
+1606,Demon Hunter - Sigil of Chains
+1607,Demon Hunter - Sigil of Misery
+1608,Demon Hunter - Sigil of Silence
+1609,Demon Hunter - Shear
+1610,Class - Paladin - Zeal
+1611,Class - Death Knight - Blood Boil
+1612,Demon Hunter - Throw Glaive
+1613,Rogue - Create Crimson Vial
+1614,Class - Death Knight - Empower Rune Weapon
+1615,Class - Rogue - Shadow Dance
+1616,Class - Hunter - Butchery
+1618,Class - Warrior - Defensive Stance
+1619,Demon Hunter - Fel Barrage
+1620,Class - Hunter - Explosive Round Detonation
+1621,Demon Hunter - Blur
+1623,Class - Warrior - Colossus Smash
+1624,Artifact - Balance Druid - Active Ability
+1625,Monk - Craft: Nimble Brew
+1626,Class - Shaman - Cloudburst Totem
+1627,Class - Paladin - Crusader Strike
+1628,Class - Hunter - Serpentine Shot
+1629,Class - Paladin - Word of Glory
+1630,Artifact - Destruction Warlock - Dimensional Rift
+1631,Item - 7.0 - Trinket - Vampyr's Kiss
+1632,Class - Mage - Shimmer
+1633,Mage - Fire - Talent - Phoenix Flames
+1634,Class - Shaman - Boulderfist
+1635,Class - Hunter - Harpoon
+1636,Follower Ability - Warlock - Eredar Twins - Summon Twins
+1637,Class - Paladin - Retribution - Blessed Hammer
+1638,Class - Paladin - Zeal 2.0
+1639,Class - Paladin - Crusader Flurry 2.0
+1640,Demon Hunter - Blade Dance
+1641,Class - Death Knight - Vampiric Blood
+1642,Class - Death Knight - Epidemic
+1643,Class - Paladin - Rule of Law
+1644,Class - Death Knight - Blood Tap
+1645,Class - Death Knight - Rune Tap
+1646,Class - Monk - Healing Elixirs
+1647,7.0 Suramar: (DLA) - Feed Thalyssra
+1648,7.0 Suramar: (DLA) - Feed Valtrois
+1649,7.0 Suramar: (DLA) - Feed Oculeth
+1650,Death Knight - Unholy - Army of the Dead
+1651,Class - Paladin - Bestow Faith
+1652,7.0 Artifacts - Frost Death Knight - Sindragosa's Fury
+1653,Enhancement Shaman - Feral Spirits
+1654,7.0 Suramar - City Buff Group Cooldown
+1655,Class - Shaman - Hex
+1656,Class - Hunter - Sentinel
+1657,Item - 7.0 - Trinket - Eyasu's Mulligan
+1658,Item - 7.0 - Trinket - Eyasu's Mulligan (Self)
+1659,Class - Paladin - Blessed Hammer
+1660,Void Bolt
+1661,zzOldClass - Paladin - Divine Steed
+1662,Class - Paladin - Divine Steed
+1663,Class - Paladin - Judgment
+1664,7.1 Dalaran - Toy - Wand of Simulated Life
+1665,7.0 Professions - Fishing - Undercurrent
+1666,Item - 7.1 - Karazhan - Ring of Collapsing Futures
+1667,Class - Paladin - Hand of the Protector
+1668,Class - Paladin - Light of the Protector
+1669,Follower Manager - Toggle Bodyguard Type
+1670,Class - Warrior - Recklessness
+1671,Class - Mage - Evocation
+1672,Class - Warrior - Raging Blow
+1673,Priest - Holy Word: Serenity
+1674,Class - Hunter - Dire Beast
+1675,Class - Hunter - Barbed Shot
+1676,Demon Hunter - Immolation Aura
+1677,Teleport - Brawler's Guild (Ring)
+1680,Class - Warrior - Overpower
+1681,7.2.5 Holiday - Transmog - Vote
+1682,Nethershard
+1683,Item - 7.2 - Trinket - The Deceiver's Grand Design
+1686,Item - Artifact Power
+1687,GBerger Test - Arms
+1688,7.2.5 Chromie Scenario - Chromie - Expunge - DQV
+1689,7.3 Argus Raid - Eonar - Surge of Life - LFR
+1690,Class - Priest - Power Word: Radiance
+1691,Holiday - Masks
+1692,Class - Warrior - Shield Reflection
+1693,Demon Hunter - Vengeance - Empower Wards
+1694,Class - Rogue - Symbols of Death
+1702,Item - 7.3 - Trinket - Essence of the Hounds
+1703,8.0 Kul Tiras: (DLA) - Azerite Cannonball
+1705,8.0 Loa - Zuldazar
+1706,8.0 Kul Tiras: (DLA) - Estate - Horse - Rapid Dash
+1707,7.3 Argus Raid - Eonar - Surge of Life - Normal
+1708,7.3 Argus Raid - Eonar - Surge of Life - Heroic
+1709,7.3 Argus Raid - Eonar - Surge of Life - Mythic
+1710,PvP - Parachute (Azerite BG)
+1711,Item - Healthstone
+1712,Class - Rogue - Blade Flurry
+1713,Class - Hunter - Dragonsfire Grenade
+1714,Kramer Hunter Test - Arcane Shot
+1715,Class - Hunter - Aimed Shot
+1716,Class - Hunter - Wildfire Bomb
+1717,Class - Warlock - Life tap
+1720,8.0 Islands - AI - Razak's Roughriders - Dizzy Dina - Automatic Explosive Ejector
+1721,8.0 Islands - AI - Gazlowe's Greasemonkeys - Gazlowe - POW-R Amp Platform - Summon
+1722,Racial - Void Elf - Spatial Rift
+1723,Class - Hunter - Harpoon/Disengage Shared
+1724,8.0 Tortollan World Quests - Logo - Issue Command - Laser
+1725,"8.0 Tortollan World Quests - Logo - Issue Command - Loh, Go!"
+1726,Class - Death Knight - Runic Strike
+1727,Class - Druid - New/Half/Full Moon
+1828,8.0 War Campaign - Alliance - Chapter 5 - Void Dash - (STM)
+1829,PvP - Warlock - Curses
+1830,Hunter - Command Pet - Survival of the Fittest
+1831,Item - 8.0 - Hozen - Regenerating Banana Bunch
+1832,Shaman - Enhance - Ethereal Form
+1833,PvP - Shadow - Hallucinations
+1834,Class - Death Knight - Summon Gargoyle/Dark Arbiter
+1836,Item - PvP - Defensive Trinket
+1837,Warrior - Core - Bloodthirst
+1838,8.1.5 PVP - AI - Monk - Roll
+1839,Item - 8.1 - Crowns of Opulence
+1840,8.1.5 Jewelcrafting Shrines
+1841,Racial - Zandalari Troll - Embrace the Loa
+1844,Maw Prototype - Invoke Armaments
+1847,Maw Prototype - Sunrise
+1848,8.2 Mechagon - Racetrack - Generic - 2 Charges (JDA)
+1849,Item - 8.1 - Automatic Defensive Trinket
+1850,Item - 8.1.5 - Trinket - Lurker's Insidious Gift
+1851,8.2 Holidays - Brewfest - Chowdown - Brew (JLW)
+1852,8.2 - Azerite Essences - Everburning Essence
+1854,Flight Master Whistle
+1855,8.3 Main Line - Ch 1 - Scenario - Power Beam - TSH
+1858,8.2 Mechagon - Weapon Rack - Shared (JDA/MDE)
+1859,Venthyr - Expropriate
+1861,9.0 Covenant Exploration - Warlock - Kyrian - Blood Scythe - Area Trigger
+1864,GBerger Test Category
+1865,Class - Warrior - Mobility Shared Cooldown
+1870,9.0 Revendreth - Infrastructure Test (JDA)
+1871,9.0 - Revendreth - Ember Ward - Cinderwall - Ash Elemental Skills
+1872,Mage - All -  Core - Wards
+1873,Class - Hunter - Kill Shot
+1874,9.0 Professions - Engineering - Device
+1875,9.0 Revendreth - Ember Court - Book Choice
+1876,9.0 Dungeon - Necrotic Wake - Boss 3 - Escape - TJS
+1877,Class - Death Knight - Death and Decay
+1879,Marileth - Kevin's Keyring
+1881,9.0 Ardenweald - COV - MHZ - Ch 2 - Shadowhunter Blink - (STM)
+1883,Emeni - Hearth Kidneystone
+1884,9.0 Covenant - Soulshape
+1885,Covenant - Kyrian - Druid - Soul Bond Activation
+1886,9.0 Dungeon - Necrotic Wake - Boss 3 - Boss Creature - Summon
+1887,Demon Hunter - Elysian Decree (9.x)
+1888,Demon Hunter - Necrolord Class Ability (9.x)
+1889,Class - Rogue - Serrated Bone Spike
+1890,Class - Paladin - Blessing of Seasons
+1891,9.0 Professions - Engineering - Tinker
+1892,Professions - Engineering - Explosives
+1893,Class - Shaman - Primordial Wave
+1894,Demon Hunter - The Hunt (9.x)
+1895,Class - Paladin - Hammer of Wrath
+1896,9.0 - Bastion - Path of Ascension - Soulbind - Kleia - Skill Cooldowns
+1897,9.0 - Bastion - Path of Ascension - Soulbind - Pelagos - Skill Cooldowns
+1899,9.0 Revendreth - Ember Court - Extra Action Weapons (JRC)
+1900,9.0 - Bastion - Path of Ascension - Soulbind - Bron/Mikanikos - Vehicle Summon Spell
+1901,9.0 Covenant - Door of Shadows
+1902,Transmute - Alchemy (Shadowlands)
+1903,9.0 Maw - Tower - Vehicle - Defensive - KLH
+1904,9.0 Maw - Tower - Vehicle - Blink - KLH
+1905,Quest - Vehicle 2
+1906,Spell Lock
+1907,Class - Priest - Shadow Crash v2
+1908,Demon Hunter - Glaive Tempest
+1909,9.0 Covenant - Phial of Serenity
+1910,Class - Monk - Faeline Stomp
+1911,Class - Priest - Unholy Nova
+1912,Item - 9.0 Raid - Trinket - Soul Igniter
+1913,9.0 Legendaries - Sephuz's Proclamation
+1914,Class - Rogue - Venthyr - Flagellation
+1915,9.0 Maldraxxus - Unique Quest Cooldown (MDE)
+1920,9.0 Maldraxxus - Harvesting Hook (MPK)
+1922,10.0 Zone 1 - Mechanical Dragon - Control Buitton (MDE)
+1924,9.0 Instruments of Bastion
+1925,kramer test charge data
+1926,9.1 Raid - Torghast - Eye - Summon Lt. CD - PAH
+1927,Class - Death Knight - Defile
+1929,Class - Warrior - Shield Wall
+1932,9.1 Maw - Torghast - Modifier Consumables
+1933,Class - Monk - Revival
+1935,9.1 Professions - Alchemy - Color Bursts
+1938,Covenant - Paladin - Necrolord - Vanquisher's Hammer
+1940,Priest - Inner Light & Inner Darkness
+1941,Class - Death Knight - Death's Advance
+1942,6.0 Tradeskills - Enchanting
+1943,9.1 - Dungeon - Broker City - Achievement Fruit Toss - 01 Summon - PAS
+1944,Covenant - Priest - Venthyr - Mindgames
+1945,RC Toy - RRR - Ability - Tracking Missiles - JZB
+1947,Gladiator's Adaptation
+1948,Class - Evoker - Hover
+1949,Class - Evoker - Fire Breath
+1957,9.2 Raid - Progenitor - Terrestrial Keeper - Auto Attack Chain
+1959,WoWLabs - BR: Game - Thrust
+1975,10.0 Explorers - Climb Vehicle (JDA)
+1976,10.0 Explorers - Climb Vehicle - Auto Grappler (JDA)
+1991,WoWLabs - BR: Spell - Offensive - Blessed Hammer
+1992,WoWLabs - BR: Spell - Offensive - Raise Dead
+1995,9.2 ZM - Cypher System - Core Mount - Ability - JZB
+1996,9.2 ZM - Cypher System - Guardian Ability 01 - JZB
+1998,9.2 ZM - Generic Ability (MDE)
+2000,EPL Test Category
+2001,Alex Test Cooldown Category
+2002,9.2 ZM - Cypher System - Guardian Ability 02 - JZB
+2003,9.2 ZM - Cypher System - Guardian Ability 03 - JZB
+2004,10.0 Gnoll - Bloodied Bite - PAH
+2005,10.0 Explorers - Camera Vehicle (JDA)
+2006,Item - 9.0 WQ - Bastion - Trinket - Instructor's Divine Bell - Mastery Use
+2007,Items - 9.2 Raid - Trinket - Scars of Fraternal Strife
+2010,Class - Evoker - Preservation - Reversion
+2011,10.0 Professions - Alchemy - Fun Incense
+2012,10.0 Professions - Alchemy - Phial - Utility - Feign Death
+2013,10.0 Professions - Alchemy - Potion Cauldrons
+2014,10.0 Professions - Alchemy - Pooka Cauldron
+2017,BLB - Falling Star - Gear
+2020,Racial - Dracthyr - Soar - Dragonriding Flight - Surge Forward
+2022,10.0 Professions - Tailoring - Dragoncloth Crafting CD
+2023,10.0 Professions - Jewelcrafting - Gem Bags
+2027,10.0 Professions - Jewelcrafting - Carvings
+2028,Racial - Dracthyr - Soar - Shared
+2030,10.0 Professions - Jewelcrafting - Kalu'ak Figurine
+2031,Class - Mage - Flurry
+2032,Class - Rogue - Thistle Tea
+2033,10.0 Raid - Primalist - Boss - Quarry - Detonating Smash (2 Cast) - SRC
+2034,10.0 Professions - Alchemy - Experimentation
+2035,Class - Evoker - Rewind
+2036,Class - Warrior - Shield Reflection - Prot
+2037,10.0 Azure - Ch 4 - Arcane Disc - Nova - (STM)
+2038,10.0 Professions - Alchemy - Transmute
+2039,Mass Polymorph
+2040,Class - Death Knight - Abomination Limb
+2041,Class - Evoker - Time Stop PvP Talent
+2042,10.0 Professions - Darkmoon Decks
+2043,10.0 Professions - Engineering - Air Strike
+2044,Scroll of Sales
+2045,Class - Mage - Arcane Orb
+2046,Class - Mage - Radiant Spark
+2047,WoWLabs - BR: Dragonriding - Surge Forward
+2048,WoWLabs - BR: Dragonriding - Ascend
+2049,10.0 Professions - Engineering - Combat Resurrection
+2050,Skull Banner
+2051,10.0 Professions - Engineering - PvP Flare Gun
+2052,Class - Rogue - Dreadblades
+2053,Class - Evoker - Empower Spells
+2054,Class - Evoker - Dream Breath
+2055,Class - Evoker - Spiritbloom
+2056,Class - Warrior - Shield Charge
+2057,Class - Warrior - Stance Cooldown
+2058,Class - Rogue - Vanish
+2060,WoWLabs - BR: Spell - Offensive - Astral Storm
+2061,10.0 Professions - Tailoring - Azureweave Bolt
+2062,Class - Shaman - Cloudburst Totem Charge
+2063,10.0 Professions Quest - Intro - Goblin Gyrocopter (MA)
+2064,Hunter - Command Pet - Fortitude of the Bear
+2065,10.0 Dungeon - Centaur - Dragon Hunt - Boss - Eruption (1 Timer Aura) - JDK
+2066,Item - Toy Mailbox
+2067,Class - Hunter - BM Kill Command
+2068,10.0 Professions - Herbalism - Overload
+2070,Class - Paladin - Intercession
+2071,10.0 Professions - Enchanting - Illusion - Costume - Elemental
+2072,10.0 Unique Creature - Trinket - Innumerable Ruination - (0) Unstable Arcane Cell - Points - ZGS
+2073,Class - Warrior - Ravager
+2074,Class - Shaman - Stormkeeper (Elemental)
+2075,Class - Priest - Holy Word: Sanctify
+2076,10.0 Professions - Skinning - Elusive Creature Bait
+2077,Class - Shaman - Elemental Blast
+2078,10.0 Professions - Mass Resurrection
+2079,10.0 Centaur - Hunt - Party 006 - Interact 003 - Intestines Cooldown (OJF)
+2080,10.0 Professions - Tailoring - Chronocloth Bolt
+2081,Class - Evoker - Jolt
+2082,10.0 Azure - Ch 4 - Finale Gallery - Kalecgos's Aid Trigger - (STM)
+2083,Class - Paladin - Blessing of Spellwarding
+2084,Item - 10.0 Raid - Trinket - Desperate Invocation - (1) On Use - Cooldown
+2085,Item - 10.0 Raid - Trinket - Manic Grieftorch - Cooldown Category
+2086,Class - Rogue - Shiv
+2087,WoWlabs - BR: Weapon - Sword and Board - Block
+2088,Class - Evoker - Living Flame
+2089,10.0 Professions - Engineering - Tinkers - Malfunction Prevention
+2090,10.0 Unique - Conjured Construct - Arcane Emanation
+2091,10.0 Tuskarr - Fishing - Tug o War
+2092,WoWLabs - BR: Weapon - Arclight Spanner
+2098,Geology Banner
+2099,Herbalism Banner
+2100,Class - Evoker - Obsidian Scales
+2102,10.0 Raid - Primalist - Zone - Zone Control - Wind Elemental Elevator - Up and Down Cover Spells
+2104,10.0.7 - Prototype - Niffen Puzzle Tool - Burrowing Cooldown (LQM)
+2105,Class - Priest - Pain Suppression
+2106,Felguard
+2107,WoWLabs - BR: Spell - Offensive - Solar Chakram
+2108,WoWLabs - BR: Spell - Utility - Frost Nova
+2110,WoWLabs - BR: Spell - Utility - Grounding Totem (Charges)
+2111,WoWLabs - BR: Spell - Utility - Spell Reflection (Charges)
+2112,WoWLabs - BR: Spell - Utility - Flying Serpent Kick (Charges)
+2113,WoWLabs - BR: Block
+2125,Class - Evoker - Attunement Auras
+2126,10.1 Professions - Alchemy - Phial Cauldrons
+2128,Class - Paladin - Blade of Justice
+2130,Soul Swap
+2132,Paladin - Wings of Vengeance (Retribution)
+2133,Class - Evoker - Blistering Scales
+2134,WoWLabs - BR: Spell - Offensive - Molten Boulder
+2135,WoWLabs - BR: Spell - Offensive - Breath of Fire
+2136,WoWLabs - BR: Spell - Offensive - Fire Whirl
+2137,WoWLabs - BR: Spell - Offensive - Frozen Orb
+2138,WoWLabs - BR: Spell - Offensive - Snowdrift
+2139,WoWLabs - BR: Spell - Offensive - Shadow Barrage
+2140,WoWLabs - BR: Spell - Offensive - Arcanosphere
+2141,WoWLabs - BR: Spell - Offensive - Divine Star
+2142,WoWLabs - BR: Spell - Offensive - Fists of Fury
+2143,WoWLabs - BR: Spell - Offensive - Whirling Dragon Punch
+2144,WoWLabs - BR: Spell - Offensive - Earthbreaker
+2145,WoWLabs - BR: Spell - Utility - Dragon's Breath
+2146,WoWLabs - BR: Spell - Utility - Ice Wall
+2147,WoWLabs - BR: Spell - Utility - Intimidating Shout
+2148,WoWLabs - BR: Spell - Utility - Mighty Ox Kick
+2149,WoWLabs - BR: Spell - Utility - Vanish
+2150,WoWLabs - BR: Spell - Utility - Ice Block
+2151,WoWLabs - BR: Spell - Utility - Feign Death
+2152,WoWLabs - BR: Spell - Utility - Faeform
+2153,WoWLabs - BR: Spell - Utility - Anti-Magic Shell
+2154,WoWLabs - BR: Spell - Utility - Anti-Magic Zone
+2155,WoWLabs - BR: Spell - Utility - Alter Time
+2156,WoWLabs - BR: Spell - Utility - Thunderstorm
+2157,WoWLabs - BR: Spell - Utility - Icebind
+2158,WoWLabs - BR: Spell - Utility - Gorefiend's Grasp
+2159,WoWLabs - BR: Spell - Utility - Darkness
+2160,WoWLabs - BR: Spell - Utility - Smoke Bomb
+2161,WoWLabs - BR: Spell - Utility - Death Grip
+2162,WoWLabs - BR: Spell - Utility - Death Grip (Charges)
+2163,WoWLabs - BR: Spell - Utility - Capacitor Totem (Charges)
+2164,WoWLabs - BR: Spell - Utility - Capacitor Totem
+2165,WoWLabs - BR: Spell - Utility - Frost Nova (Charges)
+2166,WoWLabs - BR: Spell - Utility - Grounding Totem
+2167,WoWLabs - BR: Spell - Utility - Spell Reflection
+2168,WoWLabs - BR: Spell - Utility - Flying Serpent Kick
+2169,PvP Talent - Warrior - All - Spell Wall
+2170,Dragonfire Bomb Dispenser - Item - 10.1 Raid - Trinket - (1) Throw Bomb - ZGS
+2172,11.0 Dynamic Mounts - Roller - Armadillo Drift - 1. Drifting Agility
+2173,10.1.5 Whelp Daycare - Whelp Racing - Race Controls (OJF)
+2174,Class - Priest - From the Shadows
+2176,Death Knight - Reanimation
+2177,10.1 Underground - Treasure/Unique - Consumable/Toy - Makrura Transform
+2178,11.0 Delves - Pick Up Object - Override Spells - Health Potion - (STM)
+2179,Class - Paladin - Holy Shock
+2180,Class - Warrior - Mountain King - Titanic Leap
+2181,Class - Warrior - Mountain King - Titanic Leap
+2184,10.1.5 Quests - Boffins Re-Homed - Toy - (0) Aura
+2185,Arena - Canteen A
+2186,10.1.7 Brawl - Gun Evoker - Disengage - JZM
+2187,Professions - Feast Shared Cooldown
+2188,TDY - Professions - Prototype - Shipments
+2189,Item - 10.1 Raid - Trinket - Bandolier of Twisted Blades - 2) Use: Embed Blade - TJN
+2190,Class - Rogue - Feint
+2191,Druid - Talents - Balance / Guardian - Thornspeaker - Thornbind
+2192,Class - Warrior - Intervene
+2193,Dragonriding Shared Cooldowns
+2194,11.0 - Dungeon - Kobold - Boss 1 - Waxbeard - Charge
+2195,Second Wind
+2196,11.0 Dungeon - Kobold - Wax Elemental Boss - Tornado - Haku
+2197,11.0 Dungeon - Kobold - Wax Elemental Boss - Fire Missile - Haku
+2198,Class - Monk - Life Cocoon
+2204,11.0 Professions - Alchemy - Experimentation
+2206,Demon Hunter - Dash of Chaos
+2207,Class - Evoker - Augmentation - Prescience
+2208,Demon Hunter - Fel Rush - Dash of Chaos
+2209,10.2.7 Timewalking Season - Pandaria - Gem - Meta - Shared Cooldown
+2211,11.0 Professions - Mining - Overload
+2212,11.0 Professions - Herbalism - Overload
+2214,11.0 Heirloom - World Map Toy - Everywhere Explored
+2215,11.0 Delves - Nerubian - Map Mechanic - Aura Applied Pt 1. Master Aura - (STM)
+2216,11.0 Professions - Alchemy - Transmute
+2217,10.2 Dream Wardens Rep Tokens
+2218,PvP - Battle Standards (Do not use)
+2219,PvP - Battle Standards
+2220,Class - Paladin - Lightsmith - Holy Armaments
+2221,10.2.5 HSAnn - HS Table - GCD - Play Card
+2222,WoWLabs - BR: Spell - Offensive - Star Shot
+2223,WoWLabs - BR: Spell - Offensive - Searing Axe
+2224,WoWLabs - BR: Spell - Offensive - Quaking Leap
+2225,WoWLabs - BR: Spell - Offensive - Explosive Caltrops
+2226,WoWLabs - BR: Spell - Utility - [1] Steel Trap
+2227,WoWLabs - BR: Spell - Utility - Fade to Shadow
+2228,WoWLabs - BR: Spell - Utility - [2] Steel Trap
+2229,WoWLabs - BR: Spell - Utility - [3] Steel Trap
+2230,WoWLabs - BR: Spell - Utility - [4] Steel Trap
+2231,WoWLabs - BR: Spell - Offensive - Slicing Winds
+2232,WoWLabs - BR: Spell - Offensive - Earthbreaker (New)
+2233,WoWLabs - BR: Spell - Offensive - Windstorm
+2234,WoWLabs - BR: Spell - Offensive - Holy Shield
+2235,11.0 Delves - AI Companion - Extra Ability
+2236,11.0 Delves - AI Companion - Auto Shot
+2237,11.0 Delves - AI Companion - DPS Cooldown
+2238,WoWLabs - BR: Spell - Vehicle - Boost
+2239,WoWLabs - BR: Spell - Utility - Steel Traps
+2240,WoWLabs - BR: Spell - Offensive - Star Bomb
+2241,WoWLabs - BR: Spell - Utility - Repel
+2242,Class - Warrior - Thunder Clap
+2243,WoWLabs - BR: Spell - Utility - Duelist's Chains
+2244,WoWLabs - BR: Spell - Utility - Duelist's Advance
+2248,11.0 Z3 - Wargame - Caster Ability (LAS)
+2249,11.0 Z3 - Wargame - Knight Ability (LAS)
+2250,11.0 Z3 - Wargame - Castle Ability (LAS)
+2252,WoWLabs - BR: Spell - Offensive - Toxic Smackerel
+2253,11.0 Warbands - Warband Bank Summon
+2254,WoWLabs - BR: Spell - Item - Bushwhack
+2264,WoWLabs - BR: Spell - Core - Health Brew
+2265,Priest - Premonition
+2270,Class - Warrior - Bladestorm
+2271,Class - Priest - Premonition
+2272,5.4 Legendary Cape - Wing Visual
+2273,11.0 Professions - Skinning - Sharpen Your Knife
+2274,11.0 Delves - Brann Bronzebeard - Campfire
+2275,11.0 Delves - Z3 - Nerubians03 - V4 - Shadow Relic - Extra Action Button
+2276,11.0 Notoriety - Vizier - Active Abilities
+2277,WoWLabs - BR: Spell - Utility - Lightning Bulwark
+2278,11.0 Professions - Skinning - Carve Meat
+2279,11.0 Professions - Skinning - Elusive Creature Bait
+2280,WoWLabs - BR: Spell - Offensive - Storm Archon
+2281,Class - Evoker - Engulf
+2282,Shaman - Totemic - Spire Totem
+2283,Holy Paladin - Spenders
+2284,Class - Paladin - Eye of Tyr
+2285,Class - Paladin - Wake of Ashes
+2287,4.0 Dungeon - Grim Batol - Bombing Run - ML
+2289,11.0 Professions - Alchemy - Gleaming Transmute
+2290,Priest - Void Blast
+2292,11.0 Z3 - Small Local 12 - Growling Hollow - Chef Questions (REM)
+2293,Monk - Celestial Brew
+2294,Monk - Thunder Focus Tea
+2295,11.0 Professions - Engineering - Pausing Pylon
+2296,11.0 Professions - Enchanting - Gleeful Glamour
+2297,11.0 Professions - Blacksmithing - Everburning Forge
+2298,Demon Hunter - Consuming Fire Aura
+2299,11.0 Professions - Tailoring - Dawnweave Bolt
+2300,11.0 Professions - Tailoring - Duskweave Bolt
+2302,11.0 Warbands - Bank - Extra Action Buttons (DTM)
+2303,Class - Rogue - Grappling Hook
+2304,11.0 Delves - AI Companion - Create Rest Advert
+2306,11.0 Deployable - ZGS
+2307,Hearthstone - Charges - Human Racial
+2308,Class - Priest - Leap of Faith
+2309,Hearthstone - Charges
+2311,11.0 Professions - Skinning - Supreme Beast Lure
+2313,11.0 Delves - Combat Curio
+2314,Ominous Conch
+2316,Skyriding Abilities
+2317,11.0 Delves - AI Companion - Major Ability

@@ -1,0 +1,454 @@
+ID,Name_lang
+9,Ironband's Excavation Site
+10,Ironbeard's Tomb
+12,Whelgar's Excavation Site
+13,Greenwarden's Fossil Bank
+15,Thoradin's Wall
+18,Witherbark Digsite
+19,Thandol Span
+20,Dun Garok Digsite
+21,Southshore Fossil Field
+22,Aerie Peak Digsite
+23,Shadra'Alor Digsite
+24,Altar of Zul Digsite
+25,Jintha'Alor Lower City Digsite
+26,Jintha'Alor Upper City Digsite
+27,Agol'watha Digsite
+140,TEMPLATE TROLL
+142,TEMPLATE DWARF
+144,Hammertoe's Digsite
+146,Tomb of the Watchers Digsite
+150,Uldaman Entrance Digsite
+152,Sunken Temple Digsite
+154,Misty Reed Fossil Bank
+161,TEMPLATE NIGHT ELF 
+163,Twilight Grove Digsite
+165,Vul'Gol Fossil Bank
+167,Nazj'vel Digsite
+169,Zoram Strand Digsite
+171,Ruins of Ordil'Aran
+173,Ruins of Stardust
+175,Forest Song Digsite
+177,Stonetalon Peak
+179,Ruins of Eldre'Thar
+181,Unearthed Grounds
+183,Bael Modan Digsite
+185,Ruins of Eldarath
+187,Ruins of Arkkoran
+189,Lakeridge Highway Fossil Bank
+191,Slitherblade Shore Digsite
+193,Ethel Rethor Digsite
+195,Valley of Bones
+197,Mannoroc Coven Digsite
+199,Kodo Graveyard
+201,Sargeron Digsite
+203,Red Reaches Fossil Bank
+205,Dreadmaul Fossil Field
+207,Grimsilt Digsite
+209,Pyrox Flats Digsite
+211,Western Ruins of Thaurissan
+213,Eastern Ruins of Thaurissan
+215,Terror Wing Fossil Field
+217,Zul'Mashar Digsite
+219,Quel'Lithien Lodge Digsite
+221,Infectis Scar Fossil Field
+223,Eastern Zul'Kunda Digsite
+225,Western Zul'Kunda Digsite
+227,Bal'lal Ruins Digsite
+229,Balia'mah Digsite
+231,Ziata'jai Digsite
+233,Eastern Zul'Mamwe Digsite
+235,Western Zul'Mamwe Digsite
+237,Savage Coast Raptor Fields
+239,Ruins of Aboraz
+241,Ruins of Jubuwal
+243,Gurubashi Arena Digsite
+245,Nek'mani Wellspring Digsite
+247,Felstone Fossil Field
+249,Northridge Fossil Field
+251,Andorhal Fossil Bank
+259,Wyrmbog Fossil Field
+261,Quagmire Fossil Field
+279,Dire Maul Digsite
+281,Broken Commons Digsite
+283,Ravenwind Digsite
+285,Oneiros Digsite
+287,Solarsal Digsite
+289,Darkmist Digsite
+291,South Isildien Digsite
+293,North Isildien Digsite
+295,Constellas Digsite
+297,Morlos'Aran Digsite
+299,Jaedenar Digsite
+301,Ironwood Digsite
+303,Lake Kel'Theril Digsite
+305,Owl Wing Thicket Digsite
+307,Frostwhisper Gorge Digsite
+309,Fields of Blood Fossil Bank
+313,Nightmare Scar Digsite
+315,Zul'Farrak Digsite
+317,Broken Pillar Digsite
+319,Eastmoon Ruins Digsite
+321,Southmoon Ruins Digsite
+323,Dunemaul Fossil Ridge
+325,Abyssal Sands Fossil Ridge
+327,Lower Lakkari Tar Pits
+329,Upper Lakkari Tar Pits
+331,Terror Run Fossil Field
+333,Screaming Reaches Fossil Field
+335,Marshlands Fossil Bank
+337,Southwind Village Digsite
+339,Gor'gaz Outpost Digsite
+341,Zeth'Gor Digsite
+343,Hellfire Basin Digsite
+345,Hellfire Citadel Digsite
+347,Sha'naar Digsite
+349,Boha'mu Ruins Digsite
+351,Twin Spire Ruins Digsite
+353,Ruins of Enkaat Digsite
+355,Arklon Ruins Digsite
+357,Ruins of Farahlon Digsite
+359,Ancestral Grounds Digsite
+363,Sunspring Post Digsite
+365,Laughing Skull Digsite
+367,Burning Blade Digsite
+369,Halaa Digsite
+371,Grangol'var Village Digsite
+373,Tuurem Digsite
+375,Bleeding Hollow Ruins Digsite
+377,Bonechewer Ruins Digsite
+379,Bone Wastes Digsite
+381,East Auchindoun Digsite
+383,West Auchindoun Digsite
+385,Illidari Point Digsite
+387,Coilskar Point Digsite
+391,Ruins of Baa'ri Digsite
+393,Eclipse Point Digsite
+395,Warden's Cage Digsite
+399,Dragonmaw Fortress
+401,Skorn Digsite
+403,Halgrind Digsite
+405,Wyrmskull Digsite
+407,Shield Hill Digsite
+409,Baleheim Digsite
+411,Nifflevar Digsite
+413,Gjalerbron Digsite
+415,Pit of Narjun Digsite
+417,Moonrest Gardens Digsite
+419,En'kilah Digsite
+421,Kolramas Digsite
+423,Riplash Ruins Digsite
+425,Violet Stand Digsite
+427,Ruins of Shandaral Digsite
+429,Altar of Sseratus Digsite
+431,Zim'Rhuk Digsite
+433,Zol'Heb Digsite
+435,Altar of Quetz'lun Digsite
+437,Talramas Digsite
+439,Voldrune Digsite
+443,Drakil'Jin Ruins Digsite
+445,Brunnhildar Village Digsite
+447,Sifreldar Village Digsite
+449,Valkyrion Digsite
+451,Scourgeholme Digsite
+455,Ymirheim Digsite
+457,Jotunheim Digsite
+459,Njorndar Village Digsite
+461,Ruins of Lar'donir Digsite
+463,Shrine of Goldrinn Digsite
+465,Grove of Aessina Digsite
+467,Sanctuary of Malorne Digsite
+469,Scorched Plain Digsite
+471,Quel'Dormir Gardens Digsite
+473,Nar'shola (Middle Tier) Digsite
+475,Biel'aran Ridge Digsite
+477,Dunwald Ruins Digsite
+479,Thundermar Ruins Digsite
+481,Humboldt Conflagration Digsite
+485,Khartut's Tomb Digsite
+487,Tombs of the Precursors Digsite
+489,Steps of Fate Digsite
+491,Neferset Digsite
+493,Orsis Digsite
+495,Ruins of Ammon Digsite
+497,Ruins of Khintaset Digsite
+499,Temple of Uldum Digsite
+501,Ruins of Ahmtul Digsite
+570,River Delta Digsite
+572,Cursed Landing Digsite
+574,Keset Pass Digsite
+576,Akhenet Fields Digsite
+578,Obelisk of the Stars Digsite
+581,Sahket Wastes Digsite
+583,Schnottz's Landing
+587,Pit of Fiends Digsite
+589,Sands of Nasam
+615,Terrorweb Tunnel Digsite
+617,Plaguewood Digsite
+918,Tiger's Wood Digsite
+923,Tian Digsite
+928,Shrine of the Dawn Digsite
+934,Ruins of Gan Shi Digsite
+936,Emperor's Omen Digsite
+938,The Arboretum Digsite
+941,Thunderwood Digsite
+949,Mogu TEMPLATE Digsite
+951,Pandaren TEMPLATE Digsite
+955,Singing Marshes Digsite
+957,North Great Wall Digsite
+961,South Great Wall Digsite
+963,Torjari Pit Digsite
+967,The Spring Road Digsite
+971,Paoquan Hollow Digsite
+973,North Fruited Fields Digsite
+977,South Fruited Fields Digsite
+979,Pools of Purity Digsite
+981,Fallsong Village Digsite
+983,Ruins of Korja Digsite
+987,Krasarang Wilds Digsite
+989,Lost Dynasty Digsite
+995,North Temple of the Red Crane Digsite
+999,Zhu Province Digsite
+1003,Valley of Kings Digsite
+1005,Gate to Golden Valley Digsite
+1007,Snow Covered Hills Digsite
+1009,East Snow Covered Hills Digsite
+1011,Remote Village Digsite
+1015,Destroyed Village Digsite
+1017,Old Village Digsite
+1019,Grumblepaw Ranch Digsite
+1021,Chow Farmstead Digsite
+1023,West Old Village Digsite
+1025,Small Gate Digsite
+1029,Kun-Lai Peak Digsite
+1033,Forest Heart Digsite
+1035,Gong of Hope Digsite
+1037,Great Bridge Digsite
+1039,Orchard Digsite
+1043,Jade Temple Grounds Digsite
+1045,South Orchard Digsite
+1047,Den of Sorrow Digsite
+1049,Shrine Meadow Digsite
+1051,Veridian Grove Digsite
+1284,Setting Sun Garrison Digsite
+1286,Mistfall Village Digsite
+1288,Five Sisters Digsite
+1292,North Ruins of Guo-Lai Digsite
+1294,South Ruins of Guo-Lai Digsite
+1300,Tu Shen Digsite
+1308,West Ruins of Guo-Lai Digsite
+1316,Winterbough Digsite
+1318,Emperor's Approach Digsite
+1322,North Summer Fields Digsite
+1326,East Summer Fields Digsite
+1332,Sra'thik Digsite
+1334,Niuzao Temple Digsite
+1338,Fire Camp Osul Digsite
+1340,Hatred's Vice Digsite
+1342,Shanze'Dao Digsite
+1346,Lake of Stars Digsite
+1348,Terrace of Gurthan Digsite
+1352,Writhingwood Digsite
+1356,South Ruins of Dojan Digsite
+1358,North Ruins of Dojan Digsite
+1463,Kor'vess Digsite
+1465,Sra'thik Swarmdock Digsite
+1467,West Sra'vess Digsite
+1469,The Feeding Pits Digsite
+1471,Kzzok Warcamp Digsite
+1473,East Sra'vess Digsite
+1475,The Underbough Digsite
+1479,Ikz'ka Ridge Digsite
+1481,Sik'vess Digsite
+1483,West Sik'vess Digsite
+1485,North Sik'vess Digsite
+1487,The Clutches of Shek'zeer Digsite
+1489,Kypari'ik Digsite
+1491,Zan'vess Digsite
+1493,Venomous Ledge Digsite
+1495,Amber Quarry Digsite
+1497,The Briny Muck Digsite
+1501,Kypari'zar Digsite
+1503,Lake of Stars Digsite
+1507,Kypari Vor Digsite
+1681,Frozen Lake Digsite
+1683,Wor'gol Ridge Digsite
+1685,Daggermaw Flows Digsite
+1687,Lashwind Cleft Digsite
+1689,The Crackling Plains Digsite
+1691,Grom'gar Digsite
+1695,Stonefang Ridge Digsite
+1732,Frostboar Drifts Digsite
+1734,Icewind Drifts Digsite
+1736,East Coldsnap Bluffs Digsite
+1738,Coldsnap Bluffs Digsite
+1740,Shaz'gul Digsite
+1742,Burial Fields Digsite
+1744,Anguish Fortress Digsite
+1746,Cursed Woods Digsite
+1748,Dataminer's Delite Digsite
+1750,Umbrafen Digsite
+1752,Shimmering Moor Digsite
+1756,Gloomshade Digsite
+1758,Sethekk Hollow South Digsite
+1760,Sethekk Hollow North Digsite
+1762,Veil Akraz Digsite
+1764,Writhing Mire Digsite
+1766,Bloodmane Pridelands Digsite
+1768,Pinchwhistle Point Digsite
+1770,Bloodmane Valley Digsite
+1772,Veil Zekk Digsite
+1774,Apexis Excavation Digsite
+1776,Gordal Fortress Digsite
+1778,Veil Shadar Digsite
+1780,Duskfall Island Digsite
+1782,Zangarra Digsite
+1784,PH West Talador Dig Site (disabled)
+1786,Ango'rosh Digsite
+1788,Forgotten Ogre Ruin Digsite
+1790,Ruins of Na'gwa Digsite
+1792,Overgrown Highmaul Road Digsite
+1794,Razed Warsong Outpost Digsite
+1796,Stonecrag Excavation Digsite
+1798,North Spirit Woods Digsite
+1800,Kag'ah Digsite
+1802,Ancestral Grounds Digsite
+1804,Ring of Trials Sludge Digsite
+1806,Howling Plateau Digsite
+1808,Rumbling Plateau Digsite
+1810,Drowning Plateau Digsite
+1812,Burning Plateau Digsite
+1816,Highmaul Watchtower Digsite
+1818,Mar'gok's Overwatch Digsite
+1820,Deadgrin Ruins Digsite
+1822,The Broken Spine Digsite
+1826,Overlook Ruins Digsite
+1828,Wildwood Wash Dam Digsite
+1830,Ruins of the First Bastion Digsite
+1832,Southwind Cliffs Digsite
+1877,Digsite: Whitewater Wash
+1880,Digsite: Aggramar's Vault
+1882,Digsite: Stormdrake Peak
+1884,Digsite: Southern Helmouth Shallows
+1886,Digsite: Northern Helmouth Shallows
+1888,Digsite: Fields of An'she
+1890,Digsite: Screeching Bend
+1892,Digsite: Southern Snowblind Mesa
+1894,Digsite: Bradensbrook
+1896,Digsite: Kal'delar
+1898,Digsite: Lightsong
+1900,Digsite: Andu'talah
+1902,Digsite: Shala'nir
+1904,Digsite: The Crescent Vale
+1906,Digsite: Legion Camp: Chaos
+1908,Digsite: Llothien
+1910,Digsite: Feathermane Hunting Grounds
+1912,Digsite: Moonwhisper Gulch
+1933,Digsite: Gates of Valor
+1935,Digsite: Timeworn Strand
+1937,Digsite: Warden's Bluff
+1939,Digsite: Amberfall Mesa
+1941,Digsite: Storm's Reach
+1943,Digsite: Fallen Kings
+1945,Digsite: Citrine Bay
+1947,Digsite: Cliffpaw Ridge
+1949,Digsite: Skold-Ashil
+1951,Digsite: Prowler's Scratch
+1953,Digsite: Pinerock Basin
+1955,Digsite: The Witchwood
+1957,Digsite: Bloodhunt Highland
+1959,Digsite: The Haglands
+1961,Digsite: Darkfeather Valley
+1963,Digsite: Sky Sepulcher
+1965,Digsite: Northern Snowblind Mesa
+1967,Digsite: Dragon's Falls
+1969,Digsite: Llothien Highlands
+1971,Digsite: Farondale
+1973,Digsite: Rhut'van Passage
+1976,Digsite: Timeworn Strand
+1978,Digsite: Northern Watcher Isle
+1980,Digsite: Southern Watcher Isle
+1982,Digsite: Makrana
+1984,Digsite: Garden of Elune
+1986,Digsite: The Ruined Sanctum
+1988,Digsite: Old Coast Path
+1990,Digsite: Temple of a Thousand Lights
+1992,Digsite: Ruins of Zarkhenar
+1994,Digsite: The Tidal Marsh
+1996,Digsite: Nor'Danil Wellspring
+1998,Digsite: Black Rook Hold
+2000,Digsite: Sundersong Glade
+2002,Digsite: Ashmane's Fall
+2004,Digsite: Southern Wash
+2011,Digsite: Thas'talah
+2013,Digsite: Wretched Hollow
+2017,Digsite: Dreadroot
+2027,Digsite: Eastern Ambervale
+2029,Digsite: Northern Moonfall Retreat
+2031,Digsite: Gates of the City
+2033,Digsite: Meredil
+2035,Digsite: Crimson Thicket
+2037,Digsite: Koralune Fields
+2039,Digsite: Meredil
+2041,Digsite: Felsoul Hold
+2043,Digsite: Southern Suramar
+2045,Digsite: Crimson Thicket
+2047,Digsite: Sundered Shoals
+2049,Digsite: Anora Hollow
+2073,Digsite: Upper Felsoul Hold
+2075,Digsite: Koralune Estate
+2077,Digsite: Highmountain Burial Ground
+2079,Digsite: Path of Huln
+2081,Digsite: Black Rook Courtyard
+2085,Digsite: Gloaming Reef
+2115,Southern Barrens Warfront Phase 1
+2117,Southern Barrens Warfront Phase 2
+2118,Southern Barrens Warfront Phase 3
+2279,Digsite: The Wildwood
+2399,Digsite: Valley View
+2401,Digsite: Brokenbough Roost
+2403,Digsite: Fernwood Ridge
+2405,Digsite: Rockslip Woodlands
+2407,Digsite: Vigil Hill
+2409,Digsite: Placid Springs
+2411,Digsite: Stagheart Cliffs
+2413,Digsite: Deathmist Hills
+2415,Digsite: Gol Koval
+2417,Digsite: Hunter's Run
+2419,Digsite: Brackish Coast
+2421,Digsite: Arom's Crossing
+2423,Digsite: Corlain
+2425,Digsite: Whitegrove Chapel
+2427,Digsite: Crimson Forest
+2429,Digsite: Iceveil Glacier
+2431,Digsite: Seabreeze Shallows
+2433,Digsite: Millstone Hills
+2435,Digsite: Goldfield Farmstead
+2437,Digsite: Roaming Hills
+2439,Digsite: Dire Hills
+2441,Digsite: Drowned Lands
+2443,Digsite: Briny Flats
+2445,Digsite: Windwhisper Summit
+2447,Digsite: Xibala
+2449,Digsite: Tusk Isle
+2451,Digsite: Dreadpearl Shallows
+2453,Digsite: Atal'Gral
+2455,Digsite: Savagelands
+2457,Digsite: Old Merchant Road
+2459,Digsite: Zeb'ahari
+2461,Digsite: The Rivermarsh
+2463,Digsite: Plains of Tojek
+2465,Digsite: Terrace of Sorrows
+2467,Digsite: The Far Reach
+2469,Digsite: Natha'vor
+2471,Digsite: Razorjaw River
+2473,Digsite: Upper Frogmarsh
+2475,Digsite: Xal'vor
+2477,Digsite: Verdant Plateau
+2479,Digsite: Arid Basin
+2481,Digsite: The Eternal Spring
+2483,Digsite: Whistlebloom Oasis
+2485,Digsite: Port of Zem'lan
+2487,Digsite: The Cracked Coast
+2489,Digsite: Court of Zak'rajan
+2491,Digsite: Terrace of the Fang
