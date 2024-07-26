@@ -8,6 +8,10 @@
 
 1. Install Python
 
+Considering that you might encounter issues while setting up the Python environment, I have uploaded an empty python virtual environment. You only need to download venv.zip and extract it to the root directory, as shown below. Then, run the command-line tool in this directory, use the `venv\Scripts\activate` command to activate the python virtual environment, and proceed with the subsequent steps.
+
+![image](https://github.com/user-attachments/assets/31808739-1346-4805-9382-45fd3fac6cbd)
+
 2. `pip install -r requirements.txt`
 
 3. In the `config.py` file change `'target_lang'` to your desired language and `'current_lang_client_dir'` to your wow client folder path
