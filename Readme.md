@@ -10,17 +10,17 @@
 
 2. `pip install -r requirements.txt`
 
-3. In the `config.py` file change `'target_lang'` to your desired language and `'current_lang_client_dir'` to yuor wow client folder path
+3. In the `config.py` file change `'target_lang'` to your desired language and `'current_lang_client_dir'` to your wow client folder path
 
 ```python
 # config.py
 
 settings = {
     'target_lang': 'zhCN',  # Localized language you want
-    
-	'current_lang_client_dir': 'E:/Others/AshenOrder/_Client',
+    ...
 
-...
+    'current_lang_client_dir': 'E:/Others/AshenOrder/_Client',
+    ...
 ```
 
 4. Modify other parameters in the `config.py` file according to your situation. If you don't know what you're doing, just leave them unchanged.
