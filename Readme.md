@@ -17,10 +17,11 @@
 
 settings = {
     'target_lang': 'zhCN',  # Localized language you want
-    ...
+
 
     'current_lang_client_dir': 'E:/Others/AshenOrder/_Client',
     ...
+}
 ```
 
 4. Modify other parameters in the `config.py` file according to your situation. If you don't know what you're doing, just leave them unchanged.
@@ -40,4 +41,4 @@ Other available commands：
 ```
 and see helper.py for more...
 
-## Many of the new contents come from higher version clients. Due to the large amount of data, I have made them available for separate download. You only need to download the language you require, then place it in the Data folder and either overwrite or merge it.
+### Many of the new contents come from higher version clients. Due to the large amount of data, I have made them available for separate download. You only need to download the language you require, then place it in the Data folder and either overwrite or merge it.
